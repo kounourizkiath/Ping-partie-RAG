@@ -1,0 +1,39 @@
+Source: https://www.graylog.org/post/log-management-best-practices
+Scraped: 2025-12-22 21:04:24
+================================================================================
+
+2025 Security Trends That Defined the SOC and What 2026 Will Demand
+2025 exposed a shift that had been forming for years. Security operations were not slowed by limited visibility or weak tooling. They were slowed because the effort required to interpret
+Understanding Ransomware Email Threats
+The Ransomware-as-a-Service (RaaS) ecosystem has changed the look and shape of modern day ransomware attacks. Malicious actors typically view their cybercrimes as a business, hoping to make the most amount
+Understanding the Department of Justice (DOJ) Data Security Program
+On April 8, 2025, the National Security Division (NSD) of the US Justice Department (DOJ) implemented the Data Security Program (DSP). The DSP addresses threats outlined by the 2024 Executive
+How to Use MCP to Optimize Your Graylog Security Detections
+Security teams face a critical question: “What logs should we collect, and what detections should we enable to protect against threats targeting our industry?” For a bank in the northeast,
+Why a People-Centric Security Strategy Improves Resilience
+If Darth Vader and the rest of the Empire made one major strategic mistake, it was failing to understand the important role that the human element plays in security. Convinced
+Calculating a SIEM’s Total Cost of Ownership
+A security information and event management (SIEM) solution aggregates and correlates data from across the organization’s complex, interconnected environment. Modern enterprise IT consists of decentralized users and applications that require
+Understanding How a Log Correlation Engine Enables Real-Time Insights
+Tax season is notoriously most people’s least favorite time of year. For people who complete their own tax returns, the process becomes an agonizing one of looking at small pieces
+Why a Cloud SIEM Just Makes Sense
+The irony of being an adult working in IT and security is that where having your head “in the clouds” was inappropriate as a child, today most of your activities
+MCP ROI in a New Era of AI Orchestrated Threats
+Security leaders spent most of the past year testing AI driven security automation. Many discovered that the promise of fully autonomous SOC operations collided with the reality of hallucinations, opaque
+5 Signs You’ve Outgrown Your Open-Source SIEM
+The evolution of your security stack is similar to the different phases of buying cars. In the beginning, you just need enough to transport a few items, maybe yourself and
+How to Use Data Lakes to Reduce SIEM Costs and Strengthen Investigations
+Most teams think of data lakes as cold storage. A long-term archive. A place to keep logs “just in case” while budgets tighten and ingest volumes rise. Functional, sure. But
+The First Graylog Engineering Hackathon
+As part of the blog series written by the Graylog Development Team, today we want to give you some deeper insights into how we approach Engineering. A great example for
+How to Speed Up Incident Response With Guided Remediation
+Most teams picture incident response as a linear sprint from alert to resolution. A notification appears, an analyst pivots across screens, a decision gets made, and the workflow moves on.
+Graylog Release Updates
+Announcing Graylog Illuminate v7.0.2
+Get the Monthly Tech Blog Roundup
+Subscribe to the latest in log management, security, and all things Graylog blog delivered to your inbox once a month.
+Detection and Response
+Log Management & Analytics
+Security Operations & Analytics
+Get the Monthly Tech Blog Roundup
+Subscribe to the latest in log management, security, and all things Graylog blog delivered to your inbox once a month.

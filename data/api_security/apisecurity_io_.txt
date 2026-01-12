@@ -1,0 +1,55 @@
+Source: https://apisecurity.io/
+Scraped: 2025-12-22 20:55:02
+================================================================================
+
+API Security Articles, News, Vulnerabilities & Best Practices
+API Security Articles
+The Latest API Security News, Vulnerabilities & Best Practices
+APISecurity.io is a community website for all things related to API security. Our daily news and biweekly API Security newsletter cover the latest breaches, vulnerabilities, standards, best practices, regulations, and technology.
+Our developer-friendly
+help you to assess how secure your APIs really are and to remediate all vulnerabilities at design and runtime.
+Subscribe to the API Security newsletter
+By clicking Subscribe you agree to our
+API security news, standards, vulnerabilities, tools.
+WhatsApp API flaw let researchers scrape 3.5 billion accounts
+WhatsApp API flaw let researchers scrape 3.5 billion accounts
+Researchers   compiled   a   list   of   3.5   billion   WhatsApp   mobile   phone   numbers   and   associated   personal   information   by   abusin...
+www.bleepingcomputer.com
+Reply on Twitter 1993364806464606214
+Retweet on Twitter 1993364806464606214
+Like on Twitter 1993364806464606214
+Why APIs and API security-first are critical In The Age Of Ai
+https://smbtech.au/thought-leadership/why-apis-are-australias-hidden-advantage-in-the-age-of-ai/
+Reply on Twitter 1992926632123011256
+Retweet on Twitter 1992926632123011256
+Like on Twitter 1992926632123011256
+Threat Intelligence: Analysis of the NOFX AI Automated Trading Vulnerability
+Threat Intelligence: Analysis of the NOFX AI Automated Trading Vulnerability
+Although the NOFX project has undergone attempted fixes, the core issue remains unresolved.
+Reply on Twitter 1991913504711090224
+Retweet on Twitter 1991913504711090224
+Like on Twitter 1991913504711090224
+The OWASP Business Logic Abuse Top 10 complements and enhances existing OWASP Top 10 projects by providing a cross-domain focus on business logic vulnerabilities that transcend technology stacks
+OWASP Top 10 for Business Logic Abuse | OWASP Foundation
+A very brief, one-line description of your project
+Reply on Twitter 1991112786601267257
+Retweet on Twitter 1991112786601267257
+Like on Twitter 1991112786601267257
+Issue 286: The APISecurity.io Top 5 API Vulnerabilities in 2025
+API Security Newsletter Archive
+Issue 286: The APISecurity.io Top 5 API Vulnerabilities in 2025
+Issue 285: API hack at Avelo Airlines, 3.5 billion leak at WhatsApp, F5 API security survey, AI-generated code risks
+Issue 284: OWASP Top 10 2025, ChatGPTâs API Flaw, BOLA at Mercury Energy NZ, Leaky AI Companies
+Issue 283: AI Security Solutions, Formula 1âs API Flaw, Latest OWASP Authorization Incidents
+Issue 282: Poker Hacks, Credential Leaks, API Injection Threats, and DDoS Risks
+Issue 281: OneLogin leaks secrets, Cloudflare API DoS, Entra ID flaw, OWASP BOPLA bugs
+Issue 280: Solar device ATO attacks, Smart TVs & Dumb APIs, Password-reset & API bugs, 2025 Developer Survey
+Issue 279: Tax records leak, Hacked service robots, Frostbyte at US stores, Layer 7 API attacks
+Issue 278: OWASP API Bugs at Intel, TeaForHer, & McDonaldâs, Optus Breach Fallout, APIs for AI Agents
+Issue 277: Hacking WAFs, AI benefits and risks, AI-ready with OpenAPI, Developers exposed
+Browse the full archive
+APISecurity.io feed on X
+Twitter feed is not available at the moment.
+Apisecurity.io is powered by:
+Have any news to share? Ideas? Questions?
+Copyright 2018-2025 42Crunch Ltd, All Rights Reserved.

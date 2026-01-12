@@ -1,0 +1,41 @@
+Source: https://www.nist.gov/cyberframework
+Scraped: 2025-12-22 20:49:30
+================================================================================
+
+Cybersecurity Framework | NIST
+Official websites use .gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+https://www.nist.gov/cyberframework
+Cybersecurity Framework
+Helping organizations to better understand and improve their management of cybersecurity risk
+For industry, government, and organizations to reduce cybersecurity risks
+For users with specific common goals
+View the Quick Start Guides
+Templates and useful resources for creating and using both CSF profiles
+Informative References (Mappings)
+See how NIST's resources overlap and share themes
+CSF 2.0 Webinar Series: Implementing CSF 2.0—The Why, What, and How
+On December 18, 2025, NIST published three updated NIST IR 8286 publications (
+) to align more closely with the CSF 2.0 and other updated NIST guidelines. The
+helps practitioners understand the critical connection between cybersecurity and Enterprise Risk Management.
+NIST Special Publication (SP) 800-70r5 ipd (Revision 5, initial public draft),
+National Checklist Program for IT Products – Guidelines for Checklist Users and Developers
+is now available for public comment through January 16, 2026, at 11:59 PM. The update includes an appendix with enhanced mapping concepts between checklist settings, NIST Cybersecurity Framework (CSF) 2.0 outcomes, SP 800-53 controls, and Common Configuration Enumeration (CCE) identifiers for evidence-ready automation and reporting.
+Second Public Draft Released for Comment—
+NIST Cybersecurity Framework 2.0: Cybersecurity, Enterprise Risk Management, and Workforce Management Quick-Start Guide
+. The comment period for NIST SP 1308 2pd is open through January 7, 2026, at 11:59 PM (EST). Email comments to:
+(csf[at]nist[dot]gov)
+On November 17, 2025,
+NICE-v2.0.0-to-CSF-v2.0
+CSFv2.0-to-SP-800-53-Rev-5-2-0
+Cyber-Governance-Code-of-Practice-to-CSF-v2.0
+(status: final) were posted to the NIST OLIR (Online Informative References) catalog.
+Seeking comments through
+The NIST Internal Report (IR)
+Cybersecurity Framework Version 2.0 Manufacturing Profile
+. The Profile is structured around the NIST CSF 2.0 Functions: Govern, Identify, Protect, Detect, Respond, and Recover. These Functions form the basis for prioritizing cybersecurity outcomes tailored to the manufacturing sector, enabling manufacturers to align their cybersecurity efforts with business needs, risk tolerance, and available resources.
+See more Latest Updates
+For further information and/or questions about the Cybersecurity Framework
+Was this page helpful?

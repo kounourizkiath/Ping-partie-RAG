@@ -1,0 +1,103 @@
+Source: https://www.hackthebox.com/
+Scraped: 2025-12-22 20:54:30
+================================================================================
+
+Cyber Mastery: Community Inspired. Enterprise Trusted. | Hack The Box
+Build and sustain high-performing cyber teams keeping
+organization protected against real world threats.
+Introducing Threat Range:
+A new live-fire simulation for defensive teams
+HTB Threat Range is a team-based live-fire simulation that test SOC and DFIR under realistic cyber attack scenarios. Sharpen detection and investigation, benchmark performance with real security metrics, and break down silos between teams in a collaborative gameplay.
+incidents are caused by a lack
+of skills or human failure.
+cybersecurity fundamentals
+to advanced scenarios.
+Fully guided journeys into a wide
+specific security job-roles.
+Cutting-edge labs focusing on the
+and attack vectors — released every week!
+Industry Certifications
+Innovative courses and exams that
+ready professional out of you!
+into the fabric and objectives of your organization.
+prepare for any cyber
+High-performing cyber
+teams need to continuously adapt to new threats, benchmark skills, and retain talent.
+programs and retention
+strategies fighting burnout, fatigue, or skill gaps.
+teams and prepare for any cyber incident.
+Onboarding & retention
+onboarding cybersecurity
+Intelligence: Gary's story
+Intelligence: Gary's story
+cybersecurity domains.
+Test and grow your skills in all penetration testing and adversarial domains,
+gathering to documentation and reporting.
+Industry-recognized certifications
+Hands-on penetration testing labs
+Corporate red team scenarios
+MITRE ATT&CK framework mapping
+Stay connected to the threat landscape and learn how to detect techniques, tactics, and procedures used by real adversaries.
+Market-connected courses
+Hands-on investigation labs
+Gamified blue team assessments
+NIST/NICE framework mapping
+Master offensive strategies to enable effective defensive operations. For modern, 360° cyber professionals and organizations.
+CVE-based vulnerable labs
+Realistic enterprise scenarios
+Real-time attack/defense simulation
+Extensive mapping and reporting
+cybersecurity domains.
+Test and grow your skills in all penetration testing and
+domains, from information
+documentation and reporting.
+Industry-recognized certifications
+Hands-on penetration testing labs
+Corporate red team scenarios
+MITRE ATT&CK framework mapping
+Stay connected to the threat landscape and learn how to
+tactics, and procedures
+used by real adversaries.
+Market-connected courses
+Hands-on investigation labs
+Gamified blue team assessments
+NIST/NICE framework mapping
+Master offensive strategies to enable effective defensive
+modern, 360° cyber professionals
+CVE-based vulnerable labs
+Real-time attack & defense simulation
+Realistic enterprise scenarios
+Extensive mapping and reporting
+Chat about labs, share resources and
+200k+ hackers from all over the world.
+Trusted by organizations.
+Since we introduced Hack The Box, the team can now quickly learn the theoretical and practical sides of penetration testing with very in-depth and up-to-date materials. To spice up the learning, we have a "Hacker of the Month" where we recognize the most progressive employee in our lab environment.
+Information Security Analyst, PUMA SE
+Hack The Box has been an invaluable resource in developing and training our team. The content is extremely engaging through the gamified approach and the pace at which new and high quality content is updated ensures our team's skills are always sharp. The labs offer a breadth of technical challenge and variety, unparalleled anywhere else in the market.
+Lead Security Consultant, Context
+Hack The Box has been great for recruitment to quickly establish the caliber of ethical hacking candidates . The platform provides a credible overview of a professional's skills and ability when selecting the right hire. An active HTB profile strengthens a candidate's position in the job market, making them stand out from the crowd and highlighting their commitment to skill development.
+UK Team Lead, Adeptis
+My team and I used Professional Labs from Hack The Box to get used to the new trends of the Red Team concept. After a lot of positive frustration, dedication, and self-study we managed to finish the challenge and leave with much more knowledge than we had before. I strongly recommend this service to teams composed of dedicated persons, who love the technical aspects of penetration testing and also enjoy assisted self-study.
+Lead Penetration Tester, SIEMENS
+Our offensive security team was looking for a real-world training platform to test advanced attack tactics. We couldn't be happier with the Professional Labs environment. The lab was fully dedicated, so we didn't share the environment with others. The HTB support team has been excellent to make the training fit our needs.
+Head of Offensive Security, NortonLifeLock
+The best defense is a good offensive mindset. Hack The Box has enabled our security engineers a deeper understanding on how adversaries work in a real world environment. I provided a learn-at-your-own-pace training experience for my team and track progress towards agreed upon goals. Their knowledge of exploitation, privilege escalation, and system enumeration has grown exponentially since purchasing HTB.
+Information Security Professional, Amedisys
+As defenders, it would be a great mistake to think that offensive knowledge is not a must-have in our skillset. HTB Academy helps our team gain that knowledge at their own pace, by providing quality and easy-to-follow content. From the curious software engineer to our best analysts, custom learning paths allow us to build the best experience for every kind of security enthusiast.
+L3 SOC Analyst, Dassault Systemes
+Deployment of boxes on the Hack The Box Enterprise Platform is as easy as pressing a button and within one minute, the box is available. By making use of the Enterprise platform and Hack The Box Academy, we have been able to onboard new joiners more efficiently and promote internal mobility for our security assessments team.
+Red Team Cybersecurity Consultant at NVISO
+Your SOC vs. Reality: Why attackers are winning (and how Threat Range levels the battlefield)
+Eek, a GodRAT: A step-by-step breakdown of a financial sector attack
+How to turn exposure data into real-world cyber readiness: 7 key takeaways from our webinar
+Get a full demo with our team
+Fill the form to schedule a live product demo and Q&A about our cyber readiness solutions.
+This site is protected by reCAPTCHA and the Google
+The #1 platform to build attack-ready teams and organizations
+Maximum curriculum management flexibility, enhanced skills reporting, and engaging
+features. Book a demo to see Hack The Box in action.
+Unmatched content library
+Workforce development plans
+Centralized user management
+Advanced analytics & reporting
+Source, hire, and retain talent

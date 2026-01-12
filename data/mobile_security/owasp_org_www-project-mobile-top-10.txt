@@ -1,0 +1,110 @@
+Source: https://owasp.org/www-project-mobile-top-10/
+Scraped: 2025-12-22 20:55:18
+================================================================================
+
+Mobile Top 10 2024: Final Release Updates
+The new Mobile Top 10 list for 2024 is out now.
+We would love to see you participate and contribute to the research we are doing.
+Join the SLACK Channel
+If you face any issues joining us on Slack, please feel free to reach out to Project Leads.
+Join us on the Slack channel for contributions!!
+More updates to follow soon…
+Below is the OWASP Mobile Top-10 2024 Release
+Top 10 Mobile Risks - Final release 2024
+M1: Improper Credential Usage
+M2: Inadequate Supply Chain Security
+M3: Insecure Authentication/Authorization
+M4: Insufficient Input/Output Validation
+M5: Insecure Communication
+M6: Inadequate Privacy Controls
+M7: Insufficient Binary Protections
+M8: Security Misconfiguration
+M9: Insecure Data Storage
+M10: Insufficient Cryptography
+Comparison between 2016 and 2024
+Vulnerabilities that didn’t make the place on the initial release list, but in the future, we may consider them.
+Insecure Access Control
+Path Overwrite and Path Traversal
+Unprotected Endpoints (Deeplink, Activity, Service …)
+Top 10 Mobile Risks - Final List 2016
+M1: Improper Platform Usage
+M2: Insecure Data Storage
+M3: Insecure Communication
+M4: Insecure Authentication
+M5: Insufficient Cryptography
+M6: Insecure Authorization
+M7: Client Code Quality
+M9: Reverse Engineering
+M10: Extraneous Functionality
+Top 10 Mobile Risks - Final List 2014
+M1: Weak Server Side Controls
+M2: Insecure Data Storage
+M3: Insufficient Transport Layer Protection
+M4: Unintended Data Leakage
+M5: Poor Authorization and Authentication
+M6: Broken Cryptography
+M7: Client Side Injection
+M8: Security Decisions Via Untrusted Inputs
+M9: Improper Session Handling
+M10: Lack of Binary Protections
+This page is a work in progress. If we have omitted you, or incorrectly affiliated you, please contact us right away.
+Mohammed Junaid Tariq
+Jason Haddix - HP Fortify
+Daniel Miessler - HP Fortify
+Jonathan Carter - Arxan Technologies
+Chad Butler - Concur Technologies
+Jonathan Carter - Arxan Technologies
+Ron Gutierrez - Gotham Digital Science
+Jason Haddix - HP Fortify
+Daniel Miessler - HP Fortify
+Andrew Pannell - Pentest Limited
+Rahil Parikh - Gotham Digital Science
+Andreas Athanasoulias & Syntax IT
+Hemil Shah and eSphere Security
+Godfrey Nolan and RIIS (Research Into Internet Systems)
+IBM X-Force Threat Intelligence
+The 2015 data sets are stored at the below link:
+https://www.dropbox.com/sh/ts32chiqnglqvy4/AADVrJCV96xTsm_sxKILxF0La?dl=0
+Key observations and trends from the data can be found in here:
+OWASP Mobile Top 10 Methodology
+This methodology report outlines the process we follow to update the OWASP Mobile Top 10 list of application security vulnerabilities using a data-based approach and unbiased sources.
+To achieve this, we collect data from various sources such as incident reports, vulnerability databases, and security assessments, analyze the data, evaluate the sources for reliability and consistency, prioritize the vulnerabilities based on their impact and likelihood of occurrence, validate the results through consultation with experts and stakeholders, and create the final OWASP Top 10 list.
+This report highlights the importance of following a comprehensive and unbiased approach to ensure the list reflects the most common and impactful mobile application security vulnerabilities, which can be used as a reference to improve the security of mobile applications.
+| Author             |      Date      |     Update    |
+| :—————-  |    :——:    |     —–:    |
+| Alaeddine Mesbahi  |  July 26, 2023  |  Initial Release  |
+| Kunwar Atul        |  July 26, 2023  |    Initial Release     |
+| Mohamed Benchikh   |  July 26, 2023  |    Initial Release     |
+| Mohammed Junaid Tariq   |  July 26, 2023  |    Initial Release     |
+| Steffen Lortz   |  July 26, 2023  |    Initial Release     |
+| Milan Singh Thakur |  Aug 02, 2023  |    Final Review     |
+To update the OWASP Top 10, we start by collecting data on the most common and impactful mobile application security vulnerabilities. We gather information from various sources such as incident reports, vulnerability databases, and security assessments. It’s essential to collect data from diverse sources to ensure that the data is comprehensive and unbiased. Some of the sources that can be used to collect data include:
+Incident reports from companies, organizations, and government agencies
+Vulnerability reports from security vendors and researchers
+Publicly available datasets on mobile application security vulnerabilities
+Surveys of security professionals or application developers
+Once we have collected the data, the next step is to analyze it. We categorize the vulnerabilities, identify trends, and determine the severity of their impact. To analyze the data, we use statistical methods, data visualization, and machine learning algorithms. Some of the metrics that can be used to analyze the data include:
+Frequency of occurrence
+Complexity of exploitation
+Prevalence in specific industries or regions
+To ensure an unbiased approach, it’s important to evaluate the sources of the data used in the analysis. We evaluate the sources for reliability, consistency, and relevance by:
+Checking the credibility and reputation of the sources
+Evaluating the quality of the data
+Verifying the data with multiple sources
+Checking for potential biases in the data
+Once we have analyzed the data, we prioritize the vulnerabilities based on their impact and likelihood of occurrence. This involves assigning a risk score to each vulnerability based on the following factors:
+Likelihood of occurrence
+Difficulty of remediation
+Prevalence in specific industries or regions
+To validate the results, we consult with experts in the field, review existing research and literature, and gather feedback from stakeholders. This can be done through surveys, focus groups, or interviews. Some of the questions we can ask to validate the results include:
+Are the vulnerabilities identified in the list consistent with real-world incidents?
+Do the vulnerabilities pose a significant threat to mobile applications?
+Are there any vulnerabilities that are missing from the list?
+Is the prioritization of the vulnerabilities appropriate?
+Based on the analysis, prioritization, and validation, we create the final OWASP Top 10 list. The list includes the most impactful and prevalent mobile application security vulnerabilities, along with information on how to detect and mitigate them. The OWASP Top 10 list can be used as a reference for application developers, security professionals, and auditors to improve the security of their mobile applications.
+| Category          | Date          | Description                                                                                   |
+|——————-|—————|———————————————————————————————–|
+| Data Collection   | Apr 12, 2023  | Collection of vulnerabilities metrics from Public reports on HackerOne, Ostorlab and CVEs.    |
+| Alpha Release     | Jun 8, 2023   | Alpha version of the OWASP Mobile Top 10 pending feedback and comments.                       |
+| Beta Release      | Jul 2, 2023   | Beta version of the OWASP Mobile Top 10 pending final comments.                               |
+| Initial Release   | Aug 2, 2023   | Official initial release of the OWASP Mobile Top 10.                                          |

@@ -1,0 +1,260 @@
+Source: https://krebsonsecurity.com/
+Scraped: 2025-12-22 20:50:51
+================================================================================
+
+Krebs on Security – In-depth security news and investigation
+The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.
+President Trump has repeatedly claimed that a primary reason he lost the 2020 election was that social media and Big Tech companies had conspired to silence conservative voices and stifle free speech. Naturally, the president’s impulse in his second term has been to use the levers of the federal government in an effort to limit the speech of everyday Americans, as well as foreigners wishing to visit the United States.
+In September, Donald Trump signed a national security directive known as
+, which directs federal law enforcement officers and intelligence analysts to target “anti-American” activity, including any “tax crimes” involving extremist groups who defrauded the IRS. According to
+, the focus of the order is on those expressing “opposition to law and immigration enforcement; extreme views in favor of mass migration and open borders; adherence to radical gender ideology,” as well as “anti-Americanism,” “anti-capitalism,” and “anti-Christianity.”
+Attorney General Pam Bondi
+advising the FBI to compile a list of Americans whose activities “may constitute domestic terrorism.” Bondi also ordered the FBI to establish a “
+” to encourage the public to report suspected domestic terrorist activity. The memo states that domestic terrorism could include “opposition to law and immigration enforcement” or support for “radical gender ideology.”
+The Trump administration also is planning to
+impose social media restrictions
+on tourists as the president continues to ramp up travel restrictions for foreign visitors. According to
+U.S. Customs and Border Protection
+(CBP), tourists — including those from Britain, Australia, France, and Japan — will soon be required to provide five years of their social media history.
+The CBP said it will also collect “several high value data fields,” including applicants’ email addresses from the past 10 years, their telephone numbers used in the past five years, and names and details of family members. Wired
+in October that the US CBP executed more device searches at the border in the first three months of the year than any other previous quarter.
+The new requirements from CBP add meat to the bones of
+Executive Order 14161
+, which in the name of combating “foreign terrorist and public safety threats” granted broad new authority that civil rights groups warn could enable a renewed travel ban and expanded visa denials or deportations based on perceived ideology. Critics alleged the order’s vague language around “public safety threats,” creates latitude for targeting individuals based on political views, national origin, or religion. At least 35 nations are now
+under some form of U.S. travel restrictions
+executive branch agencies to stop enforcing the
+U.S. Foreign Corrupt Practices Act
+, which froze foreign bribery investigations, and even allows for “remedial actions” of past enforcement actions deemed “inappropriate.”
+The White House also disbanded the
+Kleptocracy Asset Recovery Initiative
+KleptoCapture Task Force
+— units which proved their value in corruption cases and in seizing the assets of sanctioned Russian oligarchs — and diverted resources away from investigating white-collar crime.
+Also in February, Attorney General Pam Bondi
+Foreign Influence Task Force
+, an entity created during Trump’s first term designed to counter the influence of foreign governments on American politics.
+In March 2025, Reuters
+that several U.S. national security agencies had halted work on a coordinated effort to counter Russian sabotage, disinformation and cyberattacks. Former President Joe Biden had ordered his national security team to establish working groups to monitor the issue amid warnings from U.S. intelligence that Russia was escalating a shadow war against Western nations.
+In a test of prosecutorial independence, Trump’s Justice Department ordered prosecutors to drop the corruption case against New York Mayor
+. The fallout was immediate: Multiple senior officials resigned in protest, the case was reassigned, and chaos engulfed the Southern District of New York (SDNY) – historically one of the nation’s most aggressive offices for pursuing public corruption, white-collar crime, and cybercrime cases.
+When it comes to cryptocurrency, the administration has shifted regulators at the
+U.S. Securities and Exchange Commission
+(SEC) away from enforcement to cheerleading an industry that has consistently been plagued by scams, fraud and rug-pulls. The SEC in 2025 systematically retreated from enforcement against cryptocurrency operators, dropping major cases against
+Perhaps the most troubling example involves
+, the Chinese-born founder of crypto currency company
+. In 2023, the SEC charged Sun with fraud and market manipulation. Sun subsequently invested $75 million in the Trump family’s
+World Liberty Financial
+(WLF) tokens, became the top holder of the $TRUMP memecoin, and secured a seat at an exclusive dinner with the president.
+In late February 2025, the SEC dropped its lawsuit. Sun promptly took Tron public through a reverse merger arranged by Dominari Securities, a firm with Trump family ties. Democratic lawmakers have urged the SEC to investigate what they call “concerning ties to President Trump and his family” as potential conflicts of interest and foreign influence.
+In October, President Trump pardoned
+, the founder of the world’s largest cryptocurrency exchange
+. In 2023, Zhao and his company pled guilty to failing to prevent money laundering on the platform. Binance paid a $4 billion fine, and Zhao served a four-month sentence. As
+observed last month, shortly after Zhao’s pardon application, he was at the center of a blockbuster deal that put the Trump’s family’s WLF on the map.
+“Zhao is a citizen of the United Arab Emirates in the Persian Gulf and in May, an Emirati fund put $2 billion in Zhao’s Binance,” 60 Minutes
+. “Of all the currencies in the world, the deal was done in World Liberty crypto.”
+has made the agency’s new posture towards crypto explicit, stating “most crypto tokens are not securities.” At the same time, President Trump has directed the
+to expand 401(k) access to private equity and crypto
+— assets that regulators have historically restricted for retail investors due to high risk, fees, opacity, and illiquidity. The executive order explicitly prioritizes “curbing ERISA litigation,” and reducing accountability for fiduciaries while shifting risk onto ordinary workers’ retirement savings.
+At the White House’s behest, the U.S. Treasury in March
+Corporate Transparency Act
+, a law that required companies to reveal their real owners. Finance experts warned the suspension would bring back shell companies and “
+open the flood gates of dirty money
+” through the US, such as funds from drug gangs, human traffickers, and fraud groups.
+Trump’s clemency decisions have created a pattern of freed criminals committing new offenses, including
+, whose sentence for drug trafficking was commuted during Trump’s first term, was found guilty in 2025 of violating supervised release and faces new charges.
+, who received a commutation in January 2021 for running a Ponzi scheme, was sentenced in November 2025 to 37 years for running a new Ponzi scheme. The administration has also granted clemency to a growing list of white-collar criminals:
+, a private equity executive sentenced to seven years for securities and wire fraud (functionally a ponzi-like scheme), and
+, the Nikola founder sentenced to four years for defrauding investors over electric vehicle technology. The message: Financial crimes against ordinary investors are no big deal.
+At least 10 of the January 6 insurrectionists pardoned by President Trump
+have already been rearrested, charged or sentenced for other crimes
+, including plotting the murder of FBI agents, child sexual assault, possession of child sexual abuse material and reckless homicide while driving drunk.
+The administration also
+International Criminal Court
+(ICC). On February 6, 2025, Executive Order 14203 authorized asset freezes and visa restrictions against ICC officials investigating U.S. citizens or allies, primarily in response to the ICC’s arrest warrants for Israeli Prime Minister Benjamin Netanyahu over alleged war crimes in Gaza.
+Earlier this month the president launched the “
+,” a visa scheme established by an executive order in September that offers wealthy individuals and corporations expedited paths to U.S. residency and citizenship
+in exchange for $1 million for individuals and $2 million for companies
+, plus ongoing fees. The administration says it is also planning to offer a “platinum” version of the card that offers special tax breaks — for a cool $5 million.
+Direct navigation — the act of visiting a website by manually typing a domain name in a web browser — has never been riskier: A new study finds the vast majority of “parked” domains — mostly expired or dormant domain names, or common misspellings of popular websites — are now configured to redirect visitors to sites that foist scams and malware.
+When Internet users try to visit expired domain names or accidentally navigate to a lookalike “typosquatting” domain, they are typically brought to a placeholder page at a domain parking company that tries to monetize the wayward traffic by displaying links to a number of third-party websites that have paid to have their links shown.
+A decade ago, ending up at one of these parked domains came with a relatively small chance of being redirected to a malicious destination: In 2014, researchers
+(PDF) that parked domains redirected users to malicious sites less than five percent of the time — regardless of whether the visitor clicked on any links at the parked page.
+But in a series of experiments over the past few months, researchers at the security firm
+say they discovered the situation is now reversed, and that malicious content is by far the norm now for parked websites.
+“In large scale experiments, we found that over 90% of the time, visitors to a parked domain would be directed to illegal content, scams, scareware and anti-virus software subscriptions, or malware, as the ‘click’ was sold from the parking company to advertisers, who often resold that traffic to yet another party,” Infoblox researchers wrote in
+a paper published today
+Infoblox found parked websites are benign if the visitor arrives at the site using a virtual private network (VPN), or else via a non-residential Internet address. For example,
+customers who accidentally mistype the domain as
+will see a normal parking page if they’re using a VPN, but will be redirected to a site that tries to foist scams, malware or other unwanted content if coming from a residential IP address. Again, this redirect happens just by visiting the misspelled domain with a mobile device or desktop computer that is using a residential IP address.
+According to Infoblox, the person or entity that owns scotaibank[.]com has a portfolio of nearly 3,000 lookalike domains, including
+, which demonstrably has been configured with its own mail server for accepting incoming email messages. Meaning, if you send an email to a Gmail user and accidentally omit the “l” from “gmail.com,” that missive doesn’t just disappear into the ether or produce a bounce reply: It goes straight to these scammers. The report notices this domain also has been leveraged in multiple recent business email compromise campaigns, using a lure indicating a failed payment with trojan malware attached.
+Infoblox found this particular domain holder (betrayed by a common DNS server — torresdns[.]com) has set up typosquatting domains targeting dozens of top Internet destinations, including
+. A defanged list of these typosquatting domains is
+(the dots in the listed domains have been replaced with commas).
+today pushed updates to fix at least 56 security flaws in its
+operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.
+Despite releasing a lower-than-normal number of security updates these past few months, Microsoft patched a whopping 1,129 vulnerabilities in 2025, an 11.9% increase from 2024. According to
+, this year marks the second consecutive year that Microsoft patched over one thousand vulnerabilities, and the third time it has done so since its inception.
+The zero-day flaw patched today is
+, a privilege escalation vulnerability affecting
+and later editions. The weakness resides in a component called the “
+Windows Cloud Files Mini Filter Driver
+” — a system driver that enables cloud applications to access file system functionalities.
+“This is particularly concerning, as the mini filter is integral to services like OneDrive, Google Drive, and iCloud, and remains a core Windows component, even if none of those apps were installed,” said
+, lead software engineer at
+Only three of the flaws patched today earned Microsoft’s most-dire “critical” rating: Both
+, and both can exploited merely by viewing a booby-trapped email message in the Preview Pane. Another critical bug —
+, although Redmond says the Preview Pane is not an attack vector with this one.
+A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine.
+The Nerdify homepage.
+The link between essay mills and Russian attack drones might seem improbable, but understanding it begins with a simple question: How does a human-intensive academic cheating service stay relevant in an era when students can simply ask AI to write their term papers? The answer – recasting the business as an AI company – is just the latest chapter in a story of many rebrands that link the operation to Russia’s largest private university.
+Search in Google for any terms related to academic cheating services — e.g., “help with exam online” or “term paper online” — and you’re likely to encounter websites with the words “nerd” or “geek” in them, such as
+. With a simple request sent via text message, you can hire their tutors to help with any assignment.
+These nerdy and geeky-branded websites frequently cite their “honor code,” which emphasizes they do not condone academic cheating, will not write your term papers for you, and will only offer support and advice for customers. But according to
+, a Substack blog about contract cheating and essay mills, the Nerdify brand of websites will happily ignore that mantra.
+“We tested the quick SMS for a price quote,” wrote This Isn’t Fine author
+. “The honor code references and platitudes apparently stop at the website. Within three minutes, we confirmed that a full three-page, plagiarism- and AI-free MLA formatted Argumentative essay could be ours for the low price of $141.”
+A screenshot from Joseph Thibault’s Substack post shows him purchasing a 3-page paper with the Nerdify service.
+Google prohibits ads that “enable dishonest behavior.” Yet, a sprawling global essay and homework cheating network run under the Nerdy brands has quietly bought its way to the top of Google searches – booking revenues of almost $25 million through a maze of companies in Cyprus, Malta and Hong Kong, while pitching “tutoring” that delivers finished work that students can turn in.
+When one Nerdy-related Google Ads account got shut down, the group behind the company would form a new entity with a front-person (typically a young Ukrainian woman), start a new ads account along with a new website and domain name (usually with “nerdy” in the brand), and resume running Google ads for the same set of keywords.
+UK companies belonging to the group that have been shut down by Google Ads since Jan 2025 include:
+Proglobal Solutions LTD
+(advertised nerdifyit[.]com);
+(advertised thenerdify[.]com);
+(advertised geekly-hub[.]com).
+Currently active Google Ads accounts for the Nerdify brands include:
+(advertising geekly-hub[.]net⁩), formed in the name of
+, a young Ukrainian woman;
+Two Sigma Solutions LTD
+(advertising litero[.]ai), formed in the name of
+Olekszij (Alexey) Pokatilo
+Google’s Ads Transparency page for current Nerdify advertiser OK Marketing LTD.
+Mr. Pokatilo has been in the essay-writing business since at least 2009, operating a paper-mill enterprise called Livingston Research alongside
+, who is listed as an owner. According to
+a lengthy account from a former employee
+, Livingston Research mainly farmed its writing tasks out to low-cost workers from Kenya, Philippines, Pakistan, Russia and Ukraine.
+Pokatilo moved from Ukraine to the United Kingdom in Sept. 2015 and co-founded a company called
+, which pitched itself as a way for people to outsource tasks by sending a text message to the service’s assistants.
+The other co-founder of Awesome Technologies is 36-year-old
+, a Swedish man living in London who touts himself as a serial entrepreneur and investor. Years before starting Awesome together, Perkon and Pokatilo co-founded a student group called
+Russian Business Week
+while the two were classmates at the London School of Economics. According to the Bulgarian investigative journalist
+, Perkon’s birth certificate was issued by the Soviet Embassy in Sweden.
+Alexey Pokatilo (left) and Filip Perkon at a Facebook event for startups in San Francisco in mid-2015.
+Around the time Perkon and Pokatilo launched Awesome Technologies, Perkon was building a social media propaganda tool called the
+Russian Diplomatic Online Club
+, which Perkon said would “turbo-charge” Russian messaging online. The club’s newsletter urged subscribers
+to install in their Twitter accounts a third-party app called Tweetsquad
+that would retweet Kremlin messaging on the social media platform.
+Perkon was praised by the Russian Embassy in London for his efforts: D
+uring the contentious Brexit vote that ultimately led to the United Kingdom leaving the European Union, the Russian embassy in London used this spam tweeting tool
+to auto-retweet the Russian ambassador’s posts from supporters’ accounts
+Neither Mr. Perkon nor Mr. Pokatilo replied to requests for comment.
+China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.
+Over the past week, thousands of domain names were registered for scam websites that purport to offer
+customers the opportunity to claim a large number of rewards points. The phishing domains are being promoted by scam messages sent via Apple’s iMessage service or the functionally equivalent RCS messaging service built into Google phones.
+An instant message spoofing T-Mobile says the recipient is eligible to claim thousands of rewards points.
+The website scanning service
+thousands of these phishing domains have been deployed in just the past few days alone. The phishing websites will only load if the recipient visits with a mobile device, and they ask for the visitor’s name, address, phone number and payment card data to claim the points.
+A phishing website registered this week that spoofs T-Mobile.
+If card data is submitted, the site will then prompt the user to share a one-time code sent via SMS by their financial institution. In reality, the bank is sending the code because the fraudsters have just attempted to enroll the victim’s phished card details in a mobile wallet from Apple or Google. If the victim also provides that one-time code, the phishers can then
+link the victim’s card to a mobile device that they physically control
+A prolific cybercriminal group that calls itself “
+Scattered LAPSUS$ Hunters
+” has dominated headlines this year by regularly stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for “Rey,” the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.
+Scattered LAPSUS$ Hunters (SLSH) is thought to be an amalgamation of three hacking groups —
+. Members of these gangs hail from many of the same chat channels on the
+, a mostly English-language cybercriminal community that operates across an ocean of Telegram and Discord servers.
+In May 2025, SLSH members launched
+a social engineering campaign
+that used voice phishing to trick targets into connecting a malicious app to their organization’s Salesforce portal. The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including
+The new extortion website tied to ShinyHunters, which threatens to publish stolen data unless Salesforce or individual victim companies agree to pay a ransom.
+Last week, the SLSH Telegram channel featured an offer to recruit and reward “insiders,” employees at large companies who agree to share internal access to their employer’s network for a share of whatever ransom payment is ultimately paid by the victim company.
+SLSH has solicited insider access previously, but their latest call for disgruntled employees started making the rounds on social media at the same time news broke that the cybersecurity firm
+had fired an employee for
+allegedly sharing screenshots of internal systems
+with the hacker group (Crowdstrike said their systems were never compromised and that it has turned the matter over to law enforcement agencies).
+The Telegram server for the Scattered LAPSUS$ Hunters has been attempting to recruit insiders at large companies.
+Members of SLSH have traditionally used other ransomware gangs’ encryptors in attacks, including malware from ransomware affiliate programs like ALPHV/BlackCat, Qilin, RansomHub, and DragonForce. But last week, SLSH announced on its Telegram channel
+the release of their own ransomware-as-a-service operation
+The individual responsible for releasing the ShinySp1d3r ransomware offering is a core SLSH member who goes by the handle “Rey” and who is currently one of just three administrators of the SLSH Telegram channel. Previously, Rey was an
+of the data leak website for
+, a ransomware group that surfaced in late 2024 and was involved in attacks on companies including
+A recent, slightly redacted screenshot of the Scattered LAPSUS$ Hunters Telegram channel description, showing Rey as one of three administrators.
+Also in 2024, Rey would take over as administrator of the
+most recent incarnation of BreachForums
+, an English-language cybercrime forum whose domain names have been seized on multiple occasions by the FBI and/or by international authorities. In April 2025, Rey
+about another FBI seizure of BreachForums.
+On October 5, 2025, the FBI
+it had once again seized the domains associated with BreachForums, which it described as a major criminal marketplace used by ShinyHunters and others to traffic in stolen data and facilitate extortion.
+“This takedown removes access to a key hub used by these actors to monetize intrusions, recruit collaborators, and target victims across multiple sectors,” the FBI said.
+Incredibly, Rey would make a series of critical operational security mistakes last year that provided multiple avenues to ascertain and confirm his real-life identity and location. Read on to learn how it all unraveled for Rey.
+media streaming devices for sale at retailers like
+may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like
+, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user’s network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.
+Superbox media streaming boxes for sale on Walmart.com.
+Superbox bills itself as an affordable way for households to stream all of the television and movie content they could possibly want, without the hassle of monthly subscription fees — for a one-time payment of nearly $400.
+“Tired of confusing cable bills and hidden fees?,” Superbox’s website asks in a recent blog post titled, “Cheap Cable TV for Low Income: Watch TV, No Monthly Bills.”
+“Real cheap cable TV for low income solutions does exist,” the blog continues. “This guide breaks down the best alternatives to stop overpaying, from free over-the-air options to one-time purchase devices that eliminate monthly bills.”
+Superbox claims that watching a stream of movies, TV shows, and sporting events won’t violate U.S. copyright law.
+“SuperBox is just like any other Android TV box on the market, we can not control what software customers will use,” the company’s website maintains. “And you won’t encounter a law issue unless uploading, downloading, or broadcasting content to a large group.”
+A blog post from the Superbox website.
+There is nothing illegal about the sale or use of the Superbox itself, which can be used strictly as a way to stream content at providers where users already have a paid subscription. But that is not why people are shelling out $400 for these machines. The only way to watch those 2,200+ channels for free with a Superbox is to install several apps made for the device that enable them to stream this content.
+Superbox’s homepage includes a prominent message stating the company does “not sell access to or preinstall any apps that bypass paywalls or provide access to unauthorized content.” The company explains that they merely provide the hardware, while customers choose which apps to install.
+“We only sell the hardware device,” the notice states. “Customers must use official apps and licensed services; unauthorized use may violate copyright law.”
+Superbox is technically correct here, except for maybe the part about how customers must use official apps and licensed services: Before the Superbox can stream those thousands of channels, users must configure the device to update itself, and the first step involves ripping out Google’s official Play store and replacing it with something called the “App Store” or “Blue TV Store.”
+Superbox does this because the device does not use the official Google-certified Android TV system, and its apps will not load otherwise. Only after the Google Play store has been supplanted by this unofficial App Store do the various movie and video streaming apps that are built specifically for the Superbox appear available for download (again, outside of Google’s app ecosystem).
+Experts say while these Android streaming boxes generally do what they advertise — enabling buyers to stream video content that would normally require a paid subscription — the apps that enable the streaming also ensnare the user’s Internet connection in a distributed residential proxy network that uses the devices to relay traffic from others.
+is a senior solutions engineer at
+, a cyber intelligence company that indexes Internet-connected devices, services and hosts. Ashley requested that only her first name be used in this story.
+In a recent video interview, Ashley showed off several Superbox models that Censys was studying in the malware lab — including one purchased off the shelf at BestBuy.
+“I’m sure a lot of people are thinking, ‘Hey, how bad could it be if it’s for sale at the big box stores?'” she said. “But the more I looked, things got weirder and weirder.”
+Ashley said she found the Superbox devices immediately contacted a server at the Chinese instant messaging service
+, as well as a residential proxy service called
+Also known as getgrass[.]io, Grass says it is “a decentralized network that allows users to earn rewards by sharing their unused Internet bandwidth with AI labs and other companies.”
+“Buyers seek unused internet bandwidth to access a more diverse range of IP addresses, which enables them to see certain websites from a retail perspective,” the Grass website explains. “By utilizing your unused internet bandwidth, they can conduct market research, or perform tasks like web scraping to train AI.”
+Reached via Twitter/X, Grass founder
+told KrebsOnSecurity he’d never heard of a Superbox, and that Grass has no affiliation with the device maker.
+“It looks like these boxes are distributing an unethical proxy network which people are using to try to take advantage of Grass,” Radonjic said. “The point of grass is to be an opt-in network. You download the grass app to monetize your unused bandwidth. There are tons of sketchy SDKs out there that hijack people’s bandwidth to help webscraping companies.”
+Radonjic said Grass has implemented “a robust system to identify network abusers,” and that if it discovers anyone trying to misuse or circumvent its terms of service, the company takes steps to stop it and prevent those users from earning points or rewards.
+Superbox’s parent company,
+Super Media Technology Company Ltd.
+, lists its street address as a UPS store in Fountain Valley, Calif. The company did not respond to multiple inquiries.
+this teardown by behindmlm.com
+, a blog that covers multi-level marketing (MLM) schemes, Grass’s compensation plan is built around “grass points,” which are earned through the use of the Grass app and through app usage by recruited affiliates. Affiliates can earn 5,000 grass points for clocking 100 hours usage of Grass’s app, but they must progress through ten affiliate tiers or ranks before they can redeem their grass points (presumably for some type of cryptocurrency). The 10th or “Titan” tier requires affiliates
+to accumulate a whopping 50 million grass points, or recruit at least 221 more affiliates
+Radonjic said Grass’s system has changed in recent months, and confirmed the company has a referral program where users can earn Grass Uptime Points by contributing their own bandwidth and/or by inviting other users to participate.
+“Users are not required to participate in the referral program to earn Grass Uptime Points or to receive Grass Tokens,” Radonjic said. “Grass is in the process of phasing out the referral program and has introduced an updated Grass Points model.”
+A review of the Terms and Conditions page for getgrass[.]io at the Wayback Machine shows Grass’s parent company has changed names at least five times in the course of its two-year existence. Searching the Wayback Machine on getgrass[.]io shows that in June 2023 Grass was owned by a company called
+. By March 2024, the owner was listed as
+in the Bahamas. By August 2024, Grass was controlled by a
+Half Space Labs Limited
+, and in November 2024 the company was owned by
+. Currently, the Grass website says its parent is just
+(no BVI in the name).
+Radonjic acknowledged that Grass has undergone “a handful of corporate clean-ups over the last couple of years,” but described them as administrative changes that had no operational impact. “These reflect normal early-stage restructuring as the project moved from initial development…into the current structure under the Grass Foundation,” he said.
+said it was winding down its collaboration with
+— an identity protection service offered with the
+web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed Onerep’s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced its partnership with Onerep will officially end next month.
+Mozilla Monitor. Image Mozilla Monitor Plus video on Youtube.
+published Tuesday, Mozilla said it will soon discontinue
+, which offered data broker site scans and automated personal data removal from Onerep.
+“We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advisory reads.
+Mozilla said current Monitor Plus subscribers will retain full access through the wind-down period, which ends on Dec. 17, 2025. After that, those subscribers will automatically receive a prorated refund for the unused portion of their subscription.
+“We explored several options to keep Monitor Plus going, but our high standards for vendors, and the realities of the data broker ecosystem made it challenging to consistently deliver the level of value and reliability we expect for our users,” Mozilla statement reads.
+On March 14, 2024, KrebsOnSecurity published an investigation showing that Onerep’s Belarusian CEO and founder
+launched dozens of people-search services since 2010
+, including a still-active data broker called Nuwber that sells background reports on people. Shelest released
+wherein he acknowledged maintaining an ownership stake in
+, a data broker he founded in 2015 — around the same time he launched Onerep.
+An intermittent outage at
+on Tuesday briefly knocked many of the Internet’s top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.
+At around 6:30 EST/11:30 UTC on Nov. 18, Cloudflare’s status page acknowledged the company was experiencing “an internal service degradation.” After several hours of Cloudflare services coming back up and failing again, many websites behind Cloudflare found they could not migrate away from using the company’s services because the Cloudflare portal was unreachable and/or because they also were getting their domain name system (DNS) services from Cloudflare.
+However, some customers did manage to pivot their domains away from Cloudflare during the outage. And many of those organizations probably need to take a closer look at their web application firewall (WAF) logs during that time, said
+, a faculty member at
+Turner said Cloudflare’s WAF does a good job filtering out malicious traffic that matches any one of
+the top ten types of application-layer attacks
+, including credential stuffing, cross-site scripting, SQL injection, bot attacks and API abuse. But he said this outage might be a good opportunity for Cloudflare customers to better understand how their own app and website defenses may be failing without Cloudflare’s help.
+“Your developers could have been lazy in the past for SQL injection because Cloudflare stopped that stuff at the edge,” Turner said. “Maybe you didn’t have the best security QA [quality assurance] for certain things because Cloudflare was the control layer to compensate for that.”
+Turner said one company he’s working with saw a huge increase in log volume and they are still trying to figure out what was “legit malicious” versus just noise.
+“It looks like there was about an eight hour window when several high-profile sites decided to bypass Cloudflare for the sake of availability,” Turner said. “Many companies have essentially relied on Cloudflare for the
+[web application vulnerabilities] and a whole range of bot blocking. How much badness could have happened in that window? Any organization that made that decision needs to look closely at any exposed infrastructure to see if they have someone persisting after they’ve switched back to Cloudflare protections.”

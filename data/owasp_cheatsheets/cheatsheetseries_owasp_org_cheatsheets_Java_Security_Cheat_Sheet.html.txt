@@ -1,0 +1,316 @@
+Source: https://cheatsheetseries.owasp.org/cheatsheets/Java_Security_Cheat_Sheet.html
+Scraped: 2025-12-22 20:49:01
+================================================================================
+
+Java Security - OWASP Cheat Sheet Series
+Java Security Cheat Sheet
+Injection Prevention in Java
+This section aims to provide tips to handle
+in Java application code.
+Sample code used in tips is located
+in OWASP Top 10 is defined as following:
+Consider anyone who can send untrusted data to the system, including external users, internal users, and administrators.
+General advice to prevent Injection
+The following point can be applied, in a general way, to prevent
+(using allowlist approach) combined with
+Output Sanitizing+Escaping
+on user input/output.
+If you need to interact with system, try to use API features provided by your technology stack (Java / .Net / PHP...) instead of building command.
+Additional advice is provided on this
+Specific Injection types
+Examples in this section will be provided in Java technology (see Maven project associated) but advice is applicable to others technologies like .Net / PHP / Ruby / Python...
+Injection of this type occur when the application uses untrusted user input to build an SQL query using a String and execute it.
+Query Parameterization
+in order to prevent injection.
+/*No DB framework used here in order to show the real use of
+Prepared Statement from Java API*/
+/*Open connection with H2 database and use it*/
+/* Sample A: Select data using Prepared Statement*/
+"select * from color where friendly_name = ?"
+/* Sample B: Insert data using Prepared Statement*/
+"insert into color(friendly_name, red, green, blue) values(?, ?, ?, ?)"
+/* Sample C: Update data using Prepared Statement*/
+"update color set blue = ? where friendly_name = ?"
+/* Sample D: Delete data using Prepared Statement*/
+"delete from color where friendly_name = ?"
+SQL Injection Prevention Cheat Sheet
+Injection of this type occur when the application uses untrusted user input to build a JPA query using a String and execute it. It's quite similar to SQL injection but here the altered language is not SQL but JPA QL.
+Use Java Persistence Query Language
+Query Parameterization
+in order to prevent injection.
+/* Get a ref on EntityManager to access DB */
+createEntityManagerFactory
+/* Define parameterized query prototype using named parameter to enhance readability */
+"select c from Color c where c.friendlyName = :colorName"
+/* Create the query, set the named parameter and execute the query */
+Injection of this type occur when the application uses untrusted user input to build an Operating System command using a String and execute it.
+in order to prevent injection.
+/* The context taken is, for example, to perform a PING against a computer.
+* The prevention is to use the feature provided by the Java API instead of building
+* a system command as String and execute it */
+Injection of this type occur when the application uses untrusted user input to build a XPath query using a String and execute it.
+XPath Variable Resolver
+in order to prevent injection.
+* Resolver in order to define parameter for XPATH expression.
+SimpleVariableResolver
+XPathVariableResolver
+* External methods to add parameter
+* @param name Parameter name
+* @param value Parameter value
+* @see javax.xml.xpath.XPathVariableResolver#resolveVariable(javax.xml.namespace.QName)
+Code using it to perform XPath query.
+/*Create a XML document builder factory*/
+DocumentBuilderFactory
+DocumentBuilderFactory
+/*Disable External Entity resolution for different cases*/
+//Do not performed here in order to focus on variable resolver code
+//but do it for production code !
+"src/test/resources/SampleXPath.xml"
+/* Create and configure parameter resolver */
+SimpleVariableResolver
+SimpleVariableResolver
+/*Create and configure XPATH expression*/
+setXPathVariableResolver
+"//book[@id=$bookId]"
+/* Apply expression on XML document */
+Injection of this type occur when the application uses untrusted user input to build an HTTP response and sent it to browser.
+Either apply strict input validation (allowlist approach) or use output sanitizing+escaping if input validation is not possible (combine both every time is possible).
+INPUT WAY: Receive data from user
+Here it's recommended to use strict input validation using allowlist approach.
+In fact, you ensure that only allowed characters are part of the input received.
+"You user login is owasp-user01"
+/* First we check that the value contains only expected character*/
+"[a-zA-Z0-9\\s\\-]{1,50}"
+/* If the first check pass then ensure that potential dangerous character
+that we have allowed for business requirement are not used in a dangerous way.
+For example here we have allowed the character '-', and, this can
+be used in SQL injection so, we
+ensure that this character is not used is a continuous form.
+Use the API COMMONS LANG v3 to help in String analysis...
+OUTPUT WAY: Send data to user
+Here we escape + sanitize any data sent to user
+Use the OWASP Java HTML Sanitizer API to handle sanitizing
+Use the OWASP Java Encoder API to handle HTML tag encoding (escaping)
+"You <p>user login</p> is <strong>owasp-user01</strong>"
+"<script>alert(22);</script><img src='#' onload='javascript:alert(23);'>"
+/* Create a sanitizing policy that only allow tag '<p>' and '<strong>'*/
+/* Sanitize the output that will be sent to user*/
+finalSafeOutputExpected
+"You <p>user login</p> is <strong>owasp-user01</strong>"
+finalSafeOutputExpected
+OWASP Java HTML Sanitizer
+Injection of this type occur when the application uses untrusted user input to build a NoSQL API call expression.
+As there many NoSQL database system and each one use an API for call, it's important to ensure that user input received and used to build the API call expression does not contain any character that have a special meaning in the target API syntax. This in order to avoid that it will be used to escape the initial call expression in order to create another one based on crafted user input. It's also important to not use string concatenation to build API call expression but use the API to create the expression.
+/* Here use MongoDB as target NoSQL DB */
+/* First ensure that the input do no contains any special characters
+for the current NoSQL DB call API,
+here they are: ' " \ ; { } $
+//Avoid regexp this time in order to made validation code
+//more easy to read and understand...
+//Add also a check on input max size
+/* Then perform query on database using API to build expression */
+//Connect to the local MongoDB instance
+//Use API query builder to create call expression
+//Verify result consistency
+Testing for NoSQL injection
+SQL and NoSQL Injection
+No SQL, No Injection?
+occurs when an application includes untrusted data in an application log message (e.g., an attacker can cause an additional log entry that looks like it came from a completely different user, if they can inject CRLF characters in the untrusted data). More information about this attack is available on the OWASP
+To prevent an attacker from writing malicious content into the application log, apply defenses such as:
+Use structured log formats, such as JSON, instead of unstructured text formats.
+Unstructured formats are susceptible to
+eed (LF) injection (see
+Limit the size of the user input value used to create the log message.
+are applied when viewing log files in a web browser.
+Example using Log4j Core 2
+The recommended logging policy for a production environment is sending logs to a network socket using the structured
+and limit the size of strings to 500 bytes using the
+configuration attribute
+<?xml version="1.0" encoding="UTF-8"?>
+"https://logging.apache.org/xml/ns"
+"http://www.w3.org/2001/XMLSchema-instance"
+https://logging.apache.org/xml/ns
+https://logging.apache.org/xml/ns/log4j-config-2.xsd"
+<!-- Limit the size of any string field in the produced JSON document to 500 bytes -->
+nullEventDelimiterEnabled=
+Integration with service-oriented architectures
+Usage of the logger at code level:
+org.apache.logging.log4j.LogManager
+org.apache.logging.log4j.Logger
+// Most common way to declare a logger
+// Use parameterized logging to add user data to a message
+// The pattern should be a compile-time constant
+"Login failed for user {}."
+// Don't mix string concatenation and parameters
+// If `username` contains `{}`, the exception will leak into the message
+Log4j API Best Practices
+for more information.
+Example using Logback
+The recommended logging policy for a production environment is using the structured
+In the example below, Logback is configured to roll on 10 log files of 5 MiB each:
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration>
+"ch.qos.logback.classic.encoder.JsonEncoder"
+"ch.qos.logback.core.rolling.FixedWindowRollingPolicy"
+"ch.qos.logback.core.rolling.RollingFileAppender"
+"ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy"
+"RollingFileAppender"
+"FixedWindowRollingPolicy"
+"SizeBasedTriggeringPolicy"
+Usage of the logger at code level:
+org.slf4j.LoggerFactory
+// Most common way to declare a logger
+// Use parameterized logging to add user data to a message
+// The pattern should be a compile-time constant
+"Login failed for user {}."
+// Don't mix string concatenation and parameters
+// If `username` contains `{}`, the exception will leak into the message
+Log4j Core Configuration File
+Log4j JSON Template Layout
+Logback Configuration File
+General cryptography guidance
+Never, ever write your own cryptographic functions.
+Wherever possible, try and avoid writing any cryptographic code at all. Instead try and either use pre-existing secret management solutions or the secret management solution provided by your cloud provider. For more information, see the
+OWASP Secrets Management Cheat Sheet
+If you cannot use a pre-existing secret management solution, try and use a trusted and well known implementation library rather than using the libraries built into JCA/JCE as it is far too easy to make cryptographic errors with them.
+Make sure your application or protocol can easily support a future change of cryptographic algorithms.
+Use your package manager wherever possible to keep all of your packages up to date. Watch the updates on your development setup, and plan updates to your applications accordingly.
+We will show examples below based on Google Tink, which is a library created by cryptography experts for using cryptography safely (in the sense of minimizing common mistakes made when using standard cryptography libraries).
+Encryption for storage
+Follow the algorithm guidance in the
+OWASP Cryptographic Storage Cheat Sheet
+Symmetric example using Google Tink
+Google Tink has documentation on performing common tasks.
+For example, this page (from Google's website) shows
+how to perform simple symmetric encryption
+The following code snippet shows an encapsulated use of this functionality:
+Click here to view the "Tink symmetric encryption" code snippet.
+java.nio.charset.StandardCharsets.UTF_8
+com.google.crypto.tink.Aead
+com.google.crypto.tink.InsecureSecretKeyAccess
+com.google.crypto.tink.KeysetHandle
+com.google.crypto.tink.TinkJsonProtoKeysetFormat
+com.google.crypto.tink.aead.AeadConfig
+// Based on example from:
+// https://github.com/tink-crypto/tink-java/tree/main/examples/aead
+// Key securely generated using:
+// tinkey create-keyset --key-template AES128_GCM --out-format JSON --out aead_test_keyset.json
+// Register all AEAD key types with the Tink runtime.
+// Read the keyset into a KeysetHandle.
+TinkJsonProtoKeysetFormat
+"/home/fredbloggs/aead_test_keyset.json"
+InsecureSecretKeyAccess
+"This message to be encrypted"
+// Add some relevant context about the encrypted data that should be verified
+// Encrypt the message
+// Decrypt the message
+// Get the primitive.
+// Get the primitive.
+Symmetric example using built-in JCA/JCE classes
+If you absolutely cannot use a separate library, it is still possible to use the built JCA/JCE classes but it is strongly recommended to have a cryptography expert review the full design and code, as even the most trivial error can severely weaken your encryption.
+The following code snippet shows an example of using AES-GCM to perform encryption/decryption of data.
+A few constraints/pitfalls with this code:
+It does not take into account key rotation or management which is a whole topic in itself.
+It is important to use a different nonce for every encryption operation, especially if the same key is used. For more information, see
+this answer on Cryptography Stack Exchange
+The key will need to be stored securely.
+Click here to view the "JCA/JCE symmetric encryption" code snippet.
+java.nio.charset.StandardCharsets
+java.security.SecureRandom
+// Key of 32 bytes / 256 bits for AES
+// Nonce of 12 bytes / 96 bits and this size should always be used.
+// It is critical for AES-GCM that a unique nonce is used for every cryptographic operation.
+"This message to be encrypted"
+// Encrypt the message
+// Decrypt the message
+Encryption for transmission
+Again, follow the algorithm guidance in the
+OWASP Cryptographic Storage Cheat Sheet
+Asymmetric example using Google Tink
+Google Tink has documentation on performing common tasks.
+For example, this page (from Google's website) shows
+how to perform a hybrid encryption process
+where two parties want to share data based on their asymmetric key pair.
+The following code snippet shows how this functionality can be used to share secrets between Alice and Bob:
+Click here to view the "Tink hybrid encryption" code snippet.
+java.nio.charset.StandardCharsets.UTF_8
+com.google.crypto.tink.HybridDecrypt
+com.google.crypto.tink.HybridEncrypt
+com.google.crypto.tink.InsecureSecretKeyAccess
+com.google.crypto.tink.KeysetHandle
+com.google.crypto.tink.TinkJsonProtoKeysetFormat
+com.google.crypto.tink.hybrid.HybridConfig
+Generated public/private keypairs for Bob and Alice using the
+following tinkey commands:
+./tinkey create-keyset \
+--key-template DHKEM_X25519_HKDF_SHA256_HKDF_SHA256_AES_256_GCM \
+--out-format JSON --out alice_private_keyset.json
+./tinkey create-keyset \
+--key-template DHKEM_X25519_HKDF_SHA256_HKDF_SHA256_AES_256_GCM \
+--out-format JSON --out bob_private_keyset.json
+./tinkey create-public-keyset --in alice_private_keyset.json \
+--in-format JSON --out-format JSON --out alice_public_keyset.json
+./tinkey create-public-keyset --in bob_private_keyset.json \
+--in-format JSON --out-format JSON --out bob_public_keyset.json
+// Generate ECC key pair for Alice
+"/home/alicesmith/private_keyset.json"
+"/home/alicesmith/public_keyset.json"
+// Generate ECC key pair for Bob
+"/home/bobjones/private_keyset.json"
+"/home/bobjones/public_keyset.json"
+// This keypair generation should be reperformed every so often in order to
+// obtain a new shared secret to avoid a long lived shared secret.
+// Alice encrypts a message to send to Bob
+// Add some relevant context about the encrypted data that should be verified
+"Secret being sent from Alice to Bob: "
+"Ciphertext being sent from Alice to Bob: "
+// Bob decrypts the message
+"Secret received by Bob from Alice: "
+// Bob encrypts a message to send to Alice
+// Add some relevant context about the encrypted data that should be verified
+"Secret being sent from Bob to Alice: "
+"Ciphertext being sent from Bob to Alice: "
+// Bob decrypts the message
+"Secret received by Alice from Bob: "
+TinkJsonProtoKeysetFormat
+InsecureSecretKeyAccess
+// return the encrypted value
+// return the encrypted value
+Asymmetric example using built-in JCA/JCE classes
+If you absolutely cannot use a separate library, it is still possible to use the built JCA/JCE classes but it is strongly recommended to have a cryptography expert review the full design and code, as even the most trivial error can severely weaken your encryption.
+The following code snippet shows an example of using Elliptic Curve/Diffie Helman (ECDH) together with AES-GCM to perform encryption/decryption of data between two different sides without the need the transfer the symmetric key between the two sides. Instead, the sides exchange public keys and can then use ECDH to generate a shared secret which can be used for the symmetric encryption.
+Note that this code sample relies on the AesGcmSimple class from the
+A few constraints/pitfalls with this code:
+It does not take into account key rotation or management which is a whole topic in itself.
+The code deliberately enforces a new nonce for every encryption operation but this must be managed as a separate data item alongside the ciphertext.
+The private keys will need to be stored securely.
+The code does not consider the validation of public keys before use.
+Overall, there is no verification of authenticity between the two sides.
+Click here to view the "JCA/JCE hybrid encryption" code snippet.
+java.nio.charset.StandardCharsets
+java.security.SecureRandom
+// Generate ECC key pair for Alice
+// Generate ECC key pair for Bob
+// This keypair generation should be reperformed every so often in order to
+// obtain a new shared secret to avoid a long lived shared secret.
+// Alice encrypts a message to send to Bob
+"Secret being sent from Alice to Bob: "
+"Both cipherText and nonce being sent from Alice to Bob: "
+// Bob decrypts the message
+"Secret received by Bob from Alice: "
+// Bob encrypts a message to send to Alice
+"Secret being sent from Bob to Alice: "
+"Both cipherText2 and nonce2 being sent from Bob to Alice: "
+// Bob decrypts the message
+"Secret received by Alice from Bob: "
+// Using secp256r1 curve
+// Generate the AES Key and Nonce
+// return the encrypted value
+// Generate the AES Key and Nonce
+// return the decrypted value
+// Derive the secret based on this side's private key and the other side's public key
+// Copy first 32 bytes as the key
+// Passed in nonce will be used.
+// Nonce of 12 bytes / 96 bits and this size should always be used.
+// It is critical for AES-GCM that a unique nonce is used for every cryptographic operation.
+// Therefore this is not generated from the shared secret

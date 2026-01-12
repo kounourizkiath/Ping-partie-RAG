@@ -1,0 +1,11 @@
+Source: https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-overview.html
+Scraped: 2025-12-22 20:56:12
+================================================================================
+
+Filebeat is a lightweight shipper for forwarding and centralizing log data. Installed as an agent on your servers, Filebeat monitors the log files or locations that you specify, collects log events, and forwards them either to
+Hereâs how Filebeat works: When you start Filebeat, it starts one or more inputs that look in the locations youâve specified for log data. For each log that Filebeat locates, Filebeat starts a harvester. Each harvester reads a single log for new content and sends the new log data to libbeat, which aggregates the events and sends the aggregated data to the output that youâve configured for Filebeat.
+For more information about inputs and harvesters, see
+Filebeat is an Elastic
+. Itâs based on the
+framework. For more information, see the
+Beats Platform Reference

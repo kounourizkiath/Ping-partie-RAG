@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+env/
+ENV/
+OllamaSetup.exe
+vectordb/
+*.sqlite3

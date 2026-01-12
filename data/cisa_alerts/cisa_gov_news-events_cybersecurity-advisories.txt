@@ -1,0 +1,34 @@
+Source: https://www.cisa.gov/news-events/cybersecurity-advisories
+Scraped: 2025-12-22 20:49:18
+================================================================================
+
+Cybersecurity Alerts & Advisories | CISA
+Official websites use .gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+no-cost Cyber Services
+Holiday Online Shopping Safety
+Cybersecurity Alerts & Advisories
+Cybersecurity Advisories
+Industrial Control Systems Advisories
+CISA Adds One Known Exploited Vulnerability to Catalog
+NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment
+CISA Adds One Known Exploited Vulnerability to Catalog
+CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor
+CISA Releases Nine Industrial Control Systems Advisories
+CISA Adds Three Known Exploited Vulnerabilities to Catalog
+CISA Adds One Known Exploited Vulnerability to Catalog
+CISA Releases Six Industrial Control Systems Advisories
+CISA Adds Two Known Exploited Vulnerabilities to Catalog
+CISA Adds One Known Exploited Vulnerability to Catalog
+Click the linked definitions to see a filtered list of each advisory type.
+: Provides succinct information on recent, ongoing, or high-impact cyber threats, plus associated mitigations, workarounds, and/or detections. Alerts typically include information on newly exploited or disclosed vulnerabilities, newly discovered cyber threat campaigns, severe denial-of-service events or widespread outages, or emerging threat activity related to current world events.
+You need immediate awareness of a high-priority threat or vulnerability and a rapid response.
+Cybersecurity Advisory
+:  Provides detailed information on cyber threats, including threat actor tactics, techniques, and procedures and indicators of compromise, along with recommended actions for detection, mitigation, and response. Advisories typically cover recent or ongoing cyber threats, state-sponsored cyber activity, cyber trends, and/or actionable insights gleaned from incident response or red team engagements.
+You need deep technical insight and guidance on how to defend against or respond to a specific threat.
+Malware Analysis Report
+Provides comprehensive details of malware samples, including a description of the malware’s functionality, as well as malware metadata and detection signatures.
+You need in-depth understanding of how a piece of malware works and how to detect or defend against it.
+Advisories Listing Page Intercept Survey

@@ -1,0 +1,143 @@
+Source: https://www.loggly.com/ultimate-guide/centralizing-with-syslog/
+Scraped: 2025-12-22 21:04:27
+================================================================================
+
+LOG MANAGEMENT AND ANALYTICS
+INFRASTRUCTURE MONITORING
+APPLICATION MONITORING
+Get unified visibility and intelligent insights with SolarWinds Observability SaaS
+Log Management and Analytics
+Explore the full capabilities of Log Management and Analytics powered by SolarWinds Loggly
+Proactive Log Monitoring
+Troubleshooting and Diagnostics with Logs
+Security and Compliance
+Log Analysis and Reporting
+Loggly for Enterprise Scale
+Infrastructure Monitoring Powered by SolarWinds AppOptics
+Instant visibility into servers, virtual hosts, and containerized environments
+View Infrastructure Monitoring Info
+Application Performance Monitoring Powered by SolarWinds AppOptics
+Comprehensive, full-stack visibility, and troubleshooting
+View Application Performance Monitoring Info
+Digital Experience Monitoring Powered by SolarWinds Pingdom
+Make your websites faster and more reliable with easy-to-use web performance and digital experience monitoring
+View Digital Experience Monitoring Info
+SUPPORTED LOG SOURCES
+Network devices and routers
+View All Supported Log Sources
+Product Documentation
+Loggly Library Catalog
+Sending Logs to Loggly
+Ultimate Guide to Logging
+Educational Resources
+APM Integrated Experience
+Video: Failed Transaction Check
+SolarWinds vs Dynatrace
+SolarWinds vs Datadog
+SolarWinds vs AppDynamics
+SolarWinds vs New Relic
+COVID-19 Resource Center
+Centralizing with Syslog
+Ultimate Guide to Logging - Your open-source resource for understanding, analyzing, and troubleshooting system logs
+Navigate Ultimate Guides
+.NET Troubleshooting and Analyzing
+.NET Logging for Security
+.NET Logging Libraries
+Troubleshoot with Apache Logs
+Monitoring Apache Logs
+Centralizing Apache Logs
+Apache Logging Basics
+Centralizing Java Logs
+Troubleshooting With Java Logs
+Troubleshooting with Linux Logs
+Troubleshooting with Node Logs
+Centralizing Node Logs
+PHP Framework Logging
+PHP Logging Libraries
+Python Logging Libraries and Frameworks
+Centralizing Python Logs
+Python Logging Basics
+Analyzing and Troubleshooting Python Logs
+Managing Journal Size
+Linux Logging with Systemd
+Centralizing with Syslog
+Access and Error Logs
+Windows Logging Basics
+Troubleshooting with Windows Logs
+Centralizing Windows Logs
+Centralizing with Syslog
+Systemd can collect and store logs, but it doesn’t have a built-in method of logging to remote locations such as log management systems. Instead, it relies on the device’s syslog service to relay messages between journald and a remote syslog server. However, syslog is text-based and the journald uses a binary format, so your logs need to be converted before they can be transferred. You can do this by using either systemd’s ForwardToSyslog configuration setting, or by using rsyslog’s imjournal module.
+Using ForwardToSyslog
+Since syslog is still a part of most Linux distributions, journald contains a configuration setting to forward logs to syslog. This assumes you have a syslog server such as rsyslog running on the same machine as the systemd-journald service.
+To enable ForwardToSyslog, open /etc/systemd/journald.conf and set the ForwardtoSyslog option to “yes”. In addition, set the MaxLevelSyslog parameter to “debug” to allow logs of any level to be forwarded to syslog.
+$ sudo nano /etc/systemd/journald.conf
+Rsyslog has an input module that can import data from journald into syslog. This module is called
+. There’s another import module called
+that creates a Unix socket that journald can write logs to if the ForwardToSyslog configuration option is enabled. The difference between the two is that imjournal supports structured log data, while imuxsock doesn’t. However, imuxsocket is less performance-intensive than imjournal.
+To enable imjournal in rsyslog 8 or later, add the following to your /etc/rsyslog.conf file. The mmjsonparse module lets ryslog parse journald messages:
+module(load="imjournal")
+module(load="mmjsonparse")
+Restart syslog to start the module:
+# systemctl restart rsyslog.service
+More information about the module can be found
+Reviewing Syslog Output
+Now, let’s verify your journald events are appearing in syslog. We’ll run the following command to retrieve the latest error logs from journald.
+$ journalctl -b -p err
+This shows three error messages from the current boot.
+-- Logs begin at Thu 2019-06-20 05:45:00 EDT, end at Mon 2019-06-24 17:16:02 EDT. –
+Jun 24 17:10:19 debian-ds liblogging-stdlog[3681]: module 'imfile' already in this config, cannot be added  [v8.24.0 try https://www.rsyslog.co
+Jun 24 17:10:19 debian-ds liblogging-stdlog[3681]: error during parsing file /etc/rsyslog.d/java-gc.conf, on or before line 1: parameter 'Poll
+Jun 24 17:13:37 debian-ds etcd[3833]: forgot to set Type=notify in systemd service file?
+To check if these messages also exist in syslog, the following command looks at the /var/log/syslog file for the last error (shown in bold in the output block above).
+$ cat /var/log/syslog | grep "forgot to set Type=notify"
+The output below shows the message does exist in syslog (with the same time stamp):
+Jun 24 17:13:37 debian etcd[3833]: forgot to set Type=notify in systemd service file?
+Note that the unit name related to the error comes after the date time stamp and the system name field. In this case, it’s the etcd service that encountered an error. The actual error message is then printed.
+Although auto redirection of systemd journal messages to syslog seems like a cool feature at first, there are no one-to-one relationships between the fields captured by two. As a result, certain fields from a journal event will be found in its corresponding syslog message, while others won’t be there. One way to work around this is by outputting journald logs as JSON, which we’ll explain in the next section.
+Journals have rich structured data stored in different fields. For sending journal events to external data consumers that don’t understand its native binary format, the data can first be exported to JSON and then transmitted. This is advantageous because JSON format has much wider support from common analysis tools.
+Let’s consider the command journalctl -b -p err we ran in our test Ubuntu system.
+One of the output lines was:
+Jul 07 19:17:01 test-ubuntu1504 CRON[797]: Authentication token is no longer valid; new one required
+Looking at the same error message when we use the –output=json-pretty switch, we have the following output.
+"__CURSOR" :     "s=06ed88764fb443ef940994ff9f77fc8f;i=4c8;b=2d171eeb6505401db1802a62ba43190b;m=1a82272e;t=51a51383bc6dc;x=44114702d932b028",
+"__REALTIME_TIMESTAMP" : "1436311021668060",
+"__MONOTONIC_TIMESTAMP" : "444737326",
+"_BOOT_ID" : "2d171eeb6505401db1802a62ba43190b",
+"_SYSTEMD_SLICE" : "system.slice",
+"_MACHINE_ID" : "6312944ca8d9f189228c76ab557a9109",
+"_CAP_EFFECTIVE" : "3fffffffff",
+"_TRANSPORT" : "syslog",
+"SYSLOG_FACILITY" : "9",
+"_SYSTEMD_CGROUP" : "/system.slice/cron.service",
+"_SYSTEMD_UNIT" : "cron.service",
+"_HOSTNAME" : "test-ubuntu1504",
+"SYSLOG_IDENTIFIER" : "CRON",
+"SYSLOG_PID" : "797",
+"MESSAGE" : "Authentication token is no longer valid; new one required",
+"_SOURCE_REALTIME_TIMESTAMP" : "1436311021667315"
+The complete list of journal event fields can be found in this
+, but looking at this JSON output we see that only some of the fields map to
+Priority – This field can have a value between 0 (emerg) and 7 (“debug”). This is compatible with syslog’s concept of priority, although syslog priorities are calculated differently. This is more analogous to syslog’s severity field.
+Syslog_facility – This maps to syslog’s facility field.
+Syslog_identifier – This is the syslog identifier string.
+Syslog_pid – This is the client process ID.
+_pid – This is the id of the process that generated the journal message. In the json block above, we can see the syslog_pid and the _pid fields are both showing the same information.
+_comm – This is the name of the process that generated the message. This and other journal fields like _exe or _cmdline are equivalent to the app-name field in a syslog header.
+_source_realtime_timestamp – This maps to the timestamp field from a syslog message header.
+Message – This is the actual message. It maps directly to the msg field of a syslog entry.
+_hostname – This is the name of the originating host. This maps to the hostname field of a syslog message header, although the syslog message hostname can have some extra details.
+And then there are journal fields that do
+map to syslog. These include:
+_Systemd_unit – This is relevant if the message is coming from a resource unit that supports systemd natively. This is probably the most outstanding piece of information absent from the syslog. However, it’s to be expected because the origin of syslog message format existed long before systemd came along. Also, as we can see, the value of _systemd_unit (cron.service) corresponds to the _comm (and in other cases _exe) field value (cron) and since _comm/_exe fields are equivalent to the app-name in syslog, we are not losing the application or service name that logged the message.
+_selinux_context – This is the selinux security context of the process that logged the journal event. This information is absent in a syslog header.
+Code_file, code_line, code_func – These fields show relevant information from the program code file that’s throwing an error or information message.
+_transport – This field shows how the event record was logged in systemd journal. Possible values can be: driver (for internally generated messages), syslog (messages coming through the syslog socket), journal (messages natively trapped by the journal daemon), kernel (for kernel messages), and stdout (for messages coming from an app or service’s standard output).
+For those who want to bypass syslog altogether, they can have a look at works already done by talented developers around the world.
+For example, several people have written services that forward journals to a log management solution called SolarWinds
+GitHub project loggly.service
+creates a custom systemd service that continuously exports events from the journal and sends them to Loggly.
+Another GitHub project is
+which uses a slightly more involved method.
+Need more options? Don’t miss the
+SolarWinds Centralized Log Management
+See it. Analyze it. Inspect it. Solve it

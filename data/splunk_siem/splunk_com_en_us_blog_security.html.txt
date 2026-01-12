@@ -1,0 +1,25 @@
+Source: https://www.splunk.com/en_us/blog/security.html
+Scraped: 2025-12-22 20:55:46
+================================================================================
+
+Security Blogs | Splunk
+Query Param Visibility
+Predicting Cyber Fraud Through Real-World Events: Insights from Domain Registration Trends
+By analyzing new domain registrations around major real-world events, researchers show how fraud campaigns take shape early, helping defenders spot threats before scams surface.
+When Your Fraud Detection Tool Doubles as a Wellness Check: The Unexpected Intersection of Security and HR
+Behavioral analytics can spot fraud and burnout. With UEBA built into Splunk ES Premier, one data set helps security and HR reduce risk, retain talent, faster.
+Splunk Security Content for Threat Detection & Response: November Recap
+Discover Splunk's November security content updates, featuring enhanced Castle RAT threat detection, UAC bypass analytics, and deeper insights for validating detections on research.splunk.com.
+Security Staff Picks To Read This Month, Handpicked by Splunk Experts
+Our Splunk security experts share their favorite reads of the month so you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.
+Behind the Walls: Techniques and Tactics in Castle RAT Client Malware
+Uncover CastleRAT malware's techniques (TTPs) and learn how to build Splunk detections using MITRE ATT&CK. Protect your network from this advanced RAT.
+AI for Humans: A Beginner’s Field Guide
+Unlock AI with the our beginner's field guide. Demystify LLMs, Generative AI, and Agentic AI, exploring their evolution and critical cybersecurity applications.
+Splunk Security Content for Threat Detection & Response: November 2025 Update
+Learn about the latest security content from Splunk.
+Operation Defend the North: What High-Pressure Cyber Exercises Teach Us About Resilience and How OneCisco Elevates It
+The OneCisco approach is not about any single platform or toolset; it's about fusing visibility, analytics, and automation into a shared source of operational truth so that teams can act decisively, even in the fog of crisis.
+Data Fit for a Sovereign: How to Consider Sovereignty in Your Digital Resilience Strategy
+Explore how digital sovereignty shapes resilient strategies for European organisations. Learn how to balance control, compliance, and agility in your data infrastructure with Cisco and Splunk’s flexible, secure solutions for the AI era.
+/en_us/blog/fragments/subscribe-footer

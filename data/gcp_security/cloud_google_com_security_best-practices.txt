@@ -1,0 +1,117 @@
+Source: https://cloud.google.com/security/best-practices
+Scraped: 2025-12-22 21:05:50
+================================================================================
+
+Centre des bonnes pratiques de sécurité dans Google Cloud | Google Cloud | Google Cloud
+Centre des bonnes pratiques de sécurité dans Google Cloud
+Découvrez les bonnes pratiques à appliquer pour réaliser vos objectifs de sécurité et de conformité lors du déploiement de vos charges de travail sur Google Cloud.
+Guides de bonnes pratiques
+Les guides de bonnes pratiques fournissent des conseils précis et avisés pour vous aider à effectuer des déploiements sur Google Cloud en toute sécurité. Ils décrivent les configurations, architectures et paramètres recommandés, et proposent d'autres conseils opérationnels.
+Bonnes pratiques pour Google Cloud
+Guide sur le plan de base de l'entreprise
+Ce guide complet vous aide à intégrer la sécurité à vos déploiements Google Cloud. Il aborde la structure organisationnelle, l'authentification et l'autorisation, la hiérarchie des ressources, la mise en réseau, la journalisation, les contrôles de détection et plus encore.
+Lire le plan de sécurité
+Bonnes pratiques pour les entreprises
+Ce guide approfondi aide les architectes d'entreprise et les personnels techniques concernés à comprendre l'éventail des activités de sécurité sur Google Cloud et à planifier en conséquence. Il fournit des actions clés et inclut des liens vers une documentation complémentaire.
+Architecture Center : sécurité et conformité
+Accédez à notre catalogue complet d'architectures de référence, de conseils et de bonnes pratiques concernant la sécurité et la conformité pour créer ou migrer vos charges de travail sur Google Cloud.
+Bonnes pratiques pour les produits de sécurité dans le cloud
+Plan de sécurité pour les entrepôts de données sécurisés
+Découvrez et appliquez les bonnes pratiques de sécurité essentielles pour BigQuery concernant l'ingestion, le stockage, le traitement, la classification, le chiffrement, la journalisation, la surveillance et la gouvernance des données.
+Lire le plan de sécurité
+Plan de sécurité AI Platform Notebooks
+Découvrez les bonnes pratiques à suivre pour protéger les données confidentielles dans AI Platform Notebooks, étendre vos pratiques de gouvernance des données et empêcher l'exfiltration de vos données.
+Lire le plan de sécurité
+Bonnes pratiques pour la sécurité des conteneurs
+Apprenez à sécuriser des conteneurs à travers notre série d'articles de blog intitulée "Découvrir la sécurité des conteneurs".
+Lire la série d'articles
+Protection DDoS et atténuation de leur impact sur Google Cloud
+Ce guide contient des bonnes pratiques pour vous aider à vous protéger contre les attaques de déni de service (DoS) et à atténuer leur impact lors de vos déploiements sur Google Cloud.
+Optimiser l'utilisation de Microsoft AD avec Google Cloud
+Découvrez les bonnes pratiques concernant la mise en réseau, la connectivité hybride, la sécurité et la gestion quand vous exécutez Active Directory sur Google Cloud.
+Bonnes pratiques pour Identity and Access Management
+Ces guides décrivent certaines des bonnes pratiques concernant l'utilisation de Cloud Identity and Access Management (IAM) pour gérer les identités et les autorisations pour votre organisation.
+Découvrez les bonnes pratiques pour planifier des comptes et des organisations
+Découvrez les bonnes pratiques pour fédérer Google Cloud avec un fournisseur d'identité externe
+Checklists des bonnes pratiques de sécurité
+Découvrez les bonnes pratiques de sécurité pour Google Workspace et Cloud Identity grâce à des checklists destinées aux petites, moyennes et grandes entreprises.
+Consulter les checklists
+Plans de sécurité et zones de destination déployables
+Consultez, entre autres, du code et des modèles pouvant être utilisés pour déployer des ressources cloud dans des configurations recommandées.
+Éléments déployables pour constituer une base de sécurité
+Découvrez des modules Terraform pouvant être composés pour créer une base Google Cloud axée sur la sécurité. La structure et le code fournis constituent un point de départ, avec des valeurs par défaut pragmatiques basées sur notre
+. Vous pouvez personnaliser les scripts en fonction de vos exigences.
+Obtenir les scripts Terraform mis à jour
+Dépôt GitHub du plan de sécurité pour les entrepôts de données sécurisés
+Ce dépôt contient des modules de configuration Terraform qui vous permettent de déployer rapidement un entrepôt de données
+sécurisé, sur la base des conseils avisés de notre
+Dépôt GitHub du plan AI Platform Notebooks
+Le dépôt GitHub consacré aux plans de sécurité AI Platform Notebooks, basé sur
+, contient des ressources et artefacts qui peuvent vous aider à gérer des données confidentielles de manière sécurisée.
+Éléments déployables du kit Cloud Foundation
+Le kit Cloud Foundation fournit un ensemble complet de modèles de ressources prêts pour la production et respectant les bonnes pratiques de Google.
+Dépôt GitHub des plans de sécurité Anthos
+Le dépôt GitHub consacré aux plans de sécurité Anthos contient des ressources et artefacts qui vous aident à établir un ensemble de stratégies de sécurité quand vous créez ou migrez des charges de travail utilisant des clusters Anthos.
+Plans sans serveur et sécurisés
+Obtenez des conseils avisés destinés aux ingénieurs DevOps, aux architectes de sécurité et aux développeurs d'applications sur la manière de protéger les applications sans serveur qui utilisent
+Obtenir le plan Cloud Run
+Obtenir le plan Cloud Run Functions
+Plans déployables par secteur
+Administration : plan de charge de travail conforme au programme FedRAMP
+associés présentent une architecture de référence, des bonnes pratiques et des recommandations pour configurer une charge de travail à trois niveaux conforme au programme FedRAMP sur Google Cloud.
+Commerce : plan de sécurité pour la norme PCI sur GKE
+Ce plan permet de déployer rapidement et facilement des charges de travail sur GKE, de manière reproductible, compatible et sécurisée. Ces charges de travail sont conformes à la
+norme Payment Card Industry Data Security Standard (PCI DSS)
+Livres blancs et références sur la sécurité
+Obtenez des informations détaillées sur la conception, la création et la gestion de l'infrastructure et des services de Google Cloud pour garantir la sécurité, ainsi que sur la manière dont Google Cloud peut vous accompagner dans votre transformation.
+Ressources pour transformer la sécurité
+Guide de transition des processus de sécurité vers le cloud à l'attention des RSSI
+Notre livre blanc décrit notre réflexion (qui s'appuie sur notre expérience de collaboration avec des RSSI et leurs équipes au sein des entreprises de nos clients) sur la meilleure façon de mener une transformation de sécurité en migrant vers le cloud.
+Renforcer la résilience opérationnelle pour FinServ
+Découvrez comment les entreprises de services financiers peuvent utiliser les fonctionnalités et solutions de Google Cloud pour gérer les risques opérationnels et garantir la résilience opérationnelle.
+Créer des systèmes fiables et sécurisés
+Dans ce livre, des experts Google partagent leurs bonnes pratiques afin d'aider votre entreprise à concevoir des systèmes évolutifs, fiables et fondamentalement sûrs.
+Gouvernance des risques de la transformation numérique
+Ce livre blanc explique aux équipes chargées des risques, de la conformité et des audits comment gérer la gouvernance des risques lors de la transformation numérique vers le cloud.
+Livres blancs sur la sécurité dans Google Cloud
+Ce livre blanc présente l'approche de Google en matière de sécurité et de conformité pour Google Cloud. Il fournit des informations sur les contrôles organisationnels et techniques relatifs à la protection des données.
+La sécurité dans Google Workspace
+Découvrez l'approche de Google en termes de sécurité et de conformité pour Google Workspace, notre suite de productivité dans le cloud. Ce livre blanc décrit les fonctionnalités de confidentialité et de sécurité de Google Workspace, nos pratiques de chiffrement, et bien plus.
+Présentation de la sécurité sur l'infrastructure de Google
+Ce document donne un aperçu de la conception de la sécurité dans l'infrastructure technique de Google. Il aborde la sécurité physique des centres de données, la sécurité du matériel et des logiciels sous-jacents à l'infrastructure, et les contraintes et processus techniques mis en place pour assurer la sécurité opérationnelle.
+Ce document décrit l'approche adoptée par Google concernant le chiffrement au repos pour Google Cloud, ainsi que la façon dont elle permet d'améliorer la sécurité de vos informations.
+Chiffrement en transit
+Google Cloud chiffre automatiquement les données en transit en dehors des limites physiques qui ne sont pas contrôlées par Google. Découvrez comment nous utilisons le chiffrement en transit pour sécuriser vos données.
+Le chiffrement dans Google Workspace
+Le chiffrement est au centre de la stratégie de sécurité globale de Google Workspace. Ce livre blanc décrit l'approche de Google Workspace en la matière et la façon dont le chiffrement protège vos informations sensibles.
+Présentation détaillée de Cloud Key Management
+permet aux clients Google Cloud de gérer des clés cryptographiques dans un service cloud central.
+BeyondProd : une nouvelle approche de la sécurité cloud native
+Découvrez comment Google protège ses microservices grâce à une initiative appelée BeyondProd. Cette protection inclut la façon dont le code est modifié et l'accès aux données utilisateur dans les microservices.
+Autorisation binaire pour Borg
+Découvrez l'autorisation binaire pour Borg, une vérification interne d'exécution de déploiement. Elle minimise les risques internes en s'assurant que les logiciels de production et la configuration déployés par Google sont correctement examinés et autorisés, en particulier si le code en question peut accéder à des données utilisateur.
+BeyondCorp : une nouvelle approche de la sécurité d'entreprise
+BeyondCorp est le modèle de sécurité de Google basé sur des réseaux zéro confiance développés depuis huit ans au sein de Google, ainsi que sur les idées et bonnes pratiques apportées par la communauté.
+Gestion des accès privilégiés dans Google Cloud
+Ce document fournit une présentation détaillée de la philosophie d'accès privilégié de Google Cloud, de la manière dont les données client sont protégées et des outils dont les clients disposent pour surveiller et contrôler l'accès de Google aux données.
+Limiter l'exfiltration de données avec les commandes de sécurité Google Cloud
+Ce document présente les vecteurs d'attaque courants qui peuvent entraîner une exfiltration de données. Il fournit également des recommandations pour utiliser les fonctionnalités et produits de sécurité natifs de Google Cloud afin de réduire les risques d'exfiltration.
+Ressources de formation
+Consultez ces ressources proposées par Google Cloud et d'autres entreprises pour approfondir votre connaissance des bonnes pratiques de sécurité.
+Présentation de la sécurité sur Google Cloud
+La série de vidéos sur la sécurité présente les principaux problèmes de sécurité que les clients peuvent résoudre avec Google Cloud.
+Cloud Security Podcast
+Des experts en sécurité de Google Cloud discutent avec des leaders du secteur de différents sujets liés à la sécurité dans le cloud.
+Consulter la liste des épisodes
+Google Cloud CIS Benchmarks™
+sont des guides de bonnes pratiques de configuration de la sécurité. Ils ont été élaborés sur la base d'un consensus et acceptés par des institutions gouvernementales et universitaires, ainsi que par les secteurs du commerce et de l'industrie. Ce site fournit des benchmarks CIS spécifiques à Google Cloud.
+Google Cloud MITRE ATT&CK®
+est une base de connaissances accessible dans le monde entier, qui recense des tactiques et techniques d'attaque adverses établies à partir d'observations réelles. Ce site propose une matrice MITRE ATT&CK® pour Google Cloud.
+Certification Professional Cloud Security Engineer
+Découvrez comment devenir un Professional Cloud Security Engineer. Apprenez les bonnes pratiques et les exigences de sécurité dans le secteur.
+Coursera : la sécurité sur Google Cloud
+Cette formation, que vous pouvez suivre à votre rythme, présente dans le détail les bonnes pratiques, techniques et commandes de sécurité sur Google Cloud.
+Enregistrements du Security Summit 2024
+Regardez les enregistrements du Google Cloud Security Summit 2024 (keynote, démonstrations et sessions) pour découvrir les fonctionnalités de sécurité et de conformité de notre portefeuille de produits, présentées par des experts et des clients Google.
+Sessions sur la sécurité de Next 2024
+Regardez les sessions Google Cloud Next 2024 sur la sécurité pour découvrir les fonctionnalités de sécurité et de conformité de notre portefeuille de produits, présentées par des experts et des clients Google.

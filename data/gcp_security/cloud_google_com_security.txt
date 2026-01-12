@@ -1,0 +1,173 @@
+Source: https://cloud.google.com/security
+Scraped: 2025-12-22 21:05:45
+================================================================================
+
+Solutions de cybersécurité : SecOps, renseignement, IA et sécurité du cloud | Google Cloud
+Obtenez de l'aide dès maintenant
+concernant une brèche de sécurité ou un possible incident.
+Intégrez Google à votre équipe de sécurité
+Préparez-vous à l'avenir avec des experts de terrain, des opérations de sécurité pilotées par le renseignement et la sécurité cloud, le tout optimisé par l'IA.
+Contacter un spécialiste
+Obtenir Google Unified Security
+Intégrez Google à votre équipe de sécurité
+Préparez-vous à l'avenir avec des experts de terrain, des opérations de sécurité pilotées par le renseignement et la sécurité cloud, le tout optimisé par l'IA.
+Contacter un spécialiste
+Obtenir Google Unified Security
+Gardez une longueur d’avance sur les dernières cybermenaces
+Cybersécurité : les prévisions 2026
+Centre de confiance Google Cloud
+Pourquoi des équipes comme la vôtre font confiance à Google Cloud
+Profitez des avantages de Google Cloud Security
+Les points forts de Google liés à la sécurité sont vos atouts : une protection intégrée optimisée par l'IA qui utilise notre vaste base de données mondiale sur les menaces pour détecter, prévenir et contrer les menaces à grande échelle. Sécurisez votre entreprise sur notre plate-forme cloud sécurisée dès la conception et profitez de l'expertise de Google Security Operations et de Mandiant pour une défense, une investigation et une réponse proactives et accélérées.
+Obtenez des renseignements exploitables sur les menaces, à l'échelle de Google
+Découvrez et cernez plus rapidement les menaces grâce à une visibilité globale inégalée.
+Google Threat Intelligence
+de Mandiant, la protection de milliards d'utilisateurs et d'appareils par Google, et les insights issus du crowdsourcing de VirusTotal pour offrir la vue la plus complète au monde sur le paysage des menaces. Grâce à l'analyse optimisée par l'IA de Gemini, vous obtenez des résumés plus rapides, des insights personnalisés et des explications sur le comportement du code. Vous pouvez ainsi transformer les renseignements en mesures de défense concrètes à grande échelle.
+Prenez une longueur d'avance sur les menaces grâce à des opérations de sécurité optimisées par l'IA
+Détectez, analysez et neutralisez les menaces à la vitesse et à l'échelle de Google.
+Google Security Operations
+ingère et analyse vos données à l'échelle mondiale en appliquant les renseignements sur les menaces de Google et plus de 4 000 détections sélectionnées afin de déceler les menaces les plus récentes. Grâce aux fonctionnalités optimisées par l'IA de Gemini, les équipes peuvent identifier le contexte critique, générer des détections et des playbooks, et réduire les tâches opérationnelles répétitives. Elles peuvent aussi conserver les données plus longtemps pour une chasse aux menaces efficace et une prise de décision plus rapide.
+Google Unified Security
+est une solution de sécurité contextuelle conçue pour fournir des workflows de sécurité intégrés, axés sur les données et optimisés par l'IA via Gemini.
+Sécurisez l'innovation en IA dans le cloud le plus fiable
+Exécutez vos charges de travail d'entreprise et d'IA sur une
+sécurisée à la conception, reposant sur une
+de base pensée, développée et gérée dans un objectif de sécurité. Nos plates-formes cloud et de
+navigation d'entreprise
+intègrent des fonctionnalités de sécurité et de conformité, ce qui permet aux entreprises d'implémenter une stratégie de sécurité renforcée. Gérez votre entreprise en réduisant le nombre de failles, protégez les utilisateurs et les charges de travail contre les menaces émergentes, et maintenez votre
+numérique grâce à nos services de sécurité cloud.
+Faites appel aux experts Mandiant quand vous en avez le plus besoin.
+Pour faire de Google un véritable atout pour votre équipe de sécurité, les experts Mandiant interviennent quand vous en avez le plus besoin : avant, pendant et après une violation. Nos équipes Mandiant de
+réponse aux incidents
+bénéficient d'une expérience de terrain inégalée : plus de 450 000 heures consacrées à l'investigation d'incidents de sécurité l'année dernière, y compris certains des plus importants et des plus graves au monde. Ces experts de renom vous offrent une défense stratégique et technique, vous aidant à anticiper les incidents de cybersécurité critiques et à reprendre rapidement vos activités.
+Accélérez la transformation basée sur l'IA
+Google Cloud vous permet à la fois de sécuriser l'innovation en IA et de renforcer les capacités de vos défenseurs grâce à des opérations de sécurité optimisées par l'IA. Nous nous engageons à faire de notre plate-forme l'endroit le plus sûr pour créer, déployer et exécuter des charges de travail d'IA de manière sécurisée, privée et conforme.
+Sécuriser l'ensemble de la pile et du cycle de vie de l'IA
+de Google Cloud sécurise votre parcours d'IA, du développement au déploiement et au-delà, en découvrant et en protégeant les modèles, les agents, les applications et les données grâce à des contrôles et des règles personnalisés. Des outils comme
+protègent les modèles contre les attaques telles que l'injection de prompt, tandis que
+Security Command Center
+offre une vue unifiée de votre stratégie de sécurité, ce qui aide les équipes à détecter les menaces et à y répondre sur toutes les charges de travail, y compris les systèmes d'IA. Ensemble, ils garantissent que vos initiatives en matière d'IA sont résilientes, conformes et fiables tout au long de leur cycle de vie.
+Transformer les opérations de sécurité avec un SOC agentif
+combine l'automatisation basée sur l'IA et l'expertise humaine pour transformer les opérations de sécurité. Les agents IA trient les alertes, examinent les menaces et gèrent les tâches répétitives en continu, permettant ainsi aux équipes de se concentrer sur les risques complexes et prioritaires. En réduisant la lassitude vis-à-vis des alertes et en accélérant les réponses, le SOC agentif implémente une défense plus intelligente et plus résiliente, et offre à votre organisation l'avenir de la sécurité alliant expertise humaine et IA.
+Adoptez l'IA avec les conseils de Mandiant
+solutions de conseil en sécurité de l'IA proposées par Mandiant
+aident votre entreprise à intégrer l'IA de façon sécurisée et à l'exploiter pour renforcer ses cyberdéfenses. Nos experts proposent des évaluations de sécurité de l'IA, des exercices de red teaming ciblant les modèles et applications d'IA générative, et intègrent l'IA à vos opérations pour réduire les interventions manuelles et implémenter des capacités de détection avancées des menaces.
+Accélérez le déploiement de l'IA responsable à l'aide du SAIF
+framework d'IA sécurisé (SAIF)
+de Google est conçu pour répondre aux principales préoccupations des professionnels de la sécurité, telles que la gestion des risques liés aux modèles d'IA et de ML, ainsi que leur sécurité et leur confidentialité. Il contribue ainsi à s'assurer que les systèmes d'IA sont sécurisés par défaut dès le départ. Pour faciliter son adoption, nous avons créé
+auto-évaluation des risques SAIF
+. Les entreprises peuvent ainsi implémenter le SAIF, et créer et déployer l'IA de manière responsable.
+Plébiscité par les plus grandes organisations
+Comment Sutherland renforce ses protections proactives pour les données client
+Comment Deutsche Börse maîtrise parfaitement la conformité
+Comment TELUS donne les moyens à ses équipes sans sacrifier la sécurité
+Comment TENEX.AI crée une plate-forme de sécurité évolutive basée sur l'IA
+Comment Vertiv a réduit de moitié ses délais d'analyse des menaces avec Google SecOps
+Comment Etsy a migré sa solution SIEM en moins d'une semaine avec Google SecOps
+Reconnu par les analystes du secteur
+Leader dans le rapport Gartner® Magic Quadrant™ de 2025 sur les solutions SIEM
+Leader dans le rapport "IDC MarketScape: Worldwide Incident Response" (Réponse aux incidents dans le monde) de 2025
+Leader dans le rapport Gartner® Magic Quadrant™ de 2025 sur les services de plates-formes cloud stratégiques
+Leader dans le rapport "IDC MarketScape: Worldwide SIEM for Enterprise 2024 Vendor Assessment" (Évaluation des fournisseurs de solutions SIEM dans le monde en 2024)
+Leader dans le rapport "IDC MarketScape: Worldwide Cybersecurity Consulting Services 2024 Vendor Assessment" (Évaluation 2024 des fournisseurs de services de conseils en cybersécurité dans le monde)
+Leader dans le rapport "The Forrester Wave™: Data Security Platforms" (Plates-formes de sécurité des données) du 1er trimestre 2025
+Parcourir les ressources
+Blog Google Cloud Security
+Actualités, conseils et idées inspirantes pour accélérer la transformation basée sur l'IA et la transformation de la sécurité.
+Temps de lecture : 5 min
+Blog Google Threat Intelligence
+Les dernières enquêtes de terrain, analyses et recherches approfondies sur la sécurité menées par les experts Mandiant.
+Temps de lecture : 5 min
+Blog de la communauté d'experts Google Cloud Security
+Informations, réponses et points de vue d'experts pour optimiser vos outils de sécurité, fournis par des Googleurs et des utilisateurs expérimentés.
+Temps de lecture : 5 min
+Cloud Security Podcast
+Anton Chuvakin et Timothy Peacock abordent les sujets les plus intéressants de la sécurité cloud, y compris ce que nous faisons chez Google Cloud.  Découvrez des analyses sans détour, explorez les modèles de menace et amusez-vous avec nos jeux de mots décalés.
+Temps de lecture : 5 min
+Podcast The Defender’s Advantage
+Luke McNamara et d'autres experts en cybersécurité partagent des informations de première ligne sur les dernières attaques, les recherches sur les menaces et les tendances.  Découvrez en détail les activités des États-nations, les logiciels malveillants et plus encore.
+Temps de lecture : 5 min
+Podcast Behind the Binary
+Josh Stroschein, membre de l'équipe Google FLARE, présente les témoignages et les points de vue uniques des experts qui sécurisent notre monde numérique grâce à la rétro-ingénierie.
+Temps de lecture : 5 min
+The Defender's Advantage
+Comment actionner tous les leviers de vos cyberdéfenses
+Temps de lecture : 5 min
+L'impact économique total (Total Economic Impact™) de Google Security Operations
+Étude approfondie de Forrester Consulting.
+Temps de lecture : 5 min
+Cybersécurité : les prévisions 2026
+Consultez ces prévisions pour anticiper l'année à venir.
+Temps de lecture : 5 min
+Google Cloud Next 2026
+Ne manquez pas Next 2026 : du 22 au 24 avril 2026 au Mandalay Bay Convention Center à Las Vegas.
+Temps de lecture : 5 min
+S'abonner aux mises à jour
+Cyber Defense Summit 2025
+Regardez les keynotes et les sessions approfondies sur la sécurisation de l'innovation en IA, le renforcement de la résilience des dirigeants et la lutte contre les cybermenaces actuelles les plus sophistiquées.
+Temps de lecture : 5 min
+Conférences sur la sécurité
+Rejoignez nos experts en sécurité dans cette série de discussions pour découvrir les dernières innovations en IA dans notre gamme de produits de sécurité, les bonnes pratiques pour les renseignements sur les menaces et bien plus encore.
+Temps de lecture : 5 min
+Regarder à la demande
+Centre des insights pour les RSSI
+Perspectives, rapports et cadres d'experts pour aider les responsables de la sécurité à s'adapter au paysage des menaces en constante évolution, avec des insights du Bureau du RSSI de Google Cloud.
+Temps de lecture : 5 min
+Centre des insights du conseil d'administration
+Des informations et des bonnes pratiques conçues pour aider les conseils d'administration à prendre des décisions en matière de sécurité et à garantir des opérations résilientes et sécurisées.
+Temps de lecture : 5 min
+The Cyber Savvy Boardroom
+Le bureau du responsable de la sécurité de Google Cloud vous propose des insights stratégiques mensuels de responsables de la sécurité, de dirigeants et de membres de conseils d'administration pour vous aider à façonner en toute confiance la stratégie de sécurité et l'avenir de votre organisation.
+Blog Google Cloud Security
+Actualités, conseils et idées inspirantes pour accélérer la transformation basée sur l'IA et la transformation de la sécurité.
+Temps de lecture : 5 min
+Blog Google Threat Intelligence
+Les dernières enquêtes de terrain, analyses et recherches approfondies sur la sécurité menées par les experts Mandiant.
+Temps de lecture : 5 min
+Blog de la communauté d'experts Google Cloud Security
+Informations, réponses et points de vue d'experts pour optimiser vos outils de sécurité, fournis par des Googleurs et des utilisateurs expérimentés.
+Temps de lecture : 5 min
+Cloud Security Podcast
+Anton Chuvakin et Timothy Peacock abordent les sujets les plus intéressants de la sécurité cloud, y compris ce que nous faisons chez Google Cloud.  Découvrez des analyses sans détour, explorez les modèles de menace et amusez-vous avec nos jeux de mots décalés.
+Temps de lecture : 5 min
+Podcast The Defender’s Advantage
+Luke McNamara et d'autres experts en cybersécurité partagent des informations de première ligne sur les dernières attaques, les recherches sur les menaces et les tendances.  Découvrez en détail les activités des États-nations, les logiciels malveillants et plus encore.
+Temps de lecture : 5 min
+Podcast Behind the Binary
+Josh Stroschein, membre de l'équipe Google FLARE, présente les témoignages et les points de vue uniques des experts qui sécurisent notre monde numérique grâce à la rétro-ingénierie.
+Temps de lecture : 5 min
+The Defender's Advantage
+Comment actionner tous les leviers de vos cyberdéfenses
+Temps de lecture : 5 min
+L'impact économique total (Total Economic Impact™) de Google Security Operations
+Étude approfondie de Forrester Consulting.
+Temps de lecture : 5 min
+Cybersécurité : les prévisions 2026
+Consultez ces prévisions pour anticiper l'année à venir.
+Temps de lecture : 5 min
+Google Cloud Next 2026
+Ne manquez pas Next 2026 : du 22 au 24 avril 2026 au Mandalay Bay Convention Center à Las Vegas.
+Temps de lecture : 5 min
+S'abonner aux mises à jour
+Cyber Defense Summit 2025
+Regardez les keynotes et les sessions approfondies sur la sécurisation de l'innovation en IA, le renforcement de la résilience des dirigeants et la lutte contre les cybermenaces actuelles les plus sophistiquées.
+Temps de lecture : 5 min
+Conférences sur la sécurité
+Rejoignez nos experts en sécurité dans cette série de discussions pour découvrir les dernières innovations en IA dans notre gamme de produits de sécurité, les bonnes pratiques pour les renseignements sur les menaces et bien plus encore.
+Temps de lecture : 5 min
+Regarder à la demande
+Centre des insights pour les RSSI
+Perspectives, rapports et cadres d'experts pour aider les responsables de la sécurité à s'adapter au paysage des menaces en constante évolution, avec des insights du Bureau du RSSI de Google Cloud.
+Temps de lecture : 5 min
+Centre des insights du conseil d'administration
+Des informations et des bonnes pratiques conçues pour aider les conseils d'administration à prendre des décisions en matière de sécurité et à garantir des opérations résilientes et sécurisées.
+Temps de lecture : 5 min
+The Cyber Savvy Boardroom
+Le bureau du responsable de la sécurité de Google Cloud vous propose des insights stratégiques mensuels de responsables de la sécurité, de dirigeants et de membres de conseils d'administration pour vous aider à façonner en toute confiance la stratégie de sécurité et l'avenir de votre organisation.
+la transformation de votre stratégie de sécurité dès aujourd'hui
+Rejoignez notre communauté d'experts en sécurité pour développer vos compétences et partager vos connaissances
+Communauté d'experts en sécurité Google Cloud
+Découvrez les bonnes pratiques pour atteindre vos objectifs de sécurité et de conformité.
+Centre des bonnes pratiques de sécurité
+Faites évoluer les compétences en cybersécurité de votre entreprise avec la Mandiant Academy
+Parcourir les cours disponibles

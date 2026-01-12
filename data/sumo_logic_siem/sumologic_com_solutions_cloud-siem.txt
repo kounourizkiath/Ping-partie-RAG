@@ -1,0 +1,140 @@
+Source: https://www.sumologic.com/solutions/cloud-siem/
+Scraped: 2025-12-22 21:03:45
+================================================================================
+
+Sumo Logic Cloud SIEM | Real-time detection, AI-powered response | Sumo Logic
+Schedule a demo with a Sumo Logic expert.
+Watch a pre-recorded demo at your own pace.
+Interactive product tours
+Explore our clickable demos.
+Discuss how Sumo Logic fits your needs.
+Trial the platform and access pre-built dashboards.
+Multi-agent AI platform
+Monitor, troubleshoot, automate, and defend
+Proprietary algorithms, machine learning, and generative AI
+See our latest releases
+Multi-agent AI platform
+Intelligent Security Operations
+Discover threats faster and respond smarter
+Unlock cloud security with powerful log visibility
+Intelligent Cloud Operations
+Monitoring and Troubleshooting
+Log analytics to detect and resolve issues fast
+Powerful integrations
+Trusted and certified
+All an engineer has to do is click a link, and they have everything they need in one place. That level of integration and simplicity helps us respond faster and more effectively.
+Global Technical Information Security Officer (TISO), Bugcrowd
+BY OBSERVABILITY USE CASE
+Infrastructure Monitoring
+Application Observability
+Kubernetes Monitoring
+vs Microsoft Sentinel
+Gartner Critical Capabilities report
+Secure your Slack environment
+Top five Sumo Logic shortcuts
+How log management protects your security stack
+OpenTelemetry Collector
+Schedule a demo with a Sumo Logic expert.
+Watch a pre-recorded demo at your own pace.
+Interactive product tours
+Explore our clickable demos.
+Discuss how Sumo Logic fits your needs.
+Trial the platform and access pre-built dashboards.
+Real-time threat detection. AI-guided investigation.
+Sumo Logic Cloud SIEM helps your team detect, investigate, and respond to threats with faster behavioral analytics and automation—powered by real-time data and logs-first intelligence.
+Ready to see the platform?
+Sumo Logic cloud-native SIEM
+Build a resilient and intelligent SOC with a SIEM that actually works.
+Sumo Logic Cloud SIEM provides security analysts and SOC managers with enhanced visibility across the enterprise to thoroughly understand the scope and context of an attack. Streamlined workflows automatically triage alerts to detect known and unknown threats faster.
+MITRE ATT&CK coverage explorer
+Coverage Explorer by Sumo Logic
+Sumo Logic Cloud SIEM tool providing a comprehensive view of adversary tactics, techniques and procedures (TTPs) covered by rules in the Cloud SIEM. By mapping your detection capabilities to this matrix, you can identify areas of strength, uncover gaps in your defenses and prioritize enhancements based on the evolving threat landscape.
+Does your security team need to align when it comes to critical threats? Sumo Logic Cloud SIEM combines event management with an interactive heads-up display to deliver threat intelligence and analytics to prioritize alerts.
+Cloud SIEM parses, maps and creates normalized records from your structured and unstructured data and correlates detected threats to reduce log events.
+The unified UI across SIEM, Logs, and Automation reduces alert fatigue through streamlined workflows and enriched, actionable alerts powered by real-time threat intelligence aggregated from multiple trusted sources—including custom-curated feeds.
+Reduce alert fatigue with our Insight Engine, which aligns with the MITRE ATT&CK framework. Its adaptive Signal clustering algorithm automatically groups related Signals, accelerating alert triage. Once the aggregated risk surpasses a threshold, it automatically generates an Insight to help you focus on the threats that matter most.
+The Summary Agent creates AI-generated summaries of signals within an Insight, reducing noise and highlighting key context. Analysts get a clear explanation of how an Insight was triggered, making it easier to assess scope, prioritize response, and share a consistent narrative without reviewing raw logs or events
+Browse insight generation docs
+User and Entity Behavior Analytics (UEBA)
+Detect insider threats, compromised accounts, and policy violations faster. Sumo Logic
+user and entity behavior in minutes—training models on historical data to reduce false positives and surface high-risk anomalies with precision.
+Intuitive investigation
+Investigations become faster and more intuitive with Mobot, the Query Agent, and Sumo Logic’s entity-centric relationship graph working together. Analysts ask questions in natural language, the Query Agent translates them into precise queries, and the entity model connects users, devices, and behaviors to reveal context. Together, they simplify complex analysis, helping teams move from alert to understanding with clarity and speed.
+Built-in automation and playbooks
+Automatically add context to alerts through enrichment and notification actions,
+using playbooks to quickly prioritize
+, investigate and better understand potential security threats.
+Choose from hundreds of out-of-the-box integrations and playbooks — or write your own. Sumo Logic Cloud SIEM Automation Service allows you to execute playbooks manually or automatically when an insight is created or closed.
+Threat detection, investigation, and response
+Cloud SIEM empowers security teams to swiftly detect, investigate, and neutralize cyber threats using real-time data and automated responses.
+Detection-as-Code support helps security teams version and manage SIEM rules in GitHub—bringing DevSecOps rigor to detection pipelines and significantly reducing rule drift.
+Explore TDIR solution
+The advantage of Sumo Logic’s Cloud SIEM technology
+Build your security operation center (SOC).
+Save four hours per security threat investigation while reducing false positives by 90%
+Go beyond prioritized alerts. Accelerate threat hunting with actionable Insights enriched with user and network context.
+Cloud-native architecture
+Scale as needed. Our SIEM provides multi-tenant scaling and elasticity to deliver SOC efficiency for security teams.
+Learn user behaviors faster for smarter anomaly detection with fewer false positives.
+Threat intelligence enrichment
+Threat intel from multiple trusted sources—including your own curated feeds—contextualizes every alert to accelerate investigation and response.
+Manage detection rules like software, synced directly with GitHub.
+Smarter analyst experience
+Work across logs, detections, and automation with one consistent experience.
+Gartner Critical Capabilities report
+IDC’s ROI report: The business value of Sumo Logic
+Sumo Logic Cloud SIEM overview
+Bugcrowd cuts costs with unified security platform
+How TrueLayer saved >1,000 hours per year in troubleshooting
+How to evaluate SIEM solutions
+Still have questions?
+software combines the capabilities of security information management (SIM) and security event management (SEM) tools.
+SIM technology collects information from a log consisting of various data types. In contrast, SEM looks more closely at specific types of events.
+Together, you can collect, monitor and analyze security-related data from automatically generated computer logs while centralizing computer log data from multiple sources. This comprehensive security solution enables a formalized incident response process.
+Typical functions of a SIEM software tool include:
+Collecting, analyzing and presenting security-related data
+Real-time analysis of security alerts
+Logging security data and generating reports
+Identity and access management
+Log auditing and review
+Incident response and security operations
+SIEM delivers superior incident response and enterprise security outcomes through several key capabilities, including:
+– SIEM tools aggregate event and system logs and security data from various sources and applications in one place.
+– SIEM tools use various correlation techniques to link bits of data with common attributes and help turn that data into actionable information for SecOps teams.
+– SIEM tools can be configured to automatically alert SecOps or IT teams when predefined signals or patterns are detected that might indicate a security event.
+– SIEM tools are designed to store large volumes of log data, ensuring that security teams can correlate data over time and enabling forensic investigations into threats or cyber-attacks that may have initially gone undetected.
+Parsing, log normalization and categorization
+– SIEM tools make it easier for organizations to parse through logs that might have been created weeks or even months ago. Parsing, log normalization and categorization are additional features of SIEM tools that make logs more searchable and help to enable forensic analysis, even with millions of log entries to sift through.
+Popular SIEM use cases include:
+– Streamline the compliance process to meet data security and privacy compliance regulations. For example, to comply with the PCI DSS, data security standards for merchants that collect credit card information from their customers, SIEM monitors network access and transaction logs within the database to verify that there has been no unauthorized access to customer data.
+– Increase the efficiency and timeliness of incident response activities. When a breach is detected, SecOps teams can use SIEM software to quickly identify how the attack breached enterprise security systems and what hosts or applications were affected by the breach. SIEM tools can even respond to these attacks through automated mechanisms.
+Vulnerability management
+– Proactively test your network and IT infrastructure to detect and address possible entry points for cyber attacks. SIEM software tools are an important data source for discovering new vulnerabilities, along with network vulnerability testing, staff reports and vendor announcements.
+– Collaborate closely to reduce your vulnerability to advanced persistent threats (APTs) and zero-day threats. SIEM software tools provide a framework for collecting and analyzing log data that is generated within your application stack. With UEBA, you can proactively discover insider threats.
+Sumo Logic Cloud SIEM is part of the
+Sumo Logic security platform
+, a cloud-native multi-use solution powered by logs. In addition to Cloud SIEM, Sumo Logic’s robust log analytics platform supports Infrastructure Monitoring, Application Observability and Logs for Security for monitoring, troubleshooting and securing your apps.
+Customers choose Sumo Logic SIEM for these differentiated features:
+One integrated log analytics platform
+– a single integrated solution for developers, security, operations and LOB teams.
+Cloud-native, distributed architecture
+– scalable, multi-tenant platform powered by logs that never drop your data.
+Tiered analytics and credit licensing
+– enjoy flexible subscriptions that scale as your data grows faster than your budget.
+Machine learning and advanced analytics
+– identify, investigate and resolve issues faster with machine learning.
+Out-of-the-box audit and compliance
+– you can easily demonstrate compliance with the broadest certifications and attestations.
+– We invest millions each year on certifications, attestations, pen testing, code review and paid bug bounty programs.
+Ready to build an intelligent security operation?
+Experience the SIEM that connects the dots—from detection to automation.
+Monitoring and Troubleshooting
+Sumo Logic vs. Splunk
+Sumo Logic vs Google SecOps
+Sumo Logic vs. Datadog
+Sumo Logic vs. Elastic Cloud
+Sumo Logic vs. Coralogix
+Sumo Logic vs. QRadar
+Security Trust Center
+Application modernization
+Digital customer experience

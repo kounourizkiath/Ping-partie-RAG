@@ -1,0 +1,51 @@
+Source: https://cloud.google.com/chronicle/docs/overview
+Scraped: 2025-12-22 20:56:45
+================================================================================
+
+Passer au contenu principal
+Español – América Latina
+Google Security Operations
+Commencer l'essai gratuit
+Cette page a été traduite par l'
+API Cloud Translation
+Google Security Operations
+Restez organisé à l'aide des collections
+Enregistrez et classez les contenus selon vos préférences.
+Présentation de Google Security Operations SIEM
+Google Security Operations SIEM est un service cloud, conçu comme une couche spécialisée au-dessus de l'infrastructure Google de base. Il permet aux entreprises de conserver, d'analyser et de rechercher de manière privée les énormes quantités de données télémétriques de sécurité et de réseau qu'elles génèrent.
+Google Security Operations normalise, indexe, corrèle et analyse les données pour fournir une analyse instantanée et du contexte sur les activités à risque.
+Google Security Operations vous permet d'examiner les informations de sécurité agrégées de votre entreprise qui remontent à plusieurs mois ou plus. Utilisez Google Security Operations pour effectuer des recherches dans tous les domaines auxquels votre entreprise a accès. Vous pouvez affiner votre recherche pour trouver un composant, un domaine ou une adresse IP spécifiques afin de déterminer si une compromission a eu lieu.
+Présentation de la plate-forme Google Security Operations
+Google Security Operations peut ingérer de nombreux types de télémétrie de sécurité par le biais de différentes méthodes, y compris les suivantes :
+Transmetteur : composant logiciel léger déployé dans le réseau du client, qui est compatible avec syslog, la capture de paquets et les dépôts de données existants de gestion des journaux ou de gestion des informations et des événements de sécurité (SIEM).
+Collecteur : composant logiciel déployé dans le réseau du client, qui prend en charge de nombreuses sources de données acheminées vers Google SecOps.
+API d'ingestion : API qui permettent d'envoyer des journaux directement à la plate-forme Google Security Operations, ce qui élimine le besoin de matériel ou de logiciel supplémentaire dans les environnements client.
+Intégrations tierces : intégration aux API cloud tierces pour faciliter l'ingestion des journaux, y compris des sources telles qu'Office 365 et Azure AD.
+Les fonctionnalités analytiques de Google Security Operations sont proposées aux professionnels de la sécurité sous la forme d'une application simple basée sur un navigateur. Bon nombre de ces fonctionnalités sont également accessibles de manière programmatique via les API de lecture.
+Google Security Operations permet aux analystes de déterminer la nature d'une menace potentielle, son fonctionnement, son importance et la meilleure façon d'y répondre.
+Sécurité et conformité
+Google Security Operations est une couche privée spécialisée basée sur l'infrastructure Google principale. Elle hérite des capacités de calcul et de stockage, ainsi que de la conception et des fonctionnalités de sécurité de cette infrastructure.
+Dans le cadre de sa conception de sécurité, Google SecOps stocke les identifiants utilisateur (par exemple, les identifiants que vous fournissez pour qu'un flux Google SecOps puisse ingérer des données de journaux à partir d'une API tierce) dans
+Fonctionnalités de Google Security Operations
+Analyse des journaux bruts : recherchez dans vos journaux bruts non analysés.
+Expressions régulières : recherchez dans vos journaux bruts non analysés à l'aide d'expressions régulières.
+Vue "Composants" : examinez les composants de votre entreprise et vérifiez s'ils ont interagi avec des domaines suspects.
+Vue "Adresse IP" : examinez des adresses IP spécifiques au sein de votre entreprise et leur impact sur vos composants.
+Vue Hachage : recherchez des fichiers et examinez-les en fonction de leur valeur de hachage.
+Vue "Domaine" : examinez des domaines spécifiques de votre entreprise et leur impact sur vos composants.
+Vue "Utilisateur" : examinez les utilisateurs de votre entreprise qui ont pu être affectés par des événements de sécurité.
+Filtrage procédural : affinez les informations sur un composant, y compris par type d'événement, source de journaux, état de la connexion réseau et domaine de premier niveau (TLD).
+Informations sélectionnées
+Blocs d'insights sur les composants : mettent en évidence les domaines et les alertes que vous pourriez vouloir examiner plus en détail.
+Graphique de prévalence : indique le nombre de domaines auxquels un composant a été associé au cours d'une période donnée.
+Vous pouvez utiliser le moteur de détection Google Security Operations pour automatiser la recherche de problèmes de sécurité dans vos données. Vous pouvez spécifier des règles pour rechercher toutes vos données entrantes et recevoir une notification lorsque des menaces potentielles et connues apparaissent dans votre entreprise.
+Vous pouvez lancer VirusTotal depuis Google Security Operations pour examiner plus en détail un composant, un domaine ou une adresse IP en cliquant sur
+Vous avez encore besoin d'aide ?
+Obtenez des réponses de membres de la communauté et de professionnels Google SecOps.
+Sauf indication contraire, le contenu de cette page est régi par une licence
+Creative Commons Attribution 4.0
+, et les échantillons de code sont régis par une licence
+. Pour en savoir plus, consultez les
+Règles du site Google Developers
+. Java est une marque déposée d'Oracle et/ou de ses sociétés affiliées.
+Dernière mise à jour le 2025/12/16 (UTC).

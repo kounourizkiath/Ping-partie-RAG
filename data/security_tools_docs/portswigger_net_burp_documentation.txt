@@ -1,0 +1,10 @@
+Source: https://portswigger.net/burp/documentation
+Scraped: 2025-12-22 20:51:43
+================================================================================
+
+Burp Suite documentation - PortSwigger
+Burp Suite documentation
+This documentation describes the functionality of all editions of Burp Suite and related components. Use the links below to get started:
+Burp Suite Professional and Community editions
+Full documentation contents
+Like any security testing software, Burp Suite contains functionality that can damage target systems. Testing for security flaws inherently involves interacting with targets in non-standard ways that can cause problems in some vulnerable targets. You should take due care when using Burp, read all documentation before use, back up target systems before testing, and not use Burp against any systems for which you are not authorized by the system owner, or for which the risk of damage is not accepted by you and the system owner.

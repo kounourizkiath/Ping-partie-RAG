@@ -1,0 +1,54 @@
+Source: https://www.cisa.gov/topics/cybersecurity-best-practices
+Scraped: 2025-12-22 20:49:20
+================================================================================
+
+Cybersecurity Best Practices | Cybersecurity and Infrastructure Security Agency CISA
+Official websites use .gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+no-cost Cyber Services
+Holiday Online Shopping Safety
+Cybersecurity Best Practices
+CISA provides information on cybersecurity best practices to help individuals and organizations implement preventative measures and manage cyber risks.
+Cyberspace is particularly difficult to secure due to a number of factors: the ability of malicious actors to operate from anywhere in the world, the linkages between cyberspace and physical systems, and the difficulty of reducing vulnerabilities and consequences in complex cyber networks. Implementing safe cybersecurity best practices is important for individuals as well as organizations of all sizes. Using strong passwords, updating your software, thinking before you click on suspicious links, and turning on multi-factor authentication are the basics of what we call “cyber hygiene” and will drastically improve your online safety. These cybersecurity basics apply to both individuals and organizations. For both government and private entities, developing and implementing tailored cybersecurity plans and processes is key to protecting and maintaining business operations. As information technology becomes increasingly integrated with all aspects of our society, there is increased risk for wide scale or high-consequence events that could cause harm or disrupt services upon which our economy and the daily lives of millions of Americans depend.
+In light of the risk and potential consequences of cyber events, CISA strengthens the security and resilience of cyberspace, an important homeland security mission. CISA offers a range of cybersecurity services and resources focused on operational resilience, cybersecurity practices, organizational management of external dependencies, and other key elements of a robust and resilient cyber framework. CISA helps individuals and organizations communicate current cyber trends and attacks, manage cyber risks, strengthen defenses, and implement preventative measures. Every mitigated risk or prevented attack strengthens the cybersecurity of the nation.
+It's time to build cybersecurity into the design and manufacture of technology products.
+Cybersecurity Best Practices Services
+Explore the cybersecurity services CISA offers that are available to Federal Government; State, Local, Tribal and Territorial Government; Industry; Educational Institutions; and General Public stakeholders.
+Cyber Storm: Securing Cyber Space
+The exercise series brings together the public and private sectors to simulate discovery of and response to a significant cyber incident impacting the Nation’s critical infrastructure.
+This course is ideal for those working in cybersecurity roles who are interested in learning technical incident response skills and requires active engagement from all participants.
+Discover the latest CISA news on Cybersecurity Best Practices.
+View All News on Cybersecurity Best Practices
+CISA Launches New Platform to Strengthen Industry Engagement and Collaboration
+CISA, NSA and Cyber Centre Warn Critical Infrastructure of BRICKSTORM Malware Used by People’s Republic of China State-Sponsored Actors
+New Joint Guide Advances Secure Integration of Artificial Intelligence in Operational Technology
+CISA Adds Two Known Exploited Vulnerabilities to Catalog
+CISA has added two new vulnerabilities to its KEV Catalog, based on evidence of active exploitation.
+View All News on Cybersecurity Best Practices
+Use CISA's resources to gain important cybersecurity best practices knowledge and skills.
+If You See Something, Say Something
+Everyone has the power to stop a threat and help secure the nation. Read about how, by just reporting suspicious activity or strange behavior, you play an essential role in keeping our communities safe and secure.
+No-Cost Cybersecurity Services & Tools
+CISA offers a range of cybersecurity assessments that evaluate operational resilience, cybersecurity practices, organizational management of external dependencies, and other key elements of a robust and resilient cyber framework.
+Healthcare and Public Health Cybersecurity
+Together, CISA brings technical expertise as the nation’s cyber defense agency, HHS offers extensive expertise in healthcare and public health, and the HSCC Cybersecurity Working Group offers the practical expertise of industry experts.
+Services and Training
+Services and Training
+CISA Tabletop Exercise Packages
+INCREASE YOUR RESILIENCE
+Contact: cisa.exercises@mail.cisa.dhs.gov
+A comprehensive set of resources designed to assist stakeholders in conducting their own exercises and initiating discussions within their organizations about their ability to address a variety of threat scenarios.
+RESPOND TO AN INCIDENT
+CISA's Malware Analysis service provides stakeholders a dynamic analysis of malicious code, including recommendations for malware removal and recovery activities.
+Foundational, Intermediate, Advanced
+State, Local, Tribal, and Territorial Stakeholder Cybersecurity Fundamentals Workshops
+INCREASE YOUR RESILIENCE
+Fundamentals Workshop for local officials to learn about common cybersecurity threats as well as basic security practices.
+Foundational, Intermediate, Advanced
+Services and Training
+Need CISA's help but don't know where to start?
+Organizations can also report anomalous cyber activity and/or cyber incidents 24/7 to
+Contact@mail.cisa.dhs.gov
+or by calling 1-844-Say-CISA (1-844-729-2472)

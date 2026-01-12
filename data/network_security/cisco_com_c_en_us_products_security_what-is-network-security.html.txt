@@ -1,0 +1,72 @@
+Source: https://www.cisco.com/c/en/us/products/security/what-is-network-security.html
+Scraped: 2025-12-22 20:55:12
+================================================================================
+
+What Is Network Security? - Cisco
+What is network security?
+Network security is the protection of the underlying networking infrastructure from unauthorized access, misuse, or theft. It involves creating a secure infrastructure for devices, applications, users, and applications to work in a secure manner.
+Cisco Secure Firewall
+How does network security work?
+Network security combines multiple layers of defenses at the edge and in the network. Each network security layer implements policies and controls. Authorized users gain access to network resources, but malicious actors are blocked from carrying out
+How do I benefit from network security?
+Digitization has transformed our world. How we live, work, play, and learn have all changed. Every organization that wants to deliver the services that customers and employees demand must protect its network. Network security also helps you protect proprietary information from attack. Ultimately it protects your reputation.
+Types of network security
+A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. Cisco offers both threat-focused firewalls and
+unified threat management
+Explore Cisco Secure Firewall
+Workload security protects workloads moving across different cloud and hybrid environments. These distributed workloads have larger attack surfaces, which must be secured without affecting the agility of the business.
+Explore Cisco Secure Workload
+NetWORK security is Cisco's vision for simplifying network, workload, and multicloud security by delivering unified security controls to dynamic environments.
+Explore our NetWORK vision
+Software-defined segmentation puts network traffic into different classifications and makes
+enforcing security policies
+easier. Ideally, the classifications are based on endpoint identity, not mere IP addresses. You can assign access rights based on role, location, and more so that the right level of access is given to the right people and suspicious devices are contained and remediated.
+Learn about network segmentation
+A virtual private network encrypts the connection from an endpoint to a network, often over the internet. Typically, a remote-access VPN uses IPsec or Secure Sockets Layer to authenticate the communication between device and network.
+Not every user should have access to your network. To keep out potential attackers, you need to recognize each user and each device. Then you can enforce your security policies. You can block noncompliant endpoint devices or give them only limited access. This process is network access control (NAC).
+Cisco Identity Services Engine
+Anti-virus and anti-malware software
+"Malware," short for "malicious software," includes viruses, worms, Trojans, ransomware, and spyware. Sometimes malware will infect a network but lie dormant for days or even weeks. The
+best antimalware programs
+not only scan for malware upon entry, but also continuously track files afterward to find anomalies, remove malware, and fix damage.
+Learn about Cisco Secure Endpoint
+Any software you use to run your business needs to be protected, whether your IT staff builds it or whether you buy it. Unfortunately, any application may contain holes, or vulnerabilities, that attackers can use to infiltrate your network. Application security encompasses the hardware, software, and processes you use to close those holes.
+Full-stack Observability
+Cisco application-first products
+Security Advisory Services
+To detect abnormal network behavior, you must know what normal behavior looks like. Behavioral analytics tools automatically discern activities that deviate from the norm. Your security team can then better identify indicators of compromise that pose a potential problem and quickly remediate threats.
+Cisco Secure Network Analytics
+Built-in security analytics across Cisco
+Cloud security is a broad set of technologies, policies, and applications applied to defend online IP, services, applications, and other imperative data. It helps you better manage your security by shielding users against threats anywhere they access the internet and securing your data and applications in the cloud.
+Explore cloud security solutions
+Organizations must make sure that their staff does not send sensitive information outside the network. Data loss prevention, or DLP, technologies can stop people from uploading, forwarding, or even printing critical information in an unsafe manner.
+Learn about data loss prevention
+Email gateways are the number one threat vector for a security breach. Attackers use personal information and social engineering tactics to build sophisticated phishing campaigns to deceive recipients and send them to sites serving up malware. An email security application blocks incoming attacks and controls outbound messages to prevent the loss of sensitive data.
+Industrial network security
+As you are digitizing your industrial operations, the deeper integration between IT, cloud, and industrial networks is exposing your Industrial Control Systems (ICS) to cyberthreats. You need full visibility into your OT security posture to segment the industrial network, and feed IT security tools with rich details on OT devices and behaviors.
+Explore Cisco industrial/OT security
+Learn about Cisco Cyber Vision
+Mobile device security
+Cybercriminals are increasingly targeting mobile devices and apps. Within the next three years, 90 percent of IT organizations may support corporate applications on personal mobile devices. Of course, you need to control which devices can access your network. You will also need to configure their connections to keep network traffic private.
+Learn about Cisco Meraki
+Security information and event management
+SIEM products pull together the information that your security staff needs to identify and respond to threats. These products come in various forms, including physical and virtual appliances and server software.
+Identity Services Engine with SIEM
+A web security solution will control your staff's web use, block web-based threats, and deny access to malicious websites. It will protect your web gateway on site or in the cloud. "Web security" also refers to the steps you take to protect your own website.
+Cisco Secure Web Appliance
+Wireless networks are not as secure as wired ones. Without stringent security measures, installing a wireless LAN can be like putting Ethernet ports everywhere, including the parking lot. To prevent an exploit from taking hold, you need products specifically designed to protect a wireless network.
+Cisco Aironet AP Module for Wireless Security
+Explore Cisco Cybersecurity Viewpoints
+Network Security Products
+Latest Cybersecurity Report
+Small Business Security
+Industrial/OT security
+Related network security topics
+What Is Vulnerability Management?
+What Is Antivirus Protection?
+What Are Cyberattacks?
+What Is Cybersecurity?
+What Is Email Security?
+Web Security - Try Umbrella for free
+Trusted Access 2FA - Try Duo for free
+Cisco Network Security Blog

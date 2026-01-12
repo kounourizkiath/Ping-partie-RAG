@@ -1,0 +1,34 @@
+Source: https://azure.microsoft.com/en-us/products/category/security/
+Scraped: 2025-12-22 21:05:40
+================================================================================
+
+Cloud Security | Microsoft Azure
+This is the Trace Id: e067d8e77d99c28275b1890098ab7d52
+Strengthen the security of your cloud workloads with built-in services.
+Protect data, apps, and infrastructure quickly with built-in security services in Azure that include unparalleled security intelligence to help identify rapidly evolving threats early—so you can respond quickly. Implement a layered, defense in-depth strategy across identity, data, hosts, and networks. Unify security management and enable advanced threat protection across hybrid cloud environments.
+Find the security product you need
+Unify security management and enable advanced threat protection for workloads in the cloud and on-premises
+Microsoft Defender for Cloud
+Safeguard cryptographic keys and other secrets used by cloud apps and services
+Protect your Azure resources from denial of service threats
+Azure DDoS Protection
+Control and help secure email, documents, and sensitive data that you share outside your company
+Azure Information Protection
+Protect your applications from common web vulnerabilities and exploits with a built-in web application firewall
+A fully managed and unified remote attestation service to validate multiple Trusted Execution Environments (TEEs) in Azure
+Microsoft Azure Attestation
+Store unstructured data that is completely tamper-proof and can be cryptographically verified
+Azure Confidential Ledger
+Unified threat protection for all your IoT/OT devices
+Microsoft Defender for IoT
+Lift-and-shift On-Prem to Azure and require support for PKC#11, OpenSSL, JCE, KSP/CNG.
+Customers are doing great things with Azure security management solutions
+Slide %{start} of %{total}. %{slideTitle}
+Merrill Corporation, a provider of secure document sharing, innovates faster in the cloud
+"Microsoft has made a $1 billion investment in Azure security and compliance. Also, Azure has by far the largest public cloud provider footprint, with more than 100 datacenters."
+Brad Smuland, Chief Information Officer
+Icertis offers security of the cloud for its enterprise contract management solution
+"Having one more tools in our arsenal that gives our customers peace of mind about the security of their contractual data is critical to our business."
+Monish Dada, Co-founder and Chief Information Officer
+End of banner section
+Ask Microsoft is available 24x7.

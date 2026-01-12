@@ -1,0 +1,64 @@
+Source: https://www.elastic.co/guide/en/siem/guide/current/siem-overview.html
+Scraped: 2025-12-22 20:55:59
+================================================================================
+
+Overview | SIEM Guide [7.8] | Elastic
+The SIEM app is now a part of the Elastic Security solution.
+to view the current documentation.
+: No additional bug fixes or documentation updates will be
+released for this version.
+: This documentation is no longer updated. Refer to
+Elastic's version policy
+SIEM enables analysis of host-related and network-related security events
+as part of alert investigations or interactive threat hunting.
+The SIEM app in Kibana provides an interactive workspace for security teams to
+triage events and perform initial investigations. Additionally,
+machine learning anomaly detection jobs
+detection engine rules
+automatically detect suspicious activity across your entire fleet of servers
+SIEM requires the following Elastic Stack components.
+Elastic Endpoint Security
+is an endpoint security platform and agent that provides prevention, detection,
+and response capabilities. It ships events and security alerts directly to Elasticsearch.
+are open source data shippers
+that you install as agents on your systems. Beats send security events and other
+data to Elasticsearch.
+distributed storage, search, and analytics engine. Elasticsearch excels at indexing
+streams of semi-structured data, such as logs or metrics.
+is an open source analytics and
+visualization platform designed to work with Elasticsearch. You use Kibana to search,
+view, and interact with data stored in Elasticsearch indices. You can easily perform
+advanced data analysis and visualize your data in a variety of charts, tables,
+Additional Elastic components
+You can use SIEM with other Elastic products and features to help you
+identify and investigate suspicious activity:
+SIEM can ingest and analyze data from a variety of sources, including Elastic
+Endpoint Security, Beats and Beats modules,
+collectors mapped to the
+Elastic Common Schema (ECS)
+System module  - Linux, macOS, Win
+Auditd module (Linux Kernel Audit info)
+File integrity module (FIM) - Linux, macOS, Win
+system logs (auth logs) - Linux
+Windows event logs - Windows
+Iptables/Ubiquiti module
+Envoy proxy module (Kubernetes)
+Palo Alto Networks firewall module
+Cisco ASA firewall module
+Elastic Endpoint Sensor Management Platform
+The Sensor Management Platform (SMP) ships all relevant host and network data
+directly to the SIEM app.
+By default, the SIEM app monitors
+indices. To add additional APM indices, update the
+index patterns in the
+setting (Kibana → Management →
+Elastic Common Schema (ECS) for normalizing data
+Elastic Common Schema (ECS)
+defines a common set of fields to be used for
+storing event data in Elasticsearch. ECS helps users normalize their event data
+to better analyze, visualize, and correlate the data represented in their
+SIEM can ingest and normalize events from ECS-compatible data sources.
+events. The default value is
+, but you can change it in Beats
+Get Started with Elasticsearch
+ELK for Logs & Metrics

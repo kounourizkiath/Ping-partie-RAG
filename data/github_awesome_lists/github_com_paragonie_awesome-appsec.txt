@@ -1,0 +1,254 @@
+Source: https://github.com/paragonie/awesome-appsec
+Scraped: 2025-12-22 20:51:20
+================================================================================
+
+You must be signed in to change notification settings
+A curated list of resources for learning about application security
+paragonie.com/projects
+You must be signed in to change notification settings
+paragonie/awesome-appsec
+Open more actions menu
+Repository files navigation
+A curated list of resources for learning about application security. Contains books,
+websites, blog posts, and self-assessment quizzes.
+Paragon Initiative Enterprises
+contributions from the application security and developer communities. We also
+other community projects
+useful for tomorrow's application security experts.
+If you are an absolute beginner to the topic of software security, you may benefit
+A Gentle Introduction to Application Security
+Please refer to the contributing guide for details
+Application Security Learning Resources
+How to Safely Generate a Random Number
+Salted Password Hashing - Doing it Right
+A good idea with bad usage: /dev/urandom
+Why Invest in Application Security?
+Be wary of one-time pads and other crypto unicorns
+Web Application Hacker's Handbook
+Cryptography Engineering
+Gray Hat Python: Programming for Hackers and Reverse Engineers
+The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
+C Interfaces and Implementations: Techniques for Creating Reusable Software
+Reversing: Secrets of Reverse Engineering
+JavaScript: The Good parts
+Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition
+The Mac Hacker's Handbook
+The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler
+Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)
+Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices
+Computation Structures (MIT Electrical Engineering and Computer Science)
+Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection
+Secure Programming HOWTO
+Security Engineering - Third Edition
+Bulletproof SSL and TLS
+Holistic Info-Sec for Web Developers (Fascicle 0)
+Holistic Info-Sec for Web Developers (Fascicle 1)
+Offensive Computer Security (CIS 4930) FSU
+Security News Feeds Cheat-Sheet
+Open Security Training
+The Matasano Crypto Challenges
+OWASP Top Ten Project
+PureSec FunctionShield
+SEI CERT Android Secure Coding Standard
+SEI CERT C Coding Standard
+Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team
+SEI CERT C++ Coding Standard
+Memory Security in Go - spacetime.dev
+SEI CERT Java Coding Standard
+Secure Coding Guidelines for Java SE
+Node.js Security Checklist - Rising Stack Blog
+Awesome Electron.js hacking & pentesting resources
+Essential Node.js Security
+Security Training by ^Lift Security
+Security Training from BinaryMist
+Secure Authentication in PHP with Long-Term Persistence
+20 Point List For Preventing Cross-Site Scripting In PHP
+25 PHP Security Best Practices For Sys Admins
+PHP data encryption primer
+Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide
+You Wouldn't Base64 a Password - Cryptography Decoded
+A Guide to Secure Data Encryption in PHP Applications
+The 2018 Guide to Building Secure PHP Software
+Securing PHP: Core Concepts
+Using Libsodium in PHP Projects
+defuse/php-encryption
+ircmaxell/password_compat
+thephpleague/oauth2-server
+paragonie/random_compat
+Paragon Initiative Enterprises Blog
+SEI CERT Perl Coding Standard
+Python chapter of Fedora Defensive Coding Guide
+Black Hat Python: Python Programming for Hackers and Pentesters
+OWASP Python Security Wiki
+Secure Ruby Development Guide
+How to Safely Generate a Random Number
+Advice on cryptographically secure pseudo-random number generators.
+Salted Password Hashing - Doing it Right
+A good idea with bad usage: /dev/urandom
+Mentions many ways to make
+Why Invest in Application Security?
+Running a business requires being cost-conscious and minimizing unnecessary spending. The benefits of ensuring in the security of your application are invisible to most companies, so often times they neglect to invest in secure software development as a cost-saving measure. What these companies don't realize is the potential cost (both financial and to brand reputation) a preventable data compromise can incur.
+The average data breach costs millions of dollars in damage.
+Investing more time and personnel to develop secure software is, for most companies, worth it to minimize this unnecessary risk to their bottom line.
+Be wary of one-time pads and other crypto unicorns
+for anyone looking to build their own cryptography features.
+Web Application Hacker's Handbook
+Great introduction to Web Application Security; though slightly dated.
+Cryptography Engineering
+Develops a sense of professional paranoia while presenting crypto design techniques.
+Securing DevOps explores how the techniques of DevOps and Security should be applied together to make cloud services safer. This introductory book reviews state of the art practices used in securing web applications and their infrastructure, and teaches you techniques to integrate security directly into your product.
+Gray Hat Python: Programming for Hackers and Reverse Engineers
+The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
+C Interfaces and Implementations: Techniques for Creating Reusable Software
+Reversing: Secrets of Reverse Engineering
+JavaScript: The Good parts
+Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition
+The Mac Hacker's Handbook
+The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler
+Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)
+Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices
+Computation Structures (MIT Electrical Engineering and Computer Science)
+Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection
+Secure Programming HOWTO
+Security Engineering - Third Edition
+Bulletproof SSL and TLS
+Holistic Info-Sec for Web Developers (Fascicle 0)
+The first part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises.
+Holistic Info-Sec for Web Developers (Fascicle 1)
+The second part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, VPS, networks, cloud and web applications, that are delivered continuously, on time, with no nasty surprises.
+Offensive Computer Security (CIS 4930) FSU
+A vulnerability research and exploit development class by Owen Redwood of Florida State University.
+Be sure to check out the
+Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
+Learn about application security by attempting to hack this website.
+Where hackers and security experts come to train.
+Self-assessment quiz for web application security
+Secure passwords in several languages/frameworks.
+Security News Feeds Cheat-Sheet
+A list of security news sources.
+Open Security Training
+Video courses on low-level x86 programming, hacking, and forensics.
+Capture The Flag - Learn Assembly and Embedded Device Security
+The Matasano Crypto Challenges
+A series of programming exercises for teaching oneself cryptography by
+by Maciej Ceglowski explains it well.
+PentesterLab provides
+free Hands-On exercises
+An intentionally insecure Javascript Web Application.
+How to go on the offence before online attackers do.
+Purposly vulnerable to the OWASP Top 10 Node.JS web application, with
+security regression testing with the OWASP Zap API
+. With several options to get up and running fast.
+Bi-Weekly Appsec Tutorials
+OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by
+. You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.
+SecDim is an appsec edutainment platform,
+appsec with free git based labs. Think you got what it takes to build a secure app?
+with appsec games! Fix bugs, get a score and your name on the leaderboards.
+Showcasing bad cryptography
+The blog of NCC Group, formerly Matasano, iSEC Partners, and NGS Secure.
+Learn about security and performance.
+Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
+OWASP Top Ten Project
+The top ten most common and critical security vulnerabilities found in web applications.
+The infamous suite of SSL and TLS tools.
+Quickly and easily assess the security of your HTTP response headers.
+A free CSP and HPKP reporting service.
+Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share link. You can test HTTPS, HTTP, intranet & internal sites.
+PureSec FunctionShield
+FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes.
+SEI CERT Android Secure Coding Standard
+A community-maintained Wiki detailing secure coding standards for Android development.
+SEI CERT C Coding Standard
+A community-maintained Wiki detailing secure coding standards for C programming.
+Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team
+Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
+SEI CERT C++ Coding Standard
+A community-maintained Wiki detailing secure coding standards for C++ programming.
+An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
+Repository with Clojure examples of OWASP top 10 vulnerabilities.
+Memory Security in Go - spacetime.dev
+A guide to managing sensitive data in memory.
+SEI CERT Java Coding Standard
+A community-maintained Wiki detailing secure coding standards for Java programming.
+Secure Coding Guidelines for Java SE
+Secure Java programming guidelines straight from Oracle.
+Node.js Security Checklist - Rising Stack Blog
+Covers a lot of useful information for developing secure Node.js applications.
+Awesome Electron.js hacking & pentesting resources
+A curated list of resources to secure Electron.js-based applications.
+Essential Node.js Security
+Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
+Security Training by ^Lift Security
+Learn from the team that spearheaded the
+Node Security Project
+Security Training from BinaryMist
+We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the
+Kim has been working on for several years. More info can be found
+A gentle introduction to timing attacks in PHP applications
+Secure Authentication in PHP with Long-Term Persistence
+Discusses password policies, password storage, "remember me" cookies, and account recovery.
+20 Point List For Preventing Cross-Site Scripting In PHP
+Padriac Brady's advice on building software that isn't vulnerable to XSS
+25 PHP Security Best Practices For Sys Admins
+Though this article is a few years old, much of its advice is still relevant as we veer around the corner towards PHP 7.
+PHP data encryption primer
+@timoh6 explains implementing data encryption in PHP
+Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide
+- don't escape, use prepared statements instead!
+You Wouldn't Base64 a Password - Cryptography Decoded
+A human-readable overview of commonly misused cryptography terms and fundamental concepts, with example code in PHP.
+If you're confused about cryptography terms, start here.
+A Guide to Secure Data Encryption in PHP Applications
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use
+Defuse Security's secure PHP encryption library
+The 2018 Guide to Building Secure PHP Software
+This guide should serve as a complement to the e-book,
+, with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
+Securing PHP: Core Concepts
+Securing PHP: Core Concepts
+acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
+Using Libsodium in PHP Projects
+You shouldn't need a Ph.D in Applied Cryptography to build a secure web application. Enter libsodium, which allows developers to develop fast, secure, and reliable applications without needing to know what a stream cipher even is.
+defuse/php-encryption
+Symmetric-key encryption library for PHP applications. (
+over rolling your own!)
+ircmaxell/password_compat
+If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
+Useful for generating random strings or numbers
+thephpleague/oauth2-server
+A secure OAuth2 server implementation
+paragonie/random_compat
+PHP 7 offers a new set of CSPRNG functions:
+. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
+A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for
+secure "remember me" checkboxes
+A portable public domain password hashing framework for use in PHP applications.
+is dedicated to educating developers about security with topics relating to general security fundamentals, emerging technologies and PHP-specific information
+Paragon Initiative Enterprises Blog
+The blog of our technology and security consulting firm based in Orlando, FL
+A blog about PHP, Security, Performance and general web application development.
+Pádraic Brady is a Zend Framework security expert
+A weekly newsletter about PHP, security, and the community.
+SEI CERT Perl Coding Standard
+A community-maintained Wiki detailing secure coding standards for Perl programming.
+Python chapter of Fedora Defensive Coding Guide
+Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+Black Hat Python: Python Programming for Hackers and Pentesters
+Black Hat Python by Justin Seitz from NoStarch Press is a great book for the offensive security minds
+Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
+OWASP Python Security Wiki
+A wiki maintained by the OWASP Python Security project.
+Secure Ruby Development Guide
+A guide to secure Ruby development by the Fedora Security Team. Also available on
+A curated list of resources for learning about application security
+paragonie.com/projects
+There was an error while loading.
+Please reload this page
+No releases published
+No packages published
+There was an error while loading.
+Please reload this page
+There was an error while loading.
+Please reload this page
+You can’t perform that action at this time.

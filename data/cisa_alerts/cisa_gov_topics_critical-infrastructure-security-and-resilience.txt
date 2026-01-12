@@ -1,0 +1,70 @@
+Source: https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience
+Scraped: 2025-12-22 20:49:27
+================================================================================
+
+Critical Infrastructure Security and Resilience | Cybersecurity and Infrastructure Security Agency CISA
+Official websites use .gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+no-cost Cyber Services
+Holiday Online Shopping Safety
+Critical Infrastructure Security and Resilience
+CISA provides guidance to support state, local, and industry partners in identifying critical infrastructure needed to maintain the functions Americans depend on daily.
+Critical Infrastructure are those assets, systems, and networks that provide functions necessary for our way of life. There are
+16 critical infrastructure sectors
+that are part of a complex, interconnected ecosystem and any threat to these sectors could have potentially debilitating national security, economic, and public health or safety consequences. CISA provides guidance to support state, local, and industry partners in identifying the critical infrastructure sectors and the essential workers needed to maintain the services and functions Americans depend on daily.
+16 Critical Infrastructure Sectors
+There are 16 critical infrastructure sectors that are part of a complex, interconnected ecosystem.
+Whistleblower Retaliation
+If you work in any of these Critical Infrastructure Sectors and you feel you’ve been retaliated against for raising concerns to your employer or regulators about critical infrastructure, you may contact the U.S. Department of Labor Occupational Safety and Health Administration (OSHA).  OSHA’s Whistleblower Protection Program enforces over 20 anti-retaliation statutes that may protect your report. More information can be found at the link below. Complaints with OSHA can be filed
+Learn about important initiatives that support and protect our vital critical infrastructure systems.
+Shields Ready drives action at the intersection of critical infrastructure resilience and national preparedness. The focus is on making resilience during incidents a reality by taking action before incidents occur.
+Cybersecurity for K-12
+CISA is placing a focus on working with the K-12 education sector to help raise awareness and understanding of the risks as well as to change behaviors that put us at risk of phishing and other online attacks.
+Healthcare and Public Health Cybersecurity
+To help improve cybersecurity within the HPH sector, CISA and our partners are working together to deliver tools, resources, training, and information that can help organizations within this sector.
+Water and Wastewater Cybersecurity
+This toolkit highlights the most relevant CISA and EPA resources to protect against, and reduce impacts from, threats posed by malicious cyber actors looking to attack water and wastewater systems.
+Check out the latest blogs, press releases, and alerts and advisories from CISA.
+More Critical Infrastructure News
+CISA Urges Critical Infrastructure to Be Air Aware
+Forging National Resilience for an Era of Disruption
+CISA Through the Years: Policy and Impact
+Target Rich, Cyber Poor: Strengthening Our Nation’s Critical Infrastructure Sectors
+More Critical Infrastructure News
+Critical Infrastructure Exercises
+CISA works with partners to design and conduct exercises that range from small-scale, discussion-based exercises to large-scale, operations-based exercises. CISA also offers a wide portfolio of downloadable
+CISA Tabletop Exercise Packages (CTEPs)
+to serve as an off-the-shelf solution for a variety of stakeholders’ exercise needs.
+See all Critical Infrastructure Exercises
+Cybersecurity Scenarios
+| PUBLICATION, EXERCISE, TRAINING
+Cybersecurity Scenarios
+These CTEPs include cybersecurity-based scenarios that incorporate various cyber threat vectors including ransomware, insider threats, phishing, and Industrial Control System (ICS) compromise. There are also sector-specific cybersecurity scenarios for elec
+Physical Security Scenarios
+| PUBLICATION, EXERCISE, TRAINING
+The physical security Situation Manuals cover topics including active shooters, vehicle ramming, improvised explosive devices (IEDs), unmanned aerial systems (UASs), and more.
+Cyber-Physical Convergence Scenarios
+| PUBLICATION, EXERCISE, TRAINING
+Convergence CTEPs are those specifically designed to discuss the physical impacts resulting from a cyber threat vector, or cyber impacts resulting from a physical threat vector.
+CISA Tabletop Exercise Package Documentation
+CTEP package documentation allows users to leverage pre-built templates to develop a full understanding of roles and responsibilities for exercise planners, facilitators/evaluators, and participants. Your exercise planning team can fully develop your own tabletop exercise.
+See all Critical Infrastructure Exercises
+CISA offers a variety of services to support critical infrastructure resiliency and security.
+INCREASE YOUR RESILIENCE, ASSESS YOUR RISK LEVEL
+Contact: central@cisa.dhs.gov
+CISA Assist Visits help critical infrastructure owners and operators understand the importance of their facility, how their service fits into a critical infrastructure sector, and the CISA resources available to enhance their security and resilience.
+Exercise Planning and Conduct Support Services
+INCREASE YOUR RESILIENCE
+Contact: cisa.exercises@mail.cisa.dhs.gov
+CISA provides end-to-end exercise planning and conduct support to assist stakeholders in examining their cybersecurity and physical security plans and capabilities.
+Foundational, Intermediate, Advanced
+Infrastructure Survey Tool (IST)
+INCREASE YOUR RESILIENCE, ASSESS YOUR RISK LEVEL
+The Infrastructure Survey Tool (IST) is a voluntary, web-based assessment to identify and document the overall security and resilience of a facility.
+Multi-Asset and System Assessment (MASA)
+INCREASE YOUR RESILIENCE
+Contact: ISDAssessments@cisa.dhs.gov
+The Multi-Asset and System Assessment (MASA) is an interactive decision analysis tool intended for systems or campuses with a single owner to assess the enterprise as a whole and its individual assets.
+CISA Central is the simplest way for critical infrastructure partners and stakeholders to engage with CISA. Please contact

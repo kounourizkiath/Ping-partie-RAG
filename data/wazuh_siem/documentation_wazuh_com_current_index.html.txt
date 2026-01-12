@@ -1,0 +1,151 @@
+Source: https://documentation.wazuh.com/current/index.html
+Scraped: 2025-12-22 21:04:04
+================================================================================
+
+Configuration assessment
+File integrity monitoring
+Vulnerability detection
+Regulatory compliance
+Cloud workload protection
+Assisted installation
+Step-by-step installation
+Assisted installation
+Step-by-step installation
+Assisted installation
+Step-by-step installation
+Uninstalling the Wazuh central components
+Uninstalling the Wazuh agent
+Installation alternatives
+Amazon Machine Images (AMI)
+Wazuh Docker deployment
+Changing the default password of Wazuh users
+Building Docker images locally
+Wazuh Docker utilities
+Upgrading Wazuh Docker
+Uninstalling the Wazuh Docker deployment
+Deployment on Kubernetes
+Kubernetes configuration
+Upgrade Wazuh installed in Kubernetes
+Offline installation guide
+Install Wazuh components using the assisted method
+Install Wazuh components step by step
+Installation from sources
+Installing the Wazuh manager from sources
+Installing the Wazuh agent from sources
+Deployment with Ansible
+Remote endpoints connection
+Deployment with Puppet
+External API integration
+Architecture overview
+Types of nodes in a Wazuh server cluster
+How the Wazuh server cluster works
+Wazuh cluster nodes configuration
+Certificates deployment
+Adding new Wazuh server nodes
+Securing the Wazuh server API
+Role-Based Access Control
+Filtering data using Wazuh Query Language (WQL)
+Wazuh indexer indices
+Migrating Wazuh indices
+Wazuh indexer configuration on hardened endpoints
+Wazuh indexer cluster
+Certificates deployment
+Adding Wazuh indexer nodes
+Wazuh indexer cluster tuning
+Index lifecycle management
+Securing the Wazuh indexer API
+Navigating the Wazuh dashboard
+Creating custom dashboards
+Filtering data using Wazuh Query Language (WQL)
+Enabling multi-tenancy
+Configuring third-party SSL certificates
+Setting up custom branding
+Wazuh dashboard settings
+Certificates deployment
+Wazuh agent enrollment
+Wazuh agent management
+Testing decoders and rules
+MITRE ATT&CK framework
+Wazuh RBAC - How to create and map internal users
+File integrity monitoring
+Security Configuration Assessment
+Vulnerability detection
+Monitoring system calls
+Local configuration (ossec.conf)
+Centralized configuration (agent.conf)
+Internal configuration
+Unattended Installation
+Monitoring Amazon Web Services (AWS)
+Monitoring AWS instances
+Monitoring AWS based services
+Monitoring Microsoft Azure with Wazuh
+Monitoring Azure platform and services
+Microsoft Azure Log Analytics
+Microsoft Azure Storage
+Monitoring Microsoft Graph services with Wazuh
+Microsoft Intune integration
+Monitoring GitHub audit logs
+Monitoring Google Cloud
+Monitoring Google Cloud instances
+Monitoring Google Cloud services
+Cloud Security Posture Management
+Monitoring Office 365
+Monitoring Office 365 audit logs
+Regulatory compliance
+Using Wazuh for PCI DSS compliance
+Configuration assessment
+File integrity monitoring
+Vulnerability detection
+Visualization and dashboard
+Using Wazuh for GDPR compliance
+GDPR II, Principles <gdpr_II>
+GDPR III, Rights of the data subject <gdpr_III>
+GDPR IV, Controller and processor <gdpr_IV>
+Using Wazuh for HIPAA compliance
+Visualization and dashboard
+Configuration assessment
+File integrity monitoring
+Vulnerability detection
+Using Wazuh for NIST 800-53 compliance
+Visualization and dashboard
+Security configuration assessment
+File integrity monitoring
+Vulnerability detection
+Using Wazuh for TSC compliance
+The additional criteria
+Proof of Concept guide
+Blocking a known malicious actor
+File integrity monitoring
+Detecting a brute-force attack
+Monitoring Docker events
+Monitoring AWS infrastructure
+Detecting unauthorized processes
+Network IDS integration
+Detecting an SQL injection attack
+Detecting suspicious binaries
+Detecting and removing malware using VirusTotal integration
+Vulnerability detection
+Detecting malware using YARA integration
+Detecting hidden processes
+Monitoring execution of malicious commands
+Detecting a Shellshock attack
+Leveraging LLMs for alert enrichment
+Wazuh central components
+Elastic Stack integration
+OpenSearch integration
+Amazon Security Lake integration
+Wazuh central components
+Restoring Wazuh from backup
+Wazuh central components
+Accessing the Wazuh dashboard
+Authentication and authorization
+Forward syslog events
+Agents without Internet access
+Manage your billing details
+See your billing cycle and history
+Update billing and operational contacts
+Stop charges for an environment
+Standard Wazuh message format
+Wazuh package generation
+RBAC database integrity
+Configuring core dump generation

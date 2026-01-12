@@ -1,0 +1,563 @@
+Skip to content <#splunk-cheat-sheet>
+logo <https://cyberdefencekit.github.io/documentation/index.html>
+
+Cyber Defence Kit
+Splunk
+
+<https://cyberdefencekit.github.io/documentation/splunk-cheat-sheet/
+splunk-cheat-sheet.html?q=>
+
+Type to start searching
+
+  * Home <https://cyberdefencekit.github.io/documentation/index.html>
+  * About CDK <https://cyberdefencekit.github.io/documentation/CDK-
+    explained/CDK-explained.html>
+  * SIEM <https://cyberdefencekit.github.io/documentation/understanding-
+    SIEM/understanding-SIEM.html>
+  * IDS/IPS <https://cyberdefencekit.github.io/documentation/
+    understanding-IDS-IPS/understanding-IDS-IPS.html>
+  * SIRP <https://cyberdefencekit.github.io/documentation/understanding-
+    SIRP/understanding-SIRP.html>
+  * SOAR <https://cyberdefencekit.github.io/documentation/understanding-
+    SOAR/understanding-SOAR.html>
+  * NTA <https://cyberdefencekit.github.io/documentation/understanding-
+    NTA/understanding-NTA.html>
+  * DFIR <https://cyberdefencekit.github.io/documentation/understanding-
+    DFIR/understanding-DFIR.html>
+  * EDR <https://cyberdefencekit.github.io/documentation/understanding-
+    EDR/understanding-EDR.html>
+  * MITRE <https://cyberdefencekit.github.io/documentation/caldera/
+    caldera.html>
+  * Cheat Sheets <https://cyberdefencekit.github.io/documentation/
+    splunk-cheat-sheet/splunk-cheat-sheet.html>
+
+logo <https://cyberdefencekit.github.io/documentation/index.html> Cyber
+Defence Kit
+
+  * Home <https://cyberdefencekit.github.io/documentation/index.html>
+  *
+    About CDK
+
+    About CDK
+      o Cyber Defence Kit Explained <https://cyberdefencekit.github.io/
+        documentation/CDK-explained/CDK-explained.html>
+
+  *
+    SIEM
+
+    SIEM
+      o Understanding SIEM <https://cyberdefencekit.github.io/
+        documentation/understanding-SIEM/understanding-SIEM.html>
+      o Splunk <https://cyberdefencekit.github.io/documentation/splunk/
+        splunk.html>
+      o Wazuh <https://cyberdefencekit.github.io/documentation/wazuh/
+        wazuh.html>
+      o Security Onion <https://cyberdefencekit.github.io/documentation/
+        securityonion/securityonion.html>
+
+  *
+    IDS/IPS
+
+    IDS/IPS
+      o Understanding IDS/IPS <https://cyberdefencekit.github.io/
+        documentation/understanding-IDS-IPS/understanding-IDS-IPS.html>
+      o Snort <https://cyberdefencekit.github.io/documentation/snort/
+        snort.html>
+      o Suricata <https://cyberdefencekit.github.io/documentation/
+        suricata/suricata.html>
+
+  *
+    SIRP
+
+    SIRP
+      o Understanding SIRP <https://cyberdefencekit.github.io/
+        documentation/understanding-SIRP/understanding-SIRP.html>
+      o TheHive <https://cyberdefencekit.github.io/documentation/
+        thehive/thehive.html>
+      o IRIS <https://cyberdefencekit.github.io/documentation/iris/
+        iris.html>
+
+  *
+    SOAR
+
+    SOAR
+      o Understanding SOAR <https://cyberdefencekit.github.io/
+        documentation/understanding-SOAR/understanding-SOAR.html>
+      o Shuffle <https://cyberdefencekit.github.io/documentation/
+        shuffle/shuffle.html>
+
+  *
+    NTA
+
+    NTA
+      o Understanding NTA <https://cyberdefencekit.github.io/
+        documentation/understanding-NTA/understanding-NTA.html>
+      o Wireshark <https://cyberdefencekit.github.io/documentation/
+        wireshark/wireshark.html>
+      o Zeek <https://cyberdefencekit.github.io/documentation/zeek/
+        zeek.html>
+      o Zui <https://cyberdefencekit.github.io/documentation/zui/zui.html>
+
+  *
+    DFIR
+
+    DFIR
+      o Understanding DFIR <https://cyberdefencekit.github.io/
+        documentation/understanding-DFIR/understanding-DFIR.html>
+      o Velociraptor <https://cyberdefencekit.github.io/documentation/
+        velociraptor/velociraptor.html>
+
+  *
+    EDR
+
+    EDR
+      o Understanding EDR <https://cyberdefencekit.github.io/
+        documentation/understanding-EDR/understanding-EDR.html>
+      o Aurora Lite <https://cyberdefencekit.github.io/documentation/
+        auroralite/auroralite.html>
+
+  *
+    MITRE
+
+    MITRE
+      o Caldera <https://cyberdefencekit.github.io/documentation/
+        caldera/caldera.html>
+      o MITRE ATT&CK Navigator <https://cyberdefencekit.github.io/
+        documentation/navigator/navigator.html>
+
+  *
+    Cheat Sheets
+
+    Cheat Sheets
+      o Splunk Splunk <https://cyberdefencekit.github.io/documentation/
+        splunk-cheat-sheet/splunk-cheat-sheet.html>
+        On this page
+          + About this Cheat Sheet <#about-this-cheat-sheet>
+          + Note on Indexes: <#note-on-indexes>
+          + Authentication & Access <#authentication-access>
+              # Successful RDP Login <#successful-rdp-login>
+              # Failed Logons (Brute-force Detection) <#failed-logons-
+                brute-force-detection>
+              # Pass-the-Hash or Lateral Movement <#pass-the-hash-or-
+                lateral-movement>
+
+          + Execution <#execution>
+              # Suspicious Process Creation (cmd, powershell)
+                <#suspicious-process-creation-cmd-powershell>
+              # Encoded PowerShell Execution <#encoded-powershell-
+                execution>
+              # UAC Bypass Attempt <#uac-bypass-attempt>
+
+          + File Activity <#file-activity>
+              # File Drop Detection <#file-drop-detection>
+              # Executable Run from Temp Directory <#executable-run-
+                from-temp-directory>
+
+          + Network Connections <#network-connections>
+              # Network Connections (Sysmon) <#network-connections-sysmon>
+
+          + Privilege Escalation & Persistence <#privilege-escalation-
+            persistence>
+              # Privilege Escalation - SeDebugPrivilege <#privilege-
+                escalation-sedebugprivilege>
+              # New Local Admin Account Created <#new-local-admin-
+                account-created>
+              # Registry Autoruns Modified <#registry-autoruns-modified>
+              # Remote Scheduled Task Created <#remote-scheduled-task-
+                created>
+
+          + Lateral Movement & LOLBAS <#lateral-movement-lolbas>
+              # PsExec or Remote Admin Tool Usage <#psexec-or-remote-
+                admin-tool-usage>
+              # Living Off The Land Binaries (LOLBAS) <#living-off-the-
+                land-binaries-lolbas>
+
+          + Anomaly Detection <#anomaly-detection>
+              # Rare Parent-Child Process Pair <#rare-parent-child-
+                process-pair>
+
+          + Credential Access <#credential-access>
+              # Cleartext Passwords in Command Line <#cleartext-
+                passwords-in-command-line>
+              # Suspicious Access to LSASS Process (Mimikatz)
+                <#suspicious-access-to-lsass-process-mimikatz>
+
+          + Defense Evasion <#defense-evasion>
+              # Suspicious DLL or Image Loaded <#suspicious-dll-or-
+                image-loaded>
+
+          + Exfiltration <#exfiltration>
+              # Unusual Data Transfer Tools in Use <#unusual-data-
+                transfer-tools-in-use>
+
+          + Phishing or Document-Based Attacks <#phishing-or-document-
+            based-attacks>
+              # Microsoft Word Launching PowerShell <#microsoft-word-
+                launching-powershell>
+
+      o Velociraptor <https://cyberdefencekit.github.io/documentation/
+        velociraptor-cheat-sheet/velociraptor-cheat-sheet.html>
+
+
+  *Splunk Cheat Sheet*
+
+
+    *About this Cheat Sheet*
+
+This cheat sheet is aimed at *beginner-level users* and covers *common
+detection use cases and queries* in Splunk. It’s designed to help you
+get started with threat hunting and understand how to search for
+suspicious activity using log data.
+
+
+    *Note on Indexes:*
+
+The example queries use |index=windows|, but the actual index name in
+your environment may be different.
+
+If you are unsure, try running:
+
+| <#__codelineno-0-1>index=*
+
+|
+
+This will search across all indexes and help you identify the correct
+one. Once confirmed, update your queries accordingly.
+
+
+    *Authentication & Access*
+
+
+      *Successful RDP Login*
+
+/This looks for successful Remote Desktop (RDP) logins./
+
+*Logon_Type=10* means the login came from a remote computer.
+
+You can track who logged in, from where, and when.
+
+| <#__codelineno-1-1>index=windows sourcetype="WinEventLog:Security" EventCode=4624 Logon_Type=10
+ <#__codelineno-1-2>| stats count by _time, user, host, src_ip
+
+|
+
+
+      *Failed Logons (Brute-force Detection)*
+
+/Finds users or IPs trying to log in multiple times and failing./
+
+If someone fails to log in over 5 times, it might be a brute-force attempt.
+
+| <#__codelineno-2-1>index=windows sourcetype="WinEventLog:Security" EventCode=4625
+ <#__codelineno-2-2>| stats count by user, src_ip, host
+ <#__codelineno-2-3>| where count > 5
+
+|
+
+
+      *Pass-the-Hash or Lateral Movement*
+
+/Searches for logins that may come from other computers on the network./
+
+*Logon_Type=3* is a network logon (e.g. file share), *Logon_Type=9* is
+for using stored credentials.
+
+Useful for spotting movement between systems by attackers.
+
+| <#__codelineno-3-1>index=windows sourcetype="WinEventLog:Security" EventCode=4624
+ <#__codelineno-3-2>| search Logon_Type=3 OR Logon_Type=9
+ <#__codelineno-3-3>| table _time, user, Logon_Type, src_ip, host
+
+|
+
+
+    *Execution*
+
+
+      *Suspicious Process Creation (cmd, powershell)*
+
+/Looks for command-line tools like PowerShell or cmd.exe being used./
+
+These tools are often abused by attackers to run scripts or commands
+silently.
+
+| <#__codelineno-4-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
+ <#__codelineno-4-2>| search Image="*powershell.exe" OR Image="*cmd.exe"
+ <#__codelineno-4-3>| stats count by user, host, Image, CommandLine
+
+|
+
+
+      *Encoded PowerShell Execution*
+
+/Detects when PowerShell scripts are run with encoded commands./
+
+This is commonly used to hide what the script is really doing.
+
+| <#__codelineno-5-1>index=windows EventCode=4104
+ <#__codelineno-5-2>| search Message="*EncodedCommand*"
+ <#__codelineno-5-3>| table _time, Message, host
+
+|
+
+
+      *UAC Bypass Attempt*
+
+/Searches for command lines that mention "bypass"./
+
+*UAC (User Account Control)* is a Windows security feature.
+
+Attackers try to bypass it to run admin-level commands without warning
+the user.
+
+| <#__codelineno-6-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
+ <#__codelineno-6-2>| search CommandLine="*bypass*"
+ <#__codelineno-6-3>| table _time, host, Image, CommandLine
+
+|
+
+
+    *File Activity*
+
+
+      *File Drop Detection*
+
+/Tracks when files are created on the system./
+
+Useful for spotting malware being dropped in user folders.
+
+| <#__codelineno-7-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=11
+ <#__codelineno-7-2>| table _time, host, user, TargetFilename, Image
+
+|
+
+
+      *Executable Run from Temp Directory*
+
+/Looks for programs being run from temporary folders./
+
+Legitimate software doesn’t usually run from these locations which is a
+common red flag.
+
+| <#__codelineno-8-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
+ <#__codelineno-8-2>| search Image="*\\AppData\\Local\\Temp\\*" OR Image="*\\Temp\\*"
+ <#__codelineno-8-3>| table _time, Image, CommandLine, user, host
+
+|
+
+
+    *Network Connections*
+
+
+      *Network Connections (Sysmon)*
+
+/Shows what network connections are being made./
+
+Great for spotting suspicious outbound connections to strange IPs or ports.
+
+| <#__codelineno-9-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=3
+ <#__codelineno-9-2>| stats count by _time, SourceIp, DestinationIp, DestinationPort, host, Image
+
+|
+
+
+    *Privilege Escalation & Persistence*
+
+
+      *Privilege Escalation - SeDebugPrivilege*
+
+/Detects when a user gets a special permission called SeDebugPrivilege./
+
+This allows someone to inspect or control other processes which is often
+abused by attackers.
+
+| <#__codelineno-10-1>index=windows sourcetype="WinEventLog:Security" EventCode=4672
+ <#__codelineno-10-2>| search privilege_list="SeDebugPrivilege"
+ <#__codelineno-10-3>| table _time, user, host, privilege_list
+
+|
+
+
+      *New Local Admin Account Created*
+
+/Looks for new user accounts that are added to the Administrators group./
+
+Attackers often create their own admin users to keep access.
+
+| <#__codelineno-11-1>index=windows sourcetype="WinEventLog:Security" EventCode=4720
+ <#__codelineno-11-2>| search "Account Name"="*" AND "Account Domain"="*Administrators*"
+ <#__codelineno-11-3>| table _time, host, "Account Name", user
+
+|
+
+
+      *Registry Autoruns Modified*
+
+/Checks if anything was added to registry keys that auto-run programs on
+startup./
+
+A common way malware sets itself to run every time the computer boots.
+
+| <#__codelineno-12-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=13 OR EventCode=14
+ <#__codelineno-12-2>| search TargetObject="*\\Run\\*" OR TargetObject="*\\RunOnce\\*"
+ <#__codelineno-12-3>| table _time, Image, TargetObject, host
+
+|
+
+
+      *Remote Scheduled Task Created*
+
+/Finds when someone creates a scheduled task remotely./
+
+Attackers use this to run malware or scripts at set times on target systems.
+
+| <#__codelineno-13-1>index=windows sourcetype="WinEventLog:Security" EventCode=4698
+ <#__codelineno-13-2>| table _time, user, host, TaskName, Command
+
+|
+
+
+    *Lateral Movement & LOLBAS*
+
+
+      *PsExec or Remote Admin Tool Usage*
+
+/Detects use of PsExec or similar tools that let someone run commands on
+another computer./
+
+Often used by IT staff or attackers once inside the network.
+
+| <#__codelineno-14-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
+ <#__codelineno-14-2>| search Image="*psexec*" OR CommandLine="*\\\\*\\\\ADMIN$*"
+ <#__codelineno-14-3>| table _time, user, host, CommandLine
+
+|
+
+
+      *Living Off The Land Binaries (LOLBAS)*
+
+/Looks for built-in Windows programs like rundll32, regsvr32, and mshta
+being used./
+
+*LOLBAS (Living Off the Land Binaries and Scripts)* are legitimate tools
+abused by attackers to avoid detection.
+
+| <#__codelineno-15-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
+ <#__codelineno-15-2>| search Image="*rundll32.exe" OR Image="*regsvr32.exe" OR Image="*mshta.exe"
+ <#__codelineno-15-3>| table _time, Image, CommandLine, user, host
+
+|
+
+
+    *Anomaly Detection*
+
+
+      *Rare Parent-Child Process Pair*
+
+/Finds uncommon combinations of parent and child processes./
+
+For example, if Notepad.exe launches PowerShell, that is suspicious.
+
+Low-frequency pairs often point to unusual activity worth checking out.
+
+| <#__codelineno-16-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
+ <#__codelineno-16-2>| stats count by ParentImage, Image
+ <#__codelineno-16-3>| where count < 3
+
+|
+
+
+    *Credential Access*
+
+
+      *Cleartext Passwords in Command Line*
+
+/Detects PowerShell or scripts that include the word “password”./
+
+Attackers sometimes use scripts that include credentials, especially
+during testing or automation.
+
+| <#__codelineno-17-1>index=windows EventCode=4104
+ <#__codelineno-17-2>| search CommandLine="*password*"
+ <#__codelineno-17-3>| table _time, host, user, CommandLine
+
+|
+
+
+      *Suspicious Access to LSASS Process (Mimikatz)*
+
+/Checks if a process is trying to access LSASS, which stores Windows
+credentials./
+
+Tools like Mimikatz do this to extract passwords from memory.
+
+| <#__codelineno-18-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=10
+ <#__codelineno-18-2>| search TargetImage="*lsass.exe"
+
+|
+
+
+    *Defense Evasion*
+
+
+      *Suspicious DLL or Image Loaded*
+
+/Looks for programs loading DLLs from temporary or user folders./
+
+This is unusual for legitimate software and often used to hide malicious
+code.
+
+| <#__codelineno-19-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=7
+ <#__codelineno-19-2>| search ImageLoaded="*\\temp\\*" OR ImageLoaded="*\\AppData\\*"
+
+|
+
+
+    *Exfiltration*
+
+
+      *Unusual Data Transfer Tools in Use*
+
+/Detects signs of data being transferred or uploaded via tools like
+certutil./
+
+Attackers sometimes use built-in tools to send stolen data out.
+
+| <#__codelineno-20-1>index=windows EventCode=4104
+ <#__codelineno-20-2>| search CommandLine="*certutil*" OR CommandLine="*upload*"
+
+|
+
+
+    *Phishing or Document-Based Attacks*
+
+
+      *Microsoft Word Launching PowerShell*
+
+/Looks for suspicious process chains like Word starting PowerShell./
+
+This often means a malicious macro or document is being used in a
+phishing attack.
+
+| <#__codelineno-21-1>index=windows source="XmlWinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
+ <#__codelineno-21-2>| search ParentImage="*winword.exe" AND Image="*powershell.exe"
+
+|
+
+Back to top
+
+Previous
+MITRE ATT&CK Navigator
+<https://cyberdefencekit.github.io/documentation/navigator/navigator.html>
+Next
+Velociraptor
+
+<https://cyberdefencekit.github.io/documentation/velociraptor-cheat-
+sheet/velociraptor-cheat-sheet.html>
+
+© 2024–2025 Cyber Defence Kit by Joseph Jee <https://github.com/
+cyberdefencekit>
+Made with Material for MkDocs <https://squidfunk.github.io/mkdocs-
+material/>
+<https://github.com/cyberdefencekit>
+

@@ -1,0 +1,109 @@
+Source: https://gdpr.eu/checklist/
+Scraped: 2025-12-22 20:53:50
+================================================================================
+
+GDPR checklist for data controllers
+Are you ready for the GDPR? Our GDPR checklist can help you secure your organization, protect your customers’ data, and avoid costly fines for non-compliance.
+To understand the GDPR checklist, it is also useful to know some of the terminology and the basic structure of the law. You can find this information on our
+page. Please keep in mind that nothing on this page constitutes legal advice. We recommend you speak with an attorney specialized in GDPR compliance who can apply the law to your specific circumstances.
+Lawful basis and transparency
+Conduct an information audit to determine what information you process and who has access to it.
+Have a legal justification for your data processing activities.
+Provide clear information about your data processing and legal justification in your privacy policy.
+Conduct an information audit to determine what information you process and who has access to it.
+Organizations that have at least 250 employees or conduct higher-risk data processing are required to keep an up-to-date and detailed
+list of their processing activities
+and be prepared to show that list to regulators upon request. The best way to demonstrate GDPR compliance is using a
+data protection impact assessment
+Organizations with fewer than 250 employees should also conduct an assessment because it will make complying with the GDPR's other requirements easier. In your list, you should include: the purposes of the processing, what kind of data you process, who has access to it in your organization, any third parties (and where they are located) that have access, what you're doing to protect the data (e.g. encryption), and when you plan to erase it (if possible).
+Have a legal justification for your data processing activities.
+Processing of data is illegal under the GDPR unless you can justify it according to one of six conditions listed in
+. There are other provisions related to children and special categories of personal data in
+. Review these provisions, choose a lawful basis for processing, and document your rationale. Note that if you choose "consent" as your lawful basis, there are
+, including giving data subjects the ongoing opportunity to revoke consent. If "legitimate interests" is your lawful basis, you must be able to demonstrate you have conducted a privacy impact assessment.
+Provide clear information about your data processing and legal justification in your privacy policy.
+You need to tell people that you're collecting their data and why (
+). You should explain how the data is processed, who has access to it, and how you're keeping it safe. This information should be included in your privacy policy and provided to data subjects at the time you collect their data. It must be presented "in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child."
+Take data protection into account at all times, from the moment you begin developing a product to each time you process data.
+Encrypt, pseudonymize, or anonymize personal data wherever possible.
+Create an internal security policy for your team members, and build awareness about data protection.
+Know when to conduct a data protection impact assessment, and have a process in place to carry it out.
+Have a process in place to notify the authorities and your data subjects in the event of a data breach.
+Take data protection into account at all times, from the moment you begin developing a product to each time you process data.
+You must follow the principles of "
+data protection by design and by default
+," including implementing "appropriate technical and organizational measures" to protect data. In other words, data protection is something you now have to consider whenever you do anything with other people's personal data. You also need to make sure any processing of personal data adheres to the data protection principles outlined in
+. Technical measures include encryption, and organizational measures are things like limiting the amount of personal data you collect or deleting data you no longer need. The point is that it needs to be something you and your employees are always aware of.
+Encrypt, pseudonymize, or anonymize personal data wherever possible.
+Most of the productivity tools used by businesses are now available with
+end-to-end encryption
+built in, including email, messaging, notes, and cloud storage. The GDPR requires organizations to
+use encryption or pseudeonymization
+Create an internal security policy for your team members, and build awareness about data protection.
+Even if your technical security is strong,
+can still be a weak link. Create a security policy that ensures your team members are knowledgeable about data security. It should include guidance about email security, passwords, two-factor authentication, device encryption, and
+. Employees who have access to personal data and non-technical employees should receive extra training in the requirements of the GDPR.
+Know when to conduct a data protection impact assessment, and have a process in place to carry it out.
+data protection impact assessment
+(aka privacy impact assessment) is a way to help you understand how your product or service could jeopardize your customers' data, as well as how to minimize those risks. The UK Information Commissioner's Office (ICO) has a data protection impact assessment checklist on its website. The GDPR requires organizations to carry out this kind of analysis whenever they plan to use people's data in such a way that it's "likely to result in a high risk to [their] rights and freedoms." The ICO recommends just doing it anytime you're about to process personal data.
+Have a process in place to notify the authorities and your data subjects in the event of a data breach.
+If there's a data breach and personal data is exposed, you are required to
+notify the supervisory authority
+in your jurisdiction within 72 hours. A list of many of the EU member states supervisory authorities can be found here. The GDPR does not specify whom you should notify if you are not an EU-based organization. For those in English-speaking non-EU countries, you may find it easiest to notify the Office of the Data Protection Commissioner in Ireland. You are also required to quickly
+communicate data breaches to your data subjects
+unless the breach is unlikely to put them at risk (for instance, if the stolen data is encrypted).
+Accountability and governance
+Designate someone responsible for ensuring GDPR compliance across your organization.
+Sign a data processing agreement between your organization and any third parties that process personal data on your behalf.
+If your organization is outside the EU, appoint a representative within one of the EU member states.
+Appoint a Data Protection Officer (if necessary)
+Designate someone responsible for ensuring GDPR compliance across your organization.
+data protection by design and by default
+" is making sure someone in your organization is accountable for GDPR compliance. This person should be empowered to evaluate data protection policies and the implementation of those policies.
+Sign a data processing agreement between your organization and any third parties that process personal data on your behalf.
+This includes any third-party services that handle the personal data of your data subjects, including analytics software, email services, cloud servers, etc. The vast majority of services have a standard
+data processing agreement
+available on their websites for you to review. They spell out the rights and obligations of each party for GDPR compliance. You should only use third parties that are reliable and can make sufficient data protection guarantees.
+If your organization is outside the EU, appoint a representative within one of the EU member states.
+If you process data relating to people in one particular member state, you need to
+appoint a representative
+in that country who can communicate on your behalf with data protection authorities. The GDPR and its official supporting documents do not give guidance for situations where processing affects EU individuals across multiple member states. Until this requirement is interpreted, it may be prudent to designate a representative in a member state that uses your language. Some organizations, like public bodies, are not required to appoint a representative in the EU.
+Appoint a Data Protection Officer (if necessary)
+There are three circumstances in which organizations are required to have a
+Data Protection Officer
+(DPO), but it's not a bad idea to have one even if the rule doesn't apply to you. The DPO should be an expert on data protection whose job is to monitor GDPR compliance, assess data protection risks, advise on data protection impact assessments, and cooperate with regulators.
+It's easy for your customers to request and receive all the information you have about them.
+It's easy for your customers to correct or update inaccurate or incomplete information.
+It's easy for your customers to request to have their personal data deleted.
+It's easy for your customers to ask you to stop processing their data.
+It's easy for your customers to receive a copy of their personal data in a format that can be easily transferred to another company.
+It's easy for your customers to object to you processing their data.
+If you make decisions about people based on automated processes, you have a procedure to protect their rights.
+It's easy for your customers to request and receive all the information you have about them.
+right to see what personal data you have about them
+and how you're using it. They also have a right to know how long you plan to store their information and the reason for keeping it that length of time. You have to send them the first copy of this information for free but can charge a reasonable fee for subsequent copies. Make sure you can verify the identity of the person requesting the data. You should be able to comply with such requests within a month.
+It's easy for your customers to correct or update inaccurate or incomplete information.
+Do your best to keep data up to date by putting a data quality process in place, and make it easy for your customers to view (
+) and update their personal information for accuracy and completeness. Make sure you can verify the identity of the person requesting the data. You should be able to comply with requests under
+It's easy for your customers to request to have their personal data deleted.
+People generally have the
+right to ask you to delete
+all the personal data you have about them, and you have to honor their request within about a month. There are a five grounds on which you can deny the request, such as the exercise of freedom of speech or compliance with a legal obligation. You must also try to verify the identity of the person making the request.
+It's easy for your customers to ask you to stop processing their data.
+Your data subjects can request to
+restrict or stop processing of their data
+if certain grounds apply, mainly if there's some dispute about the lawfulness of the processing or the accuracy of the data. You are required to honor their request within about a month. While processing is restricted, you're still allowed to keep storing their data. You must notify the data subject before you begin processing their data again.
+It's easy for your customers to receive a copy of their personal data in a format that can be easily transferred to another company.
+This means that you should be able to
+send their personal data
+in a commonly readable format (e.g. a spreadsheet) either to them or to a third party they designate. This may seem unfair from a business standpoint in that you may have to turn over your customers' data to a competitor. But from privacy standpoint, the idea is that people own their data, not you.
+It's easy for your customers to object to you processing their data.
+If you're processing their data for the purposes of direct marketing, you have to
+stop processing it immediately
+for that purpose. Otherwise, you may be able to challenge their objection if you can demonstrate "compelling legitimate grounds."
+If you make decisions about people based on automated processes, you have a procedure to protect their rights.
+Some types of organizations use
+to help them make decisions about people that have legal or "similarly significant" effects. If you think that applies to you, you'll need to set up a procedure to ensure you are protecting their rights, freedoms, and legitimate interests. You need to make it easy for people to request human intervention, to weigh in on decisions, and to challenge decisions you've already made.
+Congratulations! If you've dutifully worked to the bottom of the GDPR checklist then you've significantly limited your exposure to regulatory penalties.
+Finally, we want to remind you once more that this checklist is not in any way legal advice. There are dozens of provisions in the GDPR that apply only in rare instances, which would be counterproductive to cover here. You should check with a lawyer to make sure your organization fully complies with the GDPR.
+GDPR compliance is easier with

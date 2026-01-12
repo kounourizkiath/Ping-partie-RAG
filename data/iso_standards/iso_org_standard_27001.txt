@@ -1,0 +1,98 @@
+Source: https://www.iso.org/standard/27001
+Scraped: 2025-12-22 20:51:05
+================================================================================
+
+ISO/IEC 27001:2022 - Information security management systems
+International Standard
+Information security, cybersecurity and privacy protection — Information security management systems — Requirements
+* Shipping costs not included
+Convert Swiss francs (CHF) to
+What is ISO/IEC 27001?
+ISO/IEC 27001 is the world's best-known standard for
+information security management systems (ISMS)
+. It defines requirements an ISMS must meet.
+The ISO/IEC 27001 standard provides companies of any size and from all sectors of activity with guidance for establishing, implementing, maintaining and continually improving an information security management system.
+Conformity with ISO/IEC 27001 means that an organization or business has put in place a system to manage risks related to the security of data owned or handled by the company, and that this system respects all the best practices and principles enshrined in this International Standard.
+Why is ISO/IEC 27001 important?
+With cyber-crime on the rise and
+, it can seem difficult or even impossible to manage cyber-risks. ISO/IEC 27001 helps organizations become risk-aware and proactively identify and address weaknesses.
+ISO/IEC 27001 promotes a holistic approach to information security: vetting people, policies and technology. An information security management system implemented according to this standard is a tool for
+risk management, cyber-resilience
+operational excellence.
+Get extra value in your mailbox
+Register for related resources and updates, starting with an
+information security maturity checklist
+How your data will be used
+. This site is protected by reCAPTCHA and the Google
+What is ISO/IEC 27001: Guide to Information Security Management Systems
+Nowadays, data theft, cybercrime and liability for privacy leaks are risks that
+need to factor in. Any business needs to think strategically about its information security needs, and how they relate to its own objectives, processes, size and structure. The ISO/IEC 27001 standard enables organizations to establish an information security management system and apply a risk management process that is
+adapted to their size and needs
+, and scale it as necessary as these factors evolve.
+While information technology (IT) is the industry with the largest number of ISO/IEC 27001- certified enterprises (almost a fifth of all valid certificates to ISO/IEC 27001 as per the ISO Survey 2021), the benefits of this standard have convinced
+companies across all economic sectors
+(all kinds of services and manufacturing as well as the primary sector; private, public and non-profit organizations).
+Companies that adopt the holistic approach described in ISO/IEC 27001 will make sure information security is built into organizational processes, information systems and management controls. They gain efficiency and often
+emerge as leaders within their industries
+Implementing the information security framework specified in the ISO/IEC 27001 standard helps you:
+Reduce your vulnerability to the growing threat of
+evolving security risks
+Ensure that assets such as financial statements, intellectual property, employee data and information entrusted by third parties remain
+undamaged, confidential, and available
+centrally managed framework
+that secures all information in one place
+people, processes and technology
+throughout your organization to face technology-based risks and other threats
+information in all forms
+, including paper-based, cloud-based and digital data
+by increasing efficiency and reducing expenses for ineffective defence technology
+Only the right people can access the information held by the organization.
+Criminals get hold of your clients’ login details and sell them on the Darknet.
+Information integrity
+Data that the organization uses to pursue its business or keeps safe for others is reliably stored and not erased or damaged.
+A staff member accidentally deletes a row in a file during processing.
+Availability of data:
+The organization and its clients can access the information whenever it is necessary so that business purposes and customer expectations are satisfied.
+Your enterprise database goes offline because of server problems and insufficient backup.
+An information security management system that meets the requirements of ISO/IEC 27001 preserves the confidentiality, integrity and availability of information by applying a risk management process and gives confidence to interested parties that risks are adequately managed.
+Even though it is sometimes referred to as ISO 27001, the
+official abbreviation
+for the International Standard on requirements for information security management is ISO/IEC 27001. That is because it has been
+jointly published by ISO and the International Electrotechnical Commission (IEC)
+. The number indicates that it was published under the responsibility of Subcommittee 27 (on Information Security, Cybersecurity and Privacy Protection) of ISO’s and IEC’s Joint Technical Committee on Information Technology (ISO/IEC JTC 1).
+Certification to ISO/IEC 27001 is one way to demonstrate to stakeholders and customers that you are
+to manage information securely and safely
+. Holding a certificate from an accredited conformity assessment body may bring an additional layer of confidence, as an accreditation body has provided independent confirmation of the certification body’s competence. If you wish to use a logo to demonstrate certification, contact the certification body that issued the certificate. As in other contexts, standards should always be referred to with their full reference, for example “certified to ISO/IEC 27001:2022” (not just “certified to ISO 27001”). See full details about
+As with other ISO management system standards, companies implementing ISO/IEC 27001 can decide whether they want to go through a certification process. Some organizations choose to implement the standard in order to benefit from the best practice it contains, while others also want to get certified to
+reassure customers and clients
+ISO/IEC 27001 is widely used around the world. As per the ISO Survey 2022, over 70 000 certificates were reported in 150 countries and from all economic sectors, ranging from agriculture through manufacturing to social services.
+Information security - the basics
+This package provides a holistic approach to managing information security, cybersecurity, and privacy protection.
+ISO/IEC 27001:2022 Handbook
+: International Standard published [
+Technical Committee :
+Information Security Management Systems: A practical guide for SMEs
+This handbook focuses on guiding SMEs in developing and implementing an information security management system (ISMS) in accordance with ISO/IEC 27001, in order to help protect yourselves from cyber-risks.
+ISO/IEC 27001:2022 - Information Security Management Systems - A practical guide for SMEs
+ISO/IEC 27001:2022 - Information Security Management Systems - A practical guide for SMEs
+* Shipping costs not included
+Convert Swiss francs (CHF) to
+Amendments are issued when it is found that new material may need to be added to an existing standardization document. They may also include editorial or technical corrections to be applied to the existing document.
+Climate action changes
+ISO/IEC 27001:2022/Amd 1:2024
+* Shipping costs not included
+ISO/IEC 27001:2013/Cor 1:2014
+ISO/IEC 27001:2013/Cor 2:2015
+Full report circulated: DIS approved for registration as FDIS
+Final text received or FDIS registered for formal approval
+Proof sent to secretariat or FDIS ballot initiated: 8 weeks
+Close of voting. Proof returned by secretariat
+International Standard under publication
+International Standard published
+International Standard under systematic review
+International Standard to be revised
+International Standard confirmed
+Withdrawal of International Standard proposed by TC or SC
+Withdrawal of International Standard
+Provide additional content; available for purchase; not included in the text of the existing standard.
+ISO/IEC 27001:2022/Amd 1:2024

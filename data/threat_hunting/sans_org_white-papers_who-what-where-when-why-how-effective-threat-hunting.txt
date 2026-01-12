@@ -1,0 +1,6 @@
+Source: https://www.sans.org/white-papers/who-what-where-when-why-how-effective-threat-hunting/
+Scraped: 2025-12-22 21:04:39
+================================================================================
+
+The Who, What, Where, When, Why and How of Effective Threat Hunting
+The chances are very high that hidden threats are already in your organization’s networks. Organizations can’t afford to believe that their security measures are perfect and impenetrable, no matter how thorough their security precautions might be. Having a perimeter and defending it are not enough because the perimeter has faded away as new technologies and interconnected devices have emerged. Prevention systems alone are insufficient to counter focused human adversaries who know how to get around most security and monitoring tools by, for example, making their attacks look like normal activity.

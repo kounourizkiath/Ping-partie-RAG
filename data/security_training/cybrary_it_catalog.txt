@@ -1,0 +1,218 @@
+Source: https://www.cybrary.it/catalog/
+Scraped: 2025-12-22 20:54:23
+================================================================================
+
+Cybersecurity, IT Courses & Training Catalog - Cybrary
+Cybraryâs comprehensive, framework-aligned catalog has been reorganized to provide you with an intentional, guided learning experience. Advance your career, prep for certifications, and build your skills whenever, wherever.
+Start Learning for Free
+The content and tools you need to build
+Rapidly develop your skills via an integrated and engaging learning
+experience on the Cybrary platform.
+Bite-sized Video Training
+Manageable instruction from industry experts
+Put your skills to the test in virtual labs, challenges, and simulated environments
+Prepare for industry certifications with insider tips and practice exams
+Complete coursework to earn industry-recognized badges via Credly
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+AI Technical Foundations
+The AI Technical Foundations Collection provides a comprehensive set of courses aimed at transitioning artificial intelligence capabilities from abstract research into reliable enterprise solutions.
+Build on your AI technical foundations and learn how to use AI securely to enhance your cybersecurity activities.
+AI for Cybersecurity Roles
+These courses compliment our Career and Skill paths, and show how AI intersects with different cybersecurity roles.
+Learn the basics of Artificial Intelligence! This skill path is designed to provide you with a general understanding of Artificial Intelligence, and how to deploy and secure it within the enterprise. Upon completing the skill path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+In this brief course, you will learn the basics of AI scams. AI scams are cyberattacks that use artificial intelligence to trick people. They create emails, videos, voice messages, or websites that look, sound, and read like the real thing, making them far more convincing and harder to detect than traditional scams.
+In this brief course, you will learn the basics of deepfakes as part of your required Security Awareness Training. Deepfakes are synthetic media, usually videos, images, or audio, created using artificial intelligence to convincingly mimic real people. They can make someone appear to say or do something they never actually did.
+Using Artificial Intelligence Securely
+In this brief course, you will learn the basics of using artificial intelligence securely as part of your required Security Awareness Training. AI represents technological progress, giving us powerful tools that are widely accessible. To use AI safely at work, we must grasp its limitations, risks, and privacy implications.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+The CISSP certification prep path will provide you with a comprehensive overview of the cybersecurity principles and security best practices needed to pass the CISSP certification exam.
+The CompTIA Security+ certification prep path will provide you with a comprehensive overview of the cybersecurity principles and security best practices needed to pass the Security+ certification exam.
+The CompTIA A+ certification prep path will provide you with a comprehensive overview of the cybersecurity principles and security best practices needed to pass the A+ certification exams.
+The CompTIA Network+ certification prep path will provide you with a comprehensive overview of the cybersecurity principles and security best practices needed to pass the Network+ certification exam.
+CompTIA Tech+ (FC0-U71)
+CompTIA Tech+ is a beginner-level certification and is perfect for you if you are considering a new career or career change to the IT industry. This certification prep path is designed to provide you with a comprehensive overview of the concepts and skills you will need to pass the certification exam.
+The CompTIA CySA+ certification prep path will provide you with a comprehensive overview of the cybersecurity principles and security best practices youâll need to pass the CySA+ certification exam.
+The CompTIA Linux+ certification prep path will provide you with a comprehensive overview of the cybersecurity principles and security best practices needed to pass the Linux+ certification exam.
+CompTIA SecurityX (CAS-005)
+This certification prep path provides the advanced technical skills and security architecture concepts needed to design, assess, and implement secure enterprise solutions and pass the CompTIA SecurityX exam.
+CompTIA PenTest+ (PT0-002)
+CompTIA's PenTest+ certification is for cybersecurity professionals tasked with penetration testing and vulnerability management. This certification prep path is designed to provide you with a comprehensive overview of the concepts and skills you will need to pass the certification exam.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+IT & Cybersecurity Foundations
+Any career in cybersecurity begins with learning a diverse range of IT and Cybersecurity concepts. This career path is designed to provide you with the foundational knowledge and skills required to enter the cybersecurity workforce.
+SOC Analysts are the front line of defensive security operations and one of the most in-demand roles in cybersecurity. This career path will prepare you to become an entry-level SOC Analyst.
+Penetration Testers are professional ethical hackers, responsible for assessing the security posture of applications and networks on behalf of their employers. This career path will prepare you for success and teach you how to become an entry-level Penetration Tester.
+Security Engineers are security-minded architects and builders. This career path will provide you with the foundational knowledge and key skills needed to succeed as an entry-level Security Engineer.
+Leadership and Management
+Effective Leadership and Management is critical to any security-related function. This career path is designed to provide you with the foundational knowledge and key skills required to succeed as an effective leader within any security domain. Upon completing the career path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Every successful cybersecurity program requires judicious risk management and informed oversight. This career path is designed to provide you with the foundational knowledge and key skills required to succeed as a GRC Analyst or in any role that involves managing governance, risk, and compliance. Upon completing the career path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Governance is the system of rules, practices, and processes used to direct and control a company. This skill path is designed to provide you with a general understanding of how to align business objectives with ethical practices for how a company operates. Upon completing the skill path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Compliance is the act of adhering to all relevant laws, regulations, industry standards (external), and internal policies and controls (corporate). This skill path is designed to provide you with a general understanding of how to ensure an organization operates within legal and ethical boundaries to avoid fines, penalties, and reputational damage. Upon completing the skill path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Cybersecurity Leadership
+Becoming an effective Cybersecurity Leader requires you to consider traditional Leadership competencies through a security-centric lens. This skill path is designed to provide you with a general understanding of cybersecurity leadership. Upon completing the skill path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Collaborative Leadership
+Collaborative Leadership is the skillset required to work effectively with others. This skill path is designed to provide you with a general understanding of the collaborative skills required to be a successful leader. Upon completing the skill path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Soft Skills are the traits required for positive and constructive interactions with other people. This skill path is designed to provide you with a general understanding of the soft skills required to be a successful leader. Upon completing the skill path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Incident Response is the rapid response function that addresses high-impact security events in real time. This skill path is designed to provide you with a general understanding of Incident Response as both a skill set and work role. Upon completing the skill path, you will earn a Credly digital badge that will demonstrate to employers that youâre ready for the job.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+In this brief course, you will learn the basics of AI scams. AI scams are cyberattacks that use artificial intelligence to trick people. They create emails, videos, voice messages, or websites that look, sound, and read like the real thing, making them far more convincing and harder to detect than traditional scams.
+In this brief course, you will learn the basics of impersonation scams as part of your required Security Awareness Training. Impersonation scams happen when cybercriminals pretend to be someone you know and trust. They use urgency, realistic details, and familiar names to pressure you into acting fast, often before you have time to think or verify.
+In this brief course, you will learn the basics of supply chain risk as part of your required Security Awareness Training. Supply chain risk is the cybersecurity threat that comes from the businesses you depend on, like suppliers, vendors, and service providers, rather than direct attacks on your own systems.
+In this brief course, you will learn the basics of deepfakes as part of your required Security Awareness Training. Deepfakes are synthetic media, usually videos, images, or audio, created using artificial intelligence to convincingly mimic real people. They can make someone appear to say or do something they never actually did.
+In cybersecurity, a threat actor is anyone or anything that intentionally causes harm using digital methods. This includes hackers, insiders, bots, or AI scripts that steal data, disrupt systems, or exploit vulnerabilities, usually for money, politics, revenge, or attention.
+Secure traveling is the practice of protecting your devices and data while on the move. It means avoiding unsafe networks, keeping your devices physically and digitally secure, and staying alert to risks like theft or data leaks, so you can travel with confidence and keep your personal or work information safe.
+In this brief course, you will learn the basics of shadow IT as part of your required Security Awareness Training. Shadow IT is when employees use digital tools, applications or services such as cloud storage, messaging apps, or project software, without the approval or knowledge of their organizationâs IT or security team.
+QR phishing (also known as quishing) is when attackers create fake QR codes that lead you somewhere you werenât expecting. Often, the destination is a malicious website designed to steal your information, download malware, or trick you into taking unsafe actions.
+In this brief course, you will learn the basics of WiFi security as part of your required Security Awareness Training. WiFi security is the protection of wireless networks from unauthorized access and cyber threats. It involves encryption, authentication, and other measures to ensure that data transmitted over WiFi remains private and secure.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+System Administrators are responsible for managing, maintaining, and securing an organizationâs computer systems, networks, and servers. This collection is the perfect starting point for professionals with little background in IT or cybersecurity.
+Network Engineers are responsible for designing, implementing, managing, and optimizing an organization's network infrastructure. This collection covers network administration, protection, and architecture.
+Incident Handlers are on the front line of cyberdefense. This collection focuses on the incident response process â from building an incident response kit and developing an incident response team, to identifying, containing, and recovering from incidents.
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+OWASP Top 10 - A01:2021 - Broken Access Control
+The OWASP Top 10 features the most critical web application security vulnerabilities. This part covers A01: Broken Access Control. You will learn how to identify, exploit, and offer remediation advice for this vulnerability in a secure lab environment. Build your offensive security and penetration testing skills with this one-of-a-kind course!
+OWASP Top 10 - A02:2021 - Cryptographic Failures
+The OWASP Top 10 features the most critical web application security vulnerabilities. This part covers A02: Cryptographic Failures. You'll learn to identify, exploit, and offer remediation advice for this vulnerability in a secure lab environment. Build your offensive security and penetration testing skills with this one-of-a-kind course!
+OWASP Top 10 - A03:2021 - Injection
+The OWASP Top 10 features the most critical web application security vulnerabilities. This part covers A03: Injection. You will learn how to identify, exploit, and offer remediation advice for this vulnerability in a secure lab environment. Build your offensive security and penetration testing skills with this one-of-a-kind course!
+OWASP Top 10 - A04:2017 - XML External Entities
+The OWASP Top 10 features the most critical web application security vulnerabilities. This part covers A4: XML External Entities. You will learn how to identify, exploit, and offer remediation advice for this vulnerability in a secure lab environment. Build your offensive security and penetration testing skills with this one-of-a-kind course!
+OWASP Top 10 - A04:2021 - Insecure Design
+The OWASP Top 10 features the most critical web application security vulnerabilities. In this part, A04: Insecure Design, you'll take advice from a trusted offensive security professional on how to use threat modeling and other techniques to protect your organization against critical design flaws that adversaries could exploit.
+OWASP Top 10 - A05:2021 - Security Misconfiguration
+The OWASP Top 10 features the most critical web application security vulnerabilities. In this part, A05: Security Misconfiguration, you'll identify, exploit, and offer remediation advice for this vulnerability. We also cover XML External Entities. Build your offensive security and penetration testing skills with this one-of-a-kind course!
+OWASP Top 10 - A06:2021 - Vulnerable and Outdated Components
+The OWASP Top 10 features the most critical web application security vulnerabilities. In this part, A06: Vulnerable and Outdated Components, you'll learn to identify, exploit, and offer remediation advice for this vulnerability in a secure lab environment. Build your offensive security and penetration testing skills with this one-of-a-kind course!
+OWASP Top 10 - A07:2021 - Identification and Authentication Failures
+The OWASP Top 10 features the most critical web application security vulnerabilities. In this part, A07: Identification & Authentication Failures, you'll identify, exploit, and offer remediation advice for this vulnerability in a secure lab environment. Build your offensive security and penetration testing skills with this one-of-a-kind course!
+OWASP Top 10 - A08:2021 - Software and Data Integrity Failures
+The OWASP Top 10 features the most critical web application security vulnerabilities. In this part, A08: Software and Data Integrity Failures, you'll take advice from a trusted offensive security professional on how to implement best practices for data and software integrity verification and risk mitigation.
+Magic Hound: Campaign Overview
+In this brief course, you will be introduced to the Magic Hound Threat Actor Campaign.
+Royal Ransomware Group: Campaign Overview
+In this brief course, you will be introduced to the Royal Ransomware Group Threat Actor Campaign.
+Protocol Tunneling and Encrypted Channel
+This hands-on lab is designed to equip learners with in-depth knowledge of protocol tunneling and encrypted channels - two critical techniques for secure and covert communication.
+Exfiltration Over Alternative Protocol: Asymmetric Encrypted Non-C2 Protocol
+This hands-on lab is designed to provide learners with an understanding of how an adversary can use the Exfiltration Over Alternative Protocol: Asymmetric Encrypted Non-C2 Protocol TTP to further their objectives in a cyber operation.
+SSH Authorized Keys are widely used as credentials for remotely accessing Linux-based systems via SSH. Adversaries can manipulate these keys to give themselves persistence in your environment so they can return at will. Get hands-on detecting and mitigating this adversary action today.
+Application Layer Protocol: Web Protocols
+In this hands-on lab, you will practice simulating a command-and-control (C2) beacon and detecting the resulting activity using a SIEM.
+Lateral Movement: Windows Remote Management
+In order to achieve lateral movement, threat actors will use a valid account to access remote systems, such as the Windows Remote Management service. In this way, the threat actor can move around the network and search for valuable information or greater access. Learn more and get hands-on with this technique by detecting it in our virtual lab.
+Persistence via Windows Services
+Windows Services are the main vehicle used by the Windows OS to start and run background functions that do not require user interaction. Configuring malware to run as a service is a common strategy for trying to blend malicious code execution in with other legitimate Windows functions. Prevent adversaries from gaining persistence in this course.
+System Binary Proxy Execution and a Spearphish Payload
+Spearphishing is one of the oldest tricks in the book, and in this course you will learn more about how it actually works. Plus, see how adversaries can hide malicious code in compiled HTML files. Detect and mitigate these techniques in our hands-on course.
+Introduction to Security Auditing
+In this course, you will be introduced to the basics of security auditing. You will learn about planning and scoping an audit, executing audit fieldwork as well as analyzing findings and reporting.
+Security Controls and Monitoring
+In this course, you will be introduced to security controls. You will learn about control frameworks and classifications, how to implement technical security controls as well as monitoring and metrics for controls.
+Policies, Standards, and Procedures
+In this course, you will be introduced to the hierarchy of policies, standards, procedures. You will also learn about lifecycle management.
+Cybersecurity Program Management
+In this course, you will be introduced to the foundations of cybersecurity program management. You will learn about cybersecurity roles, teams, and structures, program planning and budgeting as well as supply chain and third-party cybersecurity.
+In this course, you will be introduced to the basics of governance. You will learn about accountability, transparency and oversight in GRC, as well as the distinctions between governance and management.
+Test your knowledge of Compliance to identify strengths, gaps, and weaknesses in areas like GDPR, HIPAA, PCI DSS, and more. Measure your mastery of compliance and advance your career with targeted course recommendations.
+Case Study: Cardholder Leakage
+In this challenge, you will review a case study about payment security and cardholder data mismanagement. You will consider the benefits of two approaches to reforming an existing PCI compliance program.
+Case Study: Unlawful Data Flow
+In this challenge, you will review a case study about GDPR compliance & cross-border data transfers. You will consider the benefits of two approaches to reform the organizationâs international data transfer practices.
+In this course, you will be introduced to Cybersecurity Maturity Model Certification (CMMC) Compliance. You will learn about the CMMC domains and practices, the assessment and certification, how to maintain compliance as well as how to integrate CMMC with GRC.
+CVE Series: âLeaky Vesselsâ Container Breakout (CVE-2024-21626)
+CVE-2024-21626 is a severe vulnerability affecting all versions of runc up to 1.1.11, a critical component utilized by Docker and other containerization technologies like Kubernetes. This vulnerability enables an attacker to escape from a container to the underlying host operating system. Put on your red team hat to exploit this vulnerability.
+CVE Series: VFS Escape in CrushFTP (CVE-2024-4040)
+CVE-2024-4040 is a critical vulnerability in CrushFTP, a Java-based robust file server. Rated with a CVSS score of 10, this flaw permits remote, unauthorized attackers to circumvent authentication mechanisms, thereby gaining remote code execution (or RCE). In this course youâll explore, exploit, and remediate this CVE.
+CVE Series: aiohttp Directory Traversal Vulnerability (CVE-2024-23334)
+CVE-2024-23334 is a high severity vulnerability found in the aiohttp Python library, a popular asynchronous HTTP client/server framework. By the end of this course you will be able to execute a directory traversal attack using aiohttp's vulnerable configuration and then perform remediation steps to fix the vulnerability.
+CVE Series: Apache HugeGraph Server Gremlin Query Language RCE (CVE-2024-27348)
+CVE-2024-27348 is a critical vulnerability in Apache HugeGraph, a graph database designed for large-scale data management. With a CVSS score of 9.8, attackers can exploit this flaw by sending crafted payloads to execute arbitrary commands, potentially leading to a full system compromise.
+Challenge: Agent Diwali
+In this month's Cybrary challenge, you will be exploring the inner workings of automobiles by analyzing a CAN Bus dump file. The Controller Area Network (CAN bus) is the black box for vehicles, recording every action taken.
+Challenge: Holiday Speed Run
+In this month's Cybrary challenge, you will be exploring the inner workings of automobiles by analyzing a CAN Bus dump file. The Controller Area Network (CAN bus) is the black box for vehicles, recording every action taken.
+Jumping the Wireshark
+In this hands-on challenge, you will have the opportunity to put your Wireshark skills to the test.
+In this hands-on challenge, you will practice using Burp Suite to exploit a vulnerable web application.
+In this hands-on challenge, you will practice exploiting SSRF vulnerablities and converting binary output.
+In this hands-on challenge, you will practice researching log events related to a reported spearphishing attack.
+In this hands-on challenge, you will practice researching network observables.
+Certificate of Authenticity
+In this hands-on challenge, you will practice analyzing log events related to Windows authentication.
+Process Profiles in Courage
+In this hands-on challenge, you practice profiling a suspicious process on a Windows system.
+In this hands-on challenge, you will practice using SIEM search expressions to locate suspicious activity related to XRDP traffic.
+CVE Series: Jenkins Arbitrary File Leak Vulnerability (CVE-2024-23897)
+CVE-2024-23897 is a critical security flaw affecting Jenkins, a Java-based open-source automation server widely used for application building, testing, and deployment. It allows unauthorized access to files through the Jenkins integrated command line interface (CLI), potentially leading to remote code execution (RCE).
+CVE Series: Authentication Bypass Leading to Remote Code Execution (RCE) in JetBrains TeamCity (CVE-2024-27198)
+CVE-2024-27198 is a critical vulnerability in JetBrains TeamCity, a Java-based open-source automation server used for application building. This flaw allows remote, unauthorized attackers to circumvent authentication, thereby gaining admin control over the server. All versions of TeamCity On-Premises up to 2023.11.3 are affected.
+In this hands-on challenge, you will practice using SIEM search expressions to locate suspicious activity related to XRDP traffic.
+CVE Series: Authentication Bypass in Apache Superset (CVE-2023-27524)
+CVE-2023-27524 is a critical vulnerability in Apache Superset, affecting versions up to 2.0.1. It enables attackers to bypass authentication by exploiting weak or default SECRET_KEY values. Attackers can forge session cookies to gain admin access, leading to potential remote code execution and unauthorized data access.
+Threat Actor Campaigns
+Royal Ransomware Group
+Royal is a spin-off group of Conti, which first emerged in January of 2022. The group consists of veterans of the ransomware industry and brings more advanced capabilities and TTPs against their victims. Begin this campaign to learn how to detect and protect against this newer APT group!
+Threat Actor Campaigns
+Magic Hound (APT35) is an Iranian state-sponsored threat group that primarily targets organizations across various industries and geographic regions through cyber espionage. Launch this campaign to start detecting the sophisticated techniques leveraged by this threat group.
+Threat Actor Campaigns
+Raspberry Robin is a malware family that continues to be manipulated by several different threat groups for their purposes. These threat actors (Clop, LockBit, and Evil Corp) specialize in establishing persistence on a compromised host and creating remote connections to use later. Once established, these C2 connections can be used for multiple purposes, including data exfiltration, espionage, and even further exploitation.
+Threat Actor Campaigns
+Double Trouble with Double Dragon
+Advanced Persistent Threats (APTs) conduct state-sponsored cyberattacks that can radically disrupt global business operations. Launch this campaign to start detecting sophisticated techniques leveraged by APT41, known as "Double Dragon" because they cause double trouble with both espionage and financially-motivated attacks!
+Threat Actor Campaigns
+Weak Link in the Supply Chain
+Threat actors known as Advanced Persistent Threats (APTs) conduct highly sophisticated attacks sponsored by nation-states. They maintain a committment to stealth and often use custom malware. This campaign emulates a supply chain attack by APT29 that is similar to the SolarWinds compromise and it has the end goal of stealing sensitive information.
+Threat Actor Campaigns
+Ransomware for Financial Gain
+Threat actors continue to leverage ransomware to extort victim organizations. What was once a simple scheme to encrypt target data has expanded to include data disclosure and targeting a victimâs clients or suppliers. Understanding the techniques threat actors use in these attacks is vital to having an effective detection and mitigation strategy.
+Designed to complement Cybraryâs on-demand certification prep content, Cybrary Live allows learners to interact directly with expert instructors in a boot camp-style virtual classroom environment. Contact sales@cybrary.it to inquire about Cybrary Live for your team.
+Our instructors are current cybersecurity professionals trained by Cybrary to deliver engaging, consistent, quality content.
+Founder and CTO at Shevirah and Bulb Security
+VP, Cybersecurity Incident Response Planning at JPMorgan
+Senior Technical Instructor at FireEye, Inc
+Executive VP of IPKeys Power Partners
+What Our Learners Are Saying
+Join 3 million+ users, including 96% of Fortune 1000 companies who use our platform to upskill their teams. See what the buzz is about - start learning for free!
+Cybrary is just an amazing platform. Literally thousands of hours of quality content. You can find a course or a lab for just about everything, and they are constantly releasing new material. They also have highly responsive customer service. It's been worth every penny.
+Greatest investment I have made to dateCybrary is solely responsible for my passing the CompTIA A+ exam and is the reason I am going into my Net+ with confidence. I have learned a great deal through virtual labs, practice tests, recorded lessons, and the various other things they offer. The community is great as well. Got a question about the interview process for a tech job? Ask in discord. Just got a cert? Post it in discord and let the reactions and comments flow making you feel great about yourself. It is an all around wonderful experience and I rate it as a totally worthwile expense for starting or furthering your career in the IT industry. Invest in yourself.
+Training is coolEasy to enroll, instructors are enthusiastic and professionnal, technical stuff is very well explained.
+I've been having concerns on how to start in terms of building my #cybercareer with a sustained path. So I got introduced to Cybrary and I was able to enroll and startup early last week and I have gone through two sessions, getting to know Cybrary and also a view of what cybersecurity is from their perspective. That gave me an overall view of what jobs are found in the space, their general responsibilities, required skills, necessary certifications and their average salary pay... Cybrary has given me a greater reason to pursue my hearts desire at all cost.
+Thanks to Cybrary I'm now a more complete professional! Everyone in [the] cybersecurity area should consider enrollment in any Cybrary courses.
+IT Administrator - CISSP
+The interviewer said the certifications and training I had completed on my own time showed that I was a quick learner, and they gave me a job offer.
+Our partnership with Cybrary has given us the opportunity to provide world-class training materials at no cost to our clients, thanks to the funding we’ve received from the government. Cybrary offers a proven method for building a more skilled cybersecurity workforce.
+All of the knowledge, skills, and abilities gained through the program were essential to me impressing the employer during the interview.
+Senior Security Analyst
+Cybrary is a one-stop-shop for my cybersecurity learning needs. Courses on vulnerability management, threat intelligence, and SIEM solutions were key for my early roles. As I grow into leadership roles influencing business policy, I’m confident Cybrary will continue developing the knowledge and skills I need to succeed.
+Senior Cybersecurity Consultant and Virtual CISO
+After tens of minutes, I proudly have achieved my certificate of continuing education for Intro to Infosec... Doing everything I can to avoid retaking the CISSP test! Thanks Cybrary - 1 CPE at a time!
+We’ve had six students this summer, all with different schedules, so we’ve been trying to balance their learning experience with some practical work. It’s not like they’re all sitting in a classroom at the same time, so the ability for them to learn at their own pace without any additional support has probably been the biggest benefit of using Cybrary.
+Business Development Manager
+Just finished the third out of four MITRE ATT&CK Defender courses on Cybrary... If anyone is interested in learning how to do ATT&CK based SOC assessments I would definitely recommend this course. The best part is that it is FREE!
+AWS Certified Cloud Practitioner
+Excellent new series of courses from Cybrary, each course covers a different CVE, demonstrates vulnerability and its mitigation.
+Cybersecurity Specialist
+I've successfully completed the career path provided by Cybrary to become a SOC Analyst - Level 2. Eventually, do what you love, and do it well - that's much more meaningful than any metric.
+Cybrary is helping me proactively build skills and advance my career. Labs put concepts immediately into practice, reinforcing the content (and saving me time not having to spin up my own VM). Career paths lay everything out clearly, so I know what skills to prioritize.
+I got a job as a cybersecurity analyst at Radware with a salary I've never even dreamed about AND with no prior experience.
+Cybersecurity Analyst
+Thank you to Cybrary for providing this opportunity to complete the Cybrary Orientation Certification program with such sleekness and detail-oriented learning.
+So far I have really been enjoying Cybrary's SOC Analyst Training, it has been very informative. I just finished up with the command line section and now I'm on to the more fun stuff (Malware Analysis). I think it's so dope that platforms like this exist. This is a game changer.
+SOC Analyst, Security+ Certified
+I decided to check out Cybrary and the courses they had to offer after seeing a few posts from people who had completed their courses. I'm happy to say that their instructors are knowledgeable and clear, and their course catalogues are extensive and offer relevant career path courses.
+AWS Certified Cloud Practitioner
+Glad to have discovered Cybrary they are such a great tool to use to help diversify your knowledge through lessons, assessments and practices. All compact[ed] into highly detailed and informative chunks of information. Feeling very content with the results.
+Cisco Certified Network Associate
+Well, it took a long time, yet I struggled hard to complete the course "Become a SOC Analyst - Level 2" by Cybrary. Cybrary is the best platform that I have ever come across. Tons of virtual labs, great in-depth insights from the experts, and the best career path/learning modules.
+Madiraju Pranay Kashyap
+Programmar Analyst Trainee
+I am currently working in a restaurant and going to school full time. But it is not stopping me from working on gaining more and more skills. I have already spent more than 30 hours on Become a SOC Analyst level 1 [with] Cybrary and still have 67 hours to go.
+SOC Analyst Level 1 Learner

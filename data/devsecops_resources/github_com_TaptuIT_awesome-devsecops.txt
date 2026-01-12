@@ -1,0 +1,250 @@
+Source: https://github.com/TaptuIT/awesome-devsecops
+Scraped: 2025-12-22 20:54:44
+================================================================================
+
+You must be signed in to change notification settings
+Curating the best DevSecOps resources and tooling.
+You must be signed in to change notification settings
+JakobTheDev/awesome-devsecops
+Open more actions menu
+Repository files navigation
+Curating the best DevSecOps resources and tooling.
+is an extension of the
+movement that aims to bring security practices into the development lifecycle through developer-centric security tooling and processes.
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+Secure Development Guidelines
+Secure Development Lifecycle Framework
+Dependency Management
+Infrastructure as Code Analysis
+Intentionally Vulnerable Applications
+Supply Chain Security
+Our Approach to Employee Security Training
+- Guidelines to running security training within an organisation.
+DevSecOps: Making Security Central To Your DevOps Pipeline
+- An article explains what DevSecOps aims to achieve, why it’s advantageous, and how the DevSecOps lifecycle looks.
+Alice and Bob Learn Application Security
+- An accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development.
+- A community that runs conferences, a blog, a podcast and a Discord dedicated to DevSecOps.
+Cloud Native Computing Foundation
+- TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
+- An Australian application security conference run by OWASP.
+- A network of DevSecOps conferences run by Snyk.
+- A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers.
+Seth Law & Ken Johnson
+- Discussions about current events and specific topics related to application security.
+Application Security Podcast
+- Interviews with industry experts about specific application security concepts.
+- Breaking down the silos of Dev, Sec and Ops, discussing topics that span these subject areas.
+DevSecOps Podcast Series
+- Discussions with thought leaders and practitioners to integrate security into the development lifecycle.
+- Discussion about security tools and best practices for software developers.
+Secure Development Guidelines
+Application Security Verification Standard
+- A framework of security requirements and controls to help developers design and develop secure web applications.
+- A collection of secure development standards for C, C++, Java and Android development.
+Fundamental Practices for Secure Software Development
+- Guidelines for implementing key secure development practices throughout the SDLC.
+- OWASP's list of top ten controls that should be implemented in every software development project.
+Secure Coding Guidelines
+- A guideline containing specific secure development standards for secure web application development.
+Secure Coding Practices Quick Reference Guide
+- A checklist to verify that secure development standards have been followed.
+Secure Development Lifecycle Framework
+Building Security In Maturity Model (BSIMM)
+- A framework for software security created by observing and analysing data from leading software security initiatives.
+Secure Development Lifecycle
+- A collection of tools and practices that serve as a framework for the secure development lifecycle.
+Secure Software Development Framework
+- A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
+Software Assurance Maturity Model
+- A framework to measure and improve the maturity of the secure development lifecycle.
+Cloud Security and DevSecOps Best Practices
+Securing Web Application Technologies (SWAT) Checklist
+- A poster containing the Securing Web Application Technologies (SWAT) Checklist, SANS Cloud Security Curriculum, Cloud Security Top 10, Top 12 Kubernetes Threats, and Secure DevOps Toolchain.
+Periodic Table of DevOps Tools
+- A collection of DevSecOps tooling categorised by tool functionality.
+Application Security Education
+- Training materials created by the Duo application security team, including introductory and advanced training presentations and hands-on labs.
+- Subscription based online courses with dedicated categories for cybersecurity and DevSecOps.
+- Hands on labs to understand and exploit simple and advanced web vulnerabilities.
+- Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.
+- Security training for software development teams, designed to be accessible to individuals and small teams as well as larger organisations.
+- Gamified and hands-on secure development training with support for courses, assessments and tournaments.
+- Hands-on secure coding training for Developers and Build/Release Engineers.
+Security Training for Engineers
+- A presentation created and open-sourced by PagerDuty to provide security training to software engineers.
+Security Training for Everyone
+- A presentation created and open-sourced by PagerDuty to provide security training employees.
+- Free, on-demand courses covering topics including API security, secure coding and application security.
+- A set of materials and labs to learn and exploit common web vulnerabilities.
+- Online courses that teach application security theory and hands-on technical lessons.
+- Introduction to key DevSecOps concepts, processes and technologies.
+SecureFlag Knowledge Base
+- A repository of information about software vulnerabilities and how to prevent them.
+Dependency Management
+Open source software packages can speed up the development process by allowing developers to implement functionality without having to write all of the code. However, with the open source code comes open source vulnerabilities. Dependency management tools help manage vulnerabilities in open source packages by identifying and updating packages with known vulnerabilities.
+Deepfence ThreatMapper
+- Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+- Automatically scan GitHub repositories for vulnerabilities and create pull requests to merge in patched dependencies.
+- Scans dependencies for publicly disclosed vulnerabilities using CLI or build server plugins.
+- Monitor the volume and severity of vulnerable dependencies across multiple projects over time.
+- Security and compliance analysis for artifacts stored in JFrog Artifactory.
+- Vulnerable package auditing for node packages built into the npm CLI.
+- Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
+Olivier Mansion & Alexis Tabary
+- Automated vulnerable dependency monitoring and upgrades for Python projects.
+- Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
+Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
+Automatic API Attack Tool
+- Perform automated security scanning against an API based on an API specification.
+BurpSuite Enterprise Edition
+- BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.
+- A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
+- Discover internet-wide misconfigurations, using zgrab2 and others.
+- A stateful RESTful API scanner based on peer-reviewed research papers.
+- Automated scanning for SSL / TLS configuration issues.
+Zed Attack Proxy (ZAP)
+- An open-source web application vulnerability scanner, including an API for CI/CD integration.
+Infrastructure as Code Analysis
+Infrastructure as Code allows applications to be deployed reliably to a consistent environment. This not only ensures that infrastructure is consistently hardened, but also provides an opportunity to statically and dynamically analyse infrastructure definitions for vulnerable dependencies, hard-coded secrets, insecure configuration and unintentional changes in security configuration. The following tools facilitate this analysis.
+- Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
+- Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
+- Find misconfiguration both in infrastructure as well as apps as early as commit time.
+- Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+- Scan AWS CloudFormation templates for insecure configuration.
+- Scan App Container and Docker containers for publicly disclosed vulnerabilities.
+- Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
+Docker-Bench-Security
+- The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.
+- Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
+- Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
+- Simple and comprehensive vulnerability scanner for containers.
+- Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
+- A lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.
+- Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
+Cloud Native Computing Foundation
+- An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
+- Scan Kubernetes object definitions for security and performance misconfiguration.
+- Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
+- Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
+Intentionally Vulnerable Applications
+Intentionally vulnerable applications are often useful when developing security tests and tooling to provide a place you can run tests and make sure they fail correctly. These applications can also be useful for understanding how common vulnerabilities are introduced into applications and let you practice your skills at exploiting them.
+- A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
+- Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
+- A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
+Damn Vulnerable Web App
+- A web application that provides a safe environment to understand and exploit common web vulnerabilities.
+- A web application containing the OWASP Top 10 security vulnerabilities and more.
+- Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
+- A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
+- Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
+- Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
+Vulnerable Web Apps Directory
+- A collection of vulnerable web applications for learning purposes.
+- Vulnerable app with examples showing how to not use secrets
+It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
+- A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.
+- Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines.
+The software we write needs to use secrets (passwords, API keys, certificates, database connection strings) to access resources, yet we cannot store secrets within the codebase as this leaves them vulnerable to compromise. Secret management tools provide a means to securely store, access and manage secrets.
+- Securely store secrets within Ansible pipelines.
+AWS Key Management Service (KMS)
+- Create and manage cryptographic keys in AWS.
+- Securely store retrievable application secrets in AWS.
+- Securely store secrets within Azure.
+- Encrypt credentials within your code repository.
+- Securely store secrets within Chef.
+- Securely store secrets within AWS using KMS and DynamoDB.
+CyberArk Application Access Manager
+- Secrets management for applications including secret rotation and auditing.
+- Store and manage access to secrets within a Docker swarm.
+- Scan git repositories for secrets committed within code or commit messages.
+- Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
+Google Cloud Key Management Service (KMS)
+Google Cloud Platform
+- Securely store secrets within GCP.
+- Securely store secrets via UI, CLI or HTTP API.
+- Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
+- Securely store, rotate and audit secrets.
+Secrets Operations (SOPS)
+- Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+- A secrets management tool for developers - never leave your command line for secrets.
+Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.
+- A credential scanning tool that can be run as a task in Azure DevOps pipelines.
+- An aptly named module for (surprise, surprise) detecting secrets within a code base.
+- A web-based solution that scans and monitors public and private git repositories for secrets.
+- Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
+- Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
+- A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.
+- Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
+- Automated code security, secrets, tokens and sensitive data scanning.
+- Searches through git repositories for secrets, digging deep into commit history and branches.
+Static Analysis Security Testing (SAST) tools scan software for vulnerabilities without executing the target software. Typically, static analysis will scan the source code for security flaws such as the use of unsafe functions, hard-coded secrets and configuration issues. SAST tools often come in the form of IDE plugins and CLIs that can be integrated into CI/CD pipelines.
+Multi-Language Support
+- A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
+- Grep source code for potential security flaws with custom or pre-configured regex signatures.
+- Modularised CLI tool for project security, vulnerability and general risk highlighting.
+- Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
+- Automated static analysis for PHP, Java and Node.js projects.
+- Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
+- An IDE plugin that highlights potential security security issues, code quality issues and bugs.
+- Scan code for security and quality issues with support for a wide variety of languages.
+- Scan C / C++ code for potential security weaknesses.
+- A Visual Studio plugin to scan .NET projects for potential security flaws.
+- Create custom tests to scan any configuration file for security flaws.
+- An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- Static analysis for JVM deployment units including Ear, War, Jar and APK.
+- SpotBugs plugin for security audits of Java web applications. Supports Eclipse, IntelliJ, Android Studio and SonarQube.
+- Static code analysis for Java applications.
+- Linting tool for JavaScript with multiple security linting rules available.
+Golang Security Checker
+- CLI tool to scan Go code for potential security flaws.
+- Static code analysis for C# and VB.NET applications.
+- Broad static analysis for PHP applications with some support for security scanning features.
+- PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
+- Static analysis for PHP source code.
+Python Code Quality Authority
+- Find common security vulnerabilities in Python code.
+- Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+- Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
+Supply Chain Security
+Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
+Harden Runner GitHub Action
+- installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
+- a browser extension helping developers evaluate open source packages before picking them.
+- helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent
+- sigstore is a set of free to use and open source tools, including
+, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
+- A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+Threat modelling is an engineering exercise that aims to identify threats, vulnerabilities and attack vectors that represent a risk to something of value.  Based on this understanding of threats, we can design, implement and validate security controls to mitigate threats. The following list of tools assist the threat modelling process.
+Awesome Threat Modelling
+- A curated list of threat modelling resources.
+- Treat modelling and attack simulations for IT infrastructure.
+- Draw threat models and capture threats and countermeasures and manage risk.
+- Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
+- Identify and rank threats, generate actionable tasks and track related tickets.
+- Threat model diagramming tool.
+Threat Modelling Tool
+- Threat model diagramming tool.
+- Define threat modelling as code.
+Awesome Dynamic Analysis
+- A collection of dynamic analysis tools and code quality checkers.
+Awesome Platform Engineering
+- A curated list of solutions, tools and resources for
+Awesome Static Analysis
+- A collection of static analysis tools and code quality checkers.
+Awesome Threat Modelling
+- A curated list of threat modeling resources.
+Vulnerable Web Apps Directory
+- A collection of vulnerable web applications for learning purposes.
+Curating the best DevSecOps resources and tooling.
+secure-software-development
+There was an error while loading.
+Please reload this page
+No releases published
+No packages published
+There was an error while loading.
+Please reload this page
+There was an error while loading.
+Please reload this page
+You can’t perform that action at this time.

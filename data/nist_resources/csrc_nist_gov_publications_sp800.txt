@@ -1,0 +1,588 @@
+Source: https://csrc.nist.gov/publications/sp800
+Scraped: 2025-12-22 20:49:33
+================================================================================
+
+You are viewing this page in an unauthorized frame window.
+This is a potential security issue, you are being redirected to
+https://csrc.nist.gov
+Official websites use .gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Information Technology Laboratory
+Computer Security Resource Center
+Drafts Open for Comment
+(interagency/internal reports)
+(cybersecurity white papers)
+Current list of all published NIST cybersecurity documents.
+Does not include "Withdrawn" documents. Includes FIPS, Special Publications, NISTIRs, ITL Bulletins, and NIST Cybersecurity White Papers.
+Current list of all draft NIST cybersecurity documents--they are typically posted for public comment.
+"Current" public drafts are the latest draft versions that have not yet been published as "Final."
+Current Federal Information Processing Standard Publications (FIPS).
+Includes current (Final and Draft) FIPS.
+Current NIST Special Publication (SP) 800 series publications, which focus on Computer/Information Security.
+Includes current (Final and Draft) SP 800 pubs.
+Current NIST Special Publications (SP), including SP 800 (Computer/Information Security) and SP 1800
+(Cybersecurity Practice Guides) pubs. Also includes SP 500 (Computer Systems Technology) pubs related to cybersecurity and privacy.
+Includes current (Final and Draft) NIST Special Publications.
+Current list of NIST Interagency or Internal Reports (NISTIR) related to cybersecurity and privacy.
+Includes current (Final and Draft) NISTIRs.
+Current list of NIST Information Technology Laboratory (ITL) Bulletins.
+Consists of NIST Cybersecurity White Papers; NCCoE Project Descriptions, Building Blocks and Use Cases; and
+other NIST-authored papers that are not part of a formal series.
+Includes current (Final and Draft) papers.
+NIST-authored articles published in external journals and in the NIST Journal of Research (JRES).
+NIST-authored conference papers related to cybersecurity and privacy.
+NIST-authored books, book sections, and encyclopedia entries related to cybersecurity and privacy.
+Fiscal Year 2024 Cybersecurity and Privacy Annual Report
+Fiscal Year 2024 Cybersecurity and Privacy Annual Report
+High-Performance Computing (HPC) Security Overlay
+SP 800-234 (Initial Public Draft)
+High-Performance Computing (HPC) Security Overlay
+Service Mesh Proxy Models for Cloud-Native Applications
+Service Mesh Proxy Models for Cloud-Native Applications
+Ascon-Based Lightweight Cryptography Standards for Constrained Devices: Authenticated Encryption, Hash, and Extendable Output Functions
+Ascon-Based Lightweight Cryptography Standards for Constrained Devices: Authenticated Encryption, Hash, and Extendable Output Functions
+Bug Framework (BF): Formalizing Cybersecurity Weaknesses and Vulnerabilities
+Bug Framework (BF): Formalizing Cybersecurity Weaknesses and Vulnerabilities
+Fiscal Year 2023 Cybersecurity and Privacy Annual Report
+Fiscal Year 2023 Cybersecurity and Privacy Annual Report
+Guidelines for API Protection for Cloud-Native Systems
+Guidelines for API Protection for Cloud-Native Systems
+Recommendations for Key-Encapsulation Mechanisms
+Recommendations for Key-Encapsulation Mechanisms
+Guidelines for Evaluating Differential Privacy Guarantees
+Guidelines for Evaluating Differential Privacy Guarantees
+Fiscal Year 2022 Cybersecurity and Privacy Annual Report
+Fiscal Year 2022 Cybersecurity and Privacy Annual Report
+Keyed-Hash Message Authentication Code (HMAC): Specification of HMAC and Recommendations for Message Authentication
+SP 800-224 (Initial Public Draft)
+Keyed-Hash Message Authentication Code (HMAC): Specification of HMAC and Recommendations for Message Authentication
+High-Performance Computing Security: Architecture, Threat Analysis, and Security Posture
+High-Performance Computing Security: Architecture, Threat Analysis, and Security Posture
+Information and Communications Technology (ICT) Risk Outcomes: Integrating ICT Risk Management Programs with the Enterprise Risk Portfolio
+Information and Communications Technology (ICT) Risk Outcomes: Integrating ICT Risk Management Programs with the Enterprise Risk Portfolio
+Enterprise Impact of Information and Communications Technology Risk: Governing and Managing ICT Risk Programs Within an Enterprise Risk Portfolio
+Enterprise Impact of Information and Communications Technology Risk: Governing and Managing ICT Risk Programs Within an Enterprise Risk Portfolio
+Fiscal Year 2021 Cybersecurity and Privacy Annual Report
+Fiscal Year 2021 Cybersecurity and Privacy Annual Report
+Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP)
+SP 800-219 Rev. 1 (Final)
+Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP)
+Secure Software Development Framework (SSDF) Version 1.2: Recommendations for Mitigating the Risk of Software Vulnerabilities
+SP 800-218 Rev. 1 (Initial Public Draft)
+Secure Software Development Framework (SSDF) Version 1.2: Recommendations for Mitigating the Risk of Software Vulnerabilities
+Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile
+Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile
+Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities
+Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities
+Guidelines for Personal Identity Verification (PIV) Federation
+SP 800-217 (Final Public Draft)
+Guidelines for Personal Identity Verification (PIV) Federation
+Recommendations for Federal Vulnerability Disclosure Guidelines
+Recommendations for Federal Vulnerability Disclosure Guidelines
+Guide to a Secure Enterprise Network Landscape
+Guide to a Secure Enterprise Network Landscape
+2020 Cybersecurity and Privacy Annual Report
+2020 Cybersecurity and Privacy Annual Report
+IoT Device Cybersecurity Guidance for the Federal Government: IoT Device Cybersecurity Requirement Catalog
+IoT Device Cybersecurity Guidance for the Federal Government: IoT Device Cybersecurity Requirement Catalog
+IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements
+IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements
+2019 NIST/ITL Cybersecurity Program Annual Report
+2019 NIST/ITL Cybersecurity Program Annual Report
+General Access Control Guidance for Cloud Systems
+General Access Control Guidance for Cloud Systems
+Security Guidelines for Storage Infrastructure
+Security Guidelines for Storage Infrastructure
+Recommendation for Stateful Hash-Based Signature Schemes
+Recommendation for Stateful Hash-Based Signature Schemes
+A Zero Trust Architecture Model for Access Control in Cloud-Native Applications in Multi-Cloud Environments
+A Zero Trust Architecture Model for Access Control in Cloud-Native Applications in Multi-Cloud Environments
+Zero Trust Architecture
+Zero Trust Architecture
+Annual Report 2018: NIST/ITL Cybersecurity Program
+Annual Report 2018: NIST/ITL Cybersecurity Program
+Attribute Considerations for Access Control Systems
+Attribute Considerations for Access Control Systems
+Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD Pipelines
+Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD Pipelines
+Implementation of DevSecOps for a Microservices-based Application with Service Mesh
+Implementation of DevSecOps for a Microservices-based Application with Service Mesh
+Attribute-based Access Control for Microservices-based Applications using a Service Mesh
+Attribute-based Access Control for Microservices-based Applications using a Service Mesh
+Building Secure Microservices-based Applications Using Service-Mesh Architecture
+Building Secure Microservices-based Applications Using Service-Mesh Architecture
+Security Strategies for Microservices-based Application Systems
+Security Strategies for Microservices-based Application Systems
+2017 NIST/ITL Cybersecurity Program Annual Report
+2017 NIST/ITL Cybersecurity Program Annual Report
+Quick Start Guide for Populating Mobile Test Devices
+Quick Start Guide for Populating Mobile Test Devices
+NIST Cloud Computing Forensic Reference Architecture
+NIST Cloud Computing Forensic Reference Architecture
+PRE-DRAFT Call for Comments: NIST Launches Development of Cryptographic Accordions
+SP 800-197A (Initial Preliminary Draft)
+PRE-DRAFT Call for Comments: NIST Launches Development of Cryptographic Accordions
+PRE-DRAFT Call for Comments: NIST Proposes to Standardize a Wider Variant of AES
+SP 800-197 (Initial Preliminary Draft)
+PRE-DRAFT Call for Comments: NIST Proposes to Standardize a Wider Variant of AES
+2016 NIST/ITL Cybersecurity Program Annual Report
+2016 NIST/ITL Cybersecurity Program Annual Report
+Platform Firmware Resiliency Guidelines
+Platform Firmware Resiliency Guidelines
+Verification and Test Methods for Access Control Policies/Models
+Verification and Test Methods for Access Control Policies/Models
+Application Container Security Guide
+Application Container Security Guide
+Border Gateway Protocol Security and Resilience
+SP 800-189 Rev. 1 (Initial Public Draft)
+Border Gateway Protocol Security and Resilience
+Resilient Interdomain Traffic Exchange: BGP Security and DDoS Mitigation
+Resilient Interdomain Traffic Exchange: BGP Security and DDoS Mitigation
+De-Identifying Government Datasets: Techniques and Governance
+De-Identifying Government Datasets: Techniques and Governance
+Guide to LTE Security
+Guide to LTE Security
+Recommendations for Discrete Logarithm-based Cryptography: Elliptic Curve Domain Parameters
+Recommendations for Discrete Logarithm-based Cryptography: Elliptic Curve Domain Parameters
+SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, and ParallelHash
+SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, and ParallelHash
+Guide for Cybersecurity Event Recovery
+Guide for Cybersecurity Event Recovery
+Computer Security Division 2015 Annual Report
+Computer Security Division 2015 Annual Report
+Workforce Framework for Cybersecurity (NICE Framework)
+SP 800-181 Rev. 1 (Final)
+Workforce Framework for Cybersecurity (NICE Framework)
+A Comparison of Attribute Based Access Control (ABAC) Standards for Data Service Applications: Extensible Access Control Markup Language (XACML) and Next Generation Access Control (NGAC)
+A Comparison of Attribute Based Access Control (ABAC) Standards for Data Service Applications: Extensible Access Control Markup Language (XACML) and Next Generation Access Control (NGAC)
+SP 800-177 Rev. 1 (Final)
+Computer Security Division 2014 Annual Report
+Computer Security Division 2014 Annual Report
+Guideline for Using Cryptographic Standards in the Federal Government: Cryptographic Mechanisms
+SP 800-175B Rev. 1 (Final)
+Guideline for Using Cryptographic Standards in the Federal Government: Cryptographic Mechanisms
+Guideline for Using Cryptographic Standards in the Federal Government: Directives, Mandates and Policies
+Guideline for Using Cryptographic Standards in the Federal Government: Directives, Mandates and Policies
+Enhanced Security Requirements for Protecting Controlled Unclassified Information
+SP 800-172 Rev. 3 (Final Public Draft)
+Enhanced Security Requirements for Protecting Controlled Unclassified Information
+Assessing Enhanced Security Requirements for Controlled Unclassified Information
+SP 800-172A Rev. 3 (Initial Public Draft)
+Assessing Enhanced Security Requirements for Controlled Unclassified Information
+Assessing Enhanced Security Requirements for Controlled Unclassified Information
+Assessing Enhanced Security Requirements for Controlled Unclassified Information
+Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171
+Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171
+Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations
+SP 800-171 Rev. 3 (Final)
+Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations
+Assessing Security Requirements for Controlled Unclassified Information
+SP 800-171A Rev. 3 (Final)
+Assessing Security Requirements for Controlled Unclassified Information
+Computer Security Division 2013 Annual Report
+Computer Security Division 2013 Annual Report
+Approximate Matching: Definition and Terminology
+Approximate Matching: Definition and Terminology
+Guide to Application Whitelisting
+Guide to Application Whitelisting
+Derived PIV Application and Data Model Test Guidelines
+Derived PIV Application and Data Model Test Guidelines
+Computer Security Division 2012 Annual Report
+Computer Security Division 2012 Annual Report
+Vetting the Security of Mobile Applications
+SP 800-163 Rev. 1 (Final)
+Vetting the Security of Mobile Applications
+Guide to Attribute Based Access Control (ABAC) Definition and Considerations
+Guide to Attribute Based Access Control (ABAC) Definition and Considerations
+Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations
+SP 800-161 Rev. 1 (Final)
+Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations
+800-160 Vol. 2 Rev. 1
+Developing Cyber-Resilient Systems: A Systems Security Engineering Approach
+SP 800-160 Vol. 2 Rev. 1 (Final)
+Developing Cyber-Resilient Systems: A Systems Security Engineering Approach
+800-160 Vol. 1 Rev. 1
+Engineering Trustworthy Secure Systems
+SP 800-160 Vol. 1 Rev. 1 (Final)
+Engineering Trustworthy Secure Systems
+Guidelines for Derived Personal Identity Verification (PIV) Credentials
+SP 800-157 Rev. 1 (Final Public Draft)
+Guidelines for Derived Personal Identity Verification (PIV) Credentials
+Guidelines for Derived Personal Identity Verification (PIV) Credentials
+Guidelines for Derived Personal Identity Verification (PIV) Credentials
+Representation of PIV Chain-of-Trust for Import and Export
+Representation of PIV Chain-of-Trust for Import and Export
+Guide to Data-Centric System Threat Modeling
+SP 800-154 (Initial Public Draft)
+Guide to Data-Centric System Threat Modeling
+Guidelines for Securing Wireless Local Area Networks (WLANs)
+Guidelines for Securing Wireless Local Area Networks (WLANs)
+A Profile for U.S. Federal Cryptographic Key Management Systems (CKMS)
+A Profile for U.S. Federal Cryptographic Key Management Systems (CKMS)
+Guide to Cyber Threat Information Sharing
+Guide to Cyber Threat Information Sharing
+BIOS Protection Guidelines for Servers
+BIOS Protection Guidelines for Servers
+BIOS Protection Guidelines
+BIOS Protection Guidelines
+Cloud Computing Synopsis and Recommendations
+Cloud Computing Synopsis and Recommendations
+The NIST Definition of Cloud Computing
+The NIST Definition of Cloud Computing
+Guidelines on Security and Privacy in Public Cloud Computing
+Guidelines on Security and Privacy in Public Cloud Computing
+Practical Combinatorial Testing
+Practical Combinatorial Testing
+CMVP Approved Non-Invasive Attack Mitigation Test Metrics: CMVP Validation Authority Updates to ISO/IEC 24759
+SP 800-140F Rev. 1 (Initial Public Draft)
+CMVP Approved Non-Invasive Attack Mitigation Test Metrics: CMVP Validation Authority Updates to ISO/IEC 24759
+CMVP Approved Non-Invasive Attack Mitigation Test Metrics: CMVP Validation Authority Updates to ISO/IEC 24759
+CMVP Approved Non-Invasive Attack Mitigation Test Metrics: CMVP Validation Authority Updates to ISO/IEC 24759
+CMVP Approved Authentication Mechanisms: CMVP Validation Authority Requirements for ISO/IEC 19790 Annex E and ISO/IEC 24579 Section 6.17
+CMVP Approved Authentication Mechanisms: CMVP Validation Authority Requirements for ISO/IEC 19790 Annex E and ISO/IEC 24579 Section 6.17
+Cryptographic Module Validation Program (CMVP)-Approved Sensitive Security Parameter Generation and Establishment Methods: CMVP Validation Authority Updates to ISO/IEC 24759
+SP 800-140D Rev. 2 (Final)
+Cryptographic Module Validation Program (CMVP)-Approved Sensitive Security Parameter Generation and Establishment Methods: CMVP Validation Authority Updates to ISO/IEC 24759
+Cryptographic Module Validation Program (CMVP)-Approved Security Functions: CMVP Validation Authority Updates to ISO/IEC 24759
+SP 800-140C Rev. 2 (Final)
+Cryptographic Module Validation Program (CMVP)-Approved Security Functions: CMVP Validation Authority Updates to ISO/IEC 24759
+Cryptographic Module Validation Program (CMVP) Security Policy Requirements: CMVP Validation Authority Updates to ISO/IEC 24759 and ISO/IEC 19790 Annex B
+SP 800-140B Rev. 1 (Final)
+Cryptographic Module Validation Program (CMVP) Security Policy Requirements: CMVP Validation Authority Updates to ISO/IEC 24759 and ISO/IEC 19790 Annex B
+CMVP Documentation Requirements: CMVP Validation Authority Updates to ISO/IEC 24759
+CMVP Documentation Requirements: CMVP Validation Authority Updates to ISO/IEC 24759
+FIPS 140-3 Derived Test Requirements (DTR): CMVP Validation Authority Updates to ISO/IEC 24759
+FIPS 140-3 Derived Test Requirements (DTR): CMVP Validation Authority Updates to ISO/IEC 24759
+Assessing Information Security Continuous Monitoring (ISCM) Programs: Developing an ISCM Program Assessment
+Assessing Information Security Continuous Monitoring (ISCM) Programs: Developing an ISCM Program Assessment
+Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations
+Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations
+Recommendation for Existing Application-Specific Key Derivation Functions
+SP 800-135 Rev. 1 (Final)
+Recommendation for Existing Application-Specific Key Derivation Functions
+Recommendation for Cryptographic Key Generation
+SP 800-133 Rev. 2 (Final)
+Recommendation for Cryptographic Key Generation
+Recommendation for Password-Based Key Derivation: Part 1: Storage Applications
+Recommendation for Password-Based Key Derivation: Part 1: Storage Applications
+Transitioning the Use of Cryptographic Algorithms and Key Lengths
+SP 800-131A Rev. 3 (Initial Public Draft)
+Transitioning the Use of Cryptographic Algorithms and Key Lengths
+Transitioning the Use of Cryptographic Algorithms and Key Lengths
+SP 800-131A Rev. 2 (Final)
+Transitioning the Use of Cryptographic Algorithms and Key Lengths
+A Framework for Designing Cryptographic Key Management Systems
+A Framework for Designing Cryptographic Key Management Systems
+Guide for Security-Focused Configuration Management of Information Systems
+Guide for Security-Focused Configuration Management of Information Systems
+Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.4
+SP 800-126 Rev. 4 (Initial Public Draft)
+Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.4
+The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.3
+SP 800-126 Rev. 3 (Final)
+The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.3
+The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.2
+SP 800-126 Rev. 2 (Final)
+The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.2
+SCAP 1.4 Component Specification Version Updates: An Annex to NIST Special Publication 800-126 Revision 4
+SP 800-126A Rev. 4 (Initial Public Draft)
+SCAP 1.4 Component Specification Version Updates: An Annex to NIST Special Publication 800-126 Revision 4
+SCAP 1.3 Component Specification Version Updates: An Annex to NIST Special Publication 800-126 Revision 3
+SCAP 1.3 Component Specification Version Updates: An Annex to NIST Special Publication 800-126 Revision 3
+The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.1
+SP 800-126 Rev. 1 (Final)
+The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.1
+Secure Virtual Network Configuration for Virtual Machine (VM) Protection
+Secure Virtual Network Configuration for Virtual Machine (VM) Protection
+Security Recommendations for Server-based Hypervisor Platforms
+SP 800-125A Rev. 1 (Final)
+Security Recommendations for Server-based Hypervisor Platforms
+Guide to Security for Full Virtualization Technologies
+Guide to Security for Full Virtualization Technologies
+Guidelines for Managing the Security of Mobile Devices in the Enterprise
+SP 800-124 Rev. 2 (Final)
+Guidelines for Managing the Security of Mobile Devices in the Enterprise
+Guide to General Server Security
+Guide to General Server Security
+Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)
+Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)
+Guide to Bluetooth Security
+SP 800-121 Rev. 2 (Final)
+Guide to Bluetooth Security
+Guidelines for the Secure Deployment of IPv6
+Guidelines for the Secure Deployment of IPv6
+Guidelines for the Use of PIV Credentials in Facility Access
+SP 800-116 Rev. 1 (Final)
+Guidelines for the Use of PIV Credentials in Facility Access
+Technical Guide to Information Security Testing and Assessment
+Technical Guide to Information Security Testing and Assessment
+User's Guide to Telework and Bring Your Own Device (BYOD) Security
+SP 800-114 Rev. 1 (Final)
+User's Guide to Telework and Bring Your Own Device (BYOD) Security
+Guide to Storage Encryption Technologies for End User Devices
+Guide to Storage Encryption Technologies for End User Devices
+Recommendation for Key Derivation Using Pseudorandom Functions
+SP 800-108 Rev. 1 (Final)
+Recommendation for Key Derivation Using Pseudorandom Functions
+Recommendation for Applications Using Approved Hash Algorithms
+SP 800-107 Rev. 1 (Final)
+Recommendation for Applications Using Approved Hash Algorithms
+Guidelines on Mobile Device Forensics
+SP 800-101 Rev. 1 (Final)
+Guidelines on Mobile Device Forensics
+PRE-DRAFT Call for Comments | Information Security Handbook: A Guide for Managers
+SP 800-100 Rev. 1 (Initial Preliminary Draft)
+PRE-DRAFT Call for Comments | Information Security Handbook: A Guide for Managers
+Information Security Handbook: A Guide for Managers
+Information Security Handbook: A Guide for Managers
+Guidelines for Securing Radio Frequency Identification (RFID) Systems
+Guidelines for Securing Radio Frequency Identification (RFID) Systems
+Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i
+Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i
+PIV Card to Reader Interoperability Guidelines
+PIV Card to Reader Interoperability Guidelines
+Guide to Secure Web Services
+Guide to Secure Web Services
+Guide to Intrusion Detection and Prevention Systems (IDPS)
+Guide to Intrusion Detection and Prevention Systems (IDPS)
+Cybersecurity Log Management Planning Guide
+SP 800-92 Rev. 1 (Initial Public Draft)
+Cybersecurity Log Management Planning Guide
+Guide to Computer Security Log Management
+Guide to Computer Security Log Management
+Recommendation for Random Bit Generator (RBG) Constructions
+Recommendation for Random Bit Generator (RBG) Constructions
+Recommendation for the Entropy Sources Used for Random Bit Generation
+Recommendation for the Entropy Sources Used for Random Bit Generation
+PRE-DRAFT Call for Comments: Recommendation for Random Number Generation Using Deterministic Random Bit Generators
+SP 800-90A Rev. 2 (Initial Preliminary Draft)
+PRE-DRAFT Call for Comments: Recommendation for Random Number Generation Using Deterministic Random Bit Generators
+Recommendation for Random Number Generation Using Deterministic Random Bit Generators
+SP 800-90A Rev. 1 (Final)
+Recommendation for Random Number Generation Using Deterministic Random Bit Generators
+Recommendation for Obtaining Assurances for Digital Signature Applications
+Recommendation for Obtaining Assurances for Digital Signature Applications
+Guidelines for Media Sanitization
+SP 800-88 Rev. 2 (Final)
+Guidelines for Media Sanitization
+Codes for Identification of Federal and Federally-Assisted Organizations
+SP 800-87 Rev. 2 (Final)
+Codes for Identification of Federal and Federally-Assisted Organizations
+Guide to Integrating Forensic Techniques into Incident Response
+Guide to Integrating Forensic Techniques into Incident Response
+PIV Data Model Test Guidelines
+PIV Data Model Test Guidelines
+PIV Card Application and Middleware Interface Test Guidelines (SP 800-73-4 Compliance)
+PIV Card Application and Middleware Interface Test Guidelines (SP 800-73-4 Compliance)
+Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities
+Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities
+Guide to Malware Incident Prevention and Handling for Desktops and Laptops
+SP 800-83 Rev. 1 (Final)
+Guide to Malware Incident Prevention and Handling for Desktops and Laptops
+Guide to Operational Technology (OT) Security
+SP 800-82 Rev. 3 (Final)
+Guide to Operational Technology (OT) Security
+Secure Domain Name System (DNS) Deployment Guide
+SP 800-81 Rev. 3 (Initial Public Draft)
+Secure Domain Name System (DNS) Deployment Guide
+Secure Domain Name System (DNS) Deployment Guide
+Secure Domain Name System (DNS) Deployment Guide
+Guidelines for the Authorization of PIV Card and Derived PIV Credential Issuers
+SP 800-79 Rev. 3 (Initial Public Draft)
+Guidelines for the Authorization of PIV Card and Derived PIV Credential Issuers
+Guidelines for the Authorization of Personal Identity Verification Card Issuers (PCI) and Derived PIV Credential Issuers (DPCI)
+Guidelines for the Authorization of Personal Identity Verification Card Issuers (PCI) and Derived PIV Credential Issuers (DPCI)
+Cryptographic Algorithms and Key Sizes for Personal Identity Verification
+Cryptographic Algorithms and Key Sizes for Personal Identity Verification
+SP 800-77 Rev. 1 (Final)
+Biometric Specifications for Personal Identity Verification
+Biometric Specifications for Personal Identity Verification
+Interfaces for Personal Identity Verification: Part 1 – PIV Card Application Namespace, Data Model and Representation
+Interfaces for Personal Identity Verification: Part 1 – PIV Card Application Namespace, Data Model and Representation
+Interfaces for Personal Identity Verification: Part 2 – PIV Card Application Card Command Interface
+Interfaces for Personal Identity Verification: Part 2 – PIV Card Application Card Command Interface
+Interfaces for Personal Identity Verification: Part 3 – PIV Client Application Programming Interface
+Interfaces for Personal Identity Verification: Part 3 – PIV Client Application Programming Interface
+Guidelines on PDA Forensics
+Guidelines on PDA Forensics
+Recommendation for Key Establishment Using Symmetric Block Ciphers
+SP 800-71 (Initial Public Draft)
+Recommendation for Key Establishment Using Symmetric Block Ciphers
+National Checklist Program for IT Products: Guidelines for Checklist Users and Developers
+SP 800-70 Rev. 5 (Initial Public Draft)
+National Checklist Program for IT Products: Guidelines for Checklist Users and Developers
+National Checklist Program for IT Products: Guidelines for Checklist Users and Developers
+SP 800-70 Rev. 4 (Final)
+National Checklist Program for IT Products: Guidelines for Checklist Users and Developers
+Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule: A Cybersecurity Resource Guide
+SP 800-66 Rev. 2 (Final)
+Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule: A Cybersecurity Resource Guide
+Digital Identity Guidelines
+Digital Identity Guidelines
+Digital Identity Guidelines: Federation and Assertions
+Digital Identity Guidelines: Federation and Assertions
+Digital Identity Guidelines: Authentication and Authenticator Management
+Digital Identity Guidelines: Authentication and Authenticator Management
+Digital Identity Guidelines: Identity Proofing and Enrollment
+Digital Identity Guidelines: Identity Proofing and Enrollment
+Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile
+SP 800-61 Rev. 3 (Final)
+Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile
+Guide for Mapping Types of Information and Information Systems to Security Categories: Appendices
+SP 800-60 Vol. 2 Rev. 1 (Final)
+Guide for Mapping Types of Information and Information Systems to Security Categories: Appendices
+Guide for Mapping Types of Information and Systems to Security Categories
+SP 800-60 Rev. 2 (Initial Working Draft)
+Guide for Mapping Types of Information and Systems to Security Categories
+Guide for Mapping Types of Information and Information Systems to Security Categories
+SP 800-60 Vol. 1 Rev. 1 (Final)
+Guide for Mapping Types of Information and Information Systems to Security Categories
+Guideline for Identifying an Information System as a National Security System
+Guideline for Identifying an Information System as a National Security System
+Security Considerations for Voice Over IP Systems
+Security Considerations for Voice Over IP Systems
+Recommendation for Key Management: Part 1 – General
+SP 800-57 Rev. 6 (Initial Public Draft)
+Recommendation for Key Management: Part 1 – General
+Recommendation for Key Management, Part 3: Application-Specific Key Management Guidance
+SP 800-57 Part 3 Rev. 1 (Final)
+Recommendation for Key Management, Part 3: Application-Specific Key Management Guidance
+Recommendation for Key Management: Part 2 – Best Practices for Key Management Organizations
+SP 800-57 Part 2 Rev. 1 (Final)
+Recommendation for Key Management: Part 2 – Best Practices for Key Management Organizations
+Recommendation for Key Management: Part 1 – General
+SP 800-57 Part 1 Rev. 5 (Final)
+Recommendation for Key Management: Part 1 – General
+Recommendation for Key-Derivation Methods in Key-Establishment Schemes
+SP 800-56C Rev. 2 (Final)
+Recommendation for Key-Derivation Methods in Key-Establishment Schemes
+Recommendation for Pair-Wise Key-Establishment Using Integer Factorization Cryptography
+SP 800-56B Rev. 2 (Final)
+Recommendation for Pair-Wise Key-Establishment Using Integer Factorization Cryptography
+Recommendation for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography
+SP 800-56A Rev. 3 (Final)
+Recommendation for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography
+Measurement Guide for Information Security: Volume 2 — Developing an Information Security Measurement Program
+SP 800-55 Vol. 2 (Final)
+Measurement Guide for Information Security: Volume 2 — Developing an Information Security Measurement Program
+Measurement Guide for Information Security: Volume 1 — Identifying and Selecting Measures
+SP 800-55 Vol. 1 (Final)
+Measurement Guide for Information Security: Volume 1 — Identifying and Selecting Measures
+Security and Privacy Controls for Information Systems and Organizations
+SP 800-53 Rev. 5 (Final)
+Security and Privacy Controls for Information Systems and Organizations
+Control Baselines for Information Systems and Organizations
+Control Baselines for Information Systems and Organizations
+Assessing Security and Privacy Controls in Information Systems and Organizations
+SP 800-53A Rev. 5 (Final)
+Assessing Security and Privacy Controls in Information Systems and Organizations
+Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations
+SP 800-52 Rev. 2 (Final)
+Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations
+Guide to Using Vulnerability Naming Schemes
+SP 800-51 Rev. 1 (Final)
+Guide to Using Vulnerability Naming Schemes
+Building a Cybersecurity and Privacy Learning Program
+SP 800-50 Rev. 1 (Final)
+Building a Cybersecurity and Privacy Learning Program
+Federal S/MIME V3 Client Profile
+Federal S/MIME V3 Client Profile
+Managing the Security of Information Exchanges
+SP 800-47 Rev. 1 (Final)
+Managing the Security of Information Exchanges
+PRE-DRAFT Call for Comments: Guide to Enterprise Telework Security
+SP 800-46 Rev. 3 (Initial Preliminary Draft)
+PRE-DRAFT Call for Comments: Guide to Enterprise Telework Security
+Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security
+SP 800-46 Rev. 2 (Final)
+Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security
+Guidelines on Electronic Mail Security
+SP 800-45 Version 2 (Final)
+Guidelines on Electronic Mail Security
+Guidelines on Securing Public Web Servers
+SP 800-44 Version 2 (Final)
+Guidelines on Securing Public Web Servers
+Guidelines on Firewalls and Firewall Policy
+SP 800-41 Rev. 1 (Final)
+Guidelines on Firewalls and Firewall Policy
+Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology
+SP 800-40 Rev. 4 (Final)
+Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology
+Managing Information Security Risk: Organization, Mission, and Information System View
+Managing Information Security Risk: Organization, Mission, and Information System View
+Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption
+SP 800-38G Rev. 1 (2nd Public Draft)
+Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption
+Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption
+Recommendation for Block Cipher Modes of Operation: Methods for Format-Preserving Encryption
+Recommendation for Block Cipher Modes of Operation: Methods for Key Wrapping
+Recommendation for Block Cipher Modes of Operation: Methods for Key Wrapping
+Recommendation for Block Cipher Modes of Operation:  the XTS-AES Mode for Confidentiality on Storage Devices
+Recommendation for Block Cipher Modes of Operation:  the XTS-AES Mode for Confidentiality on Storage Devices
+Pre-Draft Call for Comments: GCM and GMAC Block Cipher Modes of Operation
+SP 800-38D Rev. 1 (Initial Preliminary Draft)
+Pre-Draft Call for Comments: GCM and GMAC Block Cipher Modes of Operation
+Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM) and GMAC
+Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM) and GMAC
+Recommendation for Block Cipher Modes of Operation: the CCM Mode for Authentication and Confidentiality
+Recommendation for Block Cipher Modes of Operation: the CCM Mode for Authentication and Confidentiality
+Recommendation for Block Cipher Modes of Operation: the CMAC Mode for Authentication
+Recommendation for Block Cipher Modes of Operation: the CMAC Mode for Authentication
+Recommendation for Block Cipher Modes of Operation: Three Variants of Ciphertext Stealing for CBC Mode
+Recommendation for Block Cipher Modes of Operation: Three Variants of Ciphertext Stealing for CBC Mode
+Recommendation for Block Cipher Modes of Operation: Methods and Techniques
+Recommendation for Block Cipher Modes of Operation: Methods and Techniques
+Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy
+SP 800-37 Rev. 2 (Final)
+Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy
+Guide to Information Technology Security Services
+Guide to Information Technology Security Services
+Contingency Planning Guide for Federal Information Systems
+SP 800-34 Rev. 1 (Final)
+Contingency Planning Guide for Federal Information Systems
+Guide for Conducting Risk Assessments
+SP 800-30 Rev. 1 (Final)
+Guide for Conducting Risk Assessments
+Guidelines on Active Content and Mobile Code
+SP 800-28 Version 2 (Final)
+Guidelines on Active Content and Mobile Code
+A Statistical Test Suite for Random and Pseudorandom Number Generators for Cryptographic Applications
+SP 800-22 Rev. 1 (Final)
+A Statistical Test Suite for Random and Pseudorandom Number Generators for Cryptographic Applications
+Developing Security, Privacy, and Cybersecurity Supply Chain Risk Management Plans for Systems
+SP 800-18 Rev. 2 (Initial Public Draft)
+Developing Security, Privacy, and Cybersecurity Supply Chain Risk Management Plans for Systems
+Guide for Developing Security Plans for Federal Information Systems
+SP 800-18 Rev. 1 (Final)
+Guide for Developing Security Plans for Federal Information Systems
+An Introduction to Information Security
+SP 800-12 Rev. 1 (Final)
+An Introduction to Information Security
+View All Publications
+Drafts Open for Comment
+(interagency/internal reports)
+(cybersecurity white papers)
+Current list of all published NIST cybersecurity documents.
+Does not include "Withdrawn" documents. Includes FIPS, Special Publications, NISTIRs, ITL Bulletins, and NIST Cybersecurity White Papers.
+Current list of all draft NIST cybersecurity documents--they are typically posted for public comment.
+"Current" public drafts are the latest draft versions that have not yet been published as "Final."
+Current Federal Information Processing Standard Publications (FIPS).
+Includes current (Final and Draft) FIPS.
+Current NIST Special Publication (SP) 800 series publications, which focus on Computer/Information Security.
+Includes current (Final and Draft) SP 800 pubs.
+Current NIST Special Publications (SP), including SP 800 (Computer/Information Security) and SP 1800
+(Cybersecurity Practice Guides) pubs. Also includes SP 500 (Computer Systems Technology) pubs related to cybersecurity and privacy.
+Includes current (Final and Draft) NIST Special Publications.
+Current list of NIST Interagency or Internal Reports (NISTIR) related to cybersecurity and privacy.
+Includes current (Final and Draft) NISTIRs.
+Current list of NIST Information Technology Laboratory (ITL) Bulletins.
+Consists of NIST Cybersecurity White Papers; NCCoE Project Descriptions, Building Blocks and Use Cases; and
+other NIST-authored papers that are not part of a formal series.
+Includes current (Final and Draft) papers.
+NIST-authored articles published in external journals and in the NIST Journal of Research (JRES).
+NIST-authored conference papers related to cybersecurity and privacy.
+NIST-authored books, book sections, and encyclopedia entries related to cybersecurity and privacy.

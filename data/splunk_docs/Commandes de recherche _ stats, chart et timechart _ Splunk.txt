@@ -1,0 +1,1543 @@
+<#splunk-main-content>
+
+false
+logo logo <https://www.splunk.com/fr_fr>
+
+  * Assistance <#>
+      o
+        Assistance client
+        <https://www.splunk.com/fr_fr/customer-success/support-
+        programs.html>
+      o
+        Portail d’assistance
+        <https://splunk.my.site.com/customer/s>
+      o
+        Contactez-nous
+        <https://www.splunk.com/fr_fr/about-splunk/contact-
+        us.html#customer-support>
+      o
+        Splunk Answers
+        <https://community.splunk.com/t5/Splunk-Answers/ct-p/en-us-
+        splunk-answers>
+      o
+        État du système
+        <https://www.splunk.com/en_us/products/system-status.html>
+      o
+        Assistance Cisco
+        <https://www.cisco.com/c/fr_fr/support/index.html>
+      o
+        Assistance AppDynamics
+        <https://www.splunk.com/fr_fr/customer-success/appdynamics-
+        support.html>
+      o
+        Mises à jour de sécurité des produits
+        <https://advisory.splunk.com/>
+  * Langues <#>
+      o Deutsch <https://www.splunk.com/de_de>
+      o English <https://www.splunk.com/>
+      o 日本語 <https://www.splunk.com/ja_jp>
+      o 한국어 <https://www.splunk.com/ko_kr>
+      o 简体中文 <https://www.splunk.com/zh_cn>
+      o 繁體中文 <https://www.splunk.com/zh_tw>
+  *
+    Se connecter Cliquez sur Compte utilisateur <#>
+      o Se connecter <https://www.splunk.com/saml/login?
+        module=nav&redirecturl=https://www.splunk.com/fr_fr/blog/tips-
+        and-tricks/commandes-de-recherche-stats-chart-et-timechart.html>
+      o S’inscrire <https://www.splunk.com/fr_fr/form/sign-up.html?
+        redirecturl=https://www.splunk.com/fr_fr/blog/tips-and-tricks/
+        commandes-de-recherche-stats-chart-et-timechart.html>
+  *
+
+logo logo <https://www.splunk.com/fr_fr>
+
+  * Plateforme <#>
+    la plateforme Splunk
+    Plateforme
+    La plateforme de données extensible offre une sécurité unifiée, une
+    observabilité complète et des applications personnalisées illimitées.
+    <https://www.splunk.com/fr_fr/blog/tips-and-tricks/fr_fr/products/
+    platform.html>
+      o
+        pricing
+        Tarifs
+        <https://www.splunk.com/fr_fr/products/pricing/platform-
+        pricing.html>
+      o
+        download
+        Téléchargements et version d'essai gratuite
+        <https://www.splunk.com/fr_fr/download.html>
+      o
+        tour-icon
+        Présentations des produits
+        <https://www.splunk.com/fr_fr/resources.html?
+        filters=filterGroup5ProductTours>
+    PRODUITS
+      o
+        Cloud Platform
+        <https://www.splunk.com/fr_fr/products/splunk-cloud-platform.html>
+      o
+        Enterprise
+        <https://www.splunk.com/fr_fr/products/splunk-enterprise.html>
+      o
+        Splunkbase
+        <https://splunkbase.splunk.com/>
+    SCÉNARIOS D’UTILISATION
+      o
+        Analysez l’état des services informatiques
+        <https://www.splunk.com/fr_fr/solutions/analyze-it-service-
+        health.html>
+      o
+        Conformité
+        <https://www.splunk.com/fr_fr/solutions/regulations-
+        compliance.html>
+      o
+        Évaluation de la résilience
+        <https://www.splunk.com/en_us/solutions/resilience-assessment.html>
+      o
+        Gestion des données
+        <https://www.splunk.com/fr_fr/solutions/data-management.html>
+      o
+        Intelligence artificielle
+        <https://www.splunk.com/fr_fr/solutions/splunk-artificial-
+        intelligence.html>
+
+      o
+        Modernisation de l’IT
+        <https://www.splunk.com/fr_fr/solutions/it-modernization.html>
+      o
+        Optimisation des données
+        <https://www.splunk.com/fr_fr/solutions/data-optimization.html>
+      o
+        Supervision de la blockchain
+        <https://www.splunk.com/fr_fr/solutions/blockchain.html>
+      o
+        Supervision serverless
+        <https://www.splunk.com/fr_fr/solutions/serverless-monitoring.html>
+      o
+        Transformation cloud
+        <https://www.splunk.com/fr_fr/solutions/cloud-transformation.html>
+    Présentation de la plateforme <https://www.splunk.com/fr_fr/
+    products/platform.html>
+    Voir tous les scénarios d’utilisation <https://www.splunk.com/fr_fr/
+    solutions.html>
+  * Sécurité <#>
+    mitigating-security-risks
+    Enterprise Security
+    Renforcez votre résilience numérique en modernisant votre SOC grâce
+    à des fonctions unifiées de détection des menaces, d’investigation
+    et de réponse.
+    <https://www.splunk.com/fr_fr/products/enterprise-security.html>
+      o
+        pricing
+        Tarifs
+        <https://www.splunk.com/fr_fr/products/pricing/cyber-security.html>
+      o
+        download
+        Téléchargements et version d'essai gratuite
+        <https://www.splunk.com/fr_fr/download.html>
+      o
+        tour-icon
+        Présentations des produits
+        <https://www.splunk.com/fr_fr/resources.html?
+        filters=filterGroup5ProductTours>
+    Fonctionnalités
+      o
+        Plateforme TDIR unifiée
+        <https://www.splunk.com/fr_fr/products/enterprise-security.html>
+      o
+        SIEM
+        <https://www.splunk.com/fr_fr/products/enterprise-security-
+        essentials.html>
+      o
+        SOAR
+        <https://www.splunk.com/fr_fr/products/splunk-security-
+        orchestration-and-automation.html>
+      o
+        UEBA
+        <https://www.splunk.com/fr_fr/products/user-and-entity-behavior-
+        analytics.html>
+      o
+        Attack Analyzer
+        <https://www.splunk.com/fr_fr/products/attack-analyzer.html>
+      o
+        Asset and Risk Intelligence
+        <https://www.splunk.com/fr_fr/products/asset-and-risk-
+        intelligence.html>
+    SCÉNARIOS D’UTILISATION
+      o
+        Conformité
+        <https://www.splunk.com/fr_fr/solutions/compliance.html>
+      o
+        Détection des anomalies
+        <https://www.splunk.com/fr_fr/solutions/advanced-threat-
+        detection.html>
+      o
+        Gestion des incidents
+        <https://www.splunk.com/fr_fr/solutions/incident-management.html>
+      o
+        Intelligence artificielle
+        <https://www.splunk.com/fr_fr/solutions/splunk-artificial-
+        intelligence.html>
+      o
+        Optimisation des données
+        <https://www.splunk.com/fr_fr/solutions/data-optimization.html>
+
+      o
+        Orchestrez les workflows de réponse
+        <https://www.splunk.com/fr_fr/solutions/automate-and-
+        orchestrate-the-soc.html>
+      o
+        Prévention de la fraude
+        <https://www.splunk.com/fr_fr/solutions/fraud-detection.html>
+      o
+        Recherche des menaces
+        <https://www.splunk.com/fr_fr/solutions/threat-hunting.html>
+      o
+        Résolution des problèmes IT
+        <https://www.splunk.com/fr_fr/solutions/log-analytics-it-
+        troubleshooting.html>
+      o
+        Supervision de la sécurité
+        <https://www.splunk.com/fr_fr/solutions/security-monitoring.html>
+    Vue d’ensemble de la sécurité <https://www.splunk.com/fr_fr/
+    products/cyber-security.html>
+    Voir tous les scénarios d’utilisation <https://www.splunk.com/fr_fr/
+    solutions.html>
+  * Observabilité <#>
+    observability
+    Observabilité
+    Obtenez la visibilité nécessaire pour détecter, diagnostiquer et
+    résoudre les problèmes de performance, afin de garantir la fluidité
+    de vos applications et de vos opérations.
+    <https://www.splunk.com/fr_fr/products/observability.html>
+      o
+        pricing
+        Tarifs
+        <https://www.splunk.com/fr_fr/products/pricing/observability.html>
+      o
+        download
+        Téléchargements et version d'essai gratuite
+        <https://www.splunk.com/fr_fr/download.html>
+      o
+        tour-icon
+        Présentations des produits
+        <https://www.splunk.com/fr_fr/resources.html?
+        filters=filterGroup5ProductTours>
+    PRODUITS
+      o
+        Observability Cloud
+        <https://www.splunk.com/fr_fr/products/observability-cloud.html>
+      o
+        IT Service Intelligence
+        <https://www.splunk.com/fr_fr/products/it-service-
+        intelligence.html>
+      o
+        AppDynamics
+        <https://www.splunk.com/fr_fr/products/splunk-appdynamics.html>
+    SCÉNARIOS D’UTILISATION
+      o
+        Améliorez l’expérience des utilisateurs finaux
+        <https://www.splunk.com/fr_fr/solutions/optimize-your-web-and-
+        mobile-experience.html>
+      o
+        Déboguez les problèmes dans les microservices
+        <https://www.splunk.com/fr_fr/solutions/isolate-cloud-native-
+        problems.html>
+      o
+        Intégrité des services IT
+        <https://www.splunk.com/fr_fr/solutions/analyze-it-service-
+        health.html>
+      o
+        Intelligence artificielle
+        <https://www.splunk.com/fr_fr/solutions/splunk-artificial-
+        intelligence.html>
+      o
+        Modernisation des applications
+        <https://www.splunk.com/fr_fr/solutions/application-
+        modernization-tour.html>
+
+      o
+        Migration vers le cloud
+        <https://www.splunk.com/fr_fr/solutions/cloud-migration-tour.html>
+      o
+        Observabilité en libre-service
+        <https://www.splunk.com/fr_fr/solutions/empower-self-service-
+        observability.html>
+      o
+        Optimisez la supervision du cloud
+        <https://www.splunk.com/fr_fr/solutions/extend-visibility-to-
+        the-cloud.html>
+      o
+        Prévention des interruptions
+        <https://www.splunk.com/fr_fr/solutions/prevent-outages.html>
+      o
+        Réduisez le bruit des alertes
+        <https://www.splunk.com/fr_fr/solutions/alert-noise-reduction.html>
+    Vue d’ensemble de l’observabilité <https://www.splunk.com/fr_fr/
+    products/observability.html>
+    Voir tous les scénarios d’utilisation <https://www.splunk.com/fr_fr/
+    solutions.html>
+  * Industries <#>
+    Industries
+    Industries
+    Splunk aide les organisations de tous les secteurs à devenir plus
+    productives, plus conformes et plus sûres.
+    <https://www.splunk.com/fr_fr/solutions/all-industries.html>
+      o
+        Aéronautique et défense
+        <https://www.splunk.com/fr_fr/solutions/industries/aerospace-
+        defense.html>
+      o
+        Communications et medias
+        <https://www.splunk.com/fr_fr/solutions/industries/
+        communications.html>
+      o
+        Énergie et infrastructures
+        <https://www.splunk.com/fr_fr/solutions/industries/energy-and-
+        utilities.html>
+      o
+        Enseignement supérieur
+        <https://www.splunk.com/fr_fr/solutions/industries/higher-
+        education.html>
+      o
+        Fabrication
+        <https://www.splunk.com/fr_fr/solutions/industries/
+        manufacturing.html>
+      o
+        Organismes à but non lucratif
+        <https://www.splunk.com/fr_fr/solutions/industries/nonprofit.html>
+      o
+        Retail
+        <https://www.splunk.com/fr_fr/solutions/industries/retail.html>
+      o
+        Santé
+        <https://www.splunk.com/fr_fr/solutions/industries/healthcare.html>
+      o
+        Secteur public
+        <https://www.splunk.com/fr_fr/solutions/industries/public-
+        sector.html>
+      o
+        Services en ligne
+        <https://www.splunk.com/fr_fr/solutions/industries/online-
+        services.html>
+      o
+        Services financiers
+        <https://www.splunk.com/fr_fr/solutions/industries/financial-
+        services.html>
+      o
+        Technologie
+        <https://www.splunk.com/fr_fr/solutions/industries/technology.html>
+    Voir tous les secteurs d’activité <https://www.splunk.com/fr_fr/
+    solutions/all-industries.html>
+  * Ressources <#>
+    predictive-maintenance
+    Événements
+    Rejoignez-nous à un événement près de chez vous.
+    <https://www.splunk.com/fr_fr/about-us/events.html>
+    blog
+    Blogs
+    Découvrez ce que fait Splunk.
+    <https://www.splunk.com/fr_fr/blog>
+    LANCEZ-VOUS
+      o
+        Bien démarrer avec Splunk
+        <https://www.splunk.com/fr_fr/get-started.html>
+      o
+        Splunk Lantern
+        <https://lantern.splunk.com/>
+      o
+        Communauté et groupes d’utilisateurs
+        <https://community.splunk.com/>
+      o
+        Réussite client
+        <https://www.splunk.com/fr_fr/customer-success.html>
+      o
+        Centre de ressources
+        <https://www.splunk.com/fr_fr/resources.html>
+    APPRENDRE
+      o
+        Formation et certification
+        <https://www.splunk.com/en_us/training.html>
+      o
+        Documentation
+        <https://help.splunk.com/en>
+      o
+        Blogs
+        <https://www.splunk.com/fr_fr/blog>
+      o
+        Événements
+        <https://www.splunk.com/fr_fr/about-us/events.html>
+      o
+        .conf26
+        <https://conf.splunk.com/>
+    POURQUOI SPLUNK
+      o
+        Pourquoi Splunk
+        <https://www.splunk.com/fr_fr/about-us/why-splunk.html>
+      o
+        À propos de Splunk
+        <https://www.splunk.com/fr_fr/about-splunk.html>
+      o
+        Prix et récompenses
+        <https://www.splunk.com/fr_fr/about-splunk/awards.html>
+      o
+        Témoignages de clients
+        <https://www.splunk.com/fr_fr/customers.html>
+      o
+        Splunk et ses concurrents
+        <https://www.splunk.com/fr_fr/about-us/how-splunk-compares.html>
+      o
+        Partenaires
+        <https://www.splunk.com/fr_fr/partners.html>
+    Afficher toutes les ressources <https://www.splunk.com/fr_fr/
+    resources.html>
+
+  * Cliquez sur Recherche Aide <#>
+
+  * Assistance <#>
+      o
+        Assistance client
+        <https://www.splunk.com/fr_fr/customer-success/support-
+        programs.html>
+      o
+        Portail d’assistance
+        <https://splunk.my.site.com/customer/s>
+      o
+        Contactez-nous
+        <https://www.splunk.com/fr_fr/about-splunk/contact-
+        us.html#customer-support>
+      o
+        Splunk Answers
+        <https://community.splunk.com/t5/Splunk-Answers/ct-p/en-us-
+        splunk-answers>
+      o
+        État du système
+        <https://www.splunk.com/en_us/products/system-status.html>
+      o
+        Assistance Cisco
+        <https://www.cisco.com/c/fr_fr/support/index.html>
+      o
+        Assistance AppDynamics
+        <https://www.splunk.com/fr_fr/customer-success/appdynamics-
+        support.html>
+      o
+        Mises à jour de sécurité des produits
+        <https://advisory.splunk.com/>
+  * Langues <#>
+      o English <https://www.splunk.com/en_us>
+      o Deutsch <https://www.splunk.com/de_de>
+      o 日本語 <https://www.splunk.com/ja_jp>
+      o 한국어 <https://www.splunk.com/ko_kr>
+      o 中文 <https://www.splunk.com/zh_cn>
+      o 繁體中文 <https://www.splunk.com/zh_tw> 
+  *
+    Se connecter Cliquez sur Compte utilisateur <#>
+      o Se connecter <https://www.splunk.com/saml/login?
+        module=nav&redirecturl=https://www.splunk.com/fr_fr/blog/tips-
+        and-tricks/commandes-de-recherche-stats-chart-et-timechart.html>
+      o S’inscrire <https://www.splunk.com/fr_fr/form/sign-up.html?
+        redirecturl=https://www.splunk.com/fr_fr/blog/tips-and-tricks/
+        commandes-de-recherche-stats-chart-et-timechart.html>
+  *
+    Versions d’essai <https://www.splunk.com/fr_fr/download.html>
+
+  * Cliquez sur Recherche Aide <#>
+
+  *
+    Versions d’essai <https://www.splunk.com/fr_fr/download.html>
+
+logo logo <https://www.splunk.com/fr_fr>
+Versions d’essai <https://www.splunk.com/fr_fr/download.html>
+Plateforme
+Sécurité
+Observabilité
+Industries
+Ressources
+Assistance
+Account
+Se connecter <https://www.splunk.com/saml/login?
+module=nav&redirecturl=https://www.splunk.com/fr_fr/blog/tips-and-
+tricks/commandes-de-recherche-stats-chart-et-timechart.html>
+|
+S’inscrire <https://www.splunk.com/fr_fr/form/sign-up.html?
+redirecturl=https://www.splunk.com/fr_fr/blog/tips-and-tricks/commandes-
+de-recherche-stats-chart-et-timechart.html>
+<#>
+
+  * Deutsch <https://www.splunk.com/de_de>
+  * English <https://www.splunk.com/>
+  * 日本語 <https://www.splunk.com/ja_jp>
+  * 한국어 <https://www.splunk.com/ko_kr>
+  * 简体中文 <https://www.splunk.com/zh_cn>
+  * 繁體中文 <https://www.splunk.com/zh_tw>
+
+Plateforme
+Sécurité
+Observabilité
+Industries
+Ressources
+Assistance
+la plateforme Splunk
+Plateforme
+La plateforme de données extensible offre une sécurité unifiée, une
+observabilité complète et des applications personnalisées illimitées.
+<https://www.splunk.com/fr_fr/blog/tips-and-tricks/fr_fr/products/
+platform.html>
+PRODUITS
+Cloud Platform
+<https://www.splunk.com/fr_fr/products/splunk-cloud-platform.html>
+Enterprise
+<https://www.splunk.com/fr_fr/products/splunk-enterprise.html>
+Splunkbase
+<https://splunkbase.splunk.com/>
+SCÉNARIOS D’UTILISATION
+Analysez l’état des services informatiques
+<https://www.splunk.com/fr_fr/solutions/analyze-it-service-health.html>
+Conformité
+<https://www.splunk.com/fr_fr/solutions/regulations-compliance.html>
+Évaluation de la résilience
+<https://www.splunk.com/en_us/solutions/resilience-assessment.html>
+Gestion des données
+<https://www.splunk.com/fr_fr/solutions/data-management.html>
+Intelligence artificielle
+<https://www.splunk.com/fr_fr/solutions/splunk-artificial-
+intelligence.html>
+
+Modernisation de l’IT
+<https://www.splunk.com/fr_fr/solutions/it-modernization.html>
+Optimisation des données
+<https://www.splunk.com/fr_fr/solutions/data-optimization.html>
+Supervision de la blockchain
+<https://www.splunk.com/fr_fr/solutions/blockchain.html>
+Supervision serverless
+<https://www.splunk.com/fr_fr/solutions/serverless-monitoring.html>
+Transformation cloud
+<https://www.splunk.com/fr_fr/solutions/cloud-transformation.html>
+Présentation de la plateforme <https://www.splunk.com/fr_fr/products/
+platform.html>
+Voir tous les scénarios d’utilisation <https://www.splunk.com/fr_fr/
+solutions.html>
+pricing
+Tarifs
+<https://www.splunk.com/fr_fr/products/pricing/platform-pricing.html>
+download
+Téléchargements et version d'essai gratuite
+<https://www.splunk.com/fr_fr/download.html>
+tour-icon
+Présentations des produits
+<https://www.splunk.com/fr_fr/resources.html?
+filters=filterGroup5ProductTours>
+mitigating-security-risks
+Enterprise Security
+Renforcez votre résilience numérique en modernisant votre SOC grâce à
+des fonctions unifiées de détection des menaces, d’investigation et de
+réponse.
+<https://www.splunk.com/fr_fr/products/enterprise-security.html>
+Fonctionnalités
+Plateforme TDIR unifiée
+<https://www.splunk.com/fr_fr/products/enterprise-security.html>
+SIEM
+<https://www.splunk.com/fr_fr/products/enterprise-security-essentials.html>
+SOAR
+<https://www.splunk.com/fr_fr/products/splunk-security-orchestration-
+and-automation.html>
+UEBA
+<https://www.splunk.com/fr_fr/products/user-and-entity-behavior-
+analytics.html>
+Attack Analyzer
+<https://www.splunk.com/fr_fr/products/attack-analyzer.html>
+Asset and Risk Intelligence
+<https://www.splunk.com/fr_fr/products/asset-and-risk-intelligence.html>
+SCÉNARIOS D’UTILISATION
+Conformité
+<https://www.splunk.com/fr_fr/solutions/compliance.html>
+Détection des anomalies
+<https://www.splunk.com/fr_fr/solutions/advanced-threat-detection.html>
+Gestion des incidents
+<https://www.splunk.com/fr_fr/solutions/incident-management.html>
+Intelligence artificielle
+<https://www.splunk.com/fr_fr/solutions/splunk-artificial-
+intelligence.html>
+Optimisation des données
+<https://www.splunk.com/fr_fr/solutions/data-optimization.html>
+
+Orchestrez les workflows de réponse
+<https://www.splunk.com/fr_fr/solutions/automate-and-orchestrate-the-
+soc.html>
+Prévention de la fraude
+<https://www.splunk.com/fr_fr/solutions/fraud-detection.html>
+Recherche des menaces
+<https://www.splunk.com/fr_fr/solutions/threat-hunting.html>
+Résolution des problèmes IT
+<https://www.splunk.com/fr_fr/solutions/log-analytics-it-
+troubleshooting.html>
+Supervision de la sécurité
+<https://www.splunk.com/fr_fr/solutions/security-monitoring.html>
+Vue d’ensemble de la sécurité <https://www.splunk.com/fr_fr/products/
+cyber-security.html>
+Voir tous les scénarios d’utilisation <https://www.splunk.com/fr_fr/
+solutions.html>
+pricing
+Tarifs
+<https://www.splunk.com/fr_fr/products/pricing/cyber-security.html>
+download
+Téléchargements et version d'essai gratuite
+<https://www.splunk.com/fr_fr/download.html>
+tour-icon
+Présentations des produits
+<https://www.splunk.com/fr_fr/resources.html?
+filters=filterGroup5ProductTours>
+observability
+Observabilité
+Obtenez la visibilité nécessaire pour détecter, diagnostiquer et
+résoudre les problèmes de performance, afin de garantir la fluidité de
+vos applications et de vos opérations.
+<https://www.splunk.com/fr_fr/products/observability.html>
+PRODUITS
+Observability Cloud
+<https://www.splunk.com/fr_fr/products/observability-cloud.html>
+IT Service Intelligence
+<https://www.splunk.com/fr_fr/products/it-service-intelligence.html>
+AppDynamics
+<https://www.splunk.com/fr_fr/products/splunk-appdynamics.html>
+SCÉNARIOS D’UTILISATION
+Améliorez l’expérience des utilisateurs finaux
+<https://www.splunk.com/fr_fr/solutions/optimize-your-web-and-mobile-
+experience.html>
+Déboguez les problèmes dans les microservices
+<https://www.splunk.com/fr_fr/solutions/isolate-cloud-native-problems.html>
+Intégrité des services IT
+<https://www.splunk.com/fr_fr/solutions/analyze-it-service-health.html>
+Intelligence artificielle
+<https://www.splunk.com/fr_fr/solutions/splunk-artificial-
+intelligence.html>
+Modernisation des applications
+<https://www.splunk.com/fr_fr/solutions/application-modernization-
+tour.html>
+
+Migration vers le cloud
+<https://www.splunk.com/fr_fr/solutions/cloud-migration-tour.html>
+Observabilité en libre-service
+<https://www.splunk.com/fr_fr/solutions/empower-self-service-
+observability.html>
+Optimisez la supervision du cloud
+<https://www.splunk.com/fr_fr/solutions/extend-visibility-to-the-
+cloud.html>
+Prévention des interruptions
+<https://www.splunk.com/fr_fr/solutions/prevent-outages.html>
+Réduisez le bruit des alertes
+<https://www.splunk.com/fr_fr/solutions/alert-noise-reduction.html>
+Vue d’ensemble de l’observabilité <https://www.splunk.com/fr_fr/
+products/observability.html>
+Voir tous les scénarios d’utilisation <https://www.splunk.com/fr_fr/
+solutions.html>
+pricing
+Tarifs
+<https://www.splunk.com/fr_fr/products/pricing/observability.html>
+download
+Téléchargements et version d'essai gratuite
+<https://www.splunk.com/fr_fr/download.html>
+tour-icon
+Présentations des produits
+<https://www.splunk.com/fr_fr/resources.html?
+filters=filterGroup5ProductTours>
+Industries
+Industries
+Splunk aide les organisations de tous les secteurs à devenir plus
+productives, plus conformes et plus sûres.
+<https://www.splunk.com/fr_fr/solutions/all-industries.html>
+Aéronautique et défense
+<https://www.splunk.com/fr_fr/solutions/industries/aerospace-defense.html>
+Communications et medias
+<https://www.splunk.com/fr_fr/solutions/industries/communications.html>
+Énergie et infrastructures
+<https://www.splunk.com/fr_fr/solutions/industries/energy-and-
+utilities.html>
+Enseignement supérieur
+<https://www.splunk.com/fr_fr/solutions/industries/higher-education.html>
+Fabrication
+<https://www.splunk.com/fr_fr/solutions/industries/manufacturing.html>
+Organismes à but non lucratif
+<https://www.splunk.com/fr_fr/solutions/industries/nonprofit.html>
+Retail
+<https://www.splunk.com/fr_fr/solutions/industries/retail.html>
+Santé
+<https://www.splunk.com/fr_fr/solutions/industries/healthcare.html>
+Secteur public
+<https://www.splunk.com/fr_fr/solutions/industries/public-sector.html>
+Services en ligne
+<https://www.splunk.com/fr_fr/solutions/industries/online-services.html>
+Services financiers
+<https://www.splunk.com/fr_fr/solutions/industries/financial-services.html>
+Technologie
+<https://www.splunk.com/fr_fr/solutions/industries/technology.html>
+Voir tous les secteurs d’activité <https://www.splunk.com/fr_fr/
+solutions/all-industries.html>
+predictive-maintenance
+Événements
+Rejoignez-nous à un événement près de chez vous.
+<https://www.splunk.com/fr_fr/about-us/events.html>
+blog
+Blogs
+Découvrez ce que fait Splunk.
+<https://www.splunk.com/fr_fr/blog>
+LANCEZ-VOUS
+Bien démarrer avec Splunk
+<https://www.splunk.com/fr_fr/get-started.html>
+Splunk Lantern
+<https://lantern.splunk.com/>
+Communauté et groupes d’utilisateurs
+<https://community.splunk.com/>
+Réussite client
+<https://www.splunk.com/fr_fr/customer-success.html>
+Centre de ressources
+<https://www.splunk.com/fr_fr/resources.html>
+APPRENDRE
+Formation et certification
+<https://www.splunk.com/en_us/training.html>
+Documentation
+<https://help.splunk.com/en>
+Blogs
+<https://www.splunk.com/fr_fr/blog>
+Événements
+<https://www.splunk.com/fr_fr/about-us/events.html>
+.conf26
+<https://conf.splunk.com/>
+POURQUOI SPLUNK
+Pourquoi Splunk
+<https://www.splunk.com/fr_fr/about-us/why-splunk.html>
+À propos de Splunk
+<https://www.splunk.com/fr_fr/about-splunk.html>
+Prix et récompenses
+<https://www.splunk.com/fr_fr/about-splunk/awards.html>
+Témoignages de clients
+<https://www.splunk.com/fr_fr/customers.html>
+Splunk et ses concurrents
+<https://www.splunk.com/fr_fr/about-us/how-splunk-compares.html>
+Partenaires
+<https://www.splunk.com/fr_fr/partners.html>
+Afficher toutes les ressources <https://www.splunk.com/fr_fr/
+resources.html>
+Assistance client
+<https://www.splunk.com/fr_fr/customer-success/support-programs.html>
+Portail d’assistance
+<https://splunk.my.site.com/customer/s>
+Contactez-nous
+<https://www.splunk.com/fr_fr/about-splunk/contact-us.html#customer-
+support>
+Splunk Answers
+<https://community.splunk.com/t5/Splunk-Answers/ct-p/en-us-splunk-answers>
+État du système
+<https://www.splunk.com/en_us/products/system-status.html>
+Assistance Cisco
+<https://www.cisco.com/c/fr_fr/support/index.html>
+Assistance AppDynamics
+<https://www.splunk.com/fr_fr/customer-success/appdynamics-support.html>
+Mises à jour de sécurité des produits
+<https://advisory.splunk.com/>
+Se connecter <https://www.splunk.com/saml/login?
+module=nav&redirecturl=https://www.splunk.com/fr_fr/blog/tips-and-
+tricks/commandes-de-recherche-stats-chart-et-timechart.html>
+S’inscrire <https://www.splunk.com/fr_fr/form/sign-up.html?
+redirecturl=https://www.splunk.com/fr_fr/blog/tips-and-tricks/commandes-
+de-recherche-stats-chart-et-timechart.html>
+
+------------------------------------------------------------------------
+Blogs Splunk <https://www.splunk.com/fr_fr/blog>
+Blogs Splunk
+Blogs Splunk <https://www.splunk.com/fr_fr/blog>
+
+  * Perspectives de la direction Perspectives de la direction
+      o Perspectives – Accueil <https://www.splunk.com/en_us/blog/
+        perspectives.html>
+      o Le cercle des RSSI <https://www.splunk.com/en_us/blog/ciso-
+        circle.html>
+      o Le bureau des DSI <https://www.splunk.com/en_us/blog/cio-
+        office.html>
+      o La pile des CTO <https://www.splunk.com/en_us/blog/cto-stack.html>
+      o Éclairages sectoriels <https://www.splunk.com/en_us/blog/
+        industry-insights.html>
+  * Sécurité <https://www.splunk.com/en_us/blog/security.html>
+  * Observabilité <https://www.splunk.com/en_us/blog/observability.html>
+  * Intelligence artificielle <https://www.splunk.com/en_us/blog/
+    artificial-intelligence.html>
+  * Plateforme <https://www.splunk.com/en_us/blog/platform.html>
+  * Leaders <https://www.splunk.com/en_us/blog/leadership.html>
+  * Partenaires <https://www.splunk.com/en_us/blog/partners.html>
+  * .conf <https://www.splunk.com/en_us/blog/conf-splunklive.html>
+  * Splunk Life <https://www.splunk.com/en_us/blog/splunklife.html>
+  * Plus Plus
+      o Clients <https://www.splunk.com/fr_fr/blog/customers.html>
+      o Industries <https://www.splunk.com/fr_fr/blog/industries.html>
+      o Global Impact <https://www.splunk.com/fr_fr/blog/splunk-for-
+        good.html>
+      o Apprendre <https://www.splunk.com/fr_fr/blog/learn.html>
+      o Trucs & Astuces <https://www.splunk.com/fr_fr/blog/tips-and-
+        tricks.html>
+      o Abonnez-vous aux blogs de Splunk <https://www.splunk.com/en_us/
+        form/splunk-blogs-subscribe.html>
+      o Auteurs du blog <https://www.splunk.com/fr_fr/blog/author.html>
+      o Plan du site : blogs <https://www.splunk.com/en_us/blog/site-
+        map.html>
+  * More
+      o Partenaires <https://www.splunk.com/en_us/blog/partners.html>
+      o .conf <https://www.splunk.com/en_us/blog/conf-splunklive.html>
+      o Splunk Life <https://www.splunk.com/en_us/blog/splunklife.html>
+      o Plus Plus
+          + Clients <https://www.splunk.com/fr_fr/blog/customers.html>
+          + Industries <https://www.splunk.com/fr_fr/blog/industries.html>
+          + Global Impact <https://www.splunk.com/fr_fr/blog/splunk-for-
+            good.html>
+          + Apprendre <https://www.splunk.com/fr_fr/blog/learn.html>
+          + Trucs & Astuces <https://www.splunk.com/fr_fr/blog/tips-and-
+            tricks.html>
+          + Abonnez-vous aux blogs de Splunk <https://www.splunk.com/
+            en_us/form/splunk-blogs-subscribe.html>
+          + Auteurs du blog <https://www.splunk.com/fr_fr/blog/author.html>
+          + Plan du site : blogs <https://www.splunk.com/en_us/blog/
+            site-map.html>
+
+Trucs & Astuces <https://www.splunk.com/fr_fr/blog/tips-and-tricks.html>
+13 mars 2023
+ | 
+10 min de lecture
+
+
+  Commandes de recherche > stats, chart et timechart
+
+Par Splunk <https://www.splunk.com/fr_fr/blog/author/admin.html>
+
+  *
+    Partager sur X <https://twitter.com/intent/tweet?
+    text=Found%20this%20useful%20link%20for%20you.
+    %20%23splunk&url=https%3A%2F%2Fwww.splunk.com%2Ffr_fr%2Fblog%2Ftips-
+    and-tricks%2Fcommandes-de-recherche-stats-chart-et-timechart.html>
+  *
+    Partager sur Facebook <https://www.facebook.com/sharer/sharer.php?
+    u=https%3A%2F%2Fwww.splunk.com%2Ffr_fr%2Fblog%2Ftips-and-
+    tricks%2Fcommandes-de-recherche-stats-chart-et-
+    timechart.html&title=Found%20this%20useful%20link%20for%20you.>
+  *
+    Partager sur LinkedIn <http://www.linkedin.com/shareArticle?
+    mini=true&url=https%3A%2F%2Fwww.splunk.com%2Ffr_fr%2Fblog%2Ftips-
+    and-tricks%2Fcommandes-de-recherche-stats-chart-et-
+    timechart.html&title=Partager%20sur%20LinkedIn&summary=Found%20this%20useful%20link%20for%20you.>
+
+Les commandes *stats*, *chart* et *timechart* sont des commandes
+extrêmement utiles (surtout *stats*). Lorsque j'ai commencé à apprendre
+à utiliser les commandes de recherche Splunk, j'ai eu du mal à
+comprendre les différents avantages de chaque commande, et notamment la
+façon dont la clause BY affecte le résultat d'une recherche. Finalement,
+c’est en comparant les résultats (avec quelques essais et beaucoup
+d’erreurs) que j'ai compris ce qui différencie les commandes. 
+
+Ces trois commandes sont des commandes de /transformation/. Une commande
+de transformation prend les données d'événement et les convertit en
+tableau de résultats organisé. Vous pouvez utiliser ces trois commandes
+pour calculer des statistiques : décompte, somme ou moyenne par exemple. 
+
+/*Remarque :* dans les exemples qui suivent et dans la documentation
+Splunk, le mot-clé BY est affiché en majuscules pour plus de lisibilité.
+Vous pouvez le taper aussi bien en minuscules qu’en majuscules dans vos
+recherches./
+
+
+      Tableau de résultats de la commande stats
+
+Commençons par la commande *stats*. Nous allons compter le nombre
+d’événements de chaque code de statut HTTP.
+
+... | stats count BY status
+
+Le nombre d'événements pour chaque code de statut unique est indiqué
+dans une nouvelle ligne d'un tableau, dans l’onglet Statistiques :
+
+status   	count  
+200 	34282
+400 	701
+403 	228
+404 	690
+
+
+Très simplement, les valeurs des champs (200, 400, 403, 404) deviennent
+des en-têtes de lignes dans le tableau de résultats. 
+
+Pour la commande *stats*, les champs que vous spécifiez dans la clause
+BY servent à grouper les résultats. Par exemple, nous recevons des
+événements de trois hôtes : www1, www2 et www3. Si nous ajoutons le
+champ *host* à notre clause BY, les résultats sont répartis en des
+groupes distincts.  
+
+... | stats count BY status, host
+
+Chaque combinaison unique de statut et d’hôte s'affiche sur une nouvelle
+*ligne* du tableau de résultats.
+
+status 	host 	count
+200 	www1 	11835
+200 	www2 	11186
+200 	www3 	11261
+400 	www1 	233
+400 	www2 	257
+400 	www3 	211
+403 	www2 	228
+404 	www1 	244
+404 	www2 	209
+404 	www3 	
+
+237
+
+Chaque champ spécifié dans la clause BY devient une nouvelle colonne
+dans le tableau de résultats. Vous divisez les lignes par statut
+d'abord, puis par hôte. Les champs que vous spécifiez dans la clause BY
+de la commande *stats* sont appelés champs .
+
+Dans cet exemple, les clients peuvent réaliser cinq *actions* sur notre
+site web : addtocart, changequantity, purchase, remove et view. 
+
+Ajoutons les actions à la recherche.
+
+... | stats count BY status, host, action
+
+Vous divisez les lignes par statut d'abord, puis par hôte et enfin par
+action. Ci-dessous se trouve une partie du tableau de résultats généré
+lorsque nous ajoutons le champ *action* à la clause BY :
+
+status 	host 	action 	count
+200 	www1 	addtocart 	1837
+200 	www1 	changequantity 	428
+200 	www1 	purchase 	1860
+200 	www1 	remove 	432
+200 	www1 	view 	1523
+200 	www2 	addtocart 	1743
+200 	www2 	changequantity 	365
+200 	www2 	purchase 	1742
+
+L’un des grands avantages de la commande *stats* est que vous pouvez
+spécifier plus de deux champs dans la clause BY et créer des tableaux de
+résultats qui présentent des calculs statistiques très granulaires.
+
+
+      Tableau de résultats de la commande chart
+
+En reprenant la même recherche de base, comparons les résultats produits
+par la commande *chart* à ceux de la commande *stats*.
+
+Si vous ne spécifiez qu’un seule champ BY, les résultats des commandes
+*stats* et *chart* sont identiques. C’est lorsque vous utilisez la
+commande *chart* avec deux champs BY que vous voyez vraiment la différence. 
+
+Souvenez-vous que les résultats renvoyés par la commande *stats* avec
+deux champs BY sont :
+
+status 	host 	count
+200 	www1 	11835
+200 	www2 	11186
+200 	www3 	11261
+400 	www1 	233
+400 	www2 	257
+400 	www3 	211
+403 	www2 	228
+404 	www1 	244
+404 	www2 	209
+404 	www3 	
+
+237
+
+Remplaçons maintenant la commande *stats* par la commande *chart* dans
+la recherche.
+
+... | chart count BY status, host
+
+La recherche renvoie les résultats suivants : 
+
+status 	www1 	www2 	www3
+200 	11835 	11186 	11261
+400 	233 	257 	211
+403 	0 	288 	0
+404 	244 	209 	237
+
+La commande *chart* utilise le premier champ de la clause BY, *status*
+pour grouper les résultats. Pour chaque valeur unique du champ *status*,
+les résultats apparaissent sur une nouvelle ligne. Ce premier champ BY
+est appelé champ . La commande *chart* utilise le second champ de la
+clause BY, *host* pour diviser les résultats en colonnes. Ce second
+champ BY est appelé champ . Les valeurs du champ *host* deviennent des
+titres de colonne.
+
+Observez les résultats du code d'état 403 dans les deux tableaux de
+résultats. Avec la commande *stats*, il n’y a aucun résultat pour le
+code de statut 403 et les hôtes www1 et www3. Avec la commande *chart*,
+lorsqu’il n’y a pas d'événement pour le champ contenant la valeur du
+champ , un 0 est renvoyé. 
+
+Une différence essentielle entre les commandes *stats* et *chart* est le
+nombre de champs que vous pouvez spécifier dans la clause BY.
+
+Avec la commande *stats*, vous pouvez, dans la clause BY, spécifier une
+liste de champs qui seront tous des champs . La syntaxe de la clause BY
+de la commande *stats* est :
+
+BY
+
+Pour la commande *chart*, vous pouvez spécifier deux champs au maximum.
+Un champ et un champ .  
+
+La commande *chart* offre deux manières de préciser ces champs dans la
+clause BY. Par exemple :
+
+... | chart count BY status, host
+
+... | chart count OVER status BY host
+
+La syntaxe de la clause BY de la commande *chart* est :
+
+[ BY ] | [ OVER ] [BY ] ]
+
+L’avantage de la commande *chart* est qu’elle crée un tableau de
+résultats consolidé plus pratique pour créer des graphiques. Vous allez
+voir ce que j’entends par là.
+
+
+      Visualisation des commandes stats et chart
+
+Lorsque vous exécutez les commandes stats et chart, les données
+d'événement sont transformées en tableaux de résultats qui apparaissent
+sur l’onglet Statistiques. Cliquez sur l’onglet *Visualisation* pour
+générer un graphique à partir des résultats. Voici la visualisation du
+tableau de résultats de la commande *stats* :
+
+Le champ *status* constitue l’axe des abscisses et les champs *host* et
+*count* forment la série de données. La plage des valeurs de décompte
+(count) forme l’axe des ordonnées.
+
+Ce graphique pose plusieurs problèmes :
+
+ 1. On a plusieurs valeurs pour le même code de statut sur l’axe des
+    abscisses. 
+ 2. Les valeurs *host* (www1, www2 et www3) sont des valeurs de type
+    chaîne et ne peuvent être mesurées sur le graphique. Le *host*
+    apparaît dans la légende mais il n’y a pas de colonne bleue sur le
+    graphique.
+
+Pour toutes ces raisons, le graphique est confus et il ne transmet par
+les informations contenues dans le tableau de résultats.
+
+Si vous /pouvez/ créer une visualisation utilisable à partir du tableau
+de résultats de la commande *stats*, la visualisation n’est utile que
+lorsque vous spécifiez un seul champ dans la clause BY. 
+
+Il vaut mieux utiliser la commande *chart* lorsque vous voulez créer une
+visualisation avec deux champs de clause BY :
+
+Le champ *status* constitue l’axe des abscisses et les valeurs *host*
+forment la série de données. La plage des valeurs de décompte (count)
+forme l’axe des ordonnées.
+
+
+      Et la commande timechart ?
+
+Lorsque vous utilisez la commande *timechart*, le tableau de résultats
+est toujours groupé en fonction de l’horodatage de l’événement (le champ
+*_time*). La valeur de temps joue le rôle de dans le tableau de
+résultats. Dans la clause BY, vous allez donc spécifier un seule champ,
+le champ .  Par exemple, cette recherche génère un décompte et spécifie
+le champ status comme champ  :
+
+... | timechart count BY status
+
+Cette recherche produit ce tableau de résultats :
+
+_time 	200 	400 	403 	404
+2018-07-05 	1038 	27 	7 	19
+2018-07-06 	4981 	111 	35 	98
+2018-07-07 	5123 	99 	45 	105
+2018-07-08 	5016 	112 	22 	105
+2018-07-09 	4732 	86 	34 	84
+2018-07-10 	4791 	102 	23 	107
+2018-07-11 	4783 	85 	39 	98
+2018-07-12 	3818 	79 	23 	74
+
+Si vous effectuez plutôt une recherche par champ *host*, vous obtenez le
+tableau de résultats suivant :
+
+*_time*
+
+	
+
+*www1*
+
+	
+
+*www2*
+
+	
+
+*www3*
+
+2018-07-05 	372 	429 	419
+2018-07-06 	2111 	1837 	1836
+2018-07-07 	1887 	2046 	1935
+2018-07-08 	1927 	1869 	2005
+2018-07-09 	1937 	1654 	1792
+2018-07-10 	1980 	1832 	1733
+2018-07-11 	1855 	1847 	1836
+2018-07-12 	1559 	1398 	1436
+
+Les incréments de temps que vous voyez dans la colonne *_time* dépendent
+de la plage temporelle de la recherche ou des arguments spécifiés dans
+la commande *timechart*.  Dans les exemples précédents, la plage
+spécifiée était *All time* et il n’y avait que quelques semaines de
+données. Comme nous n’avions pas précisé de *span*, une fourchette par
+défaut était utilisée. Dans cette situation, la fourchette par défaut
+est de 1 jour.
+
+Si vous précisez une période telle que *Last 24 hours* pour les 24
+dernières heures, la fourchette par défaut est de 30 minutes. La section
+Utilisation <https://docs.splunk.com/Documentation/Splunk/
+SearchReference/Timechart#Usage> de la documentation de la commande
+timechart indique les fourchettes par défaut des périodes les plus
+courantes. Ce tableau de résultats présente la fourchette par défaut de
+30 minutes :
+
+_time 	www1 	www2 	www3
+2018-07-12 15:00:00 	44 	22 	73
+2018-07-12 15:30:00 	34 	53 	31
+2018-07-12 16:00:00 	14 	33 	36
+2018-07-12 16:30:00 	46 	21 	54
+2018-07-12 17:00:00 	75 	26 	38
+2018-07-12 17:30:00 	38 	51 	14
+2018-07-12 18:00:00 	62 	24 	15
+
+
+La commande *timechart* inclut plusieurs options qui ne sont pas
+disponibles dans les commandes stats et chart. Par exemple, vous pouvez
+préciser une fourchette comme celle que nous avons dans cette recherche :
+
+... | timechart span=12h count BY host
+
+_time 	www1 	www2 	www3
+2018-07-04 17:00 	801 	783 	819
+2018-07-05 05:00 	795 	847 	723
+2018-07-05 17:00 	1926 	1661 	1642
+2018-07-06 05:00 	1501 	1774 	1542
+2018-07-06 17:00 	2033 	1909 	1857
+2018-07-07 05:00 	1482 	1671 	1594
+2018-07-07 17:00 	2027 	1818 	2036
+
+Dans cet exemple, les incréments de 12 heures dans le tableau de
+résultats sont basés sur l’heure d’exécution de la recherche (heure
+locale) et son alignement sur l’heure UNIX (parfois appelée heure Epoch).
+
+/*Remarque* : vous pouvez préciser d'autres options avec la commande
+*timechart*, que nous allons explorer dans un article distinct./
+
+Comment ces résultats s'affichent-ils sous forme graphique ? Sur
+l’onglet *Visualisation*, vous voyez que *_time* forme l’axe des
+abscisses. L’axe indique les valeurs minuit et midi pour chaque date.
+Toutefois, les colonnes qui représentent les données commencent à 1700
+chaque jour et se terminent à 0500 le jour suivant.
+
+Le champ précisé dans la clause BY forme la série de données. La plage
+des valeurs de décompte (count) forme l’axe des ordonnées.
+
+
+      En résumé
+
+Les commandes *stats*, *chart* et *timechart* présentent des
+similarités, mais il faut faire attention aux clauses BY que vous
+utilisez avec elles.
+
+  * Utilisez la commande stats quand vous voulez créer des tableaux de
+    résultats qui présentent des calculs statistiques granulaires.
+  * Utilisez la commande stats quand vous avez besoin de spécifier au
+    moins 3 champs dans la clause BY.
+  * Utilisez la commande chart quand vous voulez créer des tableaux de
+    résultats qui présentent des calculs consolidés et résumés.
+  * Utilisez la commande chart pour créer des visualisations à partir
+    des données du tableau de résultats.
+  * Utilisez la commande timechart pour créer des tableaux de résultats
+    et des graphiques temporels.
+
+/*Fais de SPL ta deuxième langue – Laura*/
+
+------------------------------------------------------------------------
+
+
+      Références
+
+*Autres articles :*
+
+  * Commandes de recherche > stats, eventstats et streamstats <https://
+    www.splunk.com/blog/2014/04/01/search-command-stats-eventstats-and-
+    streamstats-2.html>
+
+*Documentation Splunk :*
+
+  * Commande stats : https://docs.splunk.com/Documentation/Splunk/
+    latest/SearchReference/Stats <https://docs.splunk.com/Documentation/
+    Splunk/latest/SearchReference/Stats>
+  * Commande chart : https://docs.splunk.com/Documentation/Splunk/
+    latest/SearchReference/Chart <https://docs.splunk.com/Documentation/
+    Splunk/latest/SearchReference/Chart>
+  * Commande timechart : https://docs.splunk.com/Documentation/Splunk/
+    latest/SearchReference/Timechart <https://docs.splunk.com/
+    Documentation/Splunk/latest/SearchReference/Timechart>
+
+/*Cet article est une traduction de celui <https://www.splunk.com/en_us/
+blog/tips-and-tricks/search-commands-stats-chart-and-
+timechart.html> initialement publié sur le blog Splunk anglais./
+
+E-book : La résilience numérique porte ses fruits
+
+<https://www.splunk.com/fr_fr/form/digital-resilience-pays-off.html>
+
+La résilience numérique porte ses fruits
+
+Votre organisation est-elle résiliente ? Découvrez le degré de maturité
+de votre résilience numérique dans ce guide gratuit.
+
+Télécharger maintenant <https://www.splunk.com/fr_fr/form/digital-
+resilience-pays-off.html>
+Splunk Picture
+Splunk <https://www.splunk.com/fr_fr/blog/author/admin.html>
+
+
+    Articles similaires
+
+<https://www.splunk.com/fr_fr/blog/tips-and-tricks/la-data-au-quotidien-
+le-prix-de-l-essence.html>
+Trucs & Astuces <https://www.splunk.com/fr_fr/blog/tips-and-tricks.html>
+5 min de lecture
+
+
+      La data au quotidien : le prix de l'essence
+
+<https://www.splunk.com/fr_fr/blog/tips-and-tricks/la-data-au-quotidien-
+le-prix-de-l-essence.html>
+Dans ce nouvel épisode de "la data au quotidien", Thomas Labetoulle et
+Olivier Paule ont analysé et Splunké en duo un sujet toujours plus
+d'actualité : le prix des carburants en France ! Vous êtes prêt à faire
+des économies ?
+<https://www.splunk.com/fr_fr/blog/tips-and-tricks/splunk-connect-for-
+syslog-une-gdi-cle-en-main-et-evolutive-pour-les-donnees-syslog-
+partie-3.html>
+Trucs & Astuces <https://www.splunk.com/fr_fr/blog/tips-and-tricks.html>
+17 min de lecture
+
+
+      Splunk Connect for Syslog : une GDI clé en main et évolutive pour
+      les données syslog – Partie 3
+
+<https://www.splunk.com/fr_fr/blog/tips-and-tricks/splunk-connect-for-
+syslog-une-gdi-cle-en-main-et-evolutive-pour-les-donnees-syslog-
+partie-3.html>
+Découvrez plus en détails les spécificités de la configuration de Splunk
+Connect for Syslog, notamment l’agencement du système de fichiers local
+(monté) et les domaines dans lesquels vous allez travailler.
+<https://www.splunk.com/fr_fr/blog/tips-and-tricks/monitorer-la-
+telemetrie-d-une-f1-virtuelle.html>
+Trucs & Astuces <https://www.splunk.com/fr_fr/blog/tips-and-tricks.html>
+6 min de lecture
+
+
+      Monitorer la télémétrie d'une F1 (virtuelle)
+
+<https://www.splunk.com/fr_fr/blog/tips-and-tricks/monitorer-la-
+telemetrie-d-une-f1-virtuelle.html>
+Dans cet article, Thomas Labetoulle présente comment Splunker votre PS4
+pour analyser vos données de télémétrie et vos performances sur le jeu
+F1 2021. Enfilez vos casques, il vous emmène faire un tour, forcément à
+bord d'une McLaren, sur la piste de Monza, le temple de la vitesse.
+
+
+    À propos de Splunk
+
+Les plus grandes organisations mondiales font confiance à Splunk, une
+filiale de Cisco, pour renforcer en permanence leur résilience numérique
+grâce à une plateforme unifiée de sécurité et d’observabilité, alimentée
+par une IA de pointe.
+
+
+Nos clients se fient aux solutions de sécurité et d’observabilité
+primées de Splunk pour sécuriser leurs environnements numériques
+complexes et en renforcer la fiabilité, quelle que soit l’échelle.
+
+lire Light
+En savoir plus sur Splunk <https://www.splunk.com/fr_fr/about-us/why-
+splunk.html>
+
+
+    Abonnez-vous à notre blog
+
+Recevez les derniers articles de Splunk par e-mail.
+
+S’abonner maintenant <https://www.splunk.com/en_us/form/splunk-blogs-
+subscribe.html>
+logo x logo x	
+
+
+      Échangez avec Splunk sur X
+
+Suivre @splunk <https://x.com/splunk>
+x
+
+Model content data
+instagram instagram	
+
+
+      Échangez avec Splunk sur Instagram
+
+Suivre @splunk <https://www.instagram.com/splunk/>
+x
+
+Model content data
+Perspectives de Splunk Perspectives de Splunk	
+
+
+      Découvrez le blog Splunk Perspectives pour les cadres
+
+Lire Perspectives <https://www.splunk.com/en_us/perspectives.html>
+x
+
+Model content data
+ENTREPRISE
+ENTREPRISE
+
+  * À propos de Splunk <https://www.splunk.com/fr_fr/about-splunk.html>
+  * Carrières <https://careers.cisco.com/global/en/splunk>
+  * Splunk et les autres solutions <https://www.splunk.com/fr_fr/about-
+    us/how-splunk-compares.html>
+  * Équipe de direction <https://www.splunk.com/fr_fr/about-splunk/
+    leadership.html>
+  * Communiqué de presse <https://www.splunk.com/fr_fr/newsroom/press-
+    releases.html>
+  * Partenaires <https://www.splunk.com/en_us/partners.html>
+  * Positions politiques de Splunk <https://www.cisco.com/c/m/en_us/
+    about/csr/esg-hub/governance/policies.html>
+  * Splunk Protects <https://www.splunk.com/en_us/about-splunk/splunk-
+    data-security-and-privacy.html>
+  * SURGe <https://www.splunk.com/en_us/surge.html>
+  * Pourquoi Splunk ? <https://www.splunk.com/fr_fr/about-us/why-
+    splunk.html>
+
+PRODUITS
+PRODUITS
+
+  * Téléchargements et essais gratuits <https://www.splunk.com/fr_fr/
+    download.html>
+  * Tarification <https://www.splunk.com/fr_fr/products/pricing.html>
+  * Voir tous les produits <https://www.splunk.com/fr_fr/products.html>
+
+SITES SPLUNK
+SITES SPLUNK
+
+  * .conf <https://conf.splunk.com/>
+  * Documentation <https://help.splunk.com/en>
+  * Relations investisseurs <https://www.splunk.com/en_us/about-splunk/
+    investors.html>
+  * Formation et certification <https://www.splunk.com/en_us/training.html>
+  * Boutique Splunk <https://merchandise.cisco.com/splunk.html>
+  * Vidéos <https://www.splunk.com/fr_fr/resources/videos.html>
+  * Voir toutes les ressources <https://www.splunk.com/fr_fr/
+    resources.html>
+
+CONTACTER SPLUNK
+CONTACTER SPLUNK
+
+  *
+    Contacter le service commercial <https://www.splunk.com/fr_fr/about-
+    splunk/contact-us.html>
+  *
+    Contacter l’assistance <https://www.splunk.com/fr_fr/about-splunk/
+    contact-us.html#customer-support>
+
+AVIS D'UTILISATEURS
+AVIS D'UTILISATEURS
+
+  * Gartner Peer Insights™ <https://www.gartner.com/reviews/market/
+    security-information-event-management/vendor/splunk>
+  * PeerSpot <https://www.peerspot.com/vendors/splunk>
+  * TrustRadius <https://www.trustradius.com/vendors/cisco/g/cisco-
+    splunk/products>
+
+Splunk Splunk <https://www.splunk.com/fr_fr>
+
+  *
+    Twitter <https://x.com/splunk>
+  *
+    Facebook <https://www.facebook.com/splunk>
+  *
+    Linked In <https://www.linkedin.com/company/splunk>
+  *
+    Youtube <https://www.youtube.com/user/splunkvideos>
+  *
+    Instagram <https://www.instagram.com/splunk/>
+
+© 2005 - 2025 Splunk LLC Tous droits réservés.
+
+Domaine juridique <https://www.splunk.com/en_us/legal.html>
+Confidentialité <https://www.splunk.com/en_us/legal/privacy-policy.html>
+Plan du site <https://www.splunk.com/fr_fr/site-map.html>
+Cookies <https://www.cisco.com/c/en/us/about/legal/privacy-
+full.html#cookies>
+Conditions d'utilisation du site web <https://www.splunk.com/en_us/
+legal/terms/terms-of-use.html>
+Modern Slavery <https://www.splunk.com/content/dam/splunk2/en_us/pdfs/
+legal/splunk-modern-slavery-act-transparancy-statement.pdf>
+Splunk Splunk <https://www.splunk.com/fr_fr>
+
+© 2005 - 2025 Splunk LLC Tous droits réservés.
+
+×
+
+Logo de la société
+
+
+    Gestionnaire d'acceptation
+
+Nous respectons votre volonté de ne pas participer.
+
+
+Gestionnaire d'acceptation
+
+  *
+
+
+          Confidentialité
+
+  *
+
+
+          Cookies absolument nécessaires
+
+  *
+
+
+          Cookies de performance
+
+  *
+
+
+          Cookies de ciblage
+
+  *
+
+
+          Cookies de fonctionnalité
+
+
+Confidentialité
+
+Lorsque vous visitez un site web, ce dernier peut enregistrer ou
+récupérer des informations dans votre navigateur, la plupart du temps
+sous forme de cookies. Ces informations peuvent vous concerner vous
+directement, mais aussi vos préférences ou votre terminal, et sont
+généralement utilisées pour optimiser votre navigation sur le site. Si
+elles ne permettent habituellement pas de vous identifier directement,
+elles peuvent vous offrir une expérience web plus personnalisée. Parce
+que le respect de votre vie privée est une priorité pour nous, vous
+pouvez choisir d'autoriser ou non certains types de cookies. Cliquez sur
+les différents titres de catégorie pour en savoir plus et modifier vos
+paramètres par défaut. Notez cependant que le fait de bloquer certains
+types de cookies peut avoir une incidence sur votre expérience de
+navigation et sur les services que nous pouvons vous proposer.
+
+
+        Cookies absolument nécessaires
+
+Toujours activés
+
+Ces cookies sont indispensables au bon fonctionnement du site web et ne
+peuvent pas être désactivés au niveau de nos systèmes. Ils ne résultent
+généralement que d'actions que vous avez effectuées et qui correspondent
+à une demande de service, comme lorsque vous définissez vos préférences
+en matière de confidentialité, que vous vous connectez ou que vous
+remplissez des formulaires. Vous pouvez configurer votre navigateur pour
+qu'il bloque ces cookies ou vous avertisse de leur présence, mais
+certaines parties du site ne seront alors plus opérationnelles. Ces
+cookies n'enregistrent aucune information d'identification personnelle.
+
+Détails des cookies
+
+
+        Cookies de performance
+
+Cookies de performance
+
+Ces cookies fournissent des indicateurs relatifs aux performances et à
+la facilité d'utilisation de notre site. Ils visent principalement à
+récolter des informations sur la façon dont vous interagissez sur le
+site, notamment le temps de chargement des pages, les temps de réponse,
+les messages d'erreur et le déroulement des interactions pour chaque
+visiteur. Nous pouvons ainsi examiner et analyser le comportement des
+visiteurs pour améliorer l'ergonomie et les fonctionnalités de notre
+site. Ces cookies nous permettent également de comptabiliser les visites
+et les sources de trafic afin de mesurer et d'améliorer les performances
+du site. Ils nous aident à savoir quelles pages sont les plus et les
+moins populaires, et à voir la manière dont les visiteurs naviguent sur
+le site. Si vous n'autorisez pas ces cookies, nous ne saurons pas si
+vous avez déjà visité le site et ne pourrons pas en mesurer les
+performances.
+
+Détails des cookies
+
+
+        Cookies de ciblage
+
+Cookies de ciblage
+
+Ces cookies peuvent être intégrés à notre site par nos partenaires
+publicitaires. Ils peuvent être utilisés par ces entreprises pour
+établir un profil de vos centres d'intérêt et vous présenter des
+publicités pertinentes sur d'autres sites. Si ces cookies n'enregistrent
+pas directement vos informations personnelles, ils identifient de
+manière unique votre navigateur et votre terminal d'accès à Internet. Si
+vous n'autorisez pas ces cookies, des publicités moins ciblées
+s'afficheront.
+
+Détails des cookies
+
+
+        Cookies de fonctionnalité
+
+Cookies de fonctionnalité
+
+Ces cookies permettent d’améliorer et de personnaliser les
+fonctionnalités du site Web. Ils peuvent être activés par nos équipes,
+ou par des tiers dont les services sont utilisés sur les pages de notre
+site Web. Si vous n'acceptez pas ces cookies, une partie ou la totalité
+de ces services risquent de ne pas fonctionner correctement.
+
+Détails des cookies
+
+Back Button
+
+
+Liste des cookies
+
+Filter Button
+
+Consent Leg.Interest
+checkbox label
+
+label
+checkbox label
+
+label
+checkbox label
+
+label
+
+Clear
+
+  *
+    checkbox label
+
+    label
+
+Apply Cancel
+Enregistrer les paramètres
+Autoriser tout
+Powered by Onetrust <https://www.onetrust.com/products/cookie-consent/>

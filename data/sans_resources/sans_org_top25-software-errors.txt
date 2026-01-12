@@ -1,0 +1,98 @@
+Source: https://www.sans.org/top25-software-errors/
+Scraped: 2025-12-22 21:05:11
+================================================================================
+
+Top 25 Software Errors
+CWE TOP 25 Most Dangerous Software Errors
+What Errors Are Included in the Top 25 Software Errors?
+Click on the CWE ID in any of the listings in the chart below and you will be directed to the relevant spot in the MITRE CWE site where you will find the following:
+Ranking of each Top 25 entry,
+Links to the full CWE entry data,
+Data fields for weakness prevalence and consequences,
+Attack frequency and attacker awareness
+Related CWE entries, and
+Related patterns of attack for this weakness.
+Each entry at the Top 25 Software Errors site also includes fairly extensive prevention and remediation steps that developers can take to mitigate or eliminate the weakness.
+The New 25 Most Dangerous Programming Errors
+The Risk Management System
+https://cwe.mitre.org/data/definitions/787.html
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+https://cwe.mitre.org/data/definitions/79.html
+Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')
+https://cwe.mitre.org/data/definitions/89.html
+https://cwe.mitre.org/data/definitions/416.html
+Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')
+https://cwe.mitre.org/data/definitions/78.html
+Improper Input Validation
+https://cwe.mitre.org/data/definitions/20.html
+https://cwe.mitre.org/data/definitions/125.html
+Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')
+https://cwe.mitre.org/data/definitions/22.html
+Cross-Site Request Forgery (CSRF)
+https://cwe.mitre.org/data/definitions/352.html
+Unrestricted Upload of File with Dangerous Type
+https://cwe.mitre.org/data/definitions/434.html
+Missing Authorization
+https://cwe.mitre.org/data/definitions/862.html
+NULL Pointer Dereference
+https://cwe.mitre.org/data/definitions/476.html
+Improper Authentication
+https://cwe.mitre.org/data/definitions/287.html
+Integer Overflow or Wraparound
+https://cwe.mitre.org/data/definitions/190.html
+Deserialization of Untrusted Data
+https://cwe.mitre.org/data/definitions/502.html
+Improper Neutralization of Special Elements used in a Command ('Command Injection')
+https://cwe.mitre.org/data/definitions/77.html
+Improper Restriction of Operations within the Bounds of a Memory Buffer
+https://cwe.mitre.org/data/definitions/119.html
+Use of Hard-coded Credentials
+https://cwe.mitre.org/data/definitions/798.html
+Server-Side Request Forgery (SSRF)
+https://cwe.mitre.org/data/definitions/918.html
+Missing Authentication for Critical Function
+https://cwe.mitre.org/data/definitions/306.html
+Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+https://cwe.mitre.org/data/definitions/362.html
+Improper Privilege Management
+https://cwe.mitre.org/data/definitions/269.html
+Improper Control of Generation of Code ('Code Injection')
+https://cwe.mitre.org/data/definitions/94.html
+Incorrect Authorization
+https://cwe.mitre.org/data/definitions/863.html
+Incorrect Default Permissions
+https://cwe.mitre.org/data/definitions/276.html
+Resources to Help Eliminate The Top 25 Software Errors
+1. SANS Application Security Courses
+The SANS Cloud Security curriculum seeks to ingrain security into the minds of every developer in the world by providing world-class educational resources to design, develop, procure, deploy, and manage secure software. The SANS cloud security and DevSecOps faculty are real-world practitioners with decades of application security experience. The concepts covered in our courses will be applicable to your software security program the day you return to work:
+SEC522: Application Security: Securing Web Apps, APIs, and Microservices
+SEC540: Cloud Security and DevSecOps Automation
+SANS maintains an Application Security CyberTalent Assessment that measures secure coding skills and allow programmers to determine gaps in their knowledge of secure coding and allows buyers to ensure outsourced programmers have sufficient programming skills. Organizations can learn more at
+https://www.sans.org/cybersecurity-assessments/application-security/
+2. Developer Security Awareness Training
+SANS Security Awareness Developer
+product provides pinpoint software security awareness training on demand, all from the comfort of your desk. Application security awareness training includes over 30+ modules averaging 7-10 minutes in length to maximize learner engagement and retention. The modules cover the full breadth and depth of topics for PCI Section 6.5 compliance and the items that are important for secure software development.
+3. The TOP 25 Errors List will be updated regularly and will be posted at both the SANS and MITRE sites
+CWE Top 25 Software Errors Site
+MITRE maintains the CWE (Common Weakness Enumeration) web site, with the support of the US Department of Homeland Security's National Cyber Security Division, presenting detailed descriptions of the top 25 Software errors along with authoritative guidance for mitigating and avoiding them. That site also contains data on more than 700 additional Software errors, design errors and architecture errors that can lead to exploitable vulnerabilities. CWE Web Site
+The Software Assurance Forum for Excellence in Code (members include EMC, Juniper, Microsoft, Nokia, SAP and Symantec) has produced two excellent publications outlining industry best practices for software assurance and providing practical advice for implementing proven methods for secure software development.
+Fundamental Practices for Secure Software Development 3rd Edition
+https://safecode.org/publications/#safecodepublications-2362
+Overview of Software Integrity Controls
+https://safecode.org/publications/#safecodepublications-189
+Framework for Software Supply Chain Integrity
+https://safecode.org/publications/#safecodepublications-188
+Fundamental Practices for Secure Software Development
+https://safecode.org/publications/#safecodepublications-186
+Software Assurance: An Overview of Current Industry Best Practices
+https://safecode.org/publications/#safecodepublications-185
+5. Software Assurance Community Resources Site and DHS web sites
+As part of DHS risk mitigation efforts to enable greater resilience of cyber assets, the Software Assurance Program seeks to reduce software vulnerabilities, minimize exploitation, and address ways to routinely acquire, develop and deploy reliable and trustworthy software products with predictable execution, and to improve diagnostic capabilities to analyze systems for exploitable weaknesses.
+6. Nearly a dozen software companies offer automated tools that test programs for these errors.
+How Important Are the Top 25 Software Errors?
+Just wanted to commend the depth of the CWE/SANS Top 25. The code examples are particularly excellent. I have asked all my developers to read one of these each day for the next 25 days. I'm taking my own advice as well, and even though I'm still reading some of the "easy" ones (like SQL injection), I still find that I am learning new things about old topics.
+The Top 25 provides much needed guidance for software developers focusing on eliminating software security defects in their products. If you're involved with software development at your organization and are looking to improve your product security posture, you need to read this.
+It's great to see the CWE/SANS Top 25 list continue to be maintained and mature. Relentlessly spreading the word about the most common security defects in programming is a vital need. The state of security in our software would without a doubt be much improved if everyone who touches software development reads and thoroughly understands this. Kudos.
+Contributors to the 2021 CWE Top 25:
+In alphabetical order: Adam Chaudry, Steve Christey Coley, Kerry Crouse, Kevin Davis, Devon Ellis, Parker Garrison, Christina Johns, Luke Malinowski, Rushi Purohit, Becky Powell, David Rothenberg, Alec Summers, and Brian Vohaska.
+Members of the NIST NVD Team that coordinated on the Top 25 include Christopher Turner, Robert Byers, and Vidya Ananthakrishna.

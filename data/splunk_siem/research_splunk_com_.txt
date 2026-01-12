@@ -1,0 +1,34 @@
+Source: https://research.splunk.com/
+Scraped: 2025-12-22 20:55:48
+================================================================================
+
+Splunk Security Content
+Welcome to Splunk Security Content
+Download Latest Version
+Splunk Detections built to find evil.
+Analytic Stories to address use cases.
+Automated playbook responses.
+Enable your SOC with Proven detections
+This project gives you access to our repository of Analytic Stories that are security guides which provide background on TTPs, mapped to the MITRE framework, the Lockheed Martin Kill Chain, and CIS controls. They include Splunk searches, machine-learning algorithms, and Splunk SOAR playbooks (where available)âall designed to work together to detect, investigate, and respond to threats.
+Detections by Platforms
+Detection Coverage MITRE ATT&CK
+A snapshot in time of what technique we currently have some detection coverage for. The visualization below shows our current coverage across all MITRE ATT&CK tactics.
+MITRE ATT&CK Coverage Overview
+Detection counts per tactic with MITRE technique breakdown
+Percentage of all MITRE techniques & subtechniques detected
+Percentage of tactics with at least one detection
+Unique techniques & subtechniques vs total (679)
+Average detections per active tactic
+High Coverage (10+ Detections)
+Medium Coverage (5-9 Detections)
+Low Coverage (1-4 Detections)
+ðºï¸ View Detailed Coverage Map
+We Value Your Feedback!
+Help us improve! Please take a moment to share your thoughts on our website.
+to submit bugs or request features.
+If you have questions or need support, you can:
+Splunk Community Slack.
+If you are a Splunk Enterprise customer with a valid support entitlement contract and have a Splunk-related question, you can also open a support case on the
+https://www.splunk.com/
+If you want to help the rest of the security community by sharing your own detections, see our
+for more information on how to get involved!

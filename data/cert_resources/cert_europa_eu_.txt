@@ -1,0 +1,34 @@
+Source: https://www.cert.europa.eu/
+Scraped: 2025-12-22 20:51:03
+================================================================================
+
+The Cybersecurity Service for the Union institutions, bodies, offices and agencies
+The Cybersecurity Service for the Union institutions, bodies, offices and agencies
+Tuesday, July 22, 2025 03:50:00 PM CEST
+Joint Statement on SharePoint vulnerabilities: Assessment and advice on recovery and mitigating actions
+The European Commission, the EU Agency for Cybersecurity (ENISA), the Cybersecurity Service for the Union institutions, bodies, offices and agencies (CERT-EU), and the network of the EU CSIRTs, are closely following the active exploitation of vulnerabilities in on-premises SharePoint Servers.
+Thursday, July 03, 2025 10:20:00 PM CEST
+Generative AI in Cybersecurity: Balancing Innovation and Risk
+Generative AI is rapidly influencing a wide range of fields-including cybersecurity. It offers benefits such as reducing manual workloads and automating repetitive tasks, but it also introduces new challenges.
+Friday, June 13, 2025 05:45:00 PM CEST
+EU Cyber Crisis Management 2.0: The New Blueprint Has Arrived!
+On June 6, the Council of the European Union adopted the Recommendation on an EU Blueprint for cyber crisis management.
+Born in 2011, CERT-EU is an inter-institutional service provider administratively hosted in the
+European Commission. As the Cybersecurity Service for the Union institutions, bodies, offices and agencies,
+our mission is to contribute to the security of their ICT infrastructure
+by helping them to prevent, detect, mitigate and respond to cyber attacks.
+We also act as the cybersecurity information exchange and incident response coordination hub for
+all the Union institutions, bodies, offices and agencies.
+We are a world-renowned cybersecurity entity, working tirelessly to protect the data and systems
+of our constituents. We have been steadily expanding our cybersecurity operations over the years
+and currently serve and defend more than 90 entities that are key to the functioning of the EU
+across the continent and beyond. From our base in Brussels, we work with a range of peers,
+partners and researchers from all over the world to ensure we maintain our technological edge
+and have access to the best-in-class expertise.
+Our people are a mix of technical and non-technical experts - diverse, talented, and all of them
+At CERT-EU, we offer a very dynamic and multicultural workplace, with a range of career
+opportunities for seasoned professionals, recent graduates or students alike. With us, you’ll
+find an environment designed to encourage open minds and attitudes, and a truly collaborative
+and supportive atmosphere.
+We regularly publish security advisories, security guidance documents as well as threat intelligence
+We only use cookies that are necessary for the technical functioning of our website. Find out more on

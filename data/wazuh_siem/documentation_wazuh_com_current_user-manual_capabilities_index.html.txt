@@ -1,0 +1,39 @@
+Source: https://documentation.wazuh.com/current/user-manual/capabilities/index.html
+Scraped: 2025-12-22 21:04:09
+================================================================================
+
+This section shows detailed explanation of the Wazuh capabilities and their configuration options.
+File integrity monitoring
+How to configure the FIM module
+Interpreting the FIM module analysis
+Creating custom FIM rules
+Windows Registry monitoring
+File integrity monitoring and threat detection rules
+Rootkits behavior detection
+CDB lists and threat intelligence
+VirusTotal integration
+File integrity monitoring and YARA
+ClamAV logs collection
+Windows Defender logs collection
+Custom rules to detect malware IOC
+Security Configuration Assessment
+Available SCA policies
+Creating custom SCA policies
+How to configure Active Response
+Default active response scripts
+Custom active response scripts
+Additional information
+Configuration for monitoring log files
+Configuring syslog on the Wazuh server
+Journald log collection
+Using multiple socket outputs
+Configuring log collection for different operating systems
+Vulnerability detection
+Command output analysis
+Using Wazuh to monitor Docker
+Viewing system inventory data
+Generating system inventory reports
+Available inventory fields
+Using Syscollector information to trigger alerts
+Monitoring system calls
+File integrity monitoring

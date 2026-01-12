@@ -1,0 +1,41 @@
+Source: https://www.metasploit.com/
+Scraped: 2025-12-22 20:51:46
+================================================================================
+
+Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit
+This site uses cookies for anonymized analytics. For more information or to change your cookie settings, view our
+The world’s most used penetration testing framework
+Knowledge is power, especially when it’s shared. A collaboration between the open source community and Rapid7, Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.
+Get visibility into your network with Rapid7's InsightVM
+Latest Metasploit Modules
+Land #20709, adds module for Twonky Server Authentication Bypass (CVE-2025-13315,CVE-2025-13316)
+Auxiliary module for CVE-2025-13315/CVE-2025-13316 - Twonky Server Log Leak Authentication Bypass
+Land #20718, adds module for Monsta FTP RCE (CVE-2025-34299)
+Add Monsta FTP downloadFile RCE (CVE-2025-34299)
+Land #20482, fixes bug in HTTP-based login scanners
+Fix HTTP-based login scanners when using SSL with custom port
+Land #20705, adds modules for Flowise RCEs (CVE-2025-59528, CVE-2025-8943)
+Add Flowise RCE exploits (CVE-2025-59528, CVE-2025-8943)
+Land #20701, adds windows WSL registry persistence module
+Windows WSL registry persistence
+View All Pull Requests
+Add unauth RCE exploit module for HPE OneView (CVE-2025-37164)
+Update nodejs cache sizes
+Update react2shell module: Add Waku framework support
+Add HTTP Server Version Scanner Module
+Revert "Vulnerability Report Enhancement"
+Create a Pull Request
+Metasploit Wrap-Up 12/19/2025
+React2Shell Payload ImprovementsLast week Metasploit released an exploit for the React2Shell vulnerability, and this week we have made a couple of improvements to the payloads that it uses. The first improvement affects all M...
+Metasploit Wrap-Up 12/12/2025
+React2shell ModuleAs you may have heard, on December 3, 2025, the React team announced a critical Remote Code Execution (RCE) vulnerability in servers using the React Server Components (RSC) Flight protocol. The vulnerability...
+Metasploit Wrap-Up 12/05/2025
+Twonky Auth Bypass, RCEs and RISC-V Reverse Shell PayloadsThis was another fantastic week in terms of PR contribution to the Metasploit Framework. Rapid7’s very own Ryan Emmons recently disclosed CVE-2025-13315 and CVE-2025-1...
+View More Metasploit Blog Posts
+View More Metasploit Videos
+View All Contributors
+Contribute to Metasploit
+Related Products & Projects
+Rapid7’s solution for advanced vulnerability management analytics and reporting.
+Rapid7’s incident detection and response solution unifying SIEM, EDR, and UBA capabilities.
+Virtual machines full of intentional security vulnerabilities. Exploit at will!

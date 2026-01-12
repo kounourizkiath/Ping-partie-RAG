@@ -1,0 +1,172 @@
+Source: https://www.schneier.com/
+Scraped: 2025-12-22 20:50:54
+================================================================================
+
+Schneier on Security -
+After twenty-six years, Microsoft is
+the last remaining instance of the encryption algorithm RC4 in Windows.
+of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a
+in last year’s breach of health giant Ascension. The breach caused life-threatening disruptions at 140 hospitals and put the medical records of 5.6 million patients into the hands of the attackers. US Senator Ron Wyden (D-Ore.)
+called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the continued default support for RC4.
+it was finally deprecating RC4 and cited its susceptibility to Kerberoasting, the form of attack, known since 2014, that was the root cause of the initial intrusion into Ascension’s network.
+Fun fact: RC4 was a trade secret until I published the algorithm in the second edition of
+Posted on December 22, 2025 at 12:05 PM
+Friday Squid Blogging: Petting a Squid
+from Reddit shows what could go wrong when you try to pet a—looks like a Humboldt—squid.
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+Blog moderation policy.
+Posted on December 19, 2025 at 5:06 PM
+AI Advertising Company Hacked
+At least some of this is
+Doublespeed, a startup backed by Andreessen Horowitz (a16z) that uses a phone farm to manage at least hundreds of AI-generated social media accounts and promote products has been hacked. The hack reveals what products the AI-generated accounts are promoting, often without the required disclosure that these are advertisements, and allowed the hacker to take control of more than 1,000 smartphones that power the company.
+The hacker, who asked for anonymity because he feared retaliation from the company, said he reported the vulnerability to Doublespeed on October 31. At the time of writing, the hacker said he still has access to the company’s backend, including the phone farm itself.
+Posted on December 19, 2025 at 7:02 AM
+Deliberate Internet Shutdowns
+in September, Afghanistan had
+. No satellite failed; no cable was cut. This was a deliberate outage, mandated by the Taliban government. It followed a more localized shutdown two weeks prior, reportedly instituted “to prevent immoral activities.” No additional explanation was given. The timing couldn’t have been worse: communities still reeling from a major earthquake
+lost emergency communications
+flights were grounded
+banking was interrupted
+. Afghanistan’s blackout is part of a wider pattern. Just since the end of September, there were also major nationwide internet shutdowns in
+, and significant regional shutdowns in
+, authorities offered no official justification or acknowledgment, leaving millions unable to access information, contact loved ones, or express themselves through moments of crisis, elections, and protests.
+The frequency of deliberate internet shutdowns has skyrocketed since the first notable example
+. Together with our colleagues at the digital rights organisation Access Now and the #KeepItOn coalition,
+296 deliberate internet shutdowns in 54 countries
+, and at least 244 more in 2025 so far.
+This is more than an inconvenience. The internet has become an essential piece of infrastructure, affecting how we live, work, and get our information. It’s also a
+of human rights, and turning off the internet can worsen or conceal
+. These shutdowns silence societies, and they’re getting more and more common.
+can be local or national, partial or total. In total blackouts, like Afghanistan or Tanzania, nothing works. But shutdowns are often targeted more granularly. Cellphone internet could be blocked, but not broadband. Specific news sites, social media platforms, and messaging systems could be blocked, leaving overall network access unaffected—as when Brazil
+X (formerly Twitter) in 2024. Sometimes bandwidth is just
+, making everything slower and unreliable.
+Sometimes, internet shutdowns are used in political or military operations. In recent years,
+have shut off parts of each other’s internet, and Israel has
+Palestinians’ internet in Gaza. Shutdowns of this type happened
+, affecting people in 13 countries.
+Reasons for the shutdowns are as varied as the countries that perpetrate them. General information control is just one. Shutdowns often come in response to political unrest, as governments try to prevent people from organizing and getting information; Panama had a
+this summer in response to
+. Or during elections, as opposition parties utilize the internet to mobilize supporters and communicate strategy. Belarusian president
+Alyaksandr Lukashenko
+, who has ruled since 1994, reportedly disabled the internet
+earlier this year, following a
+. But they can also be more banal. Access Now documented countries disabling parts of the internet during
+at least 16 times in 2024, including Algeria, Iraq, Jordan, Kenya, and India.
+of this year are good examples of a highly sophisticated effort, with layers of shutdowns that end up forcing people off the global internet and onto Iran’s surveilled, censored national intranet. India, meanwhile, has been the world shutdown leader for many years, with 855 distinct incidents. Myanmar is second with 149, followed by Pakistan and then Iran. All of this information is available on Access Now’s
+, where you can see breakdowns by region, country, type, geographic extent, and time.
+There was a slight decline in shutdowns during the early years of the pandemic, but they have increased sharply since then. The reasons are varied, but a lot can be attributed to the rise in protest movements related to economic hardship and corruption, and general democratic backsliding and instability. In many countries today, shutdowns are a knee-jerk response to any form of unrest or protest, no matter how small.
+A country’s ability to shut down the internet depends a lot on its infrastructure. In the US, for example, shutdowns would be hard to enforce. As we saw when discussions about a
+ramped up two years ago, the complex and multifaceted nature of our internet makes it very difficult to achieve. However, as we’ve seen with total nationwide shutdowns around the world, the ripple effects in all aspects of life are immense. (Remember the effects of just a small outage—
+—which crippled 8.5 million computers and cancelled 2,200 flights in the US alone?)
+The more centralized the internet infrastructure, the easier it is to implement a shutdown. If a country has just one cellphone provider, or only two fiber optic cables connecting the nation to the rest of the world,
+shutting them down is easy
+Shutdowns are not only more common, but they’ve also become more harmful. Unlike in years past, when the internet was a nice option to have, or perhaps when internet penetration rates were significantly lower across the Global South, today the internet is an essential piece of societal infrastructure for the
+y of the world’s population.
+Access Now has long maintained that denying people access to the internet is a human rights violation, and has collected harrowing stories from places like
+in Equatorial Guinea, and
+. The internet is an essential tool for a spectrum of rights, including freedom of expression and assembly. Shutdowns make
+documenting ongoing human rights abuses and atrocities
+more difficult or impossible. They are also impactful on people’s daily lives, business, healthcare, education, finances, security, and safety, depending on the context. Shutdowns in conflict zones are particularly damaging, as they impact the ability of humanitarian actors to deliver aid and make it harder for people to find safe evacuation routes and civilian corridors.
+Defenses on the ground are slim. Depending on the country and the type of shutdown, there can be workarounds. Everything, from VPNs to mesh networks to Starlink terminals to foreign SIM cards near borders, has been used with varying degrees of success. The tech-savvy sometimes have other options. But for most everyone in society, no internet means no internet—and all the effects of that loss.
+The international community plays an important role in shaping how internet shutdowns are understood and addressed. World bodies
+that reliable internet access is an essential service, and could put more pressure on governments to keep the internet on in conflict-affected areas. But while international condemnation has worked in some cases (
+are two recent examples), countries seem to be learning from each other, resulting in both more shutdowns and new countries perpetrating them.
+There’s still time to reverse the trend, if that’s what we want to do. Ultimately, the question comes down to whether or not governments will enshrine both a right to access information and freedom of expression in law and in practice. Keeping the internet on is a norm, but
+from a single internet shutdown
+15 years later demonstrates how embedded the practice has become. The implications of that shift are still unfolding, but they reach far beyond the moment the screen goes dark.
+This essay was written with Zach Rosson, and originally appeared in
+Posted on December 17, 2025 at 7:02 AM
+Chinese Surveillance and AI
+The Party’s AI: How China’s New AI Systems are Reshaping Human Rights
+China is already the world’s largest exporter of AI powered surveillance technology; new surveillance technologies and platforms developed in China are also not likely to simply stay there. By exposing the full scope of China’s AI driven control apparatus, this report presents clear, evidence based insights for policymakers, civil society, the media and technology companies seeking to counter the rise of AI enabled repression and human rights violations, and China’s growing efforts to project that repression beyond its borders.
+The report focuses on four areas where the CCP has expanded its use of advanced AI systems most rapidly between 2023 and 2025: multimodal censorship of politically sensitive images; AI’s integration into the criminal justice pipeline; the industrialisation of online information control; and the use of AI enabled platforms by Chinese companies operating abroad. Examined together, those cases show how new AI capabilities are being embedded across domains that strengthen the CCP’s ability to shape information, behaviour and economic outcomes at home and overseas.
+Because China’s AI ecosystem is evolving rapidly and unevenly across sectors, we have focused on domains where significant changes took place between 2023 and 2025, where new evidence became available, or where human rights risks accelerated. Those areas do not represent the full range of AI applications in China but are the most revealing of how the CCP is integrating AI technologies into its political control apparatus.
+Posted on December 16, 2025 at 7:02 AM
+Against the Federal Moratorium on State-Level Regulation of AI
+Cast your mind back to May of this year: Congress was in the throes of debate over the massive
+. Amidst the many seismic provisions, Senator Ted Cruz
+a ticking time bomb of tech policy: a ten-year moratorium on the ability of states to regulate artificial intelligence. To many, this was catastrophic. The few massive AI companies seem to be swallowing our economy whole: their energy demands are overriding household needs, their data demands are overriding creators’ copyright, and their products are triggering mass unemployment as well as new types of clinical
+. In a moment where Congress is seemingly unable to act to pass any meaningful consumer protections or market regulations, why would we hamstring the one entity evidently capable of doing so—the states? States that have already enacted consumer protections and other AI regulations, like
+, and those actively debating them, like
+, were alarmed. Seventeen Republican governors wrote a
+decrying the idea, and it was ultimately killed in a rare
+of bipartisan near-unanimity.
+The idea is back. Before Thanksgiving, a House Republican leader
+they might slip it into the annual defense spending bill. Then, a draft document
+outlining the Trump administration’s intent to enforce the state regulatory ban through executive powers. An outpouring of opposition (including from some
+state leaders) beat back that notion for a few weeks, but on Monday, Trump
+on social media that the promised Executive Order is indeed coming soon. That would put a growing
+of states, including California and New York, as well as Republican strongholds like Utah and Texas, in jeopardy.
+The constellation of motivations behind this proposal is clear: conservative ideology, cash, and China.
+argument in favor of the moratorium is that “
+“-killing state regulation on AI would create a patchwork that would be difficult for AI companies to comply with, which would slow the pace of innovation needed to win an
+with China. AI companies and their investors have been aggressively peddling this narrative for years now, and are increasingly backing it with
+lobbying dollars. It’s a handy argument, useful not only to kill regulatory constraints, but also—companies hope—to win federal
+Citizens should parse that argument from their own point of view, not Big Tech’s. Preventing states from regulating AI means that those companies get to tell Washington what they want, but your state representatives are powerless to represent your own interests. Which freedom is more important to you: the freedom for a few near-monopolies to profit from AI, or the freedom for you and your neighbors to demand protections from its abuses?
+There is an element of this that is more partisan than ideological. Vice President J.D. Vance
+that federal preemption is needed to prevent “progressive” states from controlling AI’s future. This is an indicator of creeping polarization, where Democrats decry the monopolism, bias, and harms attendant to corporate AI and Republicans reflexively take the opposite side. It doesn’t help that some in the parties also have direct
+in the AI supply chain.
+But this does not need to be a partisan wedge issue: both Democrats and Republicans have strong reasons to support state-level AI legislation. Everyone shares an interest in protecting consumers from harm created by Big Tech companies. In leading the charge to kill Cruz’s initial AI moratorium proposal, Republican Senator Masha Blackburn
+that “This provision could allow Big Tech to continue to exploit kids, creators, and conservatives? we can’t block states from making laws that protect their citizens.” More recently, Florida Governor Ron DeSantis wants to
+The often-heard complaint that it is hard to comply with a patchwork of state regulations rings hollow. Pretty much every other consumer-facing industry has managed to deal with local regulation—automobiles, children’s toys, food, and drugs—and those regulations have been effective consumer protections. The AI industry includes some of the most valuable companies globally and has demonstrated the ability to comply with differing regulations around the world, including the EU’s
+regulations, substantially more onerous than those so far adopted by US states. If we can’t leverage state regulatory power to shape the AI industry, to what industry could it possibly apply?
+The regulatory superpower that states have here is not size and force, but rather speed and locality. We need the “laboratories of democracy” to experiment with different types of regulation that fit the specific needs and interests of their constituents and evolve responsively to the concerns they raise, especially in such a consequential and rapidly changing area such as AI.
+We should embrace the ability of regulation to be a driver—not a limiter—of innovation. Regulations don’t restrict companies from building better products or making more profit; they help channel that innovation in specific ways that protect the public interest. Drug safety regulations don’t prevent pharma companies from inventing drugs; they force them to invent drugs that are safe and efficacious. States can direct private innovation to serve the public.
+But, most importantly, regulations are needed to prevent the most dangerous impact of AI today: the
+concentration of power
+AI companies and the power-amplifying technologies they are producing. We outline the specific ways that the use of AI in governance can disrupt existing balances of power, and how to steer those applications towards more equitable balances, in our new book,
+. In the nearly complete absence of Congressional action on AI over the years, it has swept the world’s attention; it has become clear that states are the only effective policy levers we have against that concentration of power.
+Instead of impeding states from regulating AI, the federal government should support them to
+. If proponents of a moratorium worry that the private sector won’t deliver what they think is needed to compete in the new global economy, then we should engage government to help generate AI innovations that serve the public and solve the problems most important to people. Following the lead of countries like
+, the US could invest in developing and deploying AI models designed as public goods: transparent, open, and useful for tasks in public administration and governance.
+Maybe you don’t trust the federal government to build or operate an AI tool that acts in the public interest? We don’t either. States are a much better place for this innovation to happen because they are closer to the people, they are charged with delivering most government services, they are better aligned with local political sentiments, and they have achieved
+. They’re where we can test, iterate, compare, and contrast regulatory approaches that could inform eventual and better federal policy. And, while the costs of training and operating performance AI tools like large language models have
+declined precipitously
+, the federal government can play a valuable role here in funding cash-strapped states to lead this kind of innovation.
+This essay was written with Nathan E. Sanders, and originally appeared in
+EDITED TO ADD: Trump signed an
+regulations hours after this was published.
+to be the last word on the subject.
+Posted on December 15, 2025 at 7:02 AM
+Upcoming Speaking Engagements
+This is a current list of where and when I am scheduled to speak:
+I’m speaking and signing books at the
+Chicago Public Library
+in Chicago, Illinois, USA, at 6:00 PM CT on February 5, 2026. Details to come.
+in Chicago, Illinois, USA. The convention runs February 5-8, 2026. My speaking time is TBD.
+Munich Cybersecurity Conference
+in Munich, Germany on February 12, 2026.
+Tech Live: Cybersecurity
+in New York City, USA on March 11, 2026.
+I’m giving the Ross Anderson Lecture at the University of Cambridge’s Churchill College on March 19, 2026.
+I’m speaking at RSAC 2026 in San Francisco, California, USA on March 25, 2026.
+The list is maintained on
+Posted on December 14, 2025 at 12:10 PM
+Friday Squid Blogging: Giant Squid Eating a Diamondback Squid
+I have no context for
+—it’s from Reddit—but one of the commenters adds some context:
+Hey everyone, squid biologist here! Wanted to add some stuff you might find interesting.
+With so many people carrying around cameras, we’re getting more videos of giant squid at the surface than in previous decades. We’re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don’t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it’s awesome).
+When we see big (giant or colossal) healthy squid like this, it’s often because a fisher caught something else (either another squid or sometimes an antarctic toothfish). The squid is attracted to whatever was caught and they hop on the hook and go along for the ride when the target species is reeled in. There are a few colossal squid sightings similar to this from the southern ocean (but fewer people are down there, so fewer cameras, fewer videos). On the original instagram video, a bunch of people are like “Put it back! Release him!” etc, but he’s just enjoying dinner (obviously as the squid swims away at the end).
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+Blog moderation policy.
+Posted on December 12, 2025 at 5:00 PM
+Building Trustworthy AI Agents
+The promise of personal AI assistants rests on a dangerous assumption: that we can trust systems we haven’t made trustworthy. We can’t. And today’s versions are failing us in predictable ways: pushing us to do things against our own best interests, gaslighting us with doubt about things we are or that we know, and being unable to distinguish between who we are and who we have been. They struggle with incomplete, inaccurate, and partial context: with no standard way to move toward accuracy, no mechanism to correct sources of error, and no accountability when wrong information leads to bad decisions.
+These aren’t edge cases. They’re the result of building AI systems without basic integrity controls. We’re in the third leg of data security—the old CIA triad. We’re good at availability and working on confidentiality, but we’ve never properly solved integrity. Now AI personalization has exposed the gap by accelerating the harms.
+The scope of the problem is large. A good AI assistant will need to be trained on everything we do and will need access to our most intimate personal interactions. This means an intimacy greater than your relationship with your email provider, your social media account, your cloud storage, or your phone. It requires an AI system that is both discreet and trustworthy when provided with that data. The system needs to be accurate and complete, but it also needs to be able to keep data private: to selectively disclose pieces of it when required, and to keep it secret otherwise. No current AI system is even close to meeting this.
+To further development along these lines, I and others have proposed separating users’ personal data stores from the AI systems that will use them. It makes sense; the engineering expertise that designs and develops AI systems is completely orthogonal to the security expertise that ensures the confidentiality and integrity of data. And by separating them, advances in security can proceed independently from advances in AI.
+What would this sort of personal data store look like? Confidentiality without integrity gives you access to wrong data. Availability without integrity gives you reliable access to corrupted data. Integrity enables the other two to be meaningful. Here are six requirements. They emerge from treating integrity as the organizing principle of security to make AI trustworthy.
+First, it would be broadly accessible as a data repository. We each want this data to include personal data about ourselves, as well as transaction data from our interactions. It would include data we create when interacting with others—emails, texts, social media posts—and revealed preference data as inferred by other systems. Some of it would be raw data, and some of it would be processed data: revealed preferences, conclusions inferred by other systems, maybe even raw weights in a personal LLM.
+Second, it would be broadly accessible as a source of data. This data would need to be made accessible to different LLM systems. This can’t be tied to a single AI model. Our AI future will include many different models—some of them chosen by us for particular tasks, and some thrust upon us by others. We would want the ability for any of those models to use our data.
+Third, it would need to be able to prove the accuracy of data. Imagine one of these systems being used to negotiate a bank loan, or participate in a first-round job interview with an AI recruiter. In these instances, the other party will want both relevant data and some sort of proof that the data are complete and accurate.
+Fourth, it would be under the user’s fine-grained control and audit. This is a deeply detailed personal dossier, and the user would need to have the final say in who could access it, what portions they could access, and under what circumstances. Users would need to be able to grant and revoke this access quickly and easily, and be able to go back in time and see who has accessed it.
+Fifth, it would be secure. The attacks against this system are numerous. There are the obvious read attacks, where an adversary attempts to learn a person’s data. And there are also write attacks, where adversaries add to or change a user’s data. Defending against both is critical; this all implies a complex and robust authentication system.
+Sixth, and finally, it must be easy to use. If we’re envisioning digital personal assistants for everybody, it can’t require specialized security training to use properly.
+I’m not the first to suggest something like this. Researchers have proposed a “Human Context Protocol” (https://papers.ssrn.com/sol3/ papers.cfm?abstract_id=5403981) that would serve as a neutral interface for personal data of this type. And in my capacity at a company called Inrupt, Inc., I have been working on an extension of Tim Berners-Lee’s Solid protocol for distributed data ownership.
+The engineering expertise to build AI systems is orthogonal to the security expertise needed to protect personal data. AI companies optimize for model performance, but data security requires cryptographic verification, access control, and auditable systems. Separating the two makes sense; you can’t ignore one or the other.
+Fortunately, decoupling personal data stores from AI systems means security can advance independently from performance (https:// ieeexplore.ieee.org/document/ 10352412). When you own and control your data store with high integrity, AI can’t easily manipulate you because you see what data it’s using and can correct it. It can’t easily gaslight you because you control the authoritative record of your context. And you determine which historical data are relevant or obsolete. Making this all work is a challenge, but it’s the only way we can have trustworthy AI assistants.
+This essay was originally published in
+IEEE Security & Privacy
+Posted on December 12, 2025 at 7:00 AM
+Sidebar photo of Bruce Schneier by Joe MacInnis.

@@ -1,0 +1,57 @@
+Source: https://learn.microsoft.com/en-us/security/
+Scraped: 2025-12-22 21:05:22
+================================================================================
+
+Security hub - Security | Microsoft Learn
+Empower your organization with AI-driven cybersecurity. Microsoft's integrated security solutions built on Zero Trust principles help you stay ahead of evolving risks. Learn how to predict and protect against threats with Microsoft Defender and Microsoft Sentinel, protect workloads and AI with Microsoft Defender for Cloud. Secure AI with Microsoft Security Copilot, Microsoft Entra, and Microsoft Purview. Explore our curated resources on the Security hub.
+Secure AI solutions in the cloud
+"Validate your technical skills and open doors to new possibilities of advancement with Microsoft Defender for Cloud and Microsoft Foundry."
+Get started with identities and access using Microsoft Entra
+"Open doors to new possibilities of advancement by demonstrating your ability to manage identities and access in Microsoft Entra."
+Microsoft Security Copilot for Developers
+"Learn to create, publish, and test agents in Security Copilot using natural language, lite experience forms, YAMLs, and MCPs. Designed for developers to streamline security workflows."
+Mitigate incidents using Microsoft Defender
+"Learn how the Microsoft Defender portal provides a unified view of incidents from the Microsoft Defender family of products."
+Develop your security skills
+Level up your security expertise with four guided skilling plans that blend hands-on modules, real-world scenarios, and actionable best practices. Choose your path and start building capabilities you can apply right away to data protection, access governance, threat operations, and AI security
+Protect sensitive data with Microsoft Purview
+Build foundational and advanced skills to secure sensitive data with Microsoft Purview across Microsoft 365 & hybrid environments.
+Start the Purview plan
+Secure workforce access
+Advance your identity governance skills with Microsoft Entra. Learn to secure access, manage permissions, and protect resources across hybrid environments.
+Start the access plan
+Detect, analyze, investigate, and hunt threats
+Learn to implement Microsoft Defender for Cloud. Strengthen cloud security posture, manage risks, and protect workloads effectively
+Start the threat operations plan
+Secure AI: Protect, govern, and defend
+Secure AI workloads with Microsoft Purview & Defender. Learn governance, risk management, and protection strategies for hybrid environments.
+Start the AI security plan
+Microsoft Security product documentation
+Explore Microsoft Security product documentation and learn how you can keep your organization resilient and agile in the age of AI.
+Learn about the AI-enabled Microsoft Entra's family of multicloud identity and network access solutions.
+Mitigate threats and protect workloads including cloud, AI, and apps across environments.
+Secure your Microsoft 365 and AI data with the dynamic portfolio of solutions from Microsoft Purview.
+Detect attacks, gain threat visibility, proactively hunt, and respond to threats with the power of AI and stop them before they cause harm.
+Build foundational security skills
+Enhance your foundational knowledge and essential skills to effectively collaborate with security colleagues or kickstart your cybersecurity career. Whether you are a new IT professional, a student, or a business leader aiming to maximize the benefits of Microsoft Security, compliance, and identity solutions, this section provides the resources to rapidly expand your expertise and capabilities.
+Describe the basic concepts of cybersecurity
+Find out how you can protect yourself and your organization against cyberthreats and cyberattacks, and explore cybersecurity concepts in this Learning Path.
+Take the Microsoft Security Virtual Training Day: Security, Compliance, and Identity Fundamentals
+Join this training to discover basic concepts, like identity and access management and compliance management. Gain foundational knowledge of privacy and of data governance, protection, and management solutions.
+Earn the Microsoft Certified: Security, Compliance, and Identity Fundamentals Certificationâ
+If you're familiar with Azure and Microsoft 365, demonstrate your foundational knowledge of Microsoft Security, compliance, and identity concepts across these cloud-based solutions.
+Microsoft Security, Compliance, and Identity Fundamentalsâ
+Take this course to familiarize yourself with the fundamentals of Microsoft security, compliance, and identity solutions across cloud-based and related Microsoft services and prepare for the SC-900 exam.
+Showcase your skillset
+Access secure Cloud & AI adoption resources
+Explore strategic guidance for Zero Trust, AI security frameworks, curated learning paths, and Microsoft's cloud reference architectureâall essential for building secure, scalable, and intelligent solutions.
+Zero Trust adoption framework
+Learn about the Zero Trust security model and follow Microsoft's adoption methodology to rapidly modernize your security posture, secure remote and hybrid work, protect sensitive data, and prevent or reduce business damage from a breach.
+Build a security posture for AI, including discovering, protecting, and governing your AI apps and data.
+Learn security by role
+Stay ahead of cyberthreats and help safeguard your organization's digital assets with our specialized plans that cover Microsoft Security.
+Work with Microsoft Cybersecurity Reference Architectures
+Explore the Microsoft Cybersecurity Reference Architectures (MCRA), and review diagrams that describe how Microsoft Security capabilities integrate with Microsoft and third-party platforms.
+Prove your skills with Microsoft Credentials for Security
+Showcase your advanced cybersecurity skills with Microsoft Credentials for Security. Whether you want verifiable skill sets aligned to security job roles or specific to security projects, Microsoft Certifications and Microsoft Applied Skills are complementary credentials that can help you and your organization take on new opportunities. Explore Certifications, like Security Operations Analyst or Cybersecurity Architect, and check out Applied Skills for real-world scenarios that use Microsoft Sentinel or Microsoft Defender.
+Explore all credentials

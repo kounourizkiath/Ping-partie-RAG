@@ -1,0 +1,51 @@
+Source: https://aws.amazon.com/security/
+Scraped: 2025-12-22 21:05:25
+================================================================================
+
+Sécurité dans le cloud – Amazon Web Services (AWS)
+Passer au contenu principal
+Sécurité dans le Cloud AWS
+Protection des données
+Sécurité dans le Cloud AWS
+Sécurité dans le Cloud AWS
+Une sécurité éprouvée pour accélérer l’innovation
+Apprenez-en plus sur notre culture de la sécurité
+Agissez rapidement, restez en sécurité
+Une sécurité renforcée au cœur d'une organisation permet la transformation numérique et l'innovation. AWS aide les entreprises à développer et à faire évoluer la sécurité, l'identité et la conformité pour en faire des outils commerciaux essentiels. Chez AWS,
+la sécurité est notre priorité absolue
+. AWS est conçu pour être l’
+infrastructure cloud mondiale
+la plus sécurisée sur laquelle créer, migrer et gérer des applications et des charges de travail. Cela s’appuie sur la confiance de nos millions de clients, y compris les organisations les plus sensibles en matière de sécurité telles que le gouvernement, les soins de santé et les services financiers.
+Créez, exécutez et mettez à l'échelle vos applications sur une infrastructure conçue pour être l'environnement de cloud computing le plus sécurisé disponible à ce jour. Lorsque les entreprises migrent et s'appuient sur le cloud, elles doivent avoir l'assurance de disposer d'une base solide. AWS possède l'expérience opérationnelle la plus éprouvée de tous les fournisseurs de cloud. Notre infrastructure cloud est hautement fiable et sécurisée dès sa conception, ce qui donne aux clients la confiance nécessaire pour accélérer l'innovation.
+Agissez rapidement et protégez votre sécurité en intégrant et en automatisant en toute confiance la sécurité dans tous les secteurs de votre entreprise. Construire en toute sécurité doit être la voie qui présente le moins de résistance, sans aucun compromis entre sécurité et rapidité. Grâce à l'automatisation de la sécurité, les équipes consacrent leur temps limité aux tâches les plus importantes, réduisent le nombre d'erreurs humaines et appliquent les meilleures pratiques de sécurité à l'échelle de l'entreprise.
+Innovez grâce à un large portefeuille de services de sécurité et de solutions partenaires pour garantir la sécurité de bout en bout de votre entreprise. Les entreprises ont besoin de puissantes fonctionnalités, conçues et développées par des experts, qui intègrent des années d'expérience, de connaissances et de bonnes pratiques, le tout à portée de main. Ils ne veulent pas affronter seuls cet environnement changeant en matière de menaces et de conformité.
+AWS est votre guide pour comprendre et appliquer les meilleures pratiques afin de gérer et de réduire les risques de sécurité, et de protéger vos réseaux et vos données. Conçus par des experts, les services de sécurité, d'identité et de conformité d'AWS vous donnent la confiance nécessaire pour continuer à développer et à innover.
+Comprenez et gérez les risques grâce à une visibilité et à une automatisation approfondies.
+Définissez les identités et autorisations utilisateur, la protection des infrastructures et les mesures de protection des données pour une stratégie d'adoption AWS planifiée et sans heurt.
+Gagnez en visibilité sur le niveau de sécurité de votre organisation grâce aux services de surveillance et de journalisation. Ingérez ces informations dans une plateforme évolutive pour l'audit, le test et la gestion des événements.
+La réaction et la récupération automatiques permettent aux équipes de sécurité de se concentrer sur l'analyse de la cause racine plutôt que sur la réponse.
+Profitez de l'automatisation centrée sur les événements pour rapidement corriger et sécuriser votre environnement AWS, en temps quasi réel.
+offrent des centaines de solutions de sécurité de pointe qui aident les utilisateurs à améliorer leur sécurité et leur conformité. L'évolutivité, la visibilité et l'accessibilité dont nos partenaires héritent avec le cloud leur permettent de proposer aux clients des offres de haut niveau. Apprenez-en plus sur les
+produits et solutions
+présélectionnés par le programme de compétences des partenaires AWS qui sauront répondre à vos besoins dans plusieurs domaines, notamment la sécurité de l'infrastructure, la gestion des politiques, la gestion des identités, la supervision de la sécurité, la gestion des failles, la protection des données et les services de consultation.
+Ces produits complètent les services AWS existants pour vous aider à déployer une architecture de sécurité intégrale et une expérience plus homogène sur vos environnements cloud et sur site. Pour en savoir plus sur le
+cadre NIST et nos partenaires en cybersécurité, cliquez ici
+. De plus, reportez-vous à nos
+solutions de sécurité sur AWS Marketplace
+pour bénéficier d’une large sélection d’offres de sécurité parmi des centaines de fournisseurs de logiciels indépendants.
+Parcourez les ressources pour en savoir plus sur la sécurité du cloud.
+Sécurité open source AWS
+Découvrez ce que font les équipes AWS pour améliorer la sécurité de la chaîne d’approvisionnement OSS en amont.
+Concepts de sécurité fondamentaux d’AWS
+Apprenez les fondamentaux des concepts de sécurité du Cloud AWS, notamment le contrôle d’accès AWS, les méthodes de chiffrement des données et la manière dont l’accès réseau à votre infrastructure AWS peut être sécurisé.
+Cours de formation AWS
+Architecture de sécurité de référence AWS
+Concevez des services de sécurité AWS, implémentez-les et gérez-les afin qu’ils soient conformes aux pratiques recommandées par AWS.
+Nouveautés AWS – Sécurité, identité et conformité
+Vous avez trouvé quelque chose de suspect ?
+Découvrez comment nous répondons aux vulnérabilités potentielles détectées à tous les niveaux de nos services de cloud.
+Signalement de vulnérabilités
+AWS enquête sur toutes les
+vulnérabilités signalées
+Signalement d’e-mails suspects
+nous informer de tout e-mail suspect

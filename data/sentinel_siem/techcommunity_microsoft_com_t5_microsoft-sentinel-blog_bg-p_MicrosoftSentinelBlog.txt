@@ -1,0 +1,38 @@
+Source: https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog
+Scraped: 2025-12-22 20:56:31
+================================================================================
+
+Microsoft Sentinel Blog | Microsoft Community Hub
+Call to Action: Migrate Your Classic Alert‑trigger Automations to Automation Rules Before March 2026
+Reminder: Following the Retirement Announcement published in March 2023, classic alert‑trigger automation in Microsoft Sentinel, where playbooks are triggered directly from analytic rules will be dep...
+Microsoft Sentinel Blog
+Efficiently process high volume logs and optimize costs with Microsoft Sentinel data lake
+As organizations scale their security monitoring, a key challenge is maintaining visibility while controlling costs. High‑volume logs—such as firewall, proxy, and endpoint data—are essential for achi...
+Zeinab Mokhtarian Koorabbasloo
+Microsoft Sentinel Blog
+What’s New in Microsoft Sentinel: December 2025
+Microsoft Sentinel Blog
+Build less, secure more: Simplify security data management with Microsoft Sentinel data lake
+Most DIY security data lakes start with good intentions—promising flexibility, control, and cost savings. But in reality, they lead to endless data ingestion fixes, schema drift battles, and soaring ...
+Microsoft Sentinel Blog
+New Compliance Solutions in Microsoft Sentinel: HIPAA & GDPR Reports
+GDPR Compliance & Data Security Solution (Preview)
+Helps organizations demonstrate compliance with the General Data Protection Regulation (GDPR) and protect personal data in cloud a...
+Microsoft Sentinel Blog
+Ignite 2025: New Microsoft Sentinel Connectors Announcement
+Microsoft Sentinel continues to set the pace for innovation in cloud-native SIEMs, empowering security teams to meet today’s challenges with scalable analytics, built-in AI, and a cost-effective data...
+Microsoft Sentinel Blog
+Detect more, spend less: the future of threat intelligence correlation
+With more data and intelligence than ever, it’s often a challenge to manage it all while making sure you’re maximizing its value for security investigations. We’ve made it easier for customers levera...
+Microsoft Sentinel Blog
+Operationalizing the Sentinel data lake: A Practitioner’s Guide
+This article is part of The Sentinel data lake Practitioner Series. Part 1 of the series focuses on operationalizing the Sentinel data lake and our strategic vision for the customers. This series is ...
+Microsoft Sentinel Blog
+Automating IOC hunts in Microsoft Sentinel data lake
+Security operations are undergoing significant transformation driven by the introduction of AI and a rapidly evolving threat landscape. With Microsoft Sentinel data lake now generally available, orga...
+Zeinab Mokhtarian Koorabbasloo
+Microsoft Sentinel Blog
+What’s New in Microsoft Sentinel: November 2025
+Welcome to our new Microsoft Sentinel blog series!
+We’re excited to launch a new blog series focused on Microsoft Sentinel. From the latest product innovations and feature updates to industry recog...
+Microsoft Sentinel Blog

@@ -1,0 +1,27 @@
+Source: https://www.cisa.gov/zero-trust-maturity-model
+Scraped: 2025-12-22 20:54:49
+================================================================================
+
+Zero Trust Maturity Model | CISA
+Official websites use .gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+no-cost Cyber Services
+Holiday Online Shopping Safety
+In an effort to keep CISA.gov current, the archive contains outdated information that may not reflect current policy or programs.
+Zero Trust Maturity Model
+Zero trust provides a collection of concepts and ideas designed to minimize uncertainty in enforcing accurate, least privilege per-request access decisions in information systems and services in the face of a network viewed as compromised. The goal is to prevent unauthorized access to data and services and make access control enforcement as granular as possible. Zero trust presents a shift from a location-centric model to a more data-centric approach for fine-grained security controls between users, systems, data and assets that change over time; for these reasons. This provides the visibility needed to support the development, implementation, enforcement, and evolution of security policies. More fundamentally, zero trust may require a change in an organization’s philosophy and culture around cybersecurity.
+CISA's Zero Trust Maturity Model Version 2.0
+Zero Trust Maturity Model
+is one of many roadmaps that agencies can reference as they transition towards a zero trust architecture. The maturity model aims to assist agencies in the development of zero trust strategies and implementation plans and to present ways in which various CISA services can support zero trust solutions across agencies.
+The maturity model, which includes five pillars and three cross-cutting capabilities, is based on the foundations of zero trust. Within each pillar, the maturity model provides specific examples of traditional, initial, advanced, and optimal zero trust architectures.
+Version 1.0 of the ZTMM opened for public comment in September 2021. The
+Response to Comments for Zero Trust Maturity Model
+summarizes the comments and modifications in response to version 1.0 feedback.
+Version 2.0 incorporates alignment to OMB M-22-09, published in January 2022.
+Click here for a downloadable version of the Zero Trust Maturity Model V2.0
+Federal Zero Trust Resource Hub
+The Office of Management and Budget (OMB) and CISA maintain a central repository on federal zero trust guidance for the Federal Civilian Executive Branch (FCEB) agencies. This website includes the latest information and additional resources on zero trust, including the
+Federal Zero Trust Strategy.
+Click here to check out zerotrust.cyber.gov.

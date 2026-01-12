@@ -1,0 +1,164 @@
+Source: https://cheatsheetseries.owasp.org/cheatsheets/Error_Handling_Cheat_Sheet.html
+Scraped: 2025-12-22 20:48:42
+================================================================================
+
+Error Handling - OWASP Cheat Sheet Series
+Error Handling Cheat Sheet
+Error handling is a part of the overall security of an application. Except in movies, an attack always begins with a
+phase in which the attacker will try to gather as much technical information (often
+properties) as possible about the target, such as the application server, frameworks, libraries, etc.
+Unhandled errors can assist an attacker in this initial phase, which is very important for the rest of the attack.
+provides a description of the different phases of an attack.
+Issues at the error handling level can reveal a lot of information about the target and can also be used to identify injection points in the target's features.
+Below is an example of the disclosure of a technology stack, here the Struts2 and Tomcat versions, via an exception rendered to the user:
+HTTP Status 500 - For input string: "null"
+type Exception report
+message For input string: "null"
+description The server encountered an internal error that prevented it from fulfilling this request.
+java.lang.NumberFormatException: For input string: "null"
+java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+java.lang.Integer.parseInt(Integer.java:492)
+java.lang.Integer.parseInt(Integer.java:527)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:606)
+com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:450)
+com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:289)
+com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:252)
+org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:246)
+note: The full stack trace of the root cause is available in the Apache Tomcat/7.0.56 logs.
+Below is an example of disclosure of a SQL query error, along with the site installation path, that can be used to identify an injection point:
+Warning: odbc_fetch_array() expects parameter /1 to be resource, boolean given
+in D:\app\index_new.php on line 188
+provides different techniques to obtain technical information from an application.
+The article shows how to configure a global error handler as part of your application's runtime configuration. In some cases, it may be more efficient to define this error handler as part of your code. The outcome being that when an unexpected error occurs then a generic response is returned by the application but the error details are logged server side for investigation, and not returned to the user.
+The following schema shows the target approach:
+As most recent application topologies are
+, we assume in this article that the backend exposes only a REST API and does not contain any user interface content. The application should try and exhaustively cover all possible failure modes and use 5xx errors only to indicate responses to requests that it cannot fulfill, but not provide any content as part of the response that would reveal implementation details. For that,
+RFC 7807 - Problem Details for HTTP APIs
+defines a document format.
+For the error logging operation itself, the
+should be used. This article focuses on the error handling part.
+For each technology stack, the following configuration options are proposed:
+Standard Java Web Application
+For this kind of application, a global error handler can be configured at the
+deployment descriptor level.
+We propose here a configuration that can be used from Servlet specification
+With this configuration, any unexpected error will cause a redirection to the page
+in which the error will be traced and a generic response will be returned.
+Configuration of the redirection into the
+<?xml version="1.0" encoding="UTF-8"?>
+"http://www.w3.org/2001/XMLSchema-instance"
+"http://java.sun.com/xml/ns/javaee"
+"http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+"application/json; charset=UTF-8"
+//Log the exception via the content of the implicit variable named "exception"
+//We build a generic response with a JSON format because we are in a REST API app context
+//We also add an HTTP response header to indicate to the client app that the response is an error
+//Note that we're using an internal server error response
+//In some cases it may be prudent to return 4xx error codes, when we have misbehaving clients
+"An error occur, please retry"
+Java SpringMVC/SpringBoot web application
+, you can define a global error handler by implementing the following class in your project. Spring Framework 6 introduced
+the problem details based on RFC 7807
+We indicate to the handler, via the annotation
+, to act when any exception extending the class
+is thrown by the application. We also use the
+to create the response object.
+org.springframework.http.HttpStatus
+org.springframework.http.ProblemDetail
+org.springframework.web.bind.annotation.ExceptionHandler
+org.springframework.web.bind.annotation.RestControllerAdvice
+org.springframework.web.context.request.WebRequest
+org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler
+* Global error handler in charge of returning a generic response in case of unexpected error situation.
+@RestControllerAdvice
+RestResponseEntityExceptionHandler
+ResponseEntityExceptionHandler
+//Log the exception via the content of the parameter named "exception"
+//Note that we're using an internal server error response
+//In some cases it may be prudent to return 4xx error codes, if we have misbehaving clients
+//By specification, the content-type can be "application/problem+json" or "application/problem+xml"
+INTERNAL_SERVER_ERROR
+"An error occur, please retry"
+Exception handling with Spring
+Exception handling with SpringBoot
+ASP NET Core web application
+, you can define a global error handler by indicating that the exception handler is a dedicated API Controller.
+Content of the API Controller dedicated to the error handling:
+Microsoft.AspNetCore.Authorization
+Microsoft.AspNetCore.Diagnostics
+Microsoft.AspNetCore.Mvc
+System.Collections.Generic
+MyProject.Controllers
+/// API Controller used to intercept and handle all unexpected exception
+[Route("api/[controller]
+/// Action that will be invoked for any call to this Controller in order to handle the current error
+/// <returns>A generic error formatted as JSON because we are in a REST API app context</returns>
+//Get the exception that has implied the call to this controller
+IExceptionHandlerFeature
+//Log the exception via the content of the variable named "exception" if it is not NULL
+//We build a generic response with a JSON format because we are in a REST API app context
+//We also add an HTTP response header to indicate to the client app that the response
+"An error occur, please retry"
+//Note that we're using an internal server error response
+//In some cases it may be prudent to return 4xx error codes, if we have misbehaving clients
+Definition in the application
+file of the mapping of the exception handler to the dedicated error handling API controller:
+Microsoft.AspNetCore.Builder
+Microsoft.AspNetCore.Hosting
+Microsoft.AspNetCore.Mvc
+Microsoft.Extensions.Configuration
+Microsoft.Extensions.DependencyInjection
+//First we configure the error handler middleware!
+//We enable the global error handler in others environments than DEV
+//because debug page are useful during implementation
+UseDeveloperExceptionPage
+//Our global handler is defined on "/api/error" URL so we indicate to the
+//exception handler to call this API controller
+//on any unexpected exception raised by the application
+//To customize the response content type and text, use the overload of
+//UseStatusCodePages that takes a content type and format string.
+"Status code page, status code: {0}"
+//We configure others middlewares, remember that the declaration order is important...
+Exception handling with ASP.Net Core
+ASP NET Web API web application
+(from the standard .NET framework and not from the .NET Core framework), you can define and register handlers in order to trace and handle any error that occurs in the application.
+Definition of the handler for the tracing of the error details:
+System.Web.Http.ExceptionHandling
+/// Global logger used to trace any error that occurs at application wide level
+/// Method in charge of the management of the error from a tracing point of view
+/// <param name="context">Context containing the error details</param>
+ExceptionLoggerContext
+//Log the exception via the content of the variable named "exception" if it is not NULL
+Definition of the handler for the management of the error in order to return a generic response:
+System.Collections.Generic
+System.Threading.Tasks
+System.Web.Http.ExceptionHandling
+/// Global handler used to handle any error that occurs at application wide level
+/// Method in charge of handle the generic response send in case of error
+/// <param name="context">Error context</param>
+ExceptionHandlerContext
+/// Class used to represent the generic response send
+/// Method in charge of creating the generic response
+/// <param name="cancellationToken">Object to cancel the task</param>
+/// <returns>A task in charge of sending the generic response</returns>
+//We build a generic response with a JSON format because we are in a REST API app context
+//We also add an HTTP response header to indicate to the client app that the response
+"An error occur, please retry"
+// Note that we're using an internal server error response
+// In some cases it may be prudent to return 4xx error codes, if we have misbehaving clients
+Registration of the both handlers in the application
+System.Web.Http.ExceptionHandling
+//Register global error logging and handling handlers in first
+//Rest of the configuration
+Setting customErrors section to the
+"~/ErrorPages/Oops.aspx"
+Exception handling with ASP.Net Web API
+ASP.NET Error Handling
+Sources of the prototype
+The source code of all the sandbox projects created to find the right setup to use is stored in this
+A reference for HTTP errors can be found here
+. Using error messages that do not provide implementation details is important to avoid information leakage. In general, consider using 4xx error codes for requests that are due to an error on the part of the HTTP client (e.g. unauthorized access, request body too large) and use 5xx to indicate errors that are triggered on server side, due to an unforeseen bug. Ensure that applications are monitored for 5xx errors which are a good indication of the application failing for some sets of inputs.

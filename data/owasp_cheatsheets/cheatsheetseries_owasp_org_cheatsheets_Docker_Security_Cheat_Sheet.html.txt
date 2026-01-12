@@ -1,0 +1,192 @@
+Source: https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+Scraped: 2025-12-22 20:47:42
+================================================================================
+
+Docker Security - OWASP Cheat Sheet Series
+Docker Security Cheat Sheet
+Docker is the most popular containerization technology. When used correctly, it can enhance security compared to running applications directly on the host system. However, certain misconfigurations can reduce security levels or introduce new vulnerabilities.
+The aim of this cheat sheet is to provide a straightforward list of common security errors and best practices to assist in securing your Docker containers.
+RULE #0 - Keep Host and Docker up to date
+To protect against known container escape vulnerabilities like
+, which typically result in the attacker gaining root access to the host, it's vital to keep both the host and Docker up to date. This includes regularly updating the host kernel as well as the Docker Engine.
+This is due to the fact that containers share the host's kernel. If the host's kernel is vulnerable, the containers are also vulnerable. For example, the kernel privilege escalation exploit,
+, executed inside a well-insulated container would still result in root access on a vulnerable host.
+RULE #1 - Do not expose the Docker daemon socket (even to the containers)
+is the UNIX socket that Docker is listening to. This is the primary entry point for the Docker API. The owner of this socket is root. Giving someone access to it is equivalent to giving unrestricted root access to your host.
+Docker daemon socket.
+If you are running docker daemon with
+or similar you are exposing unencrypted and unauthenticated direct access to the Docker daemon, if the host is internet connected this means the docker daemon on your computer can be used by anyone from the public internet.
+have to do this, you should secure it. Check how to do this following
+Docker official documentation
+. If you are running your docker image with
+-v /var/run/docker.sock://var/run/docker.sock
+or similar, you should change it. Remember that mounting the socket read-only is not a solution but only makes it harder to exploit. Equivalent in the docker compose file is something like this:
+"/var/run/docker.sock:/var/run/docker.sock"
+Configuring the container to use an unprivileged user is the best way to prevent privilege escalation attacks. This can be accomplished in three different ways as follows:
+During build time. Simply add user in Dockerfile and use it. For example:
+#    <HERE DO WHAT YOU HAVE TO DO AS A ROOT USER LIKE INSTALLING PACKAGES ETC.>
+Enable user namespace support (
+--userns-remap=default
+More information about this topic can be found at
+Docker official documentation
+. For additional security, you can also run in rootless mode, which is discussed in
+In Kubernetes, this can be configured in
+field with the user ID e.g:
+gcr.io/google-samples/node-hello:1.0
+# <-- This is the pod user ID
+As a Kubernetes cluster administrator, you can configure a hardened default using the
+Pod Security admission controller
+, if greater customization is desired consider using
+third party alternative
+RULE #3 - Limit capabilities (Grant only specific capabilities, needed by a container)
+Linux kernel capabilities
+are a set of privileges that can be used by privileged. Docker, by default, runs with only a subset of capabilities.
+You can change it and drop some capabilities (using
+) to harden your docker containers, or add some capabilities (using
+Remember not to run containers with the
+flag - this will add ALL Linux kernel capabilities to the container.
+The most secure setup is to drop all capabilities
+and then add only required ones. For example:
+And remember: Do not run containers with the
+In Kubernetes this can be configured in
+gcr.io/google-samples/node-hello:1.0
+As a Kubernetes cluster administrator, you can configure a hardened default using the
+Pod Security admission controller
+, if greater customization is desired consider using
+third party alternative
+RULE #4 - Prevent in-container privilege escalation
+Always run your docker images with
+--security-opt=no-new-privileges
+in order to prevent privilege escalation. This will prevent the container from gaining new privileges via
+In Kubernetes, this can be configured in
+allowPrivilegeEscalation
+gcr.io/google-samples/node-hello:1.0
+allowPrivilegeEscalation
+As a Kubernetes cluster administrator, you can configure a hardened default using the
+Pod Security admission controller
+, if greater customization is desired consider using
+third party alternative
+RULE #5 - Be mindful of Inter-Container Connectivity
+Inter-Container Connectivity (icc) is enabled by default, allowing all containers to communicate with each other through the
+. Instead of using the
+flag with the Docker daemon, which completely disables inter-container communication, consider defining specific network configurations. This can be achieved by creating custom Docker networks and specifying which containers should be attached to them. This method provides more granular control over container communication.
+For detailed guidance on configuring Docker networks for container communication, refer to the
+In Kubernetes environments,
+can be used to define rules that regulate pod interactions within the cluster. These policies provide a robust framework to control how pods communicate with each other and with other network endpoints. Additionally,
+Network Policy Editor
+simplifies the creation and management of network policies, making it more accessible to define complex networking rules through a user-friendly interface.
+RULE #6 - Use Linux Security Module (seccomp, AppArmor, or SELinux) for Runtime Security
+First of all, do not disable default security profile!
+Always start with Docker’s or your host’s default profile as a baseline.
+Security Profile Recommendations:
+: Restrict syscalls to the minimum required for your container. Use Docker’s default seccomp profile as a starting point and customize per workload.
+: Apply per-container AppArmor profiles to enforce mandatory access controls.
+: Enable SELinux on the host and ensure containers are labeled properly. Enforce SELinux policies to prevent unauthorized access to host resources.
+SELinux Guide for Docker
+Runtime Security Improvements:
+Behavioral Monitoring
+to detect unexpected or malicious container activity. Examples: Unexpected exec calls, privilege escalation attempts, unusual network connections.
+: Continuously monitor container processes, filesystem changes, and network activity to identify abnormal patterns in real time.
+Kubernetes Security Context
+: Configure pods or containers with seccomp and AppArmor profiles in Kubernetes.
+Configure a Security Context for a Pod or Container
+RULE #7 - Limit resources (memory, CPU, file descriptors, processes, restarts)
+The best way to avoid DoS attacks is by limiting resources. You can limit
+, maximum number of restarts (
+--restart=on-failure:<number_of_restarts>
+), maximum number of file descriptors (
+--ulimit nofile=<number>
+) and maximum number of processes (
+--ulimit nproc=<number>
+Check documentation for more details about ulimits
+You can also do this for Kubernetes:
+Assign Memory Resources to Containers and Pods
+Assign CPU Resources to Containers and Pods
+Assign Extended Resources to a Container
+RULE #8 - Set filesystem and volumes to read-only
+Run containers with a read-only filesystem
+'echo "whatever" > /tmp'
+If an application inside a container has to save something temporarily, combine
+'echo "whatever" > /tmp/file'
+Equivalent in Kubernetes in
+gcr.io/google-samples/node-hello:1.0
+readOnlyRootFilesystem
+In addition, if the volume is mounted only for reading
+mount them as a read-only
+It can be done by appending
+volume-name:/path/in/container:ro
+volume-name,destination
+/path/in/container,readonly
+RULE #9 - Integrate container scanning tools into your CI/CD pipeline
+are a crucial part of the software development lifecycle and should include various security checks such as lint checks, static code analysis, and container scanning.
+Many issues can be prevented by following some best practices when writing the Dockerfile. However, adding a security linter as a step in the build pipeline can go a long way in avoiding further headaches. Some issues that are commonly checked are:
+directive is specified
+Ensure the base image version is pinned
+Ensure the OS packages versions are pinned
+Avoid curl bashing in
+Docker Baselines on DevSec
+Use the Docker command line
+Overview of Docker Compose v2 CLI
+Configuring Logging Drivers
+View logs for a container or service
+Dockerfile Security Best Practices
+Container scanning tools are especially important as part of a successful security strategy. They can detect known vulnerabilities, secrets and misconfigurations in container images and provide a report of the findings with recommendations on how to fix them. Some examples of popular container scanning tools are:
+(open source and free option available)
+(open source and free option available)
+(open source and free option available)
+To detect secrets in images:
+(open source and free option available)
+To detect misconfigurations in Kubernetes:
+To detect misconfigurations in Docker:
+Docker Bench for Security
+RULE #10 - Keep the Docker daemon logging level at
+By default, the Docker daemon is configured to have a base logging level of
+. This can be verified by checking the daemon configuration file
+/etc/docker/daemon.json
+key. If the key is not present, the default logging level is
+. Additionally, if the docker daemon is started with the
+option, the value of the
+key in the configuration file will be overridden. To check if the Docker daemon is running with a different log level, you can use the following command:
+'[d]ockerd.*--log-level'
+'{for(i=1;i<=NF;i++) if ($i ~ /--log-level/) print $i}'
+Setting an appropriate log level, configures the Docker daemon to log events that you would want to review later. A base log level of 'info' and above would capture all logs except the debug logs. Until and unless required, you should not run docker daemon at the 'debug' log level.
+Rule #11 - Run Docker in rootless mode
+Rootless mode ensures that the Docker daemon and containers are running as an unprivileged user, which means that even if an attacker breaks out of the container, they will not have root privileges on the host, which in turn substantially limits the attack surface. This is different to
+mode, where the daemon still operates with root privileges.
+specific requirements
+of your environment to determine if rootless mode is the best choice for you. For environments where security is a paramount concern and the
+limitations of rootless mode
+do not interfere with operational requirements, it is a strongly recommended configuration. Alternatively consider using
+as an alternative to Docker.
+Rootless mode allows running the Docker daemon and containers as a non-root user to mitigate potential vulnerabilities in the daemon and the container runtime.
+Rootless mode does not require root privileges even during the installation of the Docker daemon, as long as the
+Read more about rootless mode and its limitations, installation and usage instructions on
+RULE #12 - Utilize Docker Secrets for Sensitive Data Management
+Docker Secrets provide a secure way to store and manage sensitive data such as passwords, tokens, and SSH keys. Using Docker Secrets helps in avoiding the exposure of sensitive data in container images or in runtime commands.
+/path/to/super-secret-data.txt
+Or for Docker Compose:
+./super-secret-data.txt
+While Docker Secrets generally provide a secure way to manage sensitive data in Docker environments, this approach is not recommended for Kubernetes, where secrets are stored in plaintext by default. In Kubernetes, consider using additional security measures such as etcd encryption, or third-party tools. Refer to the
+Secrets Management Cheat Sheet
+for more information.
+RULE #13 - Enhance Supply Chain Security
+Building on the principles in
+, enhancing supply chain security involves implementing additional measures to secure the entire lifecycle of container images from creation to deployment. Some of the key practices include:
+: Document the origin and history of container images to ensure traceability and integrity.
+: Create a Software Bill of Materials (SBOM) for each image, detailing all components, libraries, and dependencies for transparency and vulnerability management.
+: Digitally sign images to verify their integrity and authenticity, establishing trust in their security.
+: Store the documented, signed images with their SBOMs in a secure registry that enforces strict
+and supports metadata management.
+: Implement secure deployment polices, such as image validation, runtime security, and continuous monitoring, to ensure the security of the deployed images.
+Podman as an alternative to Docker
+is an OCI-compliant, open-source container management tool developed by
+that provides a Docker-compatible command-line interface and a desktop application for managing containers. It is designed to be a more secure and lightweight alternative to Docker, especially for environments where secure defaults are preferred. Some of the security benefits of Podman include:
+Daemonless Architecture: Unlike Docker, which requires a central daemon (dockerd) to create, run, and manage containers, Podman directly employs the fork-exec model. When a user requests to start a container, Podman forks from the current process, then the child process execs into the container's runtime.
+Rootless Containers: The fork-exec model facilitates Podman's ability to run containers without requiring root privileges. When a non-root user initiates a container start, Podman forks and execs under the user's permissions.
+SELinux Integration: Podman is built to work with SELinux, which provides an additional layer of security by enforcing mandatory access controls on containers and their interactions with the host system.
+References and Further Reading
+Docker Security Best Practices
+Docker Engine Security
+Kubernetes Security Cheat Sheet
+SLSA - Supply Chain Levels for Software Artifacts
+Docker Build Attestation

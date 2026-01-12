@@ -1,0 +1,26 @@
+Source: https://www.cisa.gov/stopransomware
+Scraped: 2025-12-22 20:49:23
+================================================================================
+
+Stop Ransomware | CISA
+Official websites use .gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Protection and Response
+Ransomware is a form of malware designed to encrypt files on a device, rendering any files and the systems that rely on them unusable. Malicious actors then demand ransom in exchange for decryption. StopRansomware.gov is the U.S. Government's official one-stop location for resources to tackle ransomware more effectively.
+Ransomware Readiness Self-Assessment
+Ransomware is an ever-evolving form of malware designed to encrypt files on a device, rendering any files and the systems that rely on them unusable. Malicious actors then demand ransom in exchange for decryption. These resources are designed to help individuals and organizations prevent attacks that can severely impact business processes and leave organizations without the data they need to operate and deliver mission-critical services.
+Ransomware incidents can severely impact business processes and leave organizations without the data they need to operate and deliver mission-critical services. The economic and reputational impacts of ransomware incidents, throughout the initial disruption and, at times, extended recovery, have also proven challenging for organizations large and small. Apply these tips and practices to avoid attack.
+Good Cyber Hygiene Habits Keep Your Network Healthy
+Conduct regular vulnerability scanning to identify and address vulnerabilities, especially those on internet-facing devices, to limit the attack surface.
+When in Doubt, Report It Out
+Victims of ransomware should
+to federal law enforcement via IC3 or a Secret Service Field Office, and can request technical assistance or provide information to help others by contacting CISA.
+Backing Up Is Your Best Bet
+Maintain offline, encrypted backups of data and regularly test your backups.
+Keep Calm and Patch On
+Regularly patch and update software and Operating Systems.
+Victims of ransomware should report to federal law enforcement via IC3 or a Secret Service Field Office, and can request technical assistance or provide information to help others by contacting CISA.
+Budget and Performance
+Office of Inspector General

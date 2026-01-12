@@ -1,0 +1,798 @@
+Source: https://attack.mitre.org/matrices/enterprise/
+Scraped: 2025-12-22 20:50:10
+================================================================================
+
+Matrix - Enterprise | MITRE ATT&CK®
+ATT&CK v18 has been released! Check out the
+for more information.
+Below are the tactics and techniques representing the MITRE ATT&CK
+Matrix for Enterprise.
+The Matrix contains information for the following platforms:
+Vulnerability Scanning
+Gather Victim Host Information
+Client Configurations
+Gather Victim Identity Information
+Gather Victim Network Information
+Network Trust Dependencies
+Network Security Appliances
+Gather Victim Org Information
+Determine Physical Locations
+Business Relationships
+Identify Business Tempo
+Phishing for Information
+Spearphishing Service
+Spearphishing Attachment
+Search Closed Sources
+Purchase Technical Data
+Search Open Technical Databases
+Search Open Websites/Domains
+Search Threat Vendor Data
+Search Victim-Owned Websites
+Acquire Infrastructure
+Virtual Private Server
+Social Media Accounts
+Compromise Infrastructure
+Virtual Private Server
+Code Signing Certificates
+Social Media Accounts
+Code Signing Certificates
+Artificial Intelligence
+Install Digital Certificate
+Exploit Public-Facing Application
+External Remote Services
+Spearphishing Attachment
+Spearphishing via Service
+Replication Through Removable Media
+Supply Chain Compromise
+Compromise Software Dependencies and Development Tools
+Compromise Software Supply Chain
+Compromise Hardware Supply Chain
+Cloud Administration Command
+Command and Scripting Interpreter
+Windows Command Shell
+Container Administration Command
+ESXi Administration Command
+Exploitation for Client Execution
+Inter-Process Communication
+Component Object Model
+Dynamic Data Exchange
+Poisoned Pipeline Execution
+Container Orchestration Job
+Software Deployment Tools
+Malicious Copy and Paste
+Windows Management Instrumentation
+Additional Cloud Credentials
+Additional Email Delegate Permissions
+Additional Cloud Roles
+Additional Container Cluster Roles
+Additional Local or Domain Groups
+Boot or Logon Autostart Execution
+Registry Run Keys / Startup Folder
+Authentication Package
+Security Support Provider
+Kernel Modules and Extensions
+Re-opened Applications
+Shortcut Modification
+XDG Autostart Entries
+Boot or Logon Initialization Scripts
+Logon Script (Windows)
+Cloud Application Integration
+Compromise Host Software Binary
+Create or Modify System Process
+Event Triggered Execution
+Change Default File Association
+Windows Management Instrumentation Event Subscription
+Unix Shell Configuration Modification
+LC_LOAD_DYLIB Addition
+Accessibility Features
+Image File Execution Options Injection
+Component Object Model Hijacking
+External Remote Services
+Hijack Execution Flow
+Executable Installer File Permissions Weakness
+Dynamic Linker Hijacking
+Path Interception by PATH Environment Variable
+Path Interception by Search Order Hijacking
+Path Interception by Unquoted Path
+Services File Permissions Weakness
+Services Registry Permissions Weakness
+Implant Internal Image
+Modify Authentication Process
+Domain Controller Authentication
+Pluggable Authentication Modules
+Network Device Authentication
+Reversible Encryption
+Multi-Factor Authentication
+Conditional Access Policies
+Office Application Startup
+Office Template Macros
+Container Orchestration Job
+Server Software Component
+SQL Stored Procedures
+Terminal Services DLL
+vSphere Installation Bundles
+Abuse Elevation Control Mechanism
+Bypass User Account Control
+Sudo and Sudo Caching
+Elevated Execution with Prompt
+Temporary Elevated Cloud Access
+Access Token Manipulation
+Token Impersonation/Theft
+Create Process with Token
+Make and Impersonate Token
+SID-History Injection
+Additional Cloud Credentials
+Additional Email Delegate Permissions
+Additional Cloud Roles
+Additional Container Cluster Roles
+Additional Local or Domain Groups
+Boot or Logon Autostart Execution
+Registry Run Keys / Startup Folder
+Authentication Package
+Security Support Provider
+Kernel Modules and Extensions
+Re-opened Applications
+Shortcut Modification
+XDG Autostart Entries
+Boot or Logon Initialization Scripts
+Logon Script (Windows)
+Create or Modify System Process
+Domain or Tenant Policy Modification
+Group Policy Modification
+Event Triggered Execution
+Change Default File Association
+Windows Management Instrumentation Event Subscription
+Unix Shell Configuration Modification
+LC_LOAD_DYLIB Addition
+Accessibility Features
+Image File Execution Options Injection
+Component Object Model Hijacking
+Exploitation for Privilege Escalation
+Hijack Execution Flow
+Executable Installer File Permissions Weakness
+Dynamic Linker Hijacking
+Path Interception by PATH Environment Variable
+Path Interception by Search Order Hijacking
+Path Interception by Unquoted Path
+Services File Permissions Weakness
+Services Registry Permissions Weakness
+Dynamic-link Library Injection
+Portable Executable Injection
+Thread Execution Hijacking
+Asynchronous Procedure Call
+Extra Window Memory Injection
+Process Doppelgänging
+Container Orchestration Job
+Abuse Elevation Control Mechanism
+Bypass User Account Control
+Sudo and Sudo Caching
+Elevated Execution with Prompt
+Temporary Elevated Cloud Access
+Access Token Manipulation
+Token Impersonation/Theft
+Create Process with Token
+Make and Impersonate Token
+SID-History Injection
+Deobfuscate/Decode Files or Information
+Domain or Tenant Policy Modification
+Group Policy Modification
+Exploitation for Defense Evasion
+File and Directory Permissions Modification
+Windows File and Directory Permissions Modification
+Linux and Mac File and Directory Permissions Modification
+Hidden Files and Directories
+Process Argument Spoofing
+Ignore Process Interrupts
+Hijack Execution Flow
+Executable Installer File Permissions Weakness
+Dynamic Linker Hijacking
+Path Interception by PATH Environment Variable
+Path Interception by Search Order Hijacking
+Path Interception by Unquoted Path
+Services File Permissions Weakness
+Services Registry Permissions Weakness
+Disable or Modify Tools
+Disable Windows Event Logging
+Impair Command History Logging
+Disable or Modify System Firewall
+Disable or Modify Cloud Firewall
+Disable or Modify Cloud Logs
+Spoof Security Alerting
+Disable or Modify Linux Audit System
+Disable or Modify Network Device Firewall
+Clear Windows Event Logs
+Clear Linux or Mac System Logs
+Clear Command History
+Network Share Connection Removal
+Clear Network Connection History and Configurations
+Indirect Command Execution
+Invalid Code Signature
+Right-to-Left Override
+Rename Legitimate Utilities
+Masquerade Task or Service
+Match Legitimate Resource Name or Location
+Double File Extension
+Masquerade Account Name
+Overwrite Process Arguments
+Modify Authentication Process
+Domain Controller Authentication
+Pluggable Authentication Modules
+Network Device Authentication
+Reversible Encryption
+Multi-Factor Authentication
+Conditional Access Policies
+Modify Cloud Compute Infrastructure
+Create Cloud Instance
+Delete Cloud Instance
+Revert Cloud Instance
+Modify Cloud Compute Configurations
+Modify Cloud Resource Hierarchy
+Downgrade System Image
+Network Boundary Bridging
+Network Address Translation Traversal
+Obfuscated Files or Information
+Compile After Delivery
+Indicator Removal from Tools
+Dynamic API Resolution
+Encrypted/Encoded File
+Plist File Modification
+Dynamic-link Library Injection
+Portable Executable Injection
+Thread Execution Hijacking
+Asynchronous Procedure Call
+Extra Window Memory Injection
+Process Doppelgänging
+Reflective Code Loading
+Rogue Domain Controller
+Subvert Trust Controls
+SIP and Trust Provider Hijacking
+Install Root Certificate
+Mark-of-the-Web Bypass
+Code Signing Policy Modification
+System Binary Proxy Execution
+Electron Applications
+System Script Proxy Execution
+SyncAppvPublishingServer
+Trusted Developer Utilities Proxy Execution
+Unused/Unsupported Cloud Regions
+Use Alternate Authentication Material
+Application Access Token
+Virtualization/Sandbox Evasion
+User Activity Based Checks
+Disable Crypto Hardware
+XSL Script Processing
+Adversary-in-the-Middle
+LLMNR/NBT-NS Poisoning and SMB Relay
+Credentials from Password Stores
+Credentials from Web Browsers
+Windows Credential Manager
+Cloud Secrets Management Stores
+Exploitation for Credential Access
+Forced Authentication
+Forge Web Credentials
+Credential API Hooking
+Modify Authentication Process
+Domain Controller Authentication
+Pluggable Authentication Modules
+Network Device Authentication
+Reversible Encryption
+Multi-Factor Authentication
+Conditional Access Policies
+Multi-Factor Authentication Interception
+Multi-Factor Authentication Request Generation
+OS Credential Dumping
+Security Account Manager
+Cached Domain Credentials
+/etc/passwd and /etc/shadow
+Steal Application Access Token
+Steal or Forge Authentication Certificates
+Steal or Forge Kerberos Tickets
+Steal Web Session Cookie
+Unsecured Credentials
+Credentials in Registry
+Cloud Instance Metadata API
+Group Policy Preferences
+Application Window Discovery
+Browser Information Discovery
+Cloud Infrastructure Discovery
+Cloud Service Dashboard
+Cloud Service Discovery
+Cloud Storage Object Discovery
+Container and Resource Discovery
+Device Driver Discovery
+Domain Trust Discovery
+File and Directory Discovery
+Group Policy Discovery
+Local Storage Discovery
+Network Service Discovery
+Network Share Discovery
+Password Policy Discovery
+Peripheral Device Discovery
+Permission Groups Discovery
+Remote System Discovery
+Security Software Discovery
+Backup Software Discovery
+System Information Discovery
+System Location Discovery
+System Language Discovery
+System Network Configuration Discovery
+Internet Connection Discovery
+System Network Connections Discovery
+System Owner/User Discovery
+System Service Discovery
+System Time Discovery
+Virtual Machine Discovery
+Virtualization/Sandbox Evasion
+User Activity Based Checks
+Exploitation of Remote Services
+Internal Spearphishing
+Lateral Tool Transfer
+Remote Service Session Hijacking
+Remote Desktop Protocol
+SMB/Windows Admin Shares
+Distributed Component Object Model
+Windows Remote Management
+Direct Cloud VM Connections
+Replication Through Removable Media
+Software Deployment Tools
+Use Alternate Authentication Material
+Application Access Token
+Adversary-in-the-Middle
+LLMNR/NBT-NS Poisoning and SMB Relay
+Archive Collected Data
+Archive via Custom Method
+Browser Session Hijacking
+Data from Cloud Storage
+Data from Configuration Repository
+Network Device Configuration Dump
+Data from Information Repositories
+Customer Relationship Management Software
+Messaging Applications
+Data from Local System
+Data from Network Shared Drive
+Data from Removable Media
+Local Email Collection
+Remote Email Collection
+Email Forwarding Rule
+Credential API Hooking
+Application Layer Protocol
+File Transfer Protocols
+Publish/Subscribe Protocols
+Communication Through Removable Media
+Non-Standard Encoding
+Protocol or Service Impersonation
+Domain Generation Algorithms
+Symmetric Cryptography
+Asymmetric Cryptography
+Ingress Tool Transfer
+Non-Application Layer Protocol
+Remote Desktop Software
+Remote Access Hardware
+Bidirectional Communication
+One-Way Communication
+Automated Exfiltration
+Data Transfer Size Limits
+Exfiltration Over Alternative Protocol
+Exfiltration Over Symmetric Encrypted Non-C2 Protocol
+Exfiltration Over Asymmetric Encrypted Non-C2 Protocol
+Exfiltration Over Unencrypted Non-C2 Protocol
+Exfiltration Over C2 Channel
+Exfiltration Over Other Network Medium
+Exfiltration Over Bluetooth
+Exfiltration Over Physical Medium
+Exfiltration over USB
+Exfiltration Over Web Service
+Exfiltration to Code Repository
+Exfiltration to Cloud Storage
+Exfiltration to Text Storage Sites
+Exfiltration Over Webhook
+Transfer Data to Cloud Account
+Account Access Removal
+Lifecycle-Triggered Deletion
+Data Encrypted for Impact
+Stored Data Manipulation
+Transmitted Data Manipulation
+Runtime Data Manipulation
+Endpoint Denial of Service
+Service Exhaustion Flood
+Application Exhaustion Flood
+Application or System Exploitation
+Inhibit System Recovery
+Network Denial of Service
+Reflection Amplification
+Cloud Service Hijacking
+System Shutdown/Reboot
+Vulnerability Scanning
+Gather Victim Host Information
+Client Configurations
+Gather Victim Identity Information
+Gather Victim Network Information
+Network Trust Dependencies
+Network Security Appliances
+Gather Victim Org Information
+Determine Physical Locations
+Business Relationships
+Identify Business Tempo
+Phishing for Information
+Spearphishing Service
+Spearphishing Attachment
+Search Closed Sources
+Purchase Technical Data
+Search Open Technical Databases
+Search Open Websites/Domains
+Search Threat Vendor Data
+Search Victim-Owned Websites
+Acquire Infrastructure
+Virtual Private Server
+Social Media Accounts
+Compromise Infrastructure
+Virtual Private Server
+Code Signing Certificates
+Social Media Accounts
+Code Signing Certificates
+Artificial Intelligence
+Install Digital Certificate
+Exploit Public-Facing Application
+External Remote Services
+Spearphishing Attachment
+Spearphishing via Service
+Replication Through Removable Media
+Supply Chain Compromise
+Compromise Software Dependencies and Development Tools
+Compromise Software Supply Chain
+Compromise Hardware Supply Chain
+Cloud Administration Command
+Command and Scripting Interpreter
+Windows Command Shell
+Container Administration Command
+ESXi Administration Command
+Exploitation for Client Execution
+Inter-Process Communication
+Component Object Model
+Dynamic Data Exchange
+Poisoned Pipeline Execution
+Container Orchestration Job
+Software Deployment Tools
+Malicious Copy and Paste
+Windows Management Instrumentation
+Additional Cloud Credentials
+Additional Email Delegate Permissions
+Additional Cloud Roles
+Additional Container Cluster Roles
+Additional Local or Domain Groups
+Boot or Logon Autostart Execution
+Registry Run Keys / Startup Folder
+Authentication Package
+Security Support Provider
+Kernel Modules and Extensions
+Re-opened Applications
+Shortcut Modification
+XDG Autostart Entries
+Boot or Logon Initialization Scripts
+Logon Script (Windows)
+Cloud Application Integration
+Compromise Host Software Binary
+Create or Modify System Process
+Event Triggered Execution
+Change Default File Association
+Windows Management Instrumentation Event Subscription
+Unix Shell Configuration Modification
+LC_LOAD_DYLIB Addition
+Accessibility Features
+Image File Execution Options Injection
+Component Object Model Hijacking
+External Remote Services
+Hijack Execution Flow
+Executable Installer File Permissions Weakness
+Dynamic Linker Hijacking
+Path Interception by PATH Environment Variable
+Path Interception by Search Order Hijacking
+Path Interception by Unquoted Path
+Services File Permissions Weakness
+Services Registry Permissions Weakness
+Implant Internal Image
+Modify Authentication Process
+Domain Controller Authentication
+Pluggable Authentication Modules
+Network Device Authentication
+Reversible Encryption
+Multi-Factor Authentication
+Conditional Access Policies
+Office Application Startup
+Office Template Macros
+Container Orchestration Job
+Server Software Component
+SQL Stored Procedures
+Terminal Services DLL
+vSphere Installation Bundles
+Abuse Elevation Control Mechanism
+Bypass User Account Control
+Sudo and Sudo Caching
+Elevated Execution with Prompt
+Temporary Elevated Cloud Access
+Access Token Manipulation
+Token Impersonation/Theft
+Create Process with Token
+Make and Impersonate Token
+SID-History Injection
+Additional Cloud Credentials
+Additional Email Delegate Permissions
+Additional Cloud Roles
+Additional Container Cluster Roles
+Additional Local or Domain Groups
+Boot or Logon Autostart Execution
+Registry Run Keys / Startup Folder
+Authentication Package
+Security Support Provider
+Kernel Modules and Extensions
+Re-opened Applications
+Shortcut Modification
+XDG Autostart Entries
+Boot or Logon Initialization Scripts
+Logon Script (Windows)
+Create or Modify System Process
+Domain or Tenant Policy Modification
+Group Policy Modification
+Event Triggered Execution
+Change Default File Association
+Windows Management Instrumentation Event Subscription
+Unix Shell Configuration Modification
+LC_LOAD_DYLIB Addition
+Accessibility Features
+Image File Execution Options Injection
+Component Object Model Hijacking
+Exploitation for Privilege Escalation
+Hijack Execution Flow
+Executable Installer File Permissions Weakness
+Dynamic Linker Hijacking
+Path Interception by PATH Environment Variable
+Path Interception by Search Order Hijacking
+Path Interception by Unquoted Path
+Services File Permissions Weakness
+Services Registry Permissions Weakness
+Dynamic-link Library Injection
+Portable Executable Injection
+Thread Execution Hijacking
+Asynchronous Procedure Call
+Extra Window Memory Injection
+Process Doppelgänging
+Container Orchestration Job
+Abuse Elevation Control Mechanism
+Bypass User Account Control
+Sudo and Sudo Caching
+Elevated Execution with Prompt
+Temporary Elevated Cloud Access
+Access Token Manipulation
+Token Impersonation/Theft
+Create Process with Token
+Make and Impersonate Token
+SID-History Injection
+Deobfuscate/Decode Files or Information
+Domain or Tenant Policy Modification
+Group Policy Modification
+Exploitation for Defense Evasion
+File and Directory Permissions Modification
+Windows File and Directory Permissions Modification
+Linux and Mac File and Directory Permissions Modification
+Hidden Files and Directories
+Process Argument Spoofing
+Ignore Process Interrupts
+Hijack Execution Flow
+Executable Installer File Permissions Weakness
+Dynamic Linker Hijacking
+Path Interception by PATH Environment Variable
+Path Interception by Search Order Hijacking
+Path Interception by Unquoted Path
+Services File Permissions Weakness
+Services Registry Permissions Weakness
+Disable or Modify Tools
+Disable Windows Event Logging
+Impair Command History Logging
+Disable or Modify System Firewall
+Disable or Modify Cloud Firewall
+Disable or Modify Cloud Logs
+Spoof Security Alerting
+Disable or Modify Linux Audit System
+Disable or Modify Network Device Firewall
+Clear Windows Event Logs
+Clear Linux or Mac System Logs
+Clear Command History
+Network Share Connection Removal
+Clear Network Connection History and Configurations
+Indirect Command Execution
+Invalid Code Signature
+Right-to-Left Override
+Rename Legitimate Utilities
+Masquerade Task or Service
+Match Legitimate Resource Name or Location
+Double File Extension
+Masquerade Account Name
+Overwrite Process Arguments
+Modify Authentication Process
+Domain Controller Authentication
+Pluggable Authentication Modules
+Network Device Authentication
+Reversible Encryption
+Multi-Factor Authentication
+Conditional Access Policies
+Modify Cloud Compute Infrastructure
+Create Cloud Instance
+Delete Cloud Instance
+Revert Cloud Instance
+Modify Cloud Compute Configurations
+Modify Cloud Resource Hierarchy
+Downgrade System Image
+Network Boundary Bridging
+Network Address Translation Traversal
+Obfuscated Files or Information
+Compile After Delivery
+Indicator Removal from Tools
+Dynamic API Resolution
+Encrypted/Encoded File
+Plist File Modification
+Dynamic-link Library Injection
+Portable Executable Injection
+Thread Execution Hijacking
+Asynchronous Procedure Call
+Extra Window Memory Injection
+Process Doppelgänging
+Reflective Code Loading
+Rogue Domain Controller
+Subvert Trust Controls
+SIP and Trust Provider Hijacking
+Install Root Certificate
+Mark-of-the-Web Bypass
+Code Signing Policy Modification
+System Binary Proxy Execution
+Electron Applications
+System Script Proxy Execution
+SyncAppvPublishingServer
+Trusted Developer Utilities Proxy Execution
+Unused/Unsupported Cloud Regions
+Use Alternate Authentication Material
+Application Access Token
+Virtualization/Sandbox Evasion
+User Activity Based Checks
+Disable Crypto Hardware
+XSL Script Processing
+Adversary-in-the-Middle
+LLMNR/NBT-NS Poisoning and SMB Relay
+Credentials from Password Stores
+Credentials from Web Browsers
+Windows Credential Manager
+Cloud Secrets Management Stores
+Exploitation for Credential Access
+Forced Authentication
+Forge Web Credentials
+Credential API Hooking
+Modify Authentication Process
+Domain Controller Authentication
+Pluggable Authentication Modules
+Network Device Authentication
+Reversible Encryption
+Multi-Factor Authentication
+Conditional Access Policies
+Multi-Factor Authentication Interception
+Multi-Factor Authentication Request Generation
+OS Credential Dumping
+Security Account Manager
+Cached Domain Credentials
+/etc/passwd and /etc/shadow
+Steal Application Access Token
+Steal or Forge Authentication Certificates
+Steal or Forge Kerberos Tickets
+Steal Web Session Cookie
+Unsecured Credentials
+Credentials in Registry
+Cloud Instance Metadata API
+Group Policy Preferences
+Application Window Discovery
+Browser Information Discovery
+Cloud Infrastructure Discovery
+Cloud Service Dashboard
+Cloud Service Discovery
+Cloud Storage Object Discovery
+Container and Resource Discovery
+Device Driver Discovery
+Domain Trust Discovery
+File and Directory Discovery
+Group Policy Discovery
+Local Storage Discovery
+Network Service Discovery
+Network Share Discovery
+Password Policy Discovery
+Peripheral Device Discovery
+Permission Groups Discovery
+Remote System Discovery
+Security Software Discovery
+Backup Software Discovery
+System Information Discovery
+System Location Discovery
+System Language Discovery
+System Network Configuration Discovery
+Internet Connection Discovery
+System Network Connections Discovery
+System Owner/User Discovery
+System Service Discovery
+System Time Discovery
+Virtual Machine Discovery
+Virtualization/Sandbox Evasion
+User Activity Based Checks
+Exploitation of Remote Services
+Internal Spearphishing
+Lateral Tool Transfer
+Remote Service Session Hijacking
+Remote Desktop Protocol
+SMB/Windows Admin Shares
+Distributed Component Object Model
+Windows Remote Management
+Direct Cloud VM Connections
+Replication Through Removable Media
+Software Deployment Tools
+Use Alternate Authentication Material
+Application Access Token
+Adversary-in-the-Middle
+LLMNR/NBT-NS Poisoning and SMB Relay
+Archive Collected Data
+Archive via Custom Method
+Browser Session Hijacking
+Data from Cloud Storage
+Data from Configuration Repository
+Network Device Configuration Dump
+Data from Information Repositories
+Customer Relationship Management Software
+Messaging Applications
+Data from Local System
+Data from Network Shared Drive
+Data from Removable Media
+Local Email Collection
+Remote Email Collection
+Email Forwarding Rule
+Credential API Hooking
+Application Layer Protocol
+File Transfer Protocols
+Publish/Subscribe Protocols
+Communication Through Removable Media
+Non-Standard Encoding
+Protocol or Service Impersonation
+Domain Generation Algorithms
+Symmetric Cryptography
+Asymmetric Cryptography
+Ingress Tool Transfer
+Non-Application Layer Protocol
+Remote Desktop Software
+Remote Access Hardware
+Bidirectional Communication
+One-Way Communication
+Automated Exfiltration
+Data Transfer Size Limits
+Exfiltration Over Alternative Protocol
+Exfiltration Over Symmetric Encrypted Non-C2 Protocol
+Exfiltration Over Asymmetric Encrypted Non-C2 Protocol
+Exfiltration Over Unencrypted Non-C2 Protocol
+Exfiltration Over C2 Channel
+Exfiltration Over Other Network Medium
+Exfiltration Over Bluetooth
+Exfiltration Over Physical Medium
+Exfiltration over USB
+Exfiltration Over Web Service
+Exfiltration to Code Repository
+Exfiltration to Cloud Storage
+Exfiltration to Text Storage Sites
+Exfiltration Over Webhook
+Transfer Data to Cloud Account
+Account Access Removal
+Lifecycle-Triggered Deletion
+Data Encrypted for Impact
+Stored Data Manipulation
+Transmitted Data Manipulation
+Runtime Data Manipulation
+Endpoint Denial of Service
+Service Exhaustion Flood
+Application Exhaustion Flood
+Application or System Exploitation
+Inhibit System Recovery
+Network Denial of Service
+Reflection Amplification
+Cloud Service Hijacking
+System Shutdown/Reboot

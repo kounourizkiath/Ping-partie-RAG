@@ -1,0 +1,203 @@
+Source: https://www.iotsecurityfoundation.org/best-practice-guidelines/
+Scraped: 2025-12-22 20:55:16
+================================================================================
+
+Secure IoT - IoT Security Foundation
+Make it Safe to Connect
+What do you get from IoT Security Foundation publications?
+Reduce Your Cyber Risk:
+Improve Your Safety and Security Posture
+Demystify Your Security Needs and Put into Practice
+Increase Your Capability:
+Learn from Your Peers and the Experts
+Low Barriers to Access – No Registration Required
+If you like what we do, please consider supporting us by
+or sponsoring our activity. As a not-for-profit, we cannot do what we do without the support of our members and patrons – it’s cost-effective and a healthy investment for all.
+John Moor, Managing Director IoTSF
+Securing IoT requires more than technical solutions; it requires knowledgeable people, sound processes, and fit-for-purpose technology.
+IoT security is constantly evolving, with new vulnerabilities discovered frequently, making cybersecurity a journey, not a destination. Your risk exposure is determined by how you address this dynamic context, adjusting your risk profile and informing your investment decisions. The IoT Security Foundation champions better security by attacking common risks, reducing costs and managing business liability. This leads to increased business confidence that enables markets for economic and societal benefit.
+Sound familiar? Why not join us?
+IoT Security Foundation Publications
+You can download our publications for free – without registration.
+We encourage you to reference, share and help others find them.
+Materials published by IoTSF include contributions from security practitioners, researchers, industrially experienced staff and other relevant sources from IoTSF’s membership and partners. IoTSF has a multi-stage process designed to develop contemporary best practice with a quality assurance peer review prior to publication.
+Users of IoT Security Foundation (IoTSF) guidance materials are encouraged to use the latest advice and frameworks available. To maintain and build on our published materials, IoTSF issues releases in a timely manner – a known good practice in dynamic settings.
+IoTSF endeavours to provide fit-for-purpose and up to date guidance. In the spirit of continuous improvement, IoTSF invites feedback from users and third party experts to help make those improvements to our outputs. You can do this simply by emailing us at
+– please include the document title and “feedback” in your email subject line.
+*** TOP DOWNLOAD *** IoT Security Assurance Framework
+Interactive Online Version
+Secure Design Best Practice Guides
+Vulnerability Disclosure Best Practice Guide
+IoT Cybersecurity for Facilities Professionals in the Smart Built Environment
+HOME IoT Security Architecture and Policy
+ENTERPRISE IoT Security Architecture and Policy
+*FOR SECURITY ARCHITECTS
+IoT Security Reference Architecture for the Healthcare Industry
+Building a System of Trust: The Power of Device Identities
+Software Bills of Materials for IoT and OT Devices
+Securing the Internet of Things Supply Chain
+Can You Trust Your Smart Building?
+Router and IoT Vulnerabilities: Insecure by Design
+Establishing Principles for Internet of Things Security
+Global Marketing Strategy Report for SNBD-CHERI based router and connected device infrastructure
+The State of Vulnerability Disclosure Policy (VDP) Usage in Global Consumer IoT in 2024 (Report 7)
+The State of Vulnerability Disclosure Policy (VDP) Usage in Global Consumer IoT in 2023 (Report 6)
+The State of Vulnerability Disclosure Policy (VDP) Usage in Global Consumer IoT in 2023 (Report 5)
+The Contemporary Use of Vulnerability Disclosure in IoT Nov 2021 (Report 4)
+Consumer IoT: Vulnerability Disclosure – Expanding The View Into 2021 (Report 3)
+Consumer IoT: Vulnerability Disclosure Usage in Consumer IoT Progress 2020 (Report 2)
+Understanding The Use of Vulnerability Disclosure in Consumer IoT Product Companies 2019 (Report 1)
+IoT Cybersecurity: Regulation Ready – Full Version
+IoT Cybersecurity: Regulation Ready – Concise Version
+Best Practice User Mark
+IoT Security Assurance Framework
+About the IoT Security Assurance Framework
+The IoT Security Assurance Framework is a practical resource that helps IoT vendors provide fit-for-purpose security…
+IoT Security Assurance Framework
+The IoT Security Assurance Framework is a practical resource that helps IoT vendors provide fit-for-purpose security in their products and services. It is a pre-compliance, multi-faceted publication which acts as a guide, a tool and expert reference. It leads its users through a risk management process to determine security objectives and provides a template to collect evidence to help demonstrate security claims. Purpose ready evidence may then be used to support business needs in commercial (customer), conformance (standards) or compliance (regulation) settings. Note that an online version is also available here:
+https://af.iotsf.org/
+Building a System of Trust: The Power of Device Identities
+The Internet of Things is creating a vast, connected world, but its strength is limited by its weakest link. Discover the critical security challenges posed by vulnerable IoT devices and learn why building trust, rooted in device identities, is essential in this vital whitepaper.
+Global Marketing Strategy Report for SNBD-CHERI based router and connected device infrastructure
+The Internet of Things (IoT) is transforming our world, linking devices like thermostats,industrial sensors, and connected vehicles into a vast, interdependent network. Yet,this connectivity comes with a catch: the system is only as secure as its weakest link.
+Many IoT devices—low-cost, always-on, and often overlooked—are prime targets for cyberattacks. With global regulations tightening and organisations like the IoT Security Foundation (IoTSF) leading the charge, the stakes are clear: IoT security is a significant challenge that demands robust solutions.
+So, where do we begin? The answer lies in trust. Every device must reliably declare, “I am who I say I am,” and “I’m safe to connect.” Device identities—unique, hardware rooted identifiers—provide this foundation, enabling a “chain of trust” that spans from silicon to cloud. This white paper explores why device identities are critical, presents a simple supply-chain model for their real-world application, and showcases how IoTSF
+members are strengthening this chain, yet recognising significant future potential that needs coordinated effort.
+Please download the report to continue reading.
+Global Marketing Strategy Report for SNBD-CHERI based router and connected device infrastructure
+This report highlights the urgent need to address cybersecurity vulnerabilities stemming from memory safety issues in software. These issues have plagued the digital landscape for over 50 years and are now recognized by governments worldwide as a major threat. McKinsey & Co. estimates that cyberattacks cost the global economy $10.5 trillion annually…..
+Global Marketing Strategy Report for SNBD-CHERI based router and connected device infrastructure
+The report focuses on the Secure Networking by Design (SNbD) project, an initiative using CHERI (Capability Hardware Enhanced RISC Instructions) technology to create more secure routers and connected devices. CHERI offers a hardware-based solution that enforces memory safety and compartmentalization, making software inherently more secure. This approach mitigates the reliance on memory-safe languages like Rust, which are effective but challenging to implement for existing codebases.
+The report dives into the benefits of CHERI, highlighting its ability to:
+• Enable the safe reuse of open-source and third-party code.
+• Enhance isolation and compartmentalization, limiting the impact of vulnerabilities.
+• Streamline maintenance, patching, and update management.
+By downloading this report, readers will gain insights into:
+• The growing importance of memory safety in cybersecurity.
+• How CHERI technology works and its potential impact.
+• The SNbD project and its role in securing networking infrastructure.
+• Market analysis and potential applications for CHERI across different industries.
+• The obstacles and strategies for wider CHERI adoption.
+• The crucial role of government support and industry collaboration in driving the transition to a secure-by-design future.
+This report is a call to action for governments, industry leaders, and technology developers to prioritize and invest in memory-safe solutions, paving the way for a more secure and resilient digital world.
+Please download the report to continue reading.
+The State of Vulnerability Disclosure Policy (VDP) Usage in Global Consumer IoT in 2024
+Report 7 – November 2024
+About The State of Vulnerability Disclosure Policy (VDP) Usage in Global Consumer IoT in 2024
+The IoT Security Foundation has published its latest influential research report which monitors the security management behaviour of consumer IoT product companies…
+The State of Vulnerability Disclosure Policy (VDP) Usage in Global Consumer IoT in 2024
+This is the seventh report into the state of vulnerability disclosure practices by manufacturers in the IoT product ecosystem. This is the longest running and most stable tracking of what is a very basic public indicator of whether a company takes product security seriously. This indicator is a contact page for security researchers to use in order to report security vulnerabilities they have discovered to a company. If that contact point doesn’t exist, it is extremely difficult for those issues to be reported from the ‘good guys’, whilst the ‘bad guys’ are never going to report anything – they’ll exploit the vulnerabilities as much as they can for their own ends.
+It can be very difficult to differentiate levels of security between physical products as it is hidden from inspection. This has allowed many companies in the past to ignore very basic product security measures such as leaving in hard-coded default passwords and the ability for easily accessible remote access. This in turn has left the door wide wide open for exploitation by different threat actors, ranging from nation states to ransomware criminals.
+Please download the white paper to continue reading.
+Updated to Release 7 / November 2024
+IoT Cybersecurity for Facilities Professionals
+Release 1.0, March 2023
+The advent of new technologies means our world has become increasingly digital. In recent years, this has included the introduction of new ‘smart’ and ‘connected’ technologies…
+IoT Cybersecurity for Facilities Professionals in the Smart Built Environment
+The advent of new technologies means our world has become increasingly digital. In recent years, this has included the introduction of new ‘smart’ and ‘connected’ technologies. ‘Smart’ meaning that it has an operating system running software to define its functionality, whilst ‘connected’ meaning it is also connected to other devices and (maybe) larger systems to achieve greater benefits to more stakeholders. Traditionally, these were thought of as information technologies (IT), however they are increasingly being used in operating environments in finer-grained, capability-constrained devices and operational technology (OT). These smart, connected, and pervasive operational technologies are often referred to as the Internet of Things, or simply IoT. It is when these devices and systems are integrated into a building/connected place and other systems that the benefits to stakeholders are realised.
+Software Bills of Materials for IoT and OT Devices
+Release 1.1.0 – Feb 2023
+Regulators in many domains have begun to look seriously at software vendors’ and operators’ management of supply chain risks. Recent software-related events have woken them up to modern software supply chains leaving connected systems highly vulnerable to attack, so they are making new rules.
+The Use of Software Bills of Materials for IoT and OT Devices
+Regulators in many domains have begun to look seriously at software vendors’ and operators’ management of supply chain risks. Recent software-related events have woken them up to modern software supply chains leaving connected systems highly vulnerable to attack, so they are making new rules. Vendors and end users in these supply chains, including those for IoT/OT, need to act or risk exclusion from markets or be liable for negligence.
+Regulations span consumer IoT (UK Product Security and Telecommunications Infrastructure Act, EU Cyber Resilience Act) to national critical infrastructure (EU NIS 2). Software Bills of Materials (SBOMs) are mentioned explicitly in several of these regulations and as highly visible artefacts and enablers of many of the key processes they have attracted a lot of attention. The most action generated so far is from USA President Biden’s Executive Order 14028, requiring suppliers of federal agencies to implement rigorous software supply chain risk management practices by September 2023 or face being replaced.
+Importing software components is now so commonplace and easy that many projects don’t give it a second thought, even though imported components routinely come with dozens of their own dependencies. Anything goes, as long as it helps advance the project. As this approach has spread, three problems have emerged that SBOMs can help to address.
+Securing the Internet of Things Supply Chain Whitepaper
+Release 1.0.0 – June 2022
+Whilst much has been written about software supply chains, hardware supply chains and cybersecurity in recent times, this paper considers the key combinations that make up the IoT cybersecurity supply network, in finer detail….
+Securing the Internet of Things Supply Chain Whitepaper
+Whilst much has been written about software supply chains, hardware supply chains and cybersecurity in recent times, this paper considers the key combinations that make up the IoT cybersecurity supply network, in finer detail.
+In this paper we break the IoT security supply chain down and bring greater clarity to each of the elements; we look at the big picture, and we also look at the anatomy of a connected device (IoT) – including the hardware(s), the software(s), roots of trust, cryptographic functions, production data, software keys, certificates and more. If you are creating products or managing risk within your organisation we recommend this report to you – it will help you determine your own threat model.
+Secure Design Best Practice Guides
+Release 2 – December 2019
+About the Secure Design Best Practice Guides
+IoT products are permeating every avenue of modern life and are increasingly found in our workplaces, homes and about our person. Many new entrants are bringing IoT class products into these unregulated markets…
+IoT products are permeating every avenue of modern life and are increasingly found in our work places, homes and about our person. Many new entrants are bringing IoT class products into these unregulated markets and whilst their focus is on innovation, they may have little experience in terms of security. Security is a fundamental of the hyper-connected digital age yet we cannot expect everybody to be an expert and thus the IoTSF aims to be a destination for those seeking knowledge and advice.
+The IoTSF Executive Steering Board initially prioritised the connected-consumer / connected-home category due to the growing number of identified issues and widespread concerns amongst security commentators and the media. But our remit is now spreading wider to look at other categories such as Smart Buildings – our design guides are now applicable to all IoT products and services and no longer constrained to the consumer sector.
+The IoTSF Secure Design Best Practice Guides are specifically targeted at new companies and existing companies which are adding connectivity making them ‘IoT-class’ products. They are intended to be pragmatic and easily consumable for those with limited security knowledge and cover the most common issues. The Guides provide awareness and advice on the most salient elements that affect product, service and user security.
+You can download the IoTSF Secure Best Practice Guides for free.
+Vulnerability Disclosure BPG
+Release 2.0 – September 2021
+About the Vulnerability Disclosure Best Practice Guidelines
+The complexity of todays digital systems means that all but the simplest of systems will inevitably have security flaws – this is why PC’s and mobile apps get frequently patched for example. Large or small, all companies are likely…
+Vulnerability Disclosure BPG
+The complexity of todays digital systems means that all but the simplest of systems will inevitably have security flaws – this is why PC’s and mobile apps get frequently patched for example. Large or small, all companies are likely to have to deal with security breaches at some point. Companies that have been doing business on the web for many years have learned how to cope with this, as the scale and consequences of attacks have gradually increased. Companies that are just starting to connect their products and services to the Internet (IoT) can quickly learn from that experience.
+Your company will likely do all it can to avoid security issues as an IoT supplier or user. However the security flaws that exist in your systems are likely going to be found by third parties – including legitimate researchers. IoTSF therefore encourages you to make provision for third parties to make contact.
+Having a published Vulnerability Disclosure Policy and a supporting process means you will have a clear method of responding to the discovery of a vulnerability in a way that preserves your customers’ privacy and safety. The alternative? It could be that the finder may choose to go somewhere else with their knowledge (including to the black market, to the press, to the stock market or to your competitors).
+You can download the Best Practice Guidelines for free.
+Users of the guidelines are encouraged to display the
+Best Practice User mark
+on marketing materials.
+Updated to Release 2.0 / September 2021
+Router and IoT Vulnerabilities: Insecure by Design
+Router and IoT Vulnerabilities: Insecure by Design
+This Whitepaper seeks to raise awareness of a fundamental design flaw that has received little attention to date and yet affects many IoT devices and standard Internet routers…
+Router and IoT Vulnerabilities: Insecure by Design
+This Whitepaper seeks to raise awareness of a fundamental design flaw that has received little attention to date and yet affects many IoT devices and standard Internet routers.
+The whitepaper is aimed at organisations and professionals from across the Internet of Things (IoT) ecosystem e.g. manufacturers, Internet and communication service providers, standards bodies, government agencies, browser/software/solution companies, Certificate Authorities, IoT industry end users and consultants.
+Typically, when a user wants to provision or manage an IoT device or router using a browser, their user name, password and all communications are passed over an unencrypted connection. This is a very serious problem; it is pervasive, affecting most domestic installations, and it represents a huge security exposure, leaking both passwords and activity to anyone who is listening.
+This problem cannot be mitigated by implementing cybersecurity best practice as it is due to a fundamental design flaw.
+The whitepaper goes into greater detail about the problem, design flaw and explores potential solutions.
+Can You Trust Your Smart Building?
+Can You Trust Your Smart Building?
+The whitepaper discusses a number of vulnerabilities that exist in smart buildings and where solutions lie to protect people, assets and business investments.
+Can You Trust Your Smart Building?
+The whitepaper discusses a number of vulnerabilities that exist in smart buildings and where solutions lie to protect people, assets and business investments.
+It is aimed at a broad range of stakeholders that together design, specify, procure, install/integrate, validate, operate and maintain building automation systems (BAS). It is specifically targeted at building owners, facility managers, technology providers, architects and installers.
+Smart Buildings are increasingly classified as IoT systems and offer benefits such as:
+• Savings in energy and water usage and the resulting reduction in costs and carbon footprint
+• Improved working conditions, safety and security for occupants
+• Improved customer service levels
+• Visibility and management of occupancy levels
+• Optimisation of resources (physical, space and human)
+• Reduced maintenance costs
+However, with the increasing networking of systems and connections through the public Internet, this also increases the threat of hacking by criminals and other groups. It is therefore important to understand those threats and plan safeguards so the buildings systems are cyber-safe and continue to operate as intended.
+This whitepaper explores the evolving responsibilities that each building stakeholder has to consider across the design, integration, occupation and maintenance of the buildings lifecycle.
+IoT Security Reference Architecture for The Healthcare Industry
+About the Healthcare IoT Security Reference Architecture
+Internet of Things (IoT) products and services have created a significant healthcare opportunity. They offer benefits such as improved diagnosis and treatment, the ability to carry out remote monitoring, and reducing operating costs to counter the rising cost of care…
+IoT Security Reference Architecture For The Healthcare Industry
+Internet of Things (IoT) products and services have created a significant healthcare opportunity. They offer benefits such as improved diagnosis and treatment, the ability to carry out remote monitoring, and reducing operating costs to counter the rising cost of care.  The IoT Security Foundation has published this IoT Security Reference Architecture For The Healthcare Industry to:
+Reduce/manage complexity of health-related IoT systems by highlighting trust and security management points to support a layered approach to security
+Demonstrate by example what a good health sector security regime looks like
+Demonstrate how to support security in IoT for health with minimal reliance on healthcare professionals and patients
+Explain the benefits of such an approach in a healthcare environment including achieving security goals, maintaining system hygiene and resilience, managing extensions and life-cycle provisioning
+A layered approach to security is useful in environments such as the health industry due to the ability to provide additional protection for legacy and new IoT products with varied security capabilities, and support data and network security. This document aims to inform those adopting and deploying IoT for health solutions, as well as to inform and influence those developing IoT products.
+HOME IoT Security Architecture and Policy
+Hub Based IoT Security Architectures & Policy White Papers
+The home IoT whitepaper is intended for OEMs designing devices or smart hubs – as “the Hub” is a key element of the architecture – Service Providers and Retailers, or anyone with responsibilities for ….
+Hub Based IoT Security Architecture & Policy White Papers
+The IoT Security Foundation has published two hub based approaches to IoT security for the home and enterprise markets which reduce and manage the complexity of IoT systems by narrowing implementation options, demonstrate by example what a good home security regime looks like and explain the benefits of such an approach including achieving security goals, maintaining system hygiene and resilience, managing extensions and life-cycle provisioning.
+The Hub-based architectures do not prescribe a single IoT device, deployment or sub-architecture. Instead they focus on supporting a minimum expectation of security and trust in home IoT environments. This is achieved through implementation of a collection of security and trust tools in home IoT and networking solutions. Importantly, it does not rely on the end user having in-depth knowledge of these topics.
+The home IoT whitepaper is intended for OEMs designing devices or smart hubs – as “the Hub” is a key element of the architecture – Service Providers and Retailers, or anyone with responsibilities for architecting, designing, planning and procuring home IoT products (broadly referred to as solution providers).
+ENTERPRISE IoT Security Architecture and Policy
+Hub Based IoT Security Architectures & Policy White Papers
+The enterprise IoT whitepaper is intended to illustrate a solution for enterprise environments where businesses are looking for operational and productivity benefits of using IoT. It is intended for chief officers or managers ….
+Hub Based IoT Security Architecture & Policy White Papers
+The IoT Security Foundation has published two hub based approaches to IoT security for the home and enterprise markets which reduce and manage the complexity of IoT systems by narrowing implementation options, demonstrate by example what a good home security regime looks like and explain the benefits of such an approach including achieving security goals, maintaining system hygiene and resilience, managing extensions and life-cycle provisioning.
+The Hub-based architectures do not prescribe a single IoT device, deployment or sub-architecture. Instead they focus on supporting a minimum expectation of security and trust in home IoT environments. This is achieved through implementation of a collection of security and trust tools in home IoT and networking solutions. Importantly, it does not rely on the end user having in-depth knowledge of these topics.
+The enterprise IoT whitepaper is intended to illustrate a solution for enterprise environments where businesses are looking for operational and productivity benefits of using IoT. It is intended for chief officers or managers – such as those tasked with overseeing IoT adoption, information security, or digital transformation – as well as staff with responsibilities for architecting, designing, planning, procuring and operating an IoT-class system – i.e. system architects, technical managers and systems integrators.
+IoT Cybersecurity: Regulation Ready
+FULL Version Nov 2018
+The IoT Security Foundation has published an “IoT Cybersecurity: Regulation Ready” white paper to enable organisations to get ahead of the approaching security regulations that will apply throughout the IoT ecosystem…
+IoT Cybersecurity: Regulation Ready – Full Version
+The IoT Security Foundation have published an
+“IoT Cybersecurity: Regulation Ready”
+white paper to enable organisations to get ahead of the approaching security regulations that will apply to sensors, devices, data, software, systems, processes, services and networks throughout the IoT ecosystem.
+This publication provides a detailed analysis on the IoT regulation environment of governments, regulatory bodies and legislation including the EU, US, UK, and Australia, and also serve as a resource for IoT manufacturers, innovators, distributors, retailers and regulatory bodies to better understand the current regulatory landscape and the differences and similarities across jurisdictions.
+Industry needs to be proactive and not only adopt a security-focused mind set to adapt to an evolving regulatory landscape and global marketplace, but also communicate clearly that it is doing so. This security-focused mind set should, at minimum, take into consideration the design, production, operation, tools and lifecycle processes of IoT products and services. This will support regulatory compliance, demonstrate due diligence and a duty of care, and reduce risks of non-compliance. Adopting this approach also enhances baseline security of IoT products and services in the marketplace and can help protect against risks associated with some legacy devices.
+Today, some governments and regulatory bodies are applying existing regulation to IoT products and services in an attempt to influence product security and drive user awareness. Although some may not have been applied to the IoT yet, the regulations analysed in this white paper are relevant to the IoT and that particular types of existing regulation and their compliance mechanisms are more applicable than others to security-related risks. This is particularly true for regulations such as consumer protection, competition, product marking or labelling, child protection, data protection, cybersecurity, and (tele)communications.
+The regulatory landscape around IoT is expected to change significantly in the near future, with unpredictable impacts on innovation and the security of legacy devices.  For these reasons, this white paper examines a cross-section of fifteen existing regulations in five global jurisdictions as of September 2018 and explores how these policies may be applied to the IoT. It also considers how IoT products which implement good security practices mitigate regulatory liabilities in the IoT supply chain and create baseline security of IoT technologies.
+Security is not a destination, it is a journey which moves and evolves with technology and capabilities. Adopting a security-focused mind set will support IoT product and service providers in mitigating risks ranging from cybersecurity threats to regulatory action. Technical tools, best practices, and practical steps implemented now may position organisations favourably for future regulatory changes.
+IoT Cybersecurity: Regulation Ready
+CONCISE Version Nov 2018
+The IoT Security Foundation has published an “IoT Cybersecurity: Regulation Ready” white paper to enable organisations to get ahead of the approaching security regulations that will apply throughout the IoT ecosystem…
+IoT Cybersecurity: Regulation Ready – Concise Version
+The IoT Security Foundation have published an
+“IoT Cybersecurity: Regulation Ready”
+white paper to enable organisations to get ahead of the approaching security regulations that will apply to sensors, devices, data, software, systems, processes, services and networks throughout the IoT ecosystem.
+This publication provides a concise analysis on the IoT regulation environment of governments, regulatory bodies and legislation including the EU, US, UK, and Australia, and also serve as a resource for IoT manufacturers, innovators, distributors, retailers and regulatory bodies to better understand the current regulatory landscape and the differences and similarities across jurisdictions.
+Industry needs to be proactive and not only adopt a security-focused mind set to adapt to an evolving regulatory landscape and global marketplace, but also communicate clearly that it is doing so. This security-focused mind set should, at minimum, take into consideration the design, production, operation, tools and lifecycle processes of IoT products and services. This will support regulatory compliance, demonstrate due diligence and a duty of care, and reduce risks of non-compliance. Adopting this approach also enhances baseline security of IoT products and services in the marketplace and can help protect against risks associated with some legacy devices.
+Today, some governments and regulatory bodies are applying existing regulation to IoT products and services in an attempt to influence product security and drive user awareness. Although some may not have been applied to the IoT yet, the regulations analysed in this white paper are relevant to the IoT and that particular types of existing regulation and their compliance mechanisms are more applicable than others to security-related risks. This is particularly true for regulations such as consumer protection, competition, product marking or labelling, child protection, data protection, cybersecurity, and (tele)communications.
+The regulatory landscape around IoT is expected to change significantly in the near future, with unpredictable impacts on innovation and the security of legacy devices.  For these reasons, this white paper examines a cross-section of fifteen existing regulations in five global jurisdictions as of September 2018 and explores how these policies may be applied to the IoT. It also considers how IoT products which implement good security practices mitigate regulatory liabilities in the IoT supply chain and create baseline security of IoT technologies.
+Security is not a destination, it is a journey which moves and evolves with technology and capabilities. Adopting a security-focused mind set will support IoT product and service providers in mitigating risks ranging from cybersecurity threats to regulatory action. Technical tools, best practices, and practical steps implemented now may position organisations favourably for future regulatory changes.

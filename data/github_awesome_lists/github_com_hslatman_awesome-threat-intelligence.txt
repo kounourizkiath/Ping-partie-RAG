@@ -1,0 +1,378 @@
+Source: https://github.com/hslatman/awesome-threat-intelligence
+Scraped: 2025-12-22 20:51:29
+================================================================================
+
+awesome-threat-intelligence
+You must be signed in to change notification settings
+A curated list of Awesome Threat Intelligence resources
+You must be signed in to change notification settings
+hslatman/awesome-threat-intelligence
+Open more actions menu
+Repository files navigation
+awesome-threat-intelligence
+A curated list of awesome Threat Intelligence resources
+A concise definition of Threat Intelligence:
+evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard
+Frameworks & Platforms
+Research, Standards & Books
+Most of the resources listed below provide lists and/or APIs to obtain (hopefully) up-to-date information with regards to threats.
+Some consider these sources as threat intelligence, opinions differ however.
+A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
+AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. It's mission is to help make Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online..
+APT Groups and Operations
+A spreadsheet containing information and intelligence about APT groups, operations and tactics.
+Binary Defense IP Banlist
+Binary Defense Systems Artillery Threat Intelligence Feed and IP Banlist Feed.
+Ranking of ASNs having the most malicious content.
+Tracks several active botnets.
+Botvrij.eu provides different sets of open source IOCs that you can use in your security devices to detect possible malicious activity.
+BruteForceBlocker is a perl script that monitors a server's sshd logs and identifies brute force attacks, which it then uses to automatically configure firewall blocking rules and submit those IPs back to the project site,
+http://danger.rulez.sk/projects/bruteforceblocker/blist.php
+A feed of known, active and non-sinkholed C&C IP addresses, from Bambenek Consulting. Requires license for commercial use.
+Real-time certificate transparency log update stream. See SSL certificates as they're issued in real time.
+CCSS Forum Malware Certificates
+The following is a list of digital certificates that have been reported by the forum as possibly being associated with malware to various certificate authorities. This information is intended to help prevent companies from using digital certificates to add legitimacy to malware and encourage prompt revocation of such certificates.
+A subset of the commercial
+list, focused on poorly rated IPs that are not currently present on other threatlists.
+Probable Whitelist of the top 1 million sites resolved by Cisco Umbrella (was OpenDNS).
+Cloudmersive Virus Scan
+Cloudmersive Virus Scan APIs scan files, URLs, and cloud storage for viruses. They leverage continuously updated signatures for millions of threats, and advanced high-performance scanning capabilities. The service is free, but requires you register for an account to retrieve your personal API key.
+The largest crowd-sourced CTI, updated in near real-time, thanks to CrowdSec a next-gen, open-source, free, and collaborative IDS/IPS software.
+is able to analyze visitor behavior & provide an adapted response to all kinds of attacks. Users can share their alerts about threats with the community and benefit from the network effect. The IP addresses are collected from real attacks and are not coming exclusively from a honeypot network.
+Cyber Cure free intelligence feeds
+Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed
+is available as well.
+Cyware Threat Intelligence Feeds
+Cyware’s Threat Intelligence feeds brings to you the valuable threat data from a wide range of open and trusted sources to deliver a consolidated stream of valuable and actionable threat intelligence. Our threat intel feeds are fully compatible with STIX 1.x and 2.0, giving you the latest information on malicious malware hashes, IPs and domains uncovered across the globe in real-time.
+DataPlane.org is a community-powered Internet data, feeds, and measurement resource for operators, by operators. We provide reliable and trustworthy service at no cost.
+Focsec.com provides a API for detecting VPNs, Proxys, Bots and TOR requests. Always up-to-date data helps with detecting suspicious logins, fraud and abuse. Code examples can be found in the
+DigitalSide Threat-Intel
+Contains sets of Open Source Cyber Threat Intelligence indicators, mostly based on malware analysis and compromised URLs, IPs and domains. The purpose of this project is to develop and test new ways to hunt, analyze, collect and share relevants IoCs to be used by SOC/CSIRT/CERT/individuals with minimun effort. Reports are shared in three ways:
+. Reports are published also in the
+project's Git repository
+Disposable Email Domains
+A collection of anonymous or disposable email domains commonly used to spam/abuse services.
+Free intelligence source for current and historical DNS information, WHOIS information, finding other websites associated with certain IPs, subdomain knowledge and technologies. There is a
+IP and domain intelligence API available
+ELLIO: IP Feed (community free version)
+A threat list of known malicious IP addresses anticipated to pose potential threats to your network in the near future, known benign scanners, and IP addresses of actors with unknown intent. It is provided with a 24-hour delay for personal, non-commercial use but still provides exceptional protection compared to other open IP threat lists/feeds.
+Emerging Threats Firewall Rules
+A collection of rules for several types of firewalls, including iptables, PF and PIX.
+Emerging Threats IDS Rules
+A collection of Snort and Suricata
+files that can be used for alerting or blocking.
+The ExoneraTor service maintains a database of IP addresses that have been part of the Tor network.  It answers the question whether there was a Tor relay running on a given IP address on a given date.
+Listing of latest exploits released.
+Intercept Security hosts a number of free IP Reputation lists from their global honeypot network.
+tracks the Feodo trojan.
+400+ publicly available IP Feeds analysed to document their evolution, geo-map, age of IPs, retention policy, overlaps. The site focuses on cyber crime (attacks, abuse, malware).
+FraudGuard is a service designed to provide an easy way to validate usage by continuously collecting and analyzing real-time internet traffic.
+GreyNoise collects and analyzes data on Internet-wide scanning activity. It collects data on benign scanners such as Shodan.io, as well as malicious actors like SSH and telnet worms.
+HoneyDB provides real time data of honeypot activity. This data comes from honeypots deployed on the Internet using the
+honeypot. In addition, HoneyDB provides API access to collected honeypot activity, which also includes aggregated data from various honeypot Twitter feeds.
+12,805 Free Yara rules created by Project Icewater.
+collection and analysis
+vulnerabilities database
+and more. Created and managed by CERT-PA.
+An open, interactive, and API driven data portal for security researchers. Search a large corpus of file samples, aggregate reputation information, and IOCs extracted from public sources. Augment YARA development with tooling to generate triggers, deal with mixed-case hex, and generate base64 compatible regular expressions.
+I-Blocklist maintains several types of lists containing IP addresses belonging to various categories. Some of these main categories include countries, ISPs and organizations. Other lists include web attacks, TOR, spyware and proxies. Many are free to use, and available in various formats.
+IPsum is a threat intelligence feed based on 30+ different publicly available lists of suspicious and/or malicious IP addresses. All lists are automatically retrieved and parsed on a daily (24h) basis and the final result is pushed to this repository. List is made of IP addresses together with a total number of (black)list occurrence (for each). Created and managed by
+James Brine Threat Intelligence Feeds
+JamesBrine provides daily threat intelligence feeds for malicious IP addresses from internationally located honeypots on cloud and private infrastructure covering a variety of protocols including SSH, FTP, RDP, GIT, SNMP and REDIS. The previous day's IOCs are available in STIX2 as well as additional IOCs such as suspicious URIs and newly registered domains which have a high probaility of use in phishing campaigns.
+Kaspersky Threat Data Feeds
+Continuously updated and inform your business or clients about risks and implications associated with cyber threats. The real-time data helps you to mitigate threats more effectively and defend against attacks even before they are launched. Demo Data Feeds contain truncated sets of IoCs (up to 1%) compared to the commercial ones
+Probable Whitelist of the top 1 million web sites, as ranked by Majestic. Sites are ordered by the number of referring subnets. More about the ranking can be found on their
+Maldatabase is designed to help malware data science and threat intelligence feeds. Provided data contain good information about, among other fields, contacted domains, list of executed processes and dropped files by each sample. These feeds allow you to improve your monitoring and security tools. Free services are available for Security Researchers and Students.
+The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.
+The MalShare Project is a public malware repository that provides researchers free access to samples.
+The Maltiverse Project is a big and enriched IoC database where is possible to make complex queries, and aggregations to investigate about malware campaigns and its infrastructures. It also has a great IoC bulk query service.
+MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.
+A searchable list of malicious domains that also performs reverse lookups and lists registrants, focused on phishing, trojans, and exploit kits.
+Malware Patrol provides block lists, data feeds and threat intelligence to companies of all sizes. Because our specialty is cyber threat intelligence, all our resources go into making sure it is of the highest quality possible. We believe a security team and it's tools are only as good as the data used. This means our feeds are not filled with scraped, unverified indicators. We value quality over quantity.
+Malware-Traffic-Analysis.net
+This blog focuses on network traffic related to malware infections. Contains traffic analysis exercises, tutorials, malware samples, pcap files of malicious network traffic, and technical blog posts with observations.
+The DNS-BH project creates and maintains a listing of domains that are known to be used to propagate malware and spyware. These can be used for detection as well as prevention (sinkholing DNS requests).
+MetaDefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by MetaDefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
+SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots
+NormShield Services provide thousands of domain information (including whois information) that potential phishing attacks may come from. Breach and blacklist services also available. There is free sign up for public services for continuous monitoring.
+NovaSense is the Snapt threat intelligence center, and provides insights and tools for pre-emptive threat protection and attack mitigation. NovaSense protects clients of all sizes from attackers, abuse, botnets, DoS attacks and more.
+The RSS reader for cybersecurity teams. Turn any blog into structured and actionable threat intelligence.
+OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
+Free service for detecting possbible phishing and malware domains, blacklisted IPs within the Portuguese cyberspace.
+PhishTank delivers a list of suspected phishing URLs. Their data comes from human reports, but they also ingest external feeds where possible. It's a free service, but registering for an API key is sometimes necessary.
+PickupSTIX is a feed of free, open-source, and non-commercialized cyber threat intelligence. Currently, PickupSTIX uses three public feeds and distributes about 100 new pieces of intelligence each day. PickupSTIX translates the various feeds into STIX, which can communicate with any TAXII server. The data is free to use and is a great way to begin using cyber threat intelligence.
+Q-Feeds Threat Intelligence
+Q-Feeds is a cybersecurity company that brings together data from OSINT, proprietary research, and commercial threat intelligence feeds to offer a well-rounded and highly actionable solution. Their Threat Intelligence Portal (TIP) makes it easy for organizations to access and manage this data in real-time. By integrating with firewalls, SIEMs, and other security platforms, Q-Feeds helps businesses proactively block connections to known malicious IPs, domains, and URLs—before threats can do harm. They also have a community version available on request.
+REScure Threat Intel Feed
+[RES]cure is an independant threat intelligence project performed by the Fruxlabs Crack Team to enhance their understanding of the underlying architecture of distributed systems, the nature of threat intelligence and how to efficiently collect, store, consume and distribute threat intelligence. Feeds are generated every 6 hours.
+RST Cloud Threat Intel Feed
+Aggregated Indicators of Compromise collected and cross-verified from multiple open and community-supported sources, enriched and ranked using our intelligence platform.
+Rutgers Blacklisted IPs
+IP List of SSH Brute force attackers is created from a merged of locally observed IPs and 2 hours old IPs registered at badip.com and blocklist.de
+SANS ICS Suspicious Domains
+The Suspicious Domains Threat Lists by
+tracks suspicious domains. It offers 3 lists categorized as either
+sensitivity, where the high sensitivity list has fewer false positives, whereas the low sensitivity list with more false positives. There is also an
+Finally, there is a suggested
+SecurityScorecard IoCs
+Public access IoCs from technical blogs posts and reports by SecurityScorecard.
+Your automated threat intelligence analyst. Extract machine readable intelligence from unstructured data.
+A database of signatures used in other tools by Neo23x0.
+The Spamhaus Project contains multiple threatlists associated with spam and malware activity.
+SophosLabs Intelix is the threat intelligence platform that powers Sophos products and partners. You can access intelligence based on file hash, url etc. as well as submit samples for analysis. Through REST API's you can easily and quickly add this threat intelligence to your systems.
+Spur provides tools and data to detect VPNs, Residential Proxies, and Bots. Free plan allows users to lookup an IP and get its classification, VPN provider, popular geolocations behind the IP, and some more useful context.
+SSL Blacklist (SSLBL) is a project maintained by abuse.ch. The goal is to provide a list of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. SSLBL relies on SHA1 fingerprints of malicious SSL certificates and offers various blacklists
+Statvoo Top 1 Million Sites
+Probable Whitelist of the top 1 million web sites, as ranked by Statvoo.
+Strongarm, by Percipient Networks
+Strongarm is a DNS blackhole that takes action on indicators of compromise by blocking malware command and control. Strongarm aggregates free indicator feeds, integrates with commercial feeds, utilizes Percipient's IOC feeds, and operates DNS resolvers and APIs for you to use to protect your network and business. Strongarm is free for personal use.
+Your detection engineering database. View, modify, and deploy SIEM rules for threat hunting and detection.
+Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world, comprised of world-class researchers, analysts and engineers. These teams are supported by unrivaled telemetry and sophisticated systems to create accurate, rapid and actionable threat intelligence for Cisco customers, products and services. Talos defends Cisco customers against known and emerging threats, discovers new vulnerabilities in common software, and interdicts threats in the wild before they can further harm the internet at large. Talos maintains the official rule sets of Snort.org, ClamAV, and SpamCop, in addition to releasing many open-source research and analysis tools. Talos provides an easy to use web UI to check an
+observable's reputation
+threatfeeds.io lists free and open-source threat intelligence feeds and sources and provides direct download links and live summaries.
+ThreatFox is a free platform from abuse.ch with the goal of sharing indicators of compromise (IOCs) associated with malware with the infosec community, AV vendors and threat intelligence providers.
+Technical Blogs and Reports, by ThreatConnect
+This source is being populated with the content from over 90 open source, security blogs. IOCs (
+Indicators of Compromise
+) are parsed out of each blog and the content of the blog is formatted in markdown.
+Threat Jammer is a REST API service that allows developers, security engineers, and other IT professionals to access high-quality threat intelligence data from a variety of sources and integrate it into their applications with the sole purpose of detecting and blocking malicious activity.
+ThreatMiner has been created to free analysts from data collection and to provide them a portal on which they can carry out their tasks, from reading reports to pivoting and data enrichment.
+The emphasis of ThreatMiner isn't just about indicators of compromise (IoC) but also to provide analysts with contextual information related to the IoC they are looking at.
+WSTNPHX Malware Email Addresses
+Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)
+UnderAttack is a free intelligence platform, it shares IPs and information about suspicious events and attacks. Registration is free.
+URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.
+VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of malicious code. Access to the site is granted via invitation only.
+VulDB is a vulnerability database which associates actor activities and attack details with vulnerabilities. The predictive approach helps to determine emerging research and attack activities by malicious actors.
+An open source repository with different Yara signatures that are compiled, classified and kept as up to date as possible.
+1st Dual Stack Threat Feed by MrLooquer
+Mrlooquer has created the first threat feed focused on systems with dual stack. Since IPv6 protocol has begun to be part of malware and fraud communications, It is necessary to detect and mitigate the threats in both protocols (IPv4 and IPv6).
+Free intelligence source for current and historical DNS information, finding other websites associated with certain IPs, and subdomain knowledge There is a
+free API for IP and domain intelligence
+Standardized formats for sharing Threat Intelligence (mostly IOCs).
+The Common Attack Pattern Enumeration and Classification (CAPEC) is a comprehensive dictionary and classification taxonomy of known attacks that can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.
+The Cyber Observable eXpression (CybOX) language provides a common structure for representing cyber observables across and among the operational areas of enterprise cyber security that improves the consistency, efficiency, and interoperability of deployed tools and processes, as well as increases overall situational awareness by enabling the potential for detailed automatable sharing, mapping, detection, and analysis heuristics.
+The Incident Object Description Exchange Format (IODEF) defines a data representation that provides a framework for sharing information commonly exchanged by Computer Security Incident Response Teams (CSIRTs) about computer security incidents.
+- The purpose of the Intrusion Detection Message Exchange Format (IDMEF) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.
+The Malware Attribute Enumeration and Characterization (MAEC) projects is aimed at creating and providing a standardized language for sharing structured information about malware based upon attributes such as behaviors, artifacts, and attack patterns.
+OASIS Open Command and Control (OpenC2) Technical Committee. The OpenC2 TC will base its efforts on artifacts generated by the OpenC2 Forum. Prior to the creation of this TC and specification, the OpenC2 Forum was a community of cyber-security stakeholders that was facilitated by the National Security Agency (NSA). The OpenC2 TC was chartered to draft documents, specifications, lexicons or other artifacts to fulfill the needs of cyber security command and control in a standardized manner.
+The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called
+that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort. STIX 1.x has been archived
+The Trusted Automated eXchange of Indicator Information (TAXII) standard defines a set of services and message exchanges that, when implemented,  enable sharing of actionable cyber threat information across organization and product/service boundaries. TAXII defines concepts, protocols, and message exchanges to exchange cyber threat information for the detection, prevention, and mitigation of cyber threats.
+The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structured format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (
+) and publishes this database online in a GitHub
+Frameworks and Platforms
+Frameworks, platforms and services for collecting, analyzing, creating and sharing Threat Intelligence.
+AbuseHelper is an open-source framework for receiving and redistributing abuse feeds and threat intel.
+A toolkit to receive, process, correlate and notify end users about abuse reports, thereby consuming threat intelligence feeds.
+The Cybersecurity and Infrastructure Security Agency (CISA) free Automated Indicator Sharing (AIS) capability enables the exchange of cyber threat indicators between the Federal Government and the private sector at machine speed. Threat indicators are pieces of information like malicious IP addresses or the sender address of a phishing email (although they can also be much more complicated).
+The fastest way to consume threat intelligence. Successor to CIF.
+Blueliv Threat Exchange Network
+Allows participants to share threat indicators with the community.
+Cortex allows observables, such as IPs, email addresses, URLs, domain names, files or hashes, to be analyzed one by one or in bulk mode using a single web interface. The web interface acts as a frontend for numerous analyzers, removing the need for integrating these yourself during analysis. Analysts can also use the Cortex REST API to automate parts of their analysis.
+CRITS is a platform that provides analysts with the means to conduct collaborative research into malware and threats. It plugs into a centralized intelligence data repository, but can also be used as a private instance.
+The Collective Intelligence Framework (CIF) allows you to combine known malicious threat information from many sources and use that information for IR, detection and mitigation. Code available on
+CTIX is a smart, client-server threat intelligence platform (TIP) for ingestion, enrichment, analysis, and bi-directional sharing of threat data within your trusted network.
+EclecticIQ Platform is a STIX/TAXII based Threat Intelligence Platform (TIP) that empowers threat analysts to perform faster, better, and deeper investigations while disseminating intelligence at machine-speed.
+IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.
+Intel Owl is an OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. Intel Owl is composed of analyzers that can be run to retrieve data from external sources (like VirusTotal or AbuseIPDB) or to generate intel from internal analyzers (like Yara or Oletools). It can be integrated easily in your stack of security tools (
+) to automate common jobs usually performed, for instance, by SOC analysts manually.
+Kaspersky Threat Intelligence Portal
+A website that provides a knowledge base describing cyber threats, legitimate objects, and their relationships, brought together into a single web service. Subscribing to Kaspersky Lab’s Threat Intelligence Portal provides you with a single point of entry to four complementary services: Kaspersky Threat Data Feeds, Threat Intelligence Reporting, Kaspersky Threat Lookup and Kaspersky Research Sandbox, all available in human-readable and machine-readable formats.
+Malstrom aims to be a repository for threat tracking and forensic artifacts, but also stores YARA rules and notes for investigation. Note: Github project has been archived (no new contributions accepted).
+The ManaTI project assists threat analyst by employing machine learning techniques that find new relationships and inferences automatically.
+The Model-based Analysis of Threat Intelligence Sources (MANTIS) Cyber Threat Intelligence Management Framework supports the management of cyber threat intelligence expressed in various standard languages, like STIX and CybOX. It is *not* ready for large-scale production though.
+Megatron is a tool implemented by CERT-SE which collects and analyses bad IPs, can be used to calculate statistics, convert and analyze log files and in abuse & incident handling.
+An extensible Threat Intelligence processing framework created Palo Alto Networks.
+It can be used to manipulate lists of indicators and transform and/or aggregate them for consumption by third party enforcement infrastructure.
+The Malware Information Sharing Platform (MISP) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and malware analysis.
+n6 (Network Security Incident eXchange) is a system to collect, manage and distribute security information on a large scale. Distribution is realized through a simple REST API and a web interface that authorized users can use to receive various types of data, in particular information on threats and incidents in their networks. It is developed by
+Open Cybersecurity Schema Framework (OCSF)
+The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema. Vendors and other data producers can adopt and extend the schema for their specific domains. Data engineers can map differing schemas to help security teams simplify data ingestion and normalization, so that data scientists and analysts can work with a common language for threat detection and investigation. The goal is to provide an open standard, adopted in any environment, application, or solution, while complementing existing security standards and processes.
+OpenCTI, the Open Cyber Threat Intelligence platform, allows organizations to manage their cyber threat intelligence knowledge and observables. Its goal is to structure, store, organize and visualize technical and non-technical information about cyber threats. Data is structured around a knowledge schema based on the STIX2 standards. OpenCTI can be integrated with other tools and platforms, including MISP, TheHive, and MITRE ATT&CK, a.o.
+OpenIOC is an open framework for sharing threat intelligence. It is designed to exchange threat information both internally and externally in a machine-digestible format.
+OpenTAXII is a robust Python implementation of TAXII Services that delivers a rich feature set and a friendly Pythonic API built on top of a well designed application.
+An open source plugin-oriented framework to collect and visualize Threat Intelligence information.
+OTX - Open Threat Exchange
+AlienVault Open Threat Exchange (OTX) provides open access to a global community of threat researchers and security professionals. It delivers community-generated threat data, enables collaborative research, and automates the process of updating your security infrastructure with threat data from any source.
+Open Threat Partner eXchange
+The Open Threat Partner eXchange (OpenTPX) consists of an open-source format and tools for exchanging machine-readable threat intelligence and network security operations data. It is a JSON-based format that allows sharing of data between connected systems.
+The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
+Pulsedive is a free, community threat intelligence platform that is consuming open-source feeds, enriching the IOCs, and running them through a risk-scoring algorithm to improve the quality of the data. It allows users to submit, search, correlate, and update IOCs; lists "risk factors" for why IOCs are higher risk; and provides a high level view of threats and threat activity.
+Recorded Future is a premium SaaS product that automatically unifies threat intelligence from open, closed, and technical sources into a single solution. Their technology uses natural language processing (NLP) and machine learning to deliver that threat intelligence in real time — making Recorded Future a popular choice for IT security teams.
+Scumblr is a web application that allows performing periodic syncs of data sources (such as Github repositories and URLs) and performing analysis (such as static analysis, dynamic checks, and metadata collection) on the identified results.
+Scumblr helps you streamline proactive security through an intelligent automation framework to help you identify, track, and resolve security issues faster.
+Anomali STAXX™ gives you a free, easy way to subscribe to any STIX/TAXII feed. Simply download the STAXX client, configure your data sources, and STAXX will handle the rest.
+stoQ is a framework that allows cyber analysts to organize and automate repetitive, data-driven tasks. It features plugins for many other systems to interact with.
+One use case is the extraction of IOCs from documents, an example of which is shown
+, but it can also be used for deobfuscationg and decoding of content and automated scanning with YARA, for example.
+The Threat Analysis, Reconnaissance, and Data Intelligence System (TARDIS) is an open source framework for performing historical searches using attack signatures.
+ThreatConnect is a platform with threat intelligence, analytics, and orchestration capabilities. It is designed to help you collect data, produce intelligence, share it with others, and take action on it.
+ThreatCrowd is a system for finding and researching artefacts relating to cyber threats.
+Stay two steps ahead of your adversaries. Get a complete picture of how they will exploit you.
+ThreatPipes is a reconnaissance tool that automatically queries 100’s of data sources to gather intelligence on IP addresses, domain names, e-mail addresses, names and more.
+You simply specify the target you want to investigate, pick which modules to enable and then ThreatPipes will collect data to build up an understanding of all the entities and how they relate to each other.
+Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in
+. Reference code can be found at
+TypeDB Data - CTI is an open source threat intelligence platform for organisations to store and manage their cyber threat intelligence (CTI) knowledge. It enables threat intel professionals to bring together their disparate CTI information into one database and find new insights about cyber threats. This repository provides a schema that is based on STIX2, and contains MITRE ATT&CK as an example dataset to start exploring this threat intelligence platform. More in this
+VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers.
+The new and improved threatnote.io - A tool for CTI analysts and teams to manage intel requirements, reporting, and CTI processes in an all-in-one platform
+XFE - X-Force Exchange
+The X-Force Exchange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
+The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
+All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
+ActorTrackr is an open source web application for storing/searching/linking actor related data. The primary sources are from users and various public repositories. Source available on
+AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
+Artificial Intelligence Ocular Character Recognition Indicator of Compromise (AIOCRIOC) is a tool that combines web scraping, the OCR capabilities of Tesseract and OpenAI compatible LLM API's such as GPT-4 to parse and extract IOCs from reports and other web content including embedded images with contextual data.
+Analyze is an all-in-one malware analysis platform that is able to perform static, dynamic, and genetic code analysis on all types of files. Users can track malware families, extract IOCs/MITRE TTPs, and download YARA signatures. There is a community edition to get started for free.
+Automater is a URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis process easier for intrusion Analysts.
+BlueBox is an OSINT solution to get threat intelligence data about a specific file, an IP, a domain or URL and analyze them.
+BotScout helps prevent automated web scripts, known as "bots", from registering on forums, polluting databases, spreading spam, and abusing forms on web sites.
+Script for generating Bro intel files from pdf or html reports.
+A simple Python library for interacting with TAXII servers.
+Cacador is a tool written in Go for extracting common indicators of compromise from a block of text.
+Combine gathers Threat Intelligence Feeds from publicly available sources.
+CrowdFMS is a framework for automating collection and processing of samples from VirusTotal, by leveraging the Private API system.
+The framework automatically downloads recent samples, which triggered an alert on the users YARA notification feed.
+CTI-Transmute is a tool for converting Cyber Threat Intelligence (CTI) data between MISP and STIX formats. It provides a set of API endpoints that allow automated conversion of data, making it easier to integrate different threat intelligence platforms and workflows. Source available on
+Cuckoo Sandbox is an automated dynamic malware analysis system. It's the most well-known open source malware analysis sandbox around and is frequently deployed by researchers, CERT/SOC teams, and threat intelligence teams all around the globe. For many organizations Cuckoo Sandbox provides a first insight into potential malware samples.
+CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
+CyBot is a threat intelligence chat bot. It can perform several types of lookups offered by custom modules.
+Simple Bash IOC Scanner.
+FireHOL IP Aggregator
+Application for keeping feeds from FireHOL
+with IP addresses appearance history. HTTP-based API service is developed for search requests.
+Multithreaded threat intelligence hunter-gatherer script.
+Gigasheet is a SaaS product used to analyze massive, and disparate cybersecurity data sets. Import massive log files, netflow, pcaps, big CSVs and more.
+GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
+Google APT Search Engine
+APT Groups, Operations and Malware Search Engine. The sources used for this Google Custom Search are listed on
+The GOSINT framework is a free project used for collecting, processing, and exporting high quality public indicators of compromise (IOCs).
+A tool to lookup related information from crytographic hash value
+Harbinger Threat Intelligence
+Python script that allows to query multiple online threat aggregators from a single interface.
+Hippocampe aggregates threat feeds from the Internet in an Elasticsearch cluster. It has a REST API which allows to search into its 'memory'. It is based on a Python script which fetchs URLs corresponding to feeds, parses and indexes them.
+A tool to organize APT campaign information and to visualize relations between IOCs.
+A free editor for Indicators of Compromise (IOCs).
+Python library for finding indicators of compromise in text. Uses grammars rather than regexes for improved comprehensibility. As of February, 2019, it parses over 18 indicator types.
+IOC Fanger (and Defanger)
+Python library for fanging (`hXXp://example[.]com` => `
+=> `hXXp://example[.]com`) indicators of compromise in text.
+Tool to extract indicators of compromise from security reports in PDF format.
+Provides a Python library that allows for basic creation and editing of OpenIOC objects.
+Extracts URLs, IP addresses, MD5/SHA hashes, email addresses, and YARA rules from text corpora. Includes some encoded and “defanged” IOCs in the output, and optionally decodes/refangs them.
+IOC (Indicator of Compromise) Extractor is a program to help extract IOCs from text files. The general goal is to speed up the process of parsing structured data (IOCs) from unstructured or semi-structured data
+ibmxforceex.checker.py
+Python client for the IBM X-Force Exchange.
+Jager is a tool for pulling useful IOCs (indicators of compromise) out of various input sources (PDFs for now, plain text really soon, webpages eventually) and putting them into an easy to manipulate JSON format.
+Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
+KLara, a distributed system written in Python, allows researchers to scan one or more Yara rules over collections with samples, getting notifications by e-mail as well as the web interface when scan results are ready.
+A Python library for handling TAXII Messages invoking TAXII Services.
+Simple IOC and Incident Response Scanner.
+LookUp is a centralized page to get various threat information about an IP address. It can be integrated easily into context menus of tools like SIEMs and other investigative tools.
+Machinae is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints.
+Amodular malware (and indicator) collection and processing framework. It is designed to pull malware, domains, URLs and IP addresses from multiple feeds, enrich the collected data and export the results.
+Tools to export data out of the MISP MySQL database and use and abuse them outside of this platform.
+A set of configuration files to use with EclecticIQ's OpenTAXII implementation, along with a callback for when data is sent to the TAXII Server's inbox.
+MSTIC Jupyter and Python Security Tools
+msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks.
+The goal of this project is to facilitate distribution of Threat Intelligence artifacts to defensive systems and to enhance the value derived from both open source and commercial tools.
+Python library to determine if a domain is in the Alexa or Cisco top, one million domain lists.
+Generate STIX XML from OpenIOC XML.
+Omnibus is an interactive command line application for collecting and managing IOCs/artifacts (IPs, Domains, Email Addresses, Usernames, and Bitcoin Addresses), enriching these artifacts with OSINT data from public sources, and providing the means to store and access these artifacts in a simple way.
+A homebrew threat data platform.
+Open-source project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary database). Originally developed in ruby, but new codebase completely rewritten in python.
+PyIOCe is an IOC editor written in Python.
+QRadio is a tool/framework designed to consolidate cyber threats intelligence sources.
+The goal of the project is to establish a robust modular framework for extraction of intelligence data from vetted sources.
+Collecting & Hunting for Indicators of Compromise (IOC) with gusto and style!
+A host investigations tool that can be used for, amongst others, IOC analysis.
+Real Intelligence Threat Analytics (RITA) is intended to help in the search for indicators of compromise in enterprise networks of varying size.
+Lightweight National Software Reference Library RDS storage.
+Threat hunter based on osquery, Salt Open and Cymon API. It can query open network sockets and check them against threat intelligence sources
+Full TAXII 2.0 specification server implemented in Node JS with MongoDB backend.
+Stixvalidator.com is an online free STIX and STIX2 validator service.
+Stixview is a JS library for embeddable interactive STIX2 graphs.
+STIX Visualization Tool.
+Allows you to test your TAXII environment by connecting to the provided services and performing the different functions as written in the TAXII specifications.
+ThreatAggregrator aggregates security threats from a number of online sources, and outputs to various formats, including CEF, Snort and IPTables rules.
+Python Library for ThreatCrowd's API.
+Cli interface to ThreatCrowd.
+Threatelligence is a simple cyber threat intelligence feed collector, using Elasticsearch, Kibana and Python to automatically collect intelligence from custom or public sources. Automatically updates feeds and tries to further enhance data for dashboards. Projects seem to be no longer maintained, however.
+Flexible, configuration-driven, extensible framework for consuming threat intelligence. ThreatIngestor can watch Twitter, RSS feeds, and other sources, extract meaningful information like C2 IPs/domains and YARA signatures, and send that information to other systems for analysis.
+An extension for Chrome that creates hover popups on every page for IPv4, MD5, SHA2, and CVEs. It can be used for lookups during threat investigations.
+A Python script designed to monitor and generate alerts on given sets of  IOCs indexed by a set of Google Custom Search Engines.
+Several APIs for Threat Intelligence integrated in a single package. Included are: OpenDNS Investigate, VirusTotal and ShadowServer.
+Threat-Intelligence-Hunter
+TIH is an intelligence tool that helps you in searching for IOCs across multiple openly available security feeds and some well known APIs. The idea behind the tool is to facilitate searching and storing of frequently added IOCs for creating your own local database of indicators.
+The Threat Intelligence Quotient (TIQ) Test tool provides visualization and statistical analysis of TI feeds.
+YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
+Research, Standards & Books
+All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.
+APT & Cyber Criminal Campaign Collection
+Extensive collection of (historic) campaigns. Entries come from various sources.
+A great collection of sources regarding
+Advanced Persistent Threats
+(APTs). These reports usually include strategic and tactical knowledge or advice.
+Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK™) is a model and framework for describing the actions an adversary may take while operating within an enterprise network. ATT&CK is a constantly growing common reference for post-access techniques that brings greater awareness of what actions may be seen during a network intrusion. MITRE is actively working on integrating with related construct, such as CAPEC, STIX and MAEC.
+Building Threat Hunting Strategies with the Diamond Model
+Blogpost by Sergio Caltagirone on how to develop intelligent threat hunting strategies by using the Diamond Model.
+Cyber Analytics Repository by MITRE
+The Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by MITRE based on the Adversary Tactics, Techniques, and Common Knowledge (ATT&CK™) threat model.
+Cyber Threat Intelligence Capability Maturity Model (CTI-CMM)
+Cyber Threat Intelligence Capability Maturity Model (CTI-CMM)
+using a stakeholder-first approach and aligned with the
+Cybersecurity Capability Maturity Model (C2M2)
+to empower your team and create lasting value.
+Cyber Threat Intelligence Repository by MITRE
+The Cyber Threat Intelligence Repository of ATT&CK and CAPEC catalogs expressed in STIX 2.0 JSON.
+Cyber Threat Intelligence: A Product Without a Process?
+A research paper describing how current cyber threat intelligence products fall short and how they can be improved by introducing and evaluating sound methodologies and processes.
+Definitive Guide to Cyber Threat Intelligence
+Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers. Further examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical
+The Detection Maturity Level (DML)
+The DML model is a capability maturity model for referencing ones maturity in detecting cyber attacks.
+It's designed for organizations who perform intel-driven detection and response and who put an emphasis on having a mature detection program.
+The maturity of an organization is not measured by it's ability to merely obtain relevant intelligence, but rather it's capacity to apply that intelligence effectively to detection and response functions.
+The Diamond Model of Intrusion Analysis
+This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporting increased measurability, testability and repeatability in intrusion analysis in order to attain higher effectivity, efficiency and accuracy in defeating adversaries is one of its main contributions.
+The Targeting Process: D3A and F3EAD
+F3EAD is a military methodology for combining operations and intelligence.
+Guide to Cyber Threat Information Sharing by NIST
+The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharing communities, and protecting incident-related data.
+Intelligence Preparation of the Battlefield/Battlespace
+This publication discusses intelligence preparation of the battlespace (IPB) as a critical component of the military decision making and planning process and how IPB supports decision making, as well as integrating processes and continuing activities.
+Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+The intrusion kill chain as presented in this paper provides one with a structured approach to intrusion analysis, indicator extraction and performing defensive actions.
+ISAO Standards Organization
+The ISAO Standards Organization is a non-governmental organization established on October 1, 2015. Its mission is to improve the Nation’s cybersecurity posture by identifying standards and guidelines for robust and effective information sharing related to cybersecurity risks, incidents, and best practices.
+Joint Publication 2-0: Joint Intelligence
+This publication by the U.S army forms the core of joint intelligence doctrine and lays the foundation to fully integrate operations, plans and intelligence into a cohesive team. The concepts presented are applicable to (Cyber) Threat Intelligence too.
+Microsoft Research Paper
+A framework for cybersecurity information sharing and risk reduction. A high level overview paper by Microsoft.
+MISP Core Format (draft)
+This document describes the MISP core format used to exchange indicators and threat information between MISP (Malware Information and threat Sharing Platform) instances.
+The Nippon-European Cyberdefense-Oriented Multilayer threat Analysis (NECOMA) research project is aimed at improving threat data collection and analysis to develop and demonstratie new cyberdefense mechanisms.
+As part of the project several publications and software projects have been published.
+The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders.
+Structured Analytic Techniques For Intelligence Analysis
+This book contains methods that represent the most current best practices in intelligence, law enforcement, homeland security, and business analysis.
+Threat Intelligence: Collecting, Analysing, Evaluating
+This report by MWR InfoSecurity clearly describes several different types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
+Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives
+A systematic study of 22 Threat Intelligence Sharing Platforms (TISP) surfacing eight key findings about the current state of threat intelligence usage, its definition and TISPs.
+Traffic Light Protocol
+The Traffic Light Protocol (TLP) is a set of designations used to ensure that sensitive information is shared with the correct audience. It employs four colors to indicate different degrees of sensitivity and the corresponding sharing considerations to be applied by the recipient(s).
+Unit42 Playbook Viewer
+The goal of the Playbook is to organize the tools, techniques, and procedures that an adversary uses into a structured format, which can be shared with others, and built upon. The frameworks used to structure and share the adversary playbooks are MITRE's ATT&CK Framework and STIX 2.0
+Who's Using Cyberthreat Intelligence and How?
+A whitepaper by the SANS Institute describing the usage of Threat Intelligence including a survey that was performed.
+The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny.
+A curated list of Awesome Threat Intelligence resources
+There was an error while loading.
+Please reload this page
+No releases published
+No packages published
+There was an error while loading.
+Please reload this page
+You can’t perform that action at this time.

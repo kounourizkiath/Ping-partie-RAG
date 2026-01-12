@@ -1,0 +1,62 @@
+Source: https://www.cert.ssi.gouv.fr/
+Scraped: 2025-12-22 20:51:01
+================================================================================
+
+CERT-FR â Cert national et gouvernemental franÃ§ais
+Alertes de sÃ©curitÃ©
+Les alertes de sÃ©curitÃ© sont des documents destinÃ©s Ã  prÃ©venir d'un danger
+[MÃ J] VulnÃ©rabilitÃ© dans React Server Components
+[MÃ J] Multiples vulnÃ©rabilitÃ©s dans Cisco ASA et FTD
+ClÃ´turÃ©e le 09/12/25
+VulnÃ©rabilitÃ© dans Citrix NetScaler ADC et NetScaler Gateway
+ClÃ´turÃ©e le 26/09/25
+[MÃ J] Multiples vulnÃ©rabilitÃ©s dans Microsoft SharePoint
+ClÃ´turÃ©e le 26/08/25
+Incidents de sÃ©curitÃ© dans les pare-feux SonicWall
+ClÃ´turÃ©e le 18/08/25
+Voir toutes les alertes >>
+En cas d'incident, les bons rÃ©flexes en cas d'intrusion sur un systÃ¨me d'information sont Ã  retrouver
+Les rapports Menaces et incidents dÃ©taillent l'Ã©tat des connaissances et les investigations de l'ANSSI en
+analyse de la menace et traitements d'incidents
+ð¬ð§ Mobile phones : Threat landscape since 2015
+TÃ©lÃ©phones mobiles : Ãtat de la menace depuis 2015
+OpÃ©ration ENDGAME de novembre 2025
+Campagne de notifications de menace envoyÃ©e par Apple
+ð¬ð§ Houken seeking a path by living on the edge with zero-days
+Voir tous les rapports Â»
+Les avis de sÃ©curitÃ© sont des documents faisant Ã©tat de vulnÃ©rabilitÃ©s et des moyens de s'en
+Multiples vulnÃ©rabilitÃ©s dans le noyau Linux de Debian LTS
+Multiples vulnÃ©rabilitÃ©s dans le noyau Linux d'Ubuntu
+Multiples vulnÃ©rabilitÃ©s dans MongoDB Server
+Multiples vulnÃ©rabilitÃ©s dans le noyau Linux de SUSE
+Multiples vulnÃ©rabilitÃ©s dans le noyau Linux de Red Hat
+Multiples vulnÃ©rabilitÃ©s dans les produits IBM
+Multiples vulnÃ©rabilitÃ©s dans les produits Foxit
+Multiples vulnÃ©rabilitÃ©s dans les produits VMware
+Voir tous les avis Â»
+Indicateurs de compromission
+Les indicateurs de compromission, qualifiÃ©s ou non par l'ANSSI, sont partagÃ©s Ã  des fins de prÃ©ventions
+Codes malveillants utilisÃ©s Ã  des fins destructrices
+ð¬ð§ Malicious activities linked to the Nobelium intrusion set
+FIN 12 : Un groupe cybercriminel aux multiples ranÃ§ongiciels
+ð«ð·/ð¬ð§ Feed MISP public
+ð«ð·/ð¬ð§ Campagnes d'hameÃ§onnage du mode opÃ©ratoire d'attaquants Nobelium
+Voir tous les indicateurs Â»
+Durcissement et recommandations
+Un ensemble de points de contrÃ´le visant Ã  identifier des faiblesses potentiellement exploitables sur un
+systÃ¨me d'information sont proposÃ©s ; une sÃ©rie de recommandations opÃ©rationnelles complÃ¨tent ces points
+d'audit afin de durcir le niveau de sÃ©curitÃ© du systÃ¨me d'information
+10 best practice rules for using mobile phones
+10 bonnes pratiques pour lâutilisation des tÃ©lÃ©phones mobiles
+Classe de vulnÃ©rabilitÃ©s en environnement Active Directory
+Points de contrÃ´le Active Directory
+Voir toutes les recommandations Â»
+Bulletins d'actualitÃ©
+Les bulletins d'actualitÃ© fournissent une illustration par l'actualitÃ© rÃ©cente de certaines
+pragmatiques Ã  appliquer
+Bulletin d'actualitÃ© CERTFR-2025-ACT-056
+Bulletin d'actualitÃ© CERTFR-2025-ACT-055
+Bulletin d'actualitÃ© CERTFR-2025-ACT-054
+VulnÃ©rabilitÃ© dans React Server Components
+Bulletin d'actualitÃ© CERTFR-2025-ACT-052
+Voir tous les bulletins Â»

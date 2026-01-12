@@ -1,0 +1,20 @@
+Source: https://www.mitre.org/publications/technical-papers/11-strategies-world-class-cybersecurity-operations-center
+Scraped: 2025-12-22 21:04:20
+================================================================================
+
+11 Strategies of a World-Class Cybersecurity Operations Center | MITRE
+For enhancing digital defense by security operations center (SOC) operators, MITRE offers free downloads of 11 Strategies for a World-Class Cybersecurity Operations Center.
+11 Strategies of a World-Class Cybersecurity Operations Center
+11 Strategies of a World Class CSOC Highlights
+If you are getting started in cybersecurity operations, evolving your existing security operations center (SOC), or engaging with a SOC regularly, MITRE offers free downloads of
+11 Strategies of a World-Class Cybersecurity Operations Center—
+both for the 20-page summary document and the full textbook. Fully revised, this second edition of the popular
+10 Strategies of a World-Class Cybersecurity Operations Center
+includes new material and evolved thinking to bring a fresh approach to excelling at cybersecurity operations and leveraging up your cyber defenses.
+Understand the mission context in which the SOC operates.
+Identify the right SOC structure and functions for your organization.
+Hire and grow talented staff, foster a sense of community, and create a place people want to be.
+Instrument digital assets and fuse their data to speed workflow, maximize detection, and inform situational awareness.
+Leverage cyber threat intelligence to operationalize threat-oriented defense, adversary emulation, hunting, and response.
+Tell the SOC’s story through effective metrics and communications, internally and externally.
+is also available as an

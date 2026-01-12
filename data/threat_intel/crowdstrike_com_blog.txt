@@ -1,0 +1,81 @@
+Source: https://www.crowdstrike.com/blog/
+Scraped: 2025-12-22 21:05:17
+================================================================================
+
+Cybersecurity Blog | CrowdStrike
+CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response
+John Gamble - December 15, 2025
+Cloud & Application Security
+Endpoint Security & XDR
+Next-Gen Identity Security
+Next-Gen SIEM & Log Management
+Threat Hunting & Intel
+CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&CK® Enterprise Evaluations
+Elia Zaitsev - December 10, 2025
+Endpoint Security & XDR
+CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years
+Dana Larson - December 17, 2025
+Endpoint Security & XDR
+Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration
+Charles Choe - December 08, 2025
+Next-Gen Identity Security
+View All Recent Articles
+How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing
+Andrei Preda - Alexandru Dinu - Florian Stortz - Nathan Nusaputra - Catalin-Andrei Stan  - December 22, 2025
+Inside CrowdStrike’s Science-Backed Approach to Building Expert SOC Agents
+Ted Driggs - Chase Midler - December 19, 2025
+CrowdTour 2026: Securing the AI Era Together
+Gautam Mehandru - December 19, 2025
+CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years
+Dana Larson - December 17, 2025
+Endpoint Security & XDR
+How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing
+Inside CrowdStrike’s Science-Backed Approach to Building Expert SOC Agents
+CrowdTour 2026: Securing the AI Era Together
+Cloud & Application Security
+CrowdStrike Unveils Real-Time Cloud Detection and Response Innovations
+New User Experience Transforms Interaction with the Falcon Platform
+How Falcon ASPM Secures GenAI Applications and Lessons from Dogfooding
+Threat Hunting & Intel
+Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary
+CrowdStrike Research: Security Flaws in DeepSeek-Generated Code Linked to Political Triggers
+CrowdStrike 2025 European Threat Landscape Report: Extortion Rises, Nation-State Activity Intensifies
+Endpoint Security & XDR
+CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years
+CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&CK® Enterprise Evaluations
+Defeating BLOCKADE SPIDER: How CrowdStrike Stops Cross-Domain Attacks
+EMBER2024: Advancing the Training of Cybersecurity ML Models Against Evasive Malware
+Falcon Platform Prevents COOKIE SPIDER’s SHAMOS Delivery on macOS
+CrowdStrike’s Approach to Better Machine Learning Evaluation Using Strategic Data Splitting
+The Dawn of the Agentic SOC: Reimagining Cybersecurity for the AI Era
+CrowdStrike Falcon Platform Evolves to Lead the Agentic Security Era
+CrowdStrike to Acquire Pangea to Secure Enterprise AI Use and Development
+CrowdStrike Named a Leader in 2025 IDC MarketScape for Worldwide Incident Response Services
+CrowdStrike Launches New AI Security Services to Strengthen AI Security and SOC Readiness
+CrowdStrike Detects and Blocks Initial SharePoint Zero-Day Exploitation
+Next-Gen Identity Security
+Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration
+CrowdStrike Named Overall Leader in 2025 KuppingerCole ITDR Leadership Compass
+CrowdStrike Named the Leader in 2025 Frost Radar for SaaS Security Posture Management
+Next-Gen SIEM & Log Management
+Transform AWS Security Operations with Falcon Next-Gen SIEM
+CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR
+CrowdStrike Named a Visionary in 2025 Gartner® Magic Quadrant™ for Security Information and Event Management
+CrowdStrike Achieves FedRAMP® High Authorization
+NHS Matures Healthcare Cybersecurity with NCSC’s CAF Assurance Model
+Zero Trust Strengthens Data Protection to Achieve National Cyber Strategy Goals
+Inside the Latest Innovations Powering Falcon Exposure Management
+December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs
+From Vulnerability Management to Exposure Management: The Platform Era Has Arrived
+SMB Security Survey Reveals High Awareness, Lagging Protection
+One Year of Falcon Go: Transforming Cybersecurity for Small Businesses
+CrowdStrike Strengthens SMB Security with Seamless Mobile Protection
+Falcon Data Protection for Cloud Extends DSPM into Runtime
+CrowdStrike Stops GenAI Data Leaks with Unified Data Protection
+Q&A: How Mastronardi Produce Secures Innovation with CrowdStrike
+CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response
+Data Leakage: AI’s Plumbing Problem
+Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems
+Dive into topics ranging from endpoint security and threat intelligence, to incident response and forensic services.
+See CrowdStrike Falcon® in Action
+Only CrowdStrike addresses today’s most advanced threats with a true SaaS endpoint protection solution – giving you the ability to detect, prevent, monitor, and search attacks as they occur.

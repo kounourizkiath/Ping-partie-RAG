@@ -1,0 +1,37 @@
+Source: https://cloud.google.com/chronicle/docs/detection
+Scraped: 2025-12-22 20:56:48
+================================================================================
+
+Passer au contenu principal
+Español – América Latina
+Google Security Operations
+Commencer l'essai gratuit
+Cette page a été traduite par l'
+API Cloud Translation
+Google Security Operations
+Restez organisé à l'aide des collections
+Enregistrez et classez les contenus selon vos préférences.
+Présentation des renseignements sur les menaces appliqués
+Applied Threat Intelligence (ATI) vous aide à identifier les menaces et à y répondre. Il analyse et évalue en permanence vos données télémétriques de sécurité par rapport aux indicateurs de compromission (IoC) sélectionnés par les renseignements sur les menaces de Mandiant.
+Lorsque l'ATI est activé, Google Security Operations ingère les IoC sélectionnés par Mandiant Threat Intelligence et classés comme
+par le verdict GTI (Google Threat Indicator).
+Lorsqu'une correspondance est trouvée, une alerte est générée. Vous pouvez ensuite examiner l'IoC sur la page
+, qui affiche les correspondances IoC possibles pour les domaines, les adresses IP, les hachages de fichiers et les URL. Des informations sur l'IoC s'affichent, y compris :
+Vous pouvez également afficher des informations détaillées sur les événements qui ont déclenché la correspondance avec l'IoC, des informations provenant de la source de renseignements sur les menaces et la justification du score GTI. Pour en savoir plus, consultez
+Afficher les IoC à l'aide d'Applied Threat Intelligence
+Les détections sélectionnées par Google SecOps évaluent vos données d'événements par rapport aux données de renseignements sur les menaces de Mandiant. Elles génèrent une alerte lorsqu'une ou plusieurs règles identifient une correspondance avec un IoC de priorité
+Pour utiliser Applied Threat Intelligence :
+détections personnalisées de renseignements appliqués sur les menaces
+Examinez les alertes à l'aide de la page
+Correspondances d'IOC
+Pour en savoir plus sur l'attribution du score IC, consultez la
+présentation du score IC
+Vous avez encore besoin d'aide ?
+Obtenez des réponses de membres de la communauté et de professionnels Google SecOps.
+Sauf indication contraire, le contenu de cette page est régi par une licence
+Creative Commons Attribution 4.0
+, et les échantillons de code sont régis par une licence
+. Pour en savoir plus, consultez les
+Règles du site Google Developers
+. Java est une marque déposée d'Oracle et/ou de ses sociétés affiliées.
+Dernière mise à jour le 2025/12/16 (UTC).

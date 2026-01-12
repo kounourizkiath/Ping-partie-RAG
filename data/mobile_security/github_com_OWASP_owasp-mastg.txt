@@ -1,0 +1,34 @@
+Source: https://github.com/OWASP/owasp-mastg
+Scraped: 2025-12-22 20:55:22
+================================================================================
+
+There was an error while loading.
+Please reload this page
+You must be signed in to change notification settings
+The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.
+You must be signed in to change notification settings
+Open more actions menu
+.markdownlinkcheck.json
+.markdownlinkcheck.json
+.markdownlint-cli2.jsonc
+.markdownlint-cli2.jsonc
+Repository files navigation
+OWASP Mobile Application Security Testing Guide (MASTG)
+OWASP Mobile Application Security Testing Guide (MASTG)
+is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the
+OWASP Mobile Security Weakness Enumeration (MASWE)
+weaknesses, which are in alignment with the controls listed in the
+OWASP Mobile Application Verification Standard (MASVS)
+Get the latest Mobile App Security Checklists
+Play with our Crackmes
+The OWASP MASVS, MASWE and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions.
+MAS Advocates are industry adopters of the OWASP MASVS, MASWE and MASTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word.
+The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.
+There was an error while loading.
+Please reload this page
+There was an error while loading.
+Please reload this page
+https://mas.owasp.org/donate/how_to_donate/
+There was an error while loading.
+Please reload this page
+You can’t perform that action at this time.

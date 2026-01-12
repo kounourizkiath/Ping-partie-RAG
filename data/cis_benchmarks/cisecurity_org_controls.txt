@@ -1,0 +1,37 @@
+Source: https://www.cisecurity.org/controls
+Scraped: 2025-12-22 20:50:43
+================================================================================
+
+CIS Critical Security Controls
+CIS Critical Security Controls®
+Follow our prioritized set of actions to protect your organization and data from cyber-attack vectors.
+Explore CIS Controls v8.1
+CIS Controls® at a Glance
+The CIS Critical Security Controls (CIS Controls) are a prescriptive, prioritized, and simplified set of best practices that you can use to strengthen your cybersecurity posture. Today, thousands of cybersecurity practitioners from around the world use the CIS Controls and/or contribute to their development via a community consensus process.
+With the CIS Controls, You Can...
+Simplify Your Approach to Threat Protection
+The CIS Controls consist of Safeguards that each require you to do one thing. This simplified cybersecurity approach is proven to help you defend against today's top threats. Learn more in our
+CIS Community Defense Model v2.0
+Comply with Industry Regulations
+By implementing the CIS Controls, you create an on-ramp to comply with PCI DSS, HIPAA, GDPR, and other industry regulations. View our
+Mapping and Compliance page
+for more information.
+Achieve Essential Cyber Hygiene
+Almost all successful cyber attacks exploit “poor cyber hygiene” like unpatched software, poor configuration management, and outdated solutions. The CIS Controls include foundational security measures that you can use to achieve essential hygiene and protect yourself against a cyber attack.
+Translate Information into Action
+Modern systems and software are dynamic in nature. By enacting the CIS Controls, you support your assets' evolving needs in a meaningful way and align your security efforts with your business goals.
+Multiple U.S. States require executive branch agencies and other government entities to implement cybersecurity best practices. Several of them specifically mention the CIS Controls as a way of demonstrating a "reasonable" level of security.
+We use the CIS Controls to help our clients achieve compliance with state and federal cybersecurity regulations. The CIS 18 are prioritized, easy to understand, and extremely cost-effective for small to mid-size organizations looking to prove they are secure enough to do business in today’s marketplace. I highly recommend starting with CIS in building your cybersecurity program.
+Managing Partner - The Long Law Firm, PLLC
+Get the Latest Version of the CIS Controls Today!
+CIS Controls v8.1 help you keep on top of your evolving workplace, the technology you need to support it, and the threats confronting those systems. It places specific emphasis on moving to a hybrid or fully cloud environment and managing security across your supply chain.
+Download CIS Controls v8.1
+Looking for a Previous Version?
+CIS Controls v8 along with supporting tools and resources are
+available for download.
+CIS Controls v7.1 along with supporting tools and resources are
+available for download
+CIS Controls v8.1 provides backwards compatibility with previous versions and a migration path for users of prior versions to move to v8.1.
+Secure by Design: A Guide to Assessing Software Security Practices
+CIS RAM (Risk Assessment Method)
+Control Assist: A Path to Cyber Insurance Readiness for SMBs
